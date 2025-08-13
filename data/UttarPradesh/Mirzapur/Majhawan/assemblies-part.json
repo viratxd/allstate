@@ -1,0 +1,1770 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P. S. NARAYANPUR SECOND ROOM-1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P. S. NARAYANPUR SECOND  ROOM-2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P. S. NARAYANPUR ROOM-1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P. S. NARAYANPUR ROOM-2"
+  },
+  {
+    "partNumber": 5,
+    "partName": "COMPOSITE SCHOOL JAMUA ROOM-1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "COMPOSITE SCHOOL JAMUA ROOM-2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE SCHOOL JAMUA ROOM-3"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P. PATHSHALA. KOHADIYA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P. PATHSHALA. HEERAPUR"
+  },
+  {
+    "partNumber": 10,
+    "partName": "COMPOSITE SCHOOL JAMUA STHIT GORAHI ROOM-1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "COMPOSITE SCHOOL JAMUA STHIT GORAHI ROOM-2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P. S. DUNAI ROOM-1"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P. S. DUNAI ROOM-2"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P. S. GOTAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P. S. GOTAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P. S. GOTAWAN ROOM N0-3"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P. S. GOTAWAN ROOM N0-4"
+  },
+  {
+    "partNumber": 18,
+    "partName": "U.P.S. BANDHAWA STHIT AAHI ROOM N0-1"
+  },
+  {
+    "partNumber": 19,
+    "partName": "U.P.S. BANDHAWA STHIT AAHI ROOM N0-2"
+  },
+  {
+    "partNumber": 20,
+    "partName": "U.P.S. BANDHAWA STHIT AAHI ROOM N0-3"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. AAHI ROOM N0-1"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S. AAHI ROOM N0-2"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P. S. TIWARI KA PURA STHIT AAHI ROOM N0-1"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P. S. TIWARI KA PURA STHIT AAHI ROOM N0-2"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE SCHOOL LARAVAK ROOM N0-1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSITE SCHOOL LARAVAK ROOM N0-2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P. S. DIYAW ROOM N0-1"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P. S. DIYAW ROOM N0-2"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P. S. DIYAW ROOM N0-3"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P. S. KALYANPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P. S. KALYANPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "COMPOSITE SCHOOL VYASPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 33,
+    "partName": "COMPOSITE SCHOOL VYASPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P. S. CHAKIYA ROOM N0-1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P. S. CHAKIYA ROOM N0-2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P. S. NIGATPUR"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P. S. GODHANA FIRST"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE SCHOOL GODHANA ROOM N0-1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE SCHOOL GODHANA ROOM N0-2"
+  },
+  {
+    "partNumber": 40,
+    "partName": "COMPOSITE SCHOOL GODHANA ROOM N0-3"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.S. DAMODARPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P. S. CHAKCHARIYA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE SCHOOL CHARIYA ROOM N0-1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "COMPOSITE SCHOOL CHARIYA ROOM N0-2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P. S. MAJHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P. S. MAJHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P. S. MAJHAWAN ROOM N0-3"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P. S. MAJHAWAN SECOND"
+  },
+  {
+    "partNumber": 49,
+    "partName": "U.P.S. MAJHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 50,
+    "partName": "U.P.S. MAJHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 51,
+    "partName": "U.P.S. MAJHAWAN ROOM N0-3"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P. S. HARDARA"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S. MITAIKHAS ROOM N0-1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S. MITAIKHAS ROOM N0-2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "COMPOSITE SCHOOL TULAPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 56,
+    "partName": "COMPOSITE SCHOOL TULAPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. ANANTPUR"
+  },
+  {
+    "partNumber": 58,
+    "partName": "SAMUDAYIK KENDRA JALALPUR"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S. JALALPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S. JALALPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 61,
+    "partName": "COMPOSITE SCHOOL SAVESAR ROOM N0-1"
+  },
+  {
+    "partNumber": 62,
+    "partName": "COMPOSITE SCHOOL SAVESAR ROOM N0-2"
+  },
+  {
+    "partNumber": 63,
+    "partName": "COMPOSITE SCHOOL SAVESAR ROOM N0-3"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0-1"
+  },
+  {
+    "partNumber": 65,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0-2"
+  },
+  {
+    "partNumber": 66,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0-3"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0-4"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0-5"
+  },
+  {
+    "partNumber": 69,
+    "partName": "COMPOSITE SCHOOL BAJAHAN ROOM N0- 6"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.S. BAJARADIHA ROOM N0-1"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P.S. BAJARADIHA ROOM N0-2"
+  },
+  {
+    "partNumber": 72,
+    "partName": "COMPOSITE SCHOOL RAMAPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "COMPOSITE SCHOOL RAMAPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSITE SCHOOL RAMAPUR ROOM N0-3"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S. BARAPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.S. BARAPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. SARAVAN ROOM N0-1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.S. SARAVAN ROOM N0-2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "COMPOSITE SCHOOL TIWARIPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "COMPOSITE SCHOOL TIWARIPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.S. PANDERI"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.S. GOWARDHANPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S. BHAINSA ROOM N0-1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.S. BHAINSA ROOM N0-2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S. BHAINSA ROOM N0-3"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P. M. KANYA S. BHAINSA ROOM N0-1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P. M. KANYA S. BHAINSA ROOM N0-2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S. JAMUARI ROOM N0-1"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S. JAMUARI ROOM N0-2"
+  },
+  {
+    "partNumber": 90,
+    "partName": "COMPOSITE SCHOOL KACHHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 91,
+    "partName": "COMPOSITE SCHOOL KACHHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "SWAMI ARAGARANAND MAHILA MAHAVIDAYALAY KACHHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "SWAMI ARAGARANAND MAHILA MAHAVIDAYALAY KACHHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "SHRI GANDHI  INTER COLLEGE KACHHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "SHRI GANDHI  INTER COLLEGE KACHHAWAN ROOM N0-1 KACHHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "SHRI GANDHI  INTER COLLEGE KACHHAWAN ROOM N0-1 ROOM N0-3"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PANDIT RAMKINKAR UPADHYAY PUBLIC SCHOOL KACHHAWAN"
+  },
+  {
+    "partNumber": 98,
+    "partName": "GOVERNMENT BALIKA INTER COLLEGE KACHHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 99,
+    "partName": "GOVERNMENT BALIKA INTER COLLEGE KACHHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 100,
+    "partName": "COMPOSITE SCHOOL  KACHHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "COMPOSITE SCHOOL KACHHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 102,
+    "partName": "COMPOSITE SCHOOL KACHHAWAN ROOM N0-3"
+  },
+  {
+    "partNumber": 103,
+    "partName": "COMPOSITE SCHOOL KACHHAWAN ROOM N0-4"
+  },
+  {
+    "partNumber": 104,
+    "partName": "SANSKRIT PATHSHALA. BARAINI ROOM N0-1"
+  },
+  {
+    "partNumber": 105,
+    "partName": "SANSKRIT PATHSHALA BARAINI ROOM N0-2"
+  },
+  {
+    "partNumber": 106,
+    "partName": "SANSKRIT PATHSHALA. BARAINI ROOM N0-3"
+  },
+  {
+    "partNumber": 107,
+    "partName": "U.P.S. BARAINI ROOM N0-1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "U.P.S. BARAINI ROOM N0-2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S. BARAINI ROOM N0-1"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S. BARAINI ROOM N0-2"
+  },
+  {
+    "partNumber": 111,
+    "partName": "COMPOSITE SCHOOL KANAKASARAY ROOM N0-1"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE SCHOOL KANAKASARAY ROOM N0-2"
+  },
+  {
+    "partNumber": 113,
+    "partName": "COMPOSITE SCHOOL KANAKASARAY ROOM N0-3"
+  },
+  {
+    "partNumber": 114,
+    "partName": "M. S. K. UPKENDRA SEMARI"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S. CHADARAHA STHIT SEMARI ROOM N0-1"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S. CHADARAHA STHIT SEMARI ROOM N0-2"
+  },
+  {
+    "partNumber": 117,
+    "partName": "COMPOSITE SCHOOL SEMARI ROOM N0-1"
+  },
+  {
+    "partNumber": 118,
+    "partName": "COMPOSITE SCHOOL SEMARI ROOM N0-2"
+  },
+  {
+    "partNumber": 119,
+    "partName": "COMPOSITE SCHOOL SEMARI ROOM N0-3"
+  },
+  {
+    "partNumber": 120,
+    "partName": "COMPOSITE SCHOOL KARSARA ROOM N0-1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "COMPOSITE SCHOOL KARSARA ROOM N0-2"
+  },
+  {
+    "partNumber": 122,
+    "partName": "COMPOSITE SCHOOL KARSARA ROOM N0-3"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. RAMCHANDARPUR"
+  },
+  {
+    "partNumber": 124,
+    "partName": "KANYA P.S. AKHTIYARPUR"
+  },
+  {
+    "partNumber": 125,
+    "partName": "U.P.S. KEVATAVEER ROOM N0-1"
+  },
+  {
+    "partNumber": 126,
+    "partName": "U.P.S. KEVATAVEER ROOM N0-2"
+  },
+  {
+    "partNumber": 127,
+    "partName": "U.P.S. KEVATAVEER ROOM N0-3"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.S. PIPARIYA STHIT MAHAMALPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.S. MAHAMALPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.S. MAHAMALPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 131,
+    "partName": "U.P.S. MAHAMALPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "U.P.S. MAHAMALPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 133,
+    "partName": "COMPOSITE SCHOOL KATAKA ROOM N0-1"
+  },
+  {
+    "partNumber": 134,
+    "partName": "COMPOSITE SCHOOL KATAKA ROOM N0-2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S. KATAKA ROOM N0-1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.S. KATAKA ROOM N0-2"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.S. GARAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S. GARAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "J.H.S. GARAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 140,
+    "partName": "J.H.S. GARAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 141,
+    "partName": "J.H.S. GARAULI ROOM N0-3"
+  },
+  {
+    "partNumber": 142,
+    "partName": "KANYA P.S. GARAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 143,
+    "partName": "KANYA P.S. GARAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S. GAHARAWARI"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S. SHIVRANI "
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S. MATIYARI"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S. MAHANANDPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S. MAHANANDPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.S. JAUSARA"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S. BHATAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S. BHATAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S. DILMAN DEVRIYA"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S. CHAPAUR KALA"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. MAJHAGAWAN"
+  },
+  {
+    "partNumber": 155,
+    "partName": "COMPOSITE SCHOOL LEDU ROOM NO-1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "COMPOSITE SCHOOL LEDU ROOM NO-2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S. SARAIYA"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. PATHARA DASAUDHI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "JANATA U.M.S. GURUSANDI"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S. PARWA RAJDHAR "
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.S. PACHER MISHRA"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.S. SINAHAR DIXIT"
+  },
+  {
+    "partNumber": 163,
+    "partName": "U.P.S. SINHAR KALA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.S. BARAULI"
+  },
+  {
+    "partNumber": 165,
+    "partName": "COMPOSITE SCHOOL RAMCHANDARPUR"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S. VISHWANATHPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S. MAVAIYA"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.S. SANDAWA ROOM N0-1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S. SANDAWA ROOM N0-2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "COMPOSIT SCHOOL JIWATI ROOM N0-1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "COMPOSIT SCHOOL JIWATI ROOM N0-2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "U.P.S. BEDAULI KHURD ROOM N0-1"
+  },
+  {
+    "partNumber": 173,
+    "partName": "U.P.S. BEDAULI KHURD ROOM N0-2"
+  },
+  {
+    "partNumber": 174,
+    "partName": "U.P.S. BEDAULI KHURD ROOM N0-3"
+  },
+  {
+    "partNumber": 175,
+    "partName": "COMPOSITE SCHOOL MASARI ROOM N0-1"
+  },
+  {
+    "partNumber": 176,
+    "partName": " COMPOSITE SCHOOL MASARI ROOM N0-2"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PANCHAYAT BHAWAN MASARI"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.S. LACHACHHAPATTI ROOM N0-1"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S. LACHACHHAPATTI ROOM N0-2"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. KIRATAR TARA"
+  },
+  {
+    "partNumber": 181,
+    "partName": "SAMUDAYIK BHAWAN  ANANTRAMPATTI"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE SCHOOL DHANI PATTI ROOM N0-1"
+  },
+  {
+    "partNumber": 183,
+    "partName": "COMPOSITE SCHOOL  DHANI PATTI ROOM N0-2"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PNACHAYAT BHAWAN ANANTRAM PATTI"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S. ARJUNPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. ARJUNPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. ARJUNPUR ROOM N0-3"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S. ARJUNPUR ROOM N0-4"
+  },
+  {
+    "partNumber": 189,
+    "partName": "COMPOSITE SCHOOL AGHAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "COMPOSITE SCHOOL AGHAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 191,
+    "partName": "COMPOSITE SCHOOL LAHAULI MISHRA ROOM N0-1"
+  },
+  {
+    "partNumber": 192,
+    "partName": "COMPOSITE SCHOOL LAHAULI MISHRA ROOM N0-2"
+  },
+  {
+    "partNumber": 193,
+    "partName": "COMPOSITE SCHOOL BEERASHAHAPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "COMPOSITE SCHOOL BEERASHAHAPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.S. BHUILI PANDEY"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.S. INDIPARVATPUR"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.S. KHARHARA ROOM N0-1"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.S. KHARHARA ROOM N0-2"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.S. KHARHARA ROOM N0-3"
+  },
+  {
+    "partNumber": 200,
+    "partName": "COMPOSITE SCHOOL (BELVARIYA) KURKUTHIYA PANDEY"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. MALAI KA PURA STHIT AKASAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. MALAI KA PURA STHIT AKASAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. AKASAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.S. AKASAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSITE SCHOOL MAHEVA"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. DUNAIYA PANDEY"
+  },
+  {
+    "partNumber": 207,
+    "partName": "COMPOSITE SCHOOL KHAJURI ROOM N0-1"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE SCHOOL KHAJURI ROOM N0-2"
+  },
+  {
+    "partNumber": 209,
+    "partName": "P.S. CHAUHAN PATTI ROOM N0-1"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S. CHAUHAN PATTI ROOM N0-2"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S. KAKARAHA"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.S. MADHOPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.S. MADHOPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.S. BHAGESAR ROOM N0-1"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P.S. BHAGESAR ROOM N0-2"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P.S. RANI CHAUKIYA U.PA. NAYA BHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.S. RANI CHAUKIYA U.PA. NAYA BHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "U.P.S. CHHATAHAN ROOM N0-1"
+  },
+  {
+    "partNumber": 219,
+    "partName": "U.P.S. CHHATAHAN ROOM N0-2"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S. DHARAMDEVA ROOM N0-1"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. DHARAMDEVA ROOM N0-2"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S. SIKARI ROOM N0-1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S. SIKARI ROOM N0-2"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S. SIKARI ROOM N0-3"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR ROOM N0-1"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR ROOM N0-2"
+  },
+  {
+    "partNumber": 227,
+    "partName": "COMPOSITE SCHOOL AMIRATI"
+  },
+  {
+    "partNumber": 228,
+    "partName": "COMPOSITE SCHOOL KANAURA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S. DEWAHI ROOM N0-1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. DEWAHI ROOM N0-2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "COMPOSITE SCHOOL NANHUPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 232,
+    "partName": "COMPOSITE SCHOOL NANHUPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE SCHOOL MEULI ROOM N0-1"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSITE SCHOOL MEULI ROOM N0-2"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S. GANGAUAT"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S. LAKHAULI"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.S. JIGNAURI "
+  },
+  {
+    "partNumber": 238,
+    "partName": "P.S. SHIUARA"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.S. KOLHAD"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.S. KHUTAHANMAUNAS ROOM N0-1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S. KHUTAHANMAUNAS ROOM N0-2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "COMPOSITE SCHOOL NAUHAN ROOM NO -1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "COMPOSITE SCHOOL NAUHAN ROOM NO-2"
+  },
+  {
+    "partNumber": 244,
+    "partName": "U.P.S. NEVADIYA GHAT ROOM N0-1"
+  },
+  {
+    "partNumber": 245,
+    "partName": "U.P.S. NEVADIYA GHAT ROOM N0-2"
+  },
+  {
+    "partNumber": 246,
+    "partName": "U.P.S. NEVADIYA GHAT ROOM N0-3"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S. AKHANPURA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S. BIHARI"
+  },
+  {
+    "partNumber": 249,
+    "partName": "COMPOSITE SCHOOL BAISUKIYA STHIT SEMARA BELAUHAN ROOM N0-1"
+  },
+  {
+    "partNumber": 250,
+    "partName": "COMPOSITE SCHOOL BAISUKIYA STHIT SEMARA BELAUHAN ROOM N0-2"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.S. KUSHAHAN"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.S. DUBANI"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S. PIPARWAN STHIT PIPARADAD ROOM N0-1"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.S. PIPARADAD ROOM N0-1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S. PIPARADAD ROOM N0-2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S. VIJAYPURA ROOM N0-1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P.S. VIJAYPURA ROOM N0-2"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.S. DHAURUPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. DHAURUPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSITE SCHOOL KATARAN"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.S. BARAJIMUKUNDPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.S. BARAJIMUKUNDPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.S. DHOBAHI ROOM N0-1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S. DHOBAHI ROOM N0-2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. ARJUNPUR PATHAK"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S. TENGRAHI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. CHAPAGAHANA ROOM N0-1"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. CHAPAGAHANA ROOM N0-2"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S. DEVAPURA PATKHAULI"
+  },
+  {
+    "partNumber": 270,
+    "partName": "COMPOSITE SCHOOL BAUDARI"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.S. HURUA ROOM N0-1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. HURUA ROOM N0-2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "COMPOSITE SCHOOL DEVARI ROOM N0-1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "COMPOSITE SCHOOL DEVARI ROOM N0-2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.S. BHAWAN KA PURA STHIT DEVARI"
+  },
+  {
+    "partNumber": 276,
+    "partName": "COMPOSITE SCHOOL AGHAWAR ROOM N0-1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE SCHOOL AGHAWAR ROOM N0-2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "COMPOSITE SCHOOL MULHAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSITE SCHOOL MULHAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.S. MADANPUR"
+  },
+  {
+    "partNumber": 281,
+    "partName": "COMPOSITE SCHOOL GOPALPUR"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S. GAURA RAJA ROOM N0-1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.S. GAURA RAJA ROOM N0-2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.S. SURYAWAR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S. KOTAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. KOTAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S. NEVADIYA ROOM N0-1"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P.S. NEVADIYA ROOM N0-2"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S. MOHANPUR BHAVARAKH ROOM N0-1"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P.S. MOHANPUR BHAVARAKH ROOM N0-2"
+  },
+  {
+    "partNumber": 291,
+    "partName": "COMPOSITE SCHOOL PAHARI BHOJPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 292,
+    "partName": "COMPOSITE SCHOOL PAHARI BHOJPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 293,
+    "partName": "U.P.S. TOSAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "U.P.S. TOSAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.S. TIGORA-FIRST STHIT LOKAPUR"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S. UMARIYA"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S. DUBEYPUR BASARI"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S. TIGORA-SECOND"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.S. BHARPURA ROOM N0-1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P.S. BHARPURA ROOM N0-2"
+  },
+  {
+    "partNumber": 301,
+    "partName": "U.P.S. BHARPURA ROOM N0-1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "U.P.S. BHARPURA ROOM N0-2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S. CHENDULI"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.S. DASHWANT SINGH KA PURA"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.S. KHARHARA RAJA"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.S. NAKATI MISHRAULI"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.S. GAHIRA"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P.S. BIROHIYA"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P.S. UKHADAND"
+  },
+  {
+    "partNumber": 310,
+    "partName": "U.P.S. BELAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 311,
+    "partName": "U.P.S. BELAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P.S. BELAWAN ROOM N0-1"
+  },
+  {
+    "partNumber": 313,
+    "partName": "P.S. BELAWAN ROOM N0-2"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.S.CHANDRIKA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P.S. PADARI ROOM N0-1"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.S. PADARI ROOM N0-2"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S. PADARI ROOM N0-3"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S. TAUNGA"
+  },
+  {
+    "partNumber": 319,
+    "partName": "U.P.S. PUTRIHAN "
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.S. KAPSAUR"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.S. HINAUTI SHIVGARH SECOND ROOM N0-1"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.S. HINAUTI SHIVGARH SECOND"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.S. GURKHULI"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S. HINAUTI PARASANPUR"
+  },
+  {
+    "partNumber": 325,
+    "partName": "U.P.S. PATHARAHA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "P.S. KATHINAI ROOM N0-1"
+  },
+  {
+    "partNumber": 327,
+    "partName": "P.S. KATHINAI ROOM N0-2"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P.S. NEVADIYA(SHIVGARH)"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.S. SINDHORA ROOM N0-1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S. SINDHORA ROOM N0-2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.S. SARAIYA KAMARGHATA"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S. PASAIYA DAGMAGPUR "
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S. SAGAR SEMAR"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.S. CHANDLEVA KALA "
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.S. JARHA MAHARAURI"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.S. JARHA NAI BASTI"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.S. SHISHTA KHURD"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S. SIDDHI "
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.S. THANAPUR"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P.S. PACHOKHARA KALA"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.S. MAHUARI ROOM N0-1"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.S. MAHUARI ROOM N0-2"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.S. PAHITI"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.S. RAIKASHA KALA"
+  },
+  {
+    "partNumber": 345,
+    "partName": "U.P.S. DARIRAM ROOM N0-1"
+  },
+  {
+    "partNumber": 346,
+    "partName": "U.P.S. DARIRAM ROOM N0-2"
+  },
+  {
+    "partNumber": 347,
+    "partName": "U.P.S. DARIRAM ROOM N0-3"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. SUKHANAI"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S. LAURIYA"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S. UMARIYA AYODHYAYA PRASAD"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S. BARAKACHHA KALA ROOM N0-1"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P.S. BARAKACHHA KALA ROOM N0-2"
+  },
+  {
+    "partNumber": 353,
+    "partName": "P.S. BARAKACHHA KALA ROOM N0-3"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S. BARAKACHHA KALA ROOM N0-4"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P.S. BARAKACHHA KHURD"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.S. CHHITPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.S. CHHITPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 358,
+    "partName": "P.S. DANTI ROOM N0-1"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S. DANTI ROOM N0-2"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S. DANTI ROOM N0-3"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.S. DUBARA PAHARI ROOM N0-1"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S. DUBARA PAHARI ROOM N0-2"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.S. DUBARA PAHARI ROOM N0-3"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P.S. HARRAI"
+  },
+  {
+    "partNumber": 365,
+    "partName": "COMPOSITE SCHOOL ARAGAJA PANDEYPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "COMPOSITE SCHOOL ARAGAJA PANDEYPUR ROOM N0-2"
+  },
+  {
+    "partNumber": 367,
+    "partName": "COMPOSITE SCHOOL MAGARDA KALA "
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. MAHUARI KALA FIRST ROOM N0-1"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.S. MAHUARI KALA FIRST ROOM N0-2"
+  },
+  {
+    "partNumber": 370,
+    "partName": "COMPOSITE SCHOOL MAHUARI KALA SECOND ROOM N0-1"
+  },
+  {
+    "partNumber": 371,
+    "partName": "COMPOSITE SCHOOL MAHUARI KALA SECOND ROOM N0-2"
+  },
+  {
+    "partNumber": 372,
+    "partName": "P.S. AMARAWATI ROOM N0-1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "P.S. AMARAWATI ROOM N0-2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "COMPOSITE SCHOOL PADARA HANUMAN ROOM N0-1"
+  },
+  {
+    "partNumber": 375,
+    "partName": "COMPOSITE SCHOOL PADARA HANUMAN ROOM N0-2"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S. PADARA MAUNAS"
+  },
+  {
+    "partNumber": 377,
+    "partName": "P.S. BEERMAUAA ROOM N0-1"
+  },
+  {
+    "partNumber": 378,
+    "partName": "P.S. BEERMAUAA ROOM N0-2"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE SCHOOL NUAW ROOM N0-1"
+  },
+  {
+    "partNumber": 380,
+    "partName": "COMPOSITE SCHOOL NUAW ROOM N0-2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "COMPOSITE SCHOOL BEDAULI ROOM N0-1"
+  },
+  {
+    "partNumber": 382,
+    "partName": "COMPOSITE SCHOOL BEDAULI ROOM N0-2"
+  },
+  {
+    "partNumber": 383,
+    "partName": "COMPOSITE SCHOOL  DULLAHPUR"
+  },
+  {
+    "partNumber": 384,
+    "partName": "COMPOSITE SCHOOL CHERUI RAM ROOM NO-1"
+  },
+  {
+    "partNumber": 385,
+    "partName": "COMPOSITE SCHOOL CHERUI RAM ROOM NO-2"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S. DEVAPUR PACHAWAL ROOM NO-1"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S. DEVAPUR PACHAWAL ROOM NO-2"
+  },
+  {
+    "partNumber": 388,
+    "partName": "P.S. RAJPUR SECOND ROOM NO-1"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P.S. RAJPUR SECOND ROOM NO-2"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S. JAYAPUR"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S. LAHAULI GAUTAM"
+  },
+  {
+    "partNumber": 392,
+    "partName": "COMPOSITE SCHOOL BHEVAR KARAMANPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 393,
+    "partName": "COMPOSITE SCHOOL BHEVAR KARAMANPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S. CHINDLIKH GAHARAWAR"
+  },
+  {
+    "partNumber": 395,
+    "partName": "COMPOSITE SCHOOL SHAHPUR CHAUSA ROOM NO-1"
+  },
+  {
+    "partNumber": 396,
+    "partName": "COMPOSITE SCHOOL SHAHPUR CHAUSA ROOM NO-2"
+  },
+  {
+    "partNumber": 397,
+    "partName": "COMPOSITE SCHOOL SHAHPUR CHAUSA ROOM NO-3"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P.S. BHISKURI ROOM NO-1"
+  },
+  {
+    "partNumber": 399,
+    "partName": "P.S. BHISKURI ROOM NO-2"
+  },
+  {
+    "partNumber": 400,
+    "partName": "P.S. INDARPUR"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S. PAHARI ROOM NO-1"
+  },
+  {
+    "partNumber": 402,
+    "partName": "P.S. PAHARI ROOM NO-2"
+  },
+  {
+    "partNumber": 403,
+    "partName": "P.S. PAHARI ROOM NO-3"
+  },
+  {
+    "partNumber": 404,
+    "partName": "COMPOSITE SCHOOL JASOWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 405,
+    "partName": "COMPOSITE SCHOOL JASOWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 406,
+    "partName": "COMPOSITE SCHOOL NAKAHARA STHIT DEVKHARA ROOM NO-1"
+  },
+  {
+    "partNumber": 407,
+    "partName": "COMPOSITE SCHOOL NAKAHARA STHIT DEVKHARA ROOM NO-2"
+  },
+  {
+    "partNumber": 408,
+    "partName": "COMPOSITE SCHOOL NAKAHARA STHIT DEVKHARA ROOM NO-3"
+  },
+  {
+    "partNumber": 409,
+    "partName": "COMPOSITE SCHOOL SIRASI GAHARWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 410,
+    "partName": "COMPOSITE SCHOOL SIRASI GAHARWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 411,
+    "partName": "P.S. AMOI ROOM NO-1"
+  },
+  {
+    "partNumber": 412,
+    "partName": "P.S. AMOI ROOM NO-2"
+  },
+  {
+    "partNumber": 413,
+    "partName": "P.S. TERAVA"
+  },
+  {
+    "partNumber": 414,
+    "partName": "COMPOSITE SCHOOL VEERPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 415,
+    "partName": "COMPOSITE SCHOOL VEERPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 416,
+    "partName": "P.S. ETAWA"
+  },
+  {
+    "partNumber": 417,
+    "partName": "COMPOSITE SCHOOL SADIBANKAT"
+  },
+  {
+    "partNumber": 418,
+    "partName": "P.S. BIKANA ROOM NO-1"
+  },
+  {
+    "partNumber": 419,
+    "partName": "P.S. BIKANA ROOM NO-2"
+  },
+  {
+    "partNumber": 420,
+    "partName": "PANCHAYAT BHAWAN LOHANDI KALA VIKAS KHAND CITY\t"
+  },
+  {
+    "partNumber": 421,
+    "partName": "Office Uttar Pradesh State Rural Livelihood Development ,Block City Lohandi kala"
+  },
+  {
+    "partNumber": 422,
+    "partName": "VIKAS KHAND CITY KARYALAY BHAWAN SABHAKAKSHA LOHADI KALA ROOM NO-1"
+  },
+  {
+    "partNumber": 423,
+    "partName": "VIKAS KHAND CITY KARYALAY BHAWAN SABHAKAKSHA LOHADI KALA ROOM NO-2"
+  },
+  {
+    "partNumber": 424,
+    "partName": "ANAND CHARAN BANARJI J.H. SCHOOL CHANDAIPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 425,
+    "partName": "ANAND CHARAN BANARJI J.H. SCHOOL CHANDAIPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 426,
+    "partName": "P.S. CHANDAIPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 427,
+    "partName": "P.S. CHANDAIPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 428,
+    "partName": "PANCHAYAT BHAWAN SIRSI BAGHEL"
+  },
+  {
+    "partNumber": 429,
+    "partName": "P.S. CHINTAMANPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 430,
+    "partName": "P.S. CHINTAMANPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 431,
+    "partName": "COMPOSITE SCHOOL DUHAUWA"
+  },
+  {
+    "partNumber": 432,
+    "partName": "P.S. RANIBARI STHIT RAJAPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 433,
+    "partName": "P.S. RANIBARI STHIT RAJAPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 434,
+    "partName": "P.S. GOPALPUR"
+  },
+  {
+    "partNumber": 435,
+    "partName": "COMPOSITE SCHOOL BHORASAR ROOM NO-1"
+  },
+  {
+    "partNumber": 436,
+    "partName": "COMPOSITE SCHOOL BHORASAR ROOM NO-2"
+  },
+  {
+    "partNumber": 437,
+    "partName": "PANCHAYAT BHAWAN BHORASAR"
+  },
+  {
+    "partNumber": 438,
+    "partName": "P.S. TAND ROOM NO-1"
+  },
+  {
+    "partNumber": 439,
+    "partName": "P.S. TAND ROOM NO-2"
+  },
+  {
+    "partNumber": 440,
+    "partName": "P.S. SAMOGARA "
+  },
+  {
+    "partNumber": 441,
+    "partName": "P.S. AHAMALPUR "
+  },
+  {
+    "partNumber": 442,
+    "partName": "P.S. KARANPUR"
+  }
+]

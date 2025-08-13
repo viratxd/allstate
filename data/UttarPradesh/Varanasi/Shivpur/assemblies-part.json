@@ -1,0 +1,1470 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "COMPOSIT VIDYALAYA SARSAWA R.NO.1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "COMPOSIT VIDYALAYA SARSAWA R.NO.2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "COMPOSIT VIDYALAYA SARSAWA R.NO.3"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRATHMIK VIDYALAYA LODHAN R.NO.1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRATHMIK VIDYALAYA LODHAN R.NO.2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRATHMIK VIDYALAYA KANUDIH R.NO.1"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRATHMIK VIDYALAYA KANUDIH R.NO.- 2"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRATHMIK VIDYALAYA DANDUPUR R.NO 1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRATHMIK VIDYALAYA DANDUPUR R.NO 2"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRATHMIK VIDYALAYA GANESHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRATHMIK VIDYALAYA GANESHPUR R.NO.- 2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRATHMIK VIDYALAYA HOLAPUR R.NO.-1"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRATHMIK VIDYALAYA HOLAPUR R.NO.-2"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PURVA MADHYAMIK VIDYALAYA CHUPPEYPUR DEHAT R.NO.-1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PURVA MADHYAMIK VIDYALAYA CHUPPEYPUR DEHAT R.NO.-2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PURVA MADHYAMIK VIDYALAYA CHUPPEYPUR DEHAT R.NO.-3"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PURVA MADHYAMIK VIDYALAYA CHUPPEYPUR DEHAT R.NO.-4"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRATHMIK VIDYALAYA BANSDEOPUR"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRATHMIK VIDYALAYA HATIYA R.NO.- 1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRATHMIK VIDYALAYA HATIYA R.NO.- 2"
+  },
+  {
+    "partNumber": 21,
+    "partName": "BASIC PRATHMIK VIDYALAYA PISAUR R.NO.- 1"
+  },
+  {
+    "partNumber": 22,
+    "partName": "BASIC PRATHMIK VIDYALAYA PISAUR R.NO.- 2"
+  },
+  {
+    "partNumber": 23,
+    "partName": "BASIC PRATHMIK VIDYALAYA PISAUR R.NO.- 3"
+  },
+  {
+    "partNumber": 24,
+    "partName": "PRATHMIK VIDYALAYA BHAWANIPUR R.NO.- 1"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRATHMIK VIDYALAYA BHAWANIPUR R.NO.- 2"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRATHMIK VIDYALAYA BHAWANIPUR R.NO.- 3"
+  },
+  {
+    "partNumber": 27,
+    "partName": "NANDGHAR BHAWANIPUR"
+  },
+  {
+    "partNumber": 28,
+    "partName": "COMPOSIT VIDYALAYA DANIYALPUR R.NO.-1"
+  },
+  {
+    "partNumber": 29,
+    "partName": "COMPOSIT VIDYALAYA DANIYALPUR R.NO.-2"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRATHMIK VIDYALAYA AIRHEY R.NO.-1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRATHMIK VIDYALAYA AIRHEY R.NO.-2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "JILA GRAMYA VIKAS SANSTHAN PARMANANDPUR R.NO.-1"
+  },
+  {
+    "partNumber": 33,
+    "partName": "JILA GRAMYA VIKAS SANSTHAN PARMANANDPUR R.NO.-2"
+  },
+  {
+    "partNumber": 34,
+    "partName": "JILA GRAMYA VIKAS SANSTHAN PARMANANDPUR R.NO.-3"
+  },
+  {
+    "partNumber": 35,
+    "partName": "SRI RAMESHWAR MAHADEV INTER COLLAGE CHANDMARI R.NO.1"
+  },
+  {
+    "partNumber": 36,
+    "partName": "SRI RAMESHWAR MAHADEV INTER COLLAGE CHANDMARI R.NO.2"
+  },
+  {
+    "partNumber": 37,
+    "partName": "SRI RAMESHWAR MAHADEV INTER COLLAGE CHANDMARI R.NO.3"
+  },
+  {
+    "partNumber": 38,
+    "partName": "SRI RAMESHWAR MAHADEV INTER COLLAGE CHANDMARI R.NO.4"
+  },
+  {
+    "partNumber": 39,
+    "partName": "SRI RAMESHWAR MAHADEV INTER COLLAGE CHANDMARI R.NO.5"
+  },
+  {
+    "partNumber": 40,
+    "partName": "UMA PUBLIC SCHOOL LALPUR MIRAPUR BASAHI R. NO.1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "UMA PUBLIC SCHOOL LALPUR MIRAPUR BASAHI R. NO.2"
+  },
+  {
+    "partNumber": 42,
+    "partName": "UMA PUBLIC SCHOOL LALPUR MIRAPUR BASAHI R. NO.3"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRATHMIK VIDYALAYA RAMDUTTAPUR (HASIMPUR) R.NO. 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRATHMIK VIDYALAYA RAMDUTTAPUR (HASIMPUR) R.NO. 2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRATHMIK VIDYALAYA RAMDUTTAPUR (HASIMPUR) R.NO. 3"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PURVA MADHYAMIK VIDYALAYA  RAMDUTTAPUR R.NO. 1"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PURVA MADHYAMIK VIDYALAYA  RAMDUTTAPUR R.NO. 2"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRATHMIK VIDYALAYA SOYEPUR R.NO.-1"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRATHMIK VIDYALAYA SOYEPUR R.NO.-2"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRATHMIK VIDYALAYA SOYEPUR R.NO.-3"
+  },
+  {
+    "partNumber": 51,
+    "partName": "KANYA PURVA MADHYAMIK VIDYALAYA MADHAWA R.NO.-1"
+  },
+  {
+    "partNumber": 52,
+    "partName": "KANYA PURVA MADHYAMIK VIDYALAYA MADHAWA R.NO.-2"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRATHMIK VIDYALAYA MARHAWA LAMAHI R.NO.-1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRATHMIK VIDYALAYA MARHAWA LAMAHI R.NO.-2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRATHMIK VIDYALAYA RASULPUR"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRATHMIK VIDYALAYA MAJHAMITIYA"
+  },
+  {
+    "partNumber": 57,
+    "partName": "SARDAR PATEL INTER COLLAGE BAWANBIGHA HARBALLAMPUR"
+  },
+  {
+    "partNumber": 58,
+    "partName": "COMPOSIT VIDYALAYA BANWARIPUR"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRATHMIK VIDYALAYA BANIYAPUR"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSIT VIDYALAYA CHANDAPUR R.NO.-1"
+  },
+  {
+    "partNumber": 61,
+    "partName": "COMPOSIT VIDYALAYA CHANDAPUR R.NO.-2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRATHMIK VIDYALAYA UDAIPUR R.NO. 1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRATHMIK VIDYALAYA UDAIPUR R.NO. 2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "PRATHMIK VIDYALAYA UDAIPUR R.NO. 3"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRATHMIK VIDYALAYA UDAIPUR R.NO. 4"
+  },
+  {
+    "partNumber": 66,
+    "partName": "COMPOSIT VIDYALAYA ADAMPUR R.NO. 1"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSIT VIDYALAYA ADAMPUR R.NO. 2"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRATHMIK VIDYALAYA TARAPUR"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRATHMIK VIDYALAYA HRIDAIPUR R.NO.-1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRATHMIK VIDYALAYA HRIDAIPUR R.NO.-2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRATHMIK VIDYALAYA RAJANAHIYA"
+  },
+  {
+    "partNumber": 72,
+    "partName": "SRI SANKAT MOCHAN INTER COLLAGE SINGHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "SRI SANKAT MOCHAN INTER COLLAGE SINGHPUR R.NO. 2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSIT VIDYALAYA GOITHAHA R.NO. 1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSIT VIDYALAYA GOITHAHA R.NO. 2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSIT VIDYALAYA GOITHAHA R.NO. 3"
+  },
+  {
+    "partNumber": 77,
+    "partName": "COMPOSIT VIDYALAYA NAWAPURA R.NO.-1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "COMPOSIT VIDYALAYA NAWAPURA R.NO.-2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "COMPOSIT VIDYALAYA NAWAPURA R.NO.-3"
+  },
+  {
+    "partNumber": 80,
+    "partName": "COMPOSIT VIDYALAYA SATHAWA R.NO.- 1"
+  },
+  {
+    "partNumber": 81,
+    "partName": "COMPOSIT VIDYALAYA SATHAWA R.NO.- 2"
+  },
+  {
+    "partNumber": 82,
+    "partName": "COMPOSIT VIDYALAYA SATHAWA R.NO.- 3"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRATHMIK VIDYALAYA DHOORIPUR R.NO.- 1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRATHMIK VIDYALAYA DHOORIPUR R.NO.- 2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "PRATHMIK VIDYALAYA HIRAMANPUR R.NO.-1"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PRATHMIK VIDYALAYA HIRAMANPUR R.NO.-2"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PRATHMIK VIDYALAYA HIRAMANPUR R.NO.-3"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRATHMIK VIDYALAYA HIRAMANPUR R.NO.-4"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRATHMIK VIDYALAYA ASHAPUR PRATHAM R.NO-1"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRATHMIK VIDYALAYA ASHAPUR PRATHAM R.NO-2"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRATHMIK VIDYALAYA ASHAPUR PRATHAM R.NO-3"
+  },
+  {
+    "partNumber": 92,
+    "partName": "COMPOSIT VIDYALAYA ASHAPUR R.NO.1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "COMPOSIT VIDYALAYA ASHAPUR R.NO.2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "CHATURANAN BRAMHCHARI SEWASHRAM ASHAPUR TILMAPUR R.NO. 1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "CHATURANAN BRAMHCHARI SEWASHRAM ASHAPUR TILMAPUR R.NO. 2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "CHATURANAN BRAMHCHARI SEWASHRAM ASHAPUR TILMAPUR R.NO. 3"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRATHMIK VIDYALAYA SALARPUR R.NO.1"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRATHMIK VIDYALAYA SALARPUR R.NO.2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRATHMIK VIDYALAYA SALARPUR R.NO.3"
+  },
+  {
+    "partNumber": 100,
+    "partName": "VIDYA BIHAR INTER COLLEGE SALARPUR R.NO.1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "VIDYA BIHAR INTER COLLEGE SALARPUR R.NO.2"
+  },
+  {
+    "partNumber": 102,
+    "partName": "VIDYA BIHAR INTER COLLEGE SALARPUR R.NO.3"
+  },
+  {
+    "partNumber": 103,
+    "partName": "VIDYA BIHAR INTER COLLEGE SALARPUR R.NO.4"
+  },
+  {
+    "partNumber": 104,
+    "partName": "VIDYA BIHAR INTER COLLEGE SALARPUR R.NO.5"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRATHMIK VIDYALAYA RAGHUNATHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRATHMIK VIDYALAYA RAGHUNATHPUR R.NO. 2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "COMPOSIT VIDYALAYA RASULGARH R.NO.1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "COMPOSIT VIDYALAYA RASULGARH R.NO.2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "COMPOSIT VIDYALAYA RASULGARH R.NO.3"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRATHMIK VIDYALAYA LEDHUPUR R.NO.1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRATHMIK VIDYALAYA LEDHUPUR R.NO.2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PRATHMIK VIDYALAYA LEDHUPUR R.NO.3"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PRATHMIK VIDYALAYA LEDHUPUR R.NO.4"
+  },
+  {
+    "partNumber": 114,
+    "partName": "COMPOSIT VIDYALAYA RUSTAMPUR R.NO. 1"
+  },
+  {
+    "partNumber": 115,
+    "partName": "COMPOSIT VIDYALAYA RUSTAMPUR R.NO. 2"
+  },
+  {
+    "partNumber": 116,
+    "partName": "COMPOSIT VIDYALAYA RUSTAMPUR R.NO. 3"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRATHMIK VIDYALAYA SANDAHA R.NO. 1"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRATHMIK VIDYALAYA SANDAHA R.NO. 2"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRATHMIK VIDYALAYA SANDAHA R.NO. 3"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRATHMIK VIDYALAYA FARIDPUR"
+  },
+  {
+    "partNumber": 121,
+    "partName": "COMPOSIT VIDYALAYA SULTANPUR"
+  },
+  {
+    "partNumber": 122,
+    "partName": "PURVA MADHYAMIK VIDYALAY CHIRAIGAON R.NO.- 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PURVA MADHYAMIK VIDYALAY CHIRAIGAON R.NO.- 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRATHMIK VIDYALAYA CHIRAIGAON R.NO.1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRATHMIK VIDYALAYA CHIRAIGAON R.NO.2"
+  },
+  {
+    "partNumber": 126,
+    "partName": "COMPOSIT VIDYALAYA DEENAPUR R.NO. 1"
+  },
+  {
+    "partNumber": 127,
+    "partName": "COMPOSIT VIDYALAYA DEENAPUR R.NO. 2"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSIT VIDYALAYA DEENAPUR R.NO. 3"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRATHMIK VIDYALAYA SARAIMOHANA R.NO.1"
+  },
+  {
+    "partNumber": 130,
+    "partName": "PRATHMIK VIDYALAYA SARAIMOHANA R.NO.2"
+  },
+  {
+    "partNumber": 131,
+    "partName": "PRATHMIK VIDYALAYA SARAIMOHANA R.NO.3"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRATHMIK VIDYALAYA SARAIMOHANA R.NO.4"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRATHMIK VIDYALAYA TATEPUR R.NO. 1"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRATHMIK VIDYALAYA TATEPUR R.NO. 2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "M.T. PUBLIC HIGHSCHOOL KHALISHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "M.T. PUBLIC HIGHSCHOOL KHALISHPUR R.NO. 2"
+  },
+  {
+    "partNumber": 137,
+    "partName": "M.T. PUBLIC HIGHSCHOOL KHALISHPUR R.NO. 3"
+  },
+  {
+    "partNumber": 138,
+    "partName": "COMPOSIT VIDYALAYA KOTAWA R.NO. 1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "COMPOSIT VIDYALAYA KOTAWA R.NO. 2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "COMPOSIT VIDYALAYA KOTAWA R.NO. 3"
+  },
+  {
+    "partNumber": 141,
+    "partName": "COMPOSIT VIDYALAYA KOTAWA R.NO. 4"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRATHMIK VIDYALAYA KAMAULI R.NO. 1"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRATHMIK VIDYALAYA KAMAULI R.NO. 2"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRATHMIK VIDYALAYA KAMAULI R.NO. 3"
+  },
+  {
+    "partNumber": 145,
+    "partName": "PRATHMIK VIDYALAYA TARYA R.NO. 1"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRATHMIK VIDYALAYA TARYA R.NO. 2"
+  },
+  {
+    "partNumber": 147,
+    "partName": "COMPOSIT VIDYALAYA PURANPATTI"
+  },
+  {
+    "partNumber": 148,
+    "partName": "BHAGAWATI DHAM INTER COLLAGE KHARGIPUR R.NO.-1"
+  },
+  {
+    "partNumber": 149,
+    "partName": "BHAGAWATI DHAM INTER COLLAGE KHARGIPUR R.NO.-2"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PANCHAYAT BHAWAN PIYARI R.NO.1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PANCHAYAT BHAWAN PIYARI R.NO.2"
+  },
+  {
+    "partNumber": 152,
+    "partName": "COMPOSIT VIDYALAYA RAMGADHAWA"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRATHMIK VIDYALAYA BIKAPUR"
+  },
+  {
+    "partNumber": 154,
+    "partName": "COMPOSIT VIDYALAY PARWATPUR"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRATHMIK VIDYALAYA KHUTAHANA R.NO.1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRATHMIK VIDYALAYA KHUTAHANA R.NO.2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRATHMIK VIDYALAYA NARAYANPUR PRATHAM R.NO.1"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRATHMIK VIDYALAYA NARAYANPUR PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRATHMIK VIDYALAYA NARAYANPUR PRATHAM R.NO.3"
+  },
+  {
+    "partNumber": 160,
+    "partName": "RAJNANDAN SAHU INTER COLLAGE NARAYANPUR"
+  },
+  {
+    "partNumber": 161,
+    "partName": "COMPOSIT VIDYALAYA NARPATPUR R.NO.1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "COMPOSIT VIDYALAYA NARPATPUR R.NO.2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRATHMIK VIDYALAYA CHUHARPUR"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRATHMIK VIDYALAYA DUBKIYA R.NO.1"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PRATHMIK VIDYALAYA DUBKIYA R.NO.2"
+  },
+  {
+    "partNumber": 166,
+    "partName": "PRATHMIK VIDYALAYA PAHARIA"
+  },
+  {
+    "partNumber": 167,
+    "partName": "SHRI GANDHI INTER COLLEGE GAURAKALA CHIRAIGOAN R.NO.1"
+  },
+  {
+    "partNumber": 168,
+    "partName": "SHRI GANDHI INTER COLLEGE GAURAKALA CHIRAIGOAN R.NO.2"
+  },
+  {
+    "partNumber": 169,
+    "partName": "SHRI GANDHI INTER COLLEGE GAURAKALA CHIRAIGOAN R.NO.3"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRATHMIK VIDYALAYA SEEO R.NO. 1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRATHMIK VIDYALAYA SEEO R.NO. 2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRATHMIK VIDYALAYA SEEO R.NO. 3"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRATHMIK VIDYALAYA SHANKARPUR R.NO. 1"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRATHMIK VIDYALAYA SHANKARPUR R.NO. 2"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRATHMIK VIDYALAYA SHANKARPUR R.NO. 3"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRATHMIK VIDYALAYA MADHANI"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRATHMIK VIDYALAYA BABHANPURA R.NO.1"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRATHMIK VIDYALAYA BABHANPURA R.NO.2"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRATHMIK VIDYALAYA BABHANPURA R.NO.3"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRATHMIK VIDYALAYA BABHANPURA R.NO.4"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSIT VIDYALAYA SINGHWAR"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRATHMIK VIDYALAYA NEWADA R.NO.1"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRATHMIK VIDYALAYA NEWADA R.NO.2"
+  },
+  {
+    "partNumber": 184,
+    "partName": "SRI KHANDESHWARI BABA INTER COLLEGE CHANDPUR MUSHTAFABAD R.NO.1"
+  },
+  {
+    "partNumber": 185,
+    "partName": "SRI KHANDESHWARI BABA INTER COLLEGE CHANDPUR MUSHTAFABAD R.NO.2"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRATHMIK VIDYALAYA TOFAPUR R.NO. 1"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRATHMIK VIDYALAYA TOFAPUR R.NO. 2"
+  },
+  {
+    "partNumber": 188,
+    "partName": "COMPOSIT VIDYALAYA MILKOPUR R.NO. 1"
+  },
+  {
+    "partNumber": 189,
+    "partName": "COMPOSIT VIDYALAYA MILKOPUR R.NO. 2"
+  },
+  {
+    "partNumber": 190,
+    "partName": "COMPOSIT VIDYALAYA PACHARAO R.NO. 1"
+  },
+  {
+    "partNumber": 191,
+    "partName": "COMPOSIT VIDYALAYA PACHARAO R.NO. 2"
+  },
+  {
+    "partNumber": 192,
+    "partName": "COMPOSIT VIDYALAYA PACHARAO R.NO. 3"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRATHMIK VIDYALAYA PHOOLPUR"
+  },
+  {
+    "partNumber": 194,
+    "partName": "COMPOSIT VIDYALAYA BANKAT R.NO. 1"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSIT VIDYALAYA BANKAT R.NO. 2"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRATHMIK VIDYALAYA BHAGWANPUR"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRATHMIK VIDYALAYA SHAHPUR"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRATHMIK VIDYALAYA PANIHARI R.NO. 1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRATHMIK VIDYALAYA PANIHARI R.NO. 2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRATHMIK VIDYALAYA PANIHARI R.NO. 3"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRATHMIK VIDYALAYA PANIHARI R.NO. 4"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRATHMIK VIDYALAYA GAURDIH"
+  },
+  {
+    "partNumber": 203,
+    "partName": "COMPOSIT VIDYALAYA SONBARSA R.NO. 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "COMPOSIT VIDYALAYA SONBARSA R.NO. 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSIT VIDYALAYA SONBARSA R.NO. 3"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRATHMIK VIDYALAYA BARTHARAKALA PRATHAM R.NO.1"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRATHMIK VIDYALAYA BARTHARAKALA PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRATHMIK VIDYALAYA BARTHARAKALA PRATHAM R.NO.3"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSIT VIDYALAYA JHAJHUPUR"
+  },
+  {
+    "partNumber": 210,
+    "partName": "COMPOSIT VIDYALAYA KADIPUR KHURD R.NO. 1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "COMPOSIT VIDYALAYA KADIPUR KHURD R.NO. 2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "COMPOSIT VIDYALAYA UKATHI R.NO. 1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "COMPOSIT VIDYALAYA UKATHI R.NO. 2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "COMPOSIT VIDYALAYA UKATHI R.NO. 3"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PANCHAYAT BHAWAN UKATHI"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRATHMIK VIDYALAYA CHUKAHA R.NO. 1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRATHMIK VIDYALAYA CHUKAHA R.NO. 2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "PRATHMIK VIDYALAYA PARANAPUR"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PRATHMIK VIDYALAYA MURIDPUR R.NO. 1"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRATHMIK VIDYALAYA MURIDPUR R.NO. 2"
+  },
+  {
+    "partNumber": 221,
+    "partName": "SWAMI RAGHAWANAND CONVENT SCHOOL MUSTAFABAD R.NO.- 1"
+  },
+  {
+    "partNumber": 222,
+    "partName": "SWAMI RAGHAWANAND CONVENT SCHOOL MUSTAFABAD R.NO.- 2"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRATHMIK VIDYALAYA MUSTAFABAD PRATHAM R.NO. 1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRATHMIK VIDYALAYA MUSTAFABAD PRATHAM R.NO. 2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSIT VIDYALAYA MUSTAFABAD RETA R.NO. 1"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSIT VIDYALAYA MUSTAFABAD RETA R.NO. 2"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRATHMIK VIDYALAYA CHHITAUNA R.NO. 1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRATHMIK VIDYALAYA CHHITAUNA R.NO. 2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "PRATHMIK VIDYALAYA CHHITAUNA R.NO. 3"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PURVA PRATHMIK VIDYALAYA RAMCHANDIPUR R.NO. 1"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PURVA PRATHMIK VIDYALAYA RAMCHANDIPUR R.NO. 2"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PURVA PRATHMIK VIDYALAYA RAMCHANDIPUR R.NO. 3"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRATHMIK VIDYALAYA RAMPUR DHAB"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSIT VIDYALAYA GOBARAHA R.NO. 1"
+  },
+  {
+    "partNumber": 235,
+    "partName": "COMPOSIT VIDYALAYA GOBARAHA R.NO. 2"
+  },
+  {
+    "partNumber": 236,
+    "partName": "COMPOSIT VIDYALAYA MOKALPUR R.NO. 1"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSIT VIDYALAYA MOKALPUR R.NO. 2"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSIT VIDYALAYA SARSAUL R.NO. 1"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSIT VIDYALAYA SARSAUL R.NO. 2"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRATHMIK VIDYALAYA MISHRAPURA R.NO. 1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRATHMIK VIDYALAYA MISHRAPURA R.NO. 2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRATHMIK VIDYALAYA DHOBAHI"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRATHMIK VIDYALAYA LUTHAKHURD"
+  },
+  {
+    "partNumber": 244,
+    "partName": "KANYA PURVA MADHYAMIK VIDYALAYA SHIVDASHA R.NO. 1"
+  },
+  {
+    "partNumber": 245,
+    "partName": "KANYA PURVA MADHYAMIK VIDYALAYA SHIVDASHA R.NO. 2"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRATHMIK VIDYALAYA SIRISTI R.NO. 1"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRATHMIK VIDYALAYA SIRISTI R.NO. 2"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRATHMIK VIDYALAYA BHAGATUA R.NO. 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRATHMIK VIDYALAYA BHAGATUA R.NO. 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRATHMIK VIDYALAYA AMAULI"
+  },
+  {
+    "partNumber": 251,
+    "partName": "COMPOSIT VIDYALAYA CHHITAUNI"
+  },
+  {
+    "partNumber": 252,
+    "partName": "COMPOSIT VIDYALAYA DEORIA"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRATHMIK VIDYALAYA GANGAPUR (BAKAINI)"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PANCHAYAT BHAWAN KUKUDHA R.NO. 1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PANCHAYAT BHAWAN KUKUDHA R.NO. 2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "COMPOSIT VIDYALAYA AMBA"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRATHMIK VIDYALAYA JALLHUPUR PRATHAM R.NO. 1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRATHMIK VIDYALAYA JALLHUPUR PRATHAM R.NO. 2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PRATHMIK VIDYALAYA JALLHUPUR PRATHAM R.NO. 3"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PRATHMIK VIDYALAYA JALLHUPUR PRATHAM R.NO. 4"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRATHMIK VIDYALAYA JALLHUPUR PRATHAM R.NO. 5"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRATHMIK VIDYALAYA RAMANA R.NO. 1"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRATHMIK VIDYALAYA RAMANA R.NO. 2"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRATHMIK VIDYALAYA VISHUNPURA"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRATHMIK VIDYALAYA GIRDHARPUR"
+  },
+  {
+    "partNumber": 266,
+    "partName": "INTER COLLAGE BARIYASANPUR R.NO. 1"
+  },
+  {
+    "partNumber": 267,
+    "partName": "INTER COLLAGE BARIYASANPUR R.NO. 2"
+  },
+  {
+    "partNumber": 268,
+    "partName": "COMPOSIT VIDYALAYA KHANPUR"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRATHMIK VIDYALAYA UMARAHA PRATHAM R.NO. 1"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRATHMIK VIDYALAYA UMARAHA PRATHAM R.NO. 2"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRATHMIK VIDYALAYA UMARAHA PRATHAM R.NO. 3"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PRATHMIK VIDYALAYA UMARAHA PRATHAM R.NO. 4"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRATHMIK VIDYALAYA BARAI R.NO. 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRATHMIK VIDYALAYA BARAI R.NO. 2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRATHMIK VIDYALAYA BARAI R.NO. 3"
+  },
+  {
+    "partNumber": 276,
+    "partName": "RAJKIYA HIGHSCHOOL CHHANHI R.NO. 1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "RAJKIYA HIGHSCHOOL CHHANHI R.NO. 2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "RAJKIYA HIGHSCHOOL CHHANHI R.NO. 3"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSIT VIDYALAYA CHHANHI R.NO. 1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSIT VIDYALAYA CHHANHI R.NO. 2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRATHMIK VIDYALAYA PATERWA R.NO. 1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRATHMIK VIDYALAYA PATERWA R.NO. 2"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRATHMIK VIDYALAYA PATERWA R.NO. 3"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSIT VIDYALAYA SARAIYA NO. 2 R.NO. 1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSIT VIDYALAYA SARAIYA NO. 2 R.NO. 2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRATHMIK VIDYALAYA JAIRAMPUR (MATHIYA) R.NO. 1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRATHMIK VIDYALAYA JAIRAMPUR (MATHIYA) R.NO. 2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRATHMIK VIDYALAYA JAIRAMPUR (MATHIYA) R.NO. 3"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRATHMIK VIDYALAYA GOPPUR R.NO. 1"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRATHMIK VIDYALAYA GOPPUR R.NO. 2"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRATHMIK VIDYALAYA ALLOPUR"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRATHMIK VIDYALAYA SARAIYA NO.-1"
+  },
+  {
+    "partNumber": 293,
+    "partName": "COMPOSIT VIDYALAYA AILEE"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRATHMIK VIDYALAYA IMILIYA"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOSIT VIDYALAYA AMARPATTI"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRATHMIK VIDYALAYA LOHTA R.NO. 1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRATHMIK VIDYALAYA LOHTA R.NO. 2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRATHMIK VIDYALAYA LOHTA R.NO. 3"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRATHMIK VIDYALAYA LOHTA R.NO. 4"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRATHMIK VIDYALAYA LOHTA R.NO. 5"
+  },
+  {
+    "partNumber": 301,
+    "partName": "BUDDHA PUBLIC SCHOOL LOHTA R.NO. 1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "BUDDHA PUBLIC SCHOOL LOHTA R.NO. 2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "MADARSA FAIJUL ULUM LOHTA R.NO. 1"
+  },
+  {
+    "partNumber": 304,
+    "partName": "MADARSA FAIJUL ULUM LOHTA R.NO. 2"
+  },
+  {
+    "partNumber": 305,
+    "partName": "MADARSA FAIJUL ULUM LOHTA R.NO. 3"
+  },
+  {
+    "partNumber": 306,
+    "partName": "MADARSA FAIJUL ULUM LOHTA R.NO. 4"
+  },
+  {
+    "partNumber": 307,
+    "partName": "GAUTAM BUDDH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 1"
+  },
+  {
+    "partNumber": 308,
+    "partName": "GAUTAM BUDHH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "GAUTAM BUDDH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 3"
+  },
+  {
+    "partNumber": 310,
+    "partName": "GAUTAM BUDDH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 4"
+  },
+  {
+    "partNumber": 311,
+    "partName": "GAUTAM BUDDH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 5"
+  },
+  {
+    "partNumber": 312,
+    "partName": "GAUTAM BUDDH BALIKA VIDYALAYA KOIRAN LOHATA R.NO. 6"
+  },
+  {
+    "partNumber": 313,
+    "partName": "MADARSA TALIMUL ISLAM BHORA TALAB LOHATA R.NO. 1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "MADARSA TALIMUL ISLAM BHORA TALAB LOHATA R.NO. 2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "MADARSA TALIMUL ISLAM BHORA TALAB LOHATA R.NO. 3"
+  },
+  {
+    "partNumber": 316,
+    "partName": "MADARSA TALIMUL ISLAM BHORA TALAB LOHATA R.NO. 4"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRATHMIK VIDYALAYA GHAMAHAPUR R.NO. 1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRATHMIK VIDYALAYA GHAMAHAPUR R.NO. 2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "JUNIOR HIGH SCHOOL SENT JONS DHANNIPUR R.NO. 1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "JUNIOR HIGH SCHOOL SENT JONS DHANNIPUR R.NO. 2"
+  },
+  {
+    "partNumber": 321,
+    "partName": "JUNIOR HIGH SCHOOL SENT JONS DHANNIPUR R.NO. 3"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRATHMIK VIDYALAYA BHATTHI R.NO. 1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRATHMIK VIDYALAYA BHATTHI R.NO. 2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRATHMIK VIDYALAYA BHATTHI R.NO. 3"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRATHMIK VIDYALAYA MAHMOODPUR R.NO. 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRATHMIK VIDYALAYA MAHMOODPUR R.NO. 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRATHMIK VIDYALAYA MAHMOODPUR R.NO. 3"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRATHMIK VIDYALAYA MAHMOODPUR R.NO. 4"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSIT VIDYALAYA MAHESHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "COMPOSIT VIDYALAYA MAHESHPUR R.NO. 2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "COMPOSIT VIDYALAYA MAHESHPUR R.NO. 3"
+  },
+  {
+    "partNumber": 332,
+    "partName": "SILWAR GROW INTERMIDIATE COLLEGE MAHESHPUR R.NO. 1"
+  },
+  {
+    "partNumber": 333,
+    "partName": "SILWAR GROW INTERMIDIATE COLLEGE MAHESHPUR R.NO. 2"
+  },
+  {
+    "partNumber": 334,
+    "partName": "MA SARASWATI INTER COLLAGE CHANDPUR R.NO. 1"
+  },
+  {
+    "partNumber": 335,
+    "partName": "MA SARASWATI INTER COLLAGE CHANDPUR R.NO. 2"
+  },
+  {
+    "partNumber": 336,
+    "partName": "MA SARASWATI INTER COLLAGE CHANDPUR R.NO. 3"
+  },
+  {
+    "partNumber": 337,
+    "partName": "MA SARASWATI INTER COLLAGE CHANDPUR R.NO. 4"
+  },
+  {
+    "partNumber": 338,
+    "partName": "MA SARASWATI INTER COLLAGE CHANDPUR R.NO. 5"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PANCHAYAT BHAWAN CHANDPUR"
+  },
+  {
+    "partNumber": 340,
+    "partName": "PRATHMIK VIDYALAYA BHITARI R.NO. 1"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRATHMIK VIDYALAYA BHITARI R.NO. 2"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRATHMIK VIDYALAYA BHITARI R.NO. 3"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRATHMIK VIDYALAYA BHITARI R.NO. 4"
+  },
+  {
+    "partNumber": 344,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL KERAKATPUR R.NO. 1"
+  },
+  {
+    "partNumber": 345,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL KERAKATPUR R.NO. 2"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRATHMIK VIDYALAYA PHOOLWARIA R.NO. 1"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRATHMIK VIDYALAYA PHOOLWARIA R.NO. 2"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PRATHMIK VIDYALAYA PHOOLWARIA R.NO. 3"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PRATHMIK VIDYALAYA PHOOLWARIA R.NO. 4"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRATHMIK VIDYALAYA PHOOLWARIA R.NO. 5"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRATHMIK VIDYALAYA PAHALUKAPURA (PHOOLWARIA) R.NO. 1"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRATHMIK VIDYALAYA PAHALUKAPURA (PHOOLWARIA) R.NO. 2"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRATHMIK VIDYALAYA PAHALUKAPURA (PHOOLWARIA) R.NO. 3"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PRATHMIK VIDYALAYA PAHALUKAPURA (PHOOLWARIA) R.NO. 4"
+  },
+  {
+    "partNumber": 355,
+    "partName": "PURVA MADHYAMIK VIDYALAYA PHOOLWARIA R.NO. 1"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PURVA MADHYAMIK VIDYALAYA PHOOLWARIA R.NO. 2"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PURVA MADHYAMIK VIDYALAYA PHOOLWARIA R.NO. 3"
+  },
+  {
+    "partNumber": 358,
+    "partName": "SARWANAND PUBLIC SCHOOL PHOOLWARIA R.NO. 1"
+  },
+  {
+    "partNumber": 359,
+    "partName": "SARWANAND PUBLIC SCHOOL PHOOLWARIA R.NO. 2"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PANCHAYAT BHAWAN PHOOLWARIA R.NO. 1"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PANCHAYAT BHAWAN PHOOLWARIA R.NO. 2"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PANCHAYAT BHAWAN PHOOLWARIA R.NO. 3"
+  },
+  {
+    "partNumber": 363,
+    "partName": "SARDAR PATEL ADARSH INTERMEDIATE COLLAGE CHANDPUR R.NO.-1"
+  },
+  {
+    "partNumber": 364,
+    "partName": "SARDAR PATEL ADARSH INTERMEDIATE COLLAGE CHANDPUR R.NO.- 2"
+  },
+  {
+    "partNumber": 365,
+    "partName": "SARDAR PATEL ADARSH INTERMEDIATE COLLAGE CHANDPUR R.NO.-3"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRATHMIK VIDYALAYA CHURAMANPUR (CHANDAPUR) R.NO. 1"
+  },
+  {
+    "partNumber": 367,
+    "partName": "PRATHMIK VIDYALAYA CHURAMANPUR (CHANDAPUR) R.NO. 2"
+  }
+]

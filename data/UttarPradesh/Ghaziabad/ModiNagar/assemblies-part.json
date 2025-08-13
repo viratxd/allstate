@@ -1,0 +1,1550 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PURV MADHYAMIK VIDYALYA MO.PUR AAMAD BAGPAT NO-1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMERY SCHOOL MATOUR NO-1"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMERY SCHOOL KHINDAUDA NO-1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMERY SCHOOL KHINDAUDA NO2"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMERY SCHOOL KHINDAUDA NO-3"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMERY SCHOOL KHINDAUDA NO-4"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PURV MADHYAMIK VIDYALYA KHINDAUDA NO-1"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PURV MADHYAMIK VIDYALYA KHINDAUDA NO--2"
+  },
+  {
+    "partNumber": 9,
+    "partName": "NAV JEEVAN  JANTA  INTER COLLEGE BHANAIDA KALAN  ROOM-1"
+  },
+  {
+    "partNumber": 10,
+    "partName": "NAV JEEVAN  JANTA  INTER COLLEGE BHANAIDA KALAN ROOM-2"
+  },
+  {
+    "partNumber": 11,
+    "partName": "COMPOSITE SCHOOL SUHANA ROOM&1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "COMPOSITE SCHOOL SUHANA  ROOM-2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMERY SCHOOL POOTHRI NO-1"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRIMERY SCHOOL PATLA NO-1 ROOM-1 SHIV CHOK"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRIMERY SCHOOL N0 1 PATLLA  ROOM-2 SHIV CHOK"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMERY SCHOOL N0 1 PATLLA  ROOM-3  SHIV CHOK"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMERY SCHOOL N0 1 PATLLA  ROOM-4  SHIV CHOK"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMERY SCHOOL N0 1 PATLLA  ROOM-5  SHIV CHOK"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMERY SCHOOL N0 2 PATLA NO-1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRIMERY SCHOOL N0 2 PATLA NO-2"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMERY SCHOOL N0 2 PATLA NO-3"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMERY SCHOOL NANGLA  AKKHU ROOM-1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "COMPOSITE SCHOOL AASIFPUR UZAIDA  ROOM-1"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE SCHOOL AASIFPUR UZAIDA ROOM-2"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRIMERY SCHOOL DABANA NO-1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMERY SCHOOL DABANA NO-2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "KANYA PURV MADHYAMIK VIDHYALYA DIDAULI NO-1"
+  },
+  {
+    "partNumber": 28,
+    "partName": "KANYA PURV MADHYAMIK VIDHYALYA DIDAULI NO-2"
+  },
+  {
+    "partNumber": 29,
+    "partName": "KANYA PURV MADHYAMIK VIDHYALYA DIDAULI NO-3"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRIMERY SCHOOL MOHAMMADPUR KADDEM NO-1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRIMERY SCHOOL MOHAMMADPUR KADDEM NO-2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-1"
+  },
+  {
+    "partNumber": 33,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-2"
+  },
+  {
+    "partNumber": 34,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-3"
+  },
+  {
+    "partNumber": 35,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-4"
+  },
+  {
+    "partNumber": 36,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-5"
+  },
+  {
+    "partNumber": 37,
+    "partName": "COMPOSITE SCHOOL SIKRI KALAN ROOM-6"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE SCHOOL YUSUFPUR MANAUTA ROOM-1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE SCHOOL ABUPUR ROOM-1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "COMPOSITE SCHOOL ABUPUR ROOM-2"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL ABUPUR ROOM-3"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE SCHOOL ABUPUR ROOM-4"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE SCHOOL ABUPUR ROOM-5"
+  },
+  {
+    "partNumber": 44,
+    "partName": "NANAK CHAND INTER COLLEGE SONDA NO-1"
+  },
+  {
+    "partNumber": 45,
+    "partName": "NANAK CHAND INTER COLLEGE SONDA ROOM-2"
+  },
+  {
+    "partNumber": 46,
+    "partName": "NANAK CHAND INTER COLLEGE SONDA NO-3"
+  },
+  {
+    "partNumber": 47,
+    "partName": "NANAK CHAND INTER COLLEGE SONDA NO-4"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE SCHOOL SHERPUR ROOM-1"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSITE SCHOOL SHERPUR ROOM-2"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMERY SCHOOL NANGLA MOOSA NO-1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMERY SCHOOL NANGLA MOOSANO-2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "AANGANBADI CENTER FATEHPUR ROOM-1"
+  },
+  {
+    "partNumber": 53,
+    "partName": "COMPOITE SCHOOL SIKHAIRA HAZARI ROOM-1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRIMERY SCHOOL PAINGA ROOM-1"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMERY SCHOOL PAINGA ROOM-2"
+  },
+  {
+    "partNumber": 56,
+    "partName": "SANJAY GANDHI BALIKA INTER COLLGE NIWADI ROOM-1"
+  },
+  {
+    "partNumber": 57,
+    "partName": "SANJAY GANDHI BALIKA INTER COLLGE NIWADI ROOM-2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "SANJAY GANDHI BALIKA INTER COLLGE NIWADI ROOM-3"
+  },
+  {
+    "partNumber": 59,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-1"
+  },
+  {
+    "partNumber": 60,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-2"
+  },
+  {
+    "partNumber": 61,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-3"
+  },
+  {
+    "partNumber": 62,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-4"
+  },
+  {
+    "partNumber": 63,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-5"
+  },
+  {
+    "partNumber": 64,
+    "partName": "S K INTER COLLEGE NIWADI ROOM-6"
+  },
+  {
+    "partNumber": 65,
+    "partName": "COMPOSITE SCHOOL YAKOOTPUR MAVI ROOM-1"
+  },
+  {
+    "partNumber": 66,
+    "partName": "COMPOSITE SCHOOL YAKOOTPUR MAVI ROOM-2"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSITE SCHOOL MAKARAMATPUR SIKHAIRA ROOM-1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE SCHOOL MAKARAMATPUR SIKHAIRA ROOM-2"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRIMERY SCHOOL SARA ROOM-1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRIMERY SCHOOL SARA ROOM-2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMERY SCHOOL SARA ROOM-3"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRIMERY SCHOOL SARA ROOM-4"
+  },
+  {
+    "partNumber": 73,
+    "partName": "ISLAMIYA MADARSA JIYA UL KURAN BISOKHER ROOM-1"
+  },
+  {
+    "partNumber": 74,
+    "partName": "ISLAMIYA MADARSA JIYA UL KURAN BISOKHER ROOM-2"
+  },
+  {
+    "partNumber": 75,
+    "partName": "ISLAMIYA MADARSA JIYA UL KURAN BISOKHER ROOM-3"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PRIMARY SCHOOL BISOKHAR ROOM-1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "PRIMARY SCHOOL BISOKHAR ROOM-2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "PRIMARY  SCHOOL BISOKHAR ROOM-3"
+  },
+  {
+    "partNumber": 79,
+    "partName": "COMPOSITE SCHOOL KADRABAD ROOM-1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "COMPOSITE SCHOOL KADRABAD ROOM-2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "COMPOSITE SCHOOL KADRABAD ROOM-3"
+  },
+  {
+    "partNumber": 82,
+    "partName": "COMPOSITE SCHOOL KADRABAD ROOM-4"
+  },
+  {
+    "partNumber": 83,
+    "partName": "COMPOSITE SCHOOL RORI ROOM NO 1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "COMPOSITE SCHOOL RORI ROOM NO 2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "COMPOSITE SCHOOL RORI ROOM NO 3"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PRIMARY SCHOOL NO 2 RORI ROOM NO 1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PRIMERY SCHOOL VIJAYNAGAR RORI ROOM-1"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMERY SCHOOL VIJAYNAGAR RORI ROOM-2"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMERY SCHOOL VIJAYNAGAR RORI ROOM-3"
+  },
+  {
+    "partNumber": 90,
+    "partName": "CAMBRIDGE PUBLIC SCHOOL VIJAYNAGAR RORI NO-1"
+  },
+  {
+    "partNumber": 91,
+    "partName": "CAMBRIDGE PUBLIC SCHOOL VIJAYNAGAR RORI ROOM-2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "CAMBRIDGE PUBLIC SCHOOL VIJAYNAGAR RORI ROOM-3"
+  },
+  {
+    "partNumber": 93,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-1"
+  },
+  {
+    "partNumber": 94,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-2"
+  },
+  {
+    "partNumber": 95,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-3"
+  },
+  {
+    "partNumber": 96,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-4"
+  },
+  {
+    "partNumber": 97,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-5"
+  },
+  {
+    "partNumber": 98,
+    "partName": "MEHRISHI DAYANAD INTER COLLEGE GOVINDPURI ROOM-6"
+  },
+  {
+    "partNumber": 99,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-1"
+  },
+  {
+    "partNumber": 100,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-2"
+  },
+  {
+    "partNumber": 101,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-3"
+  },
+  {
+    "partNumber": 102,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-4"
+  },
+  {
+    "partNumber": 103,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-5"
+  },
+  {
+    "partNumber": 104,
+    "partName": "AADARSH KANYA INTER COLLEGE UTTER BHAWAN GOVINDPURI ROOM-6"
+  },
+  {
+    "partNumber": 105,
+    "partName": "AADARSH KANYA INTER COLLEGE DAKSHIN BHAWAN GOVINDPURI ROOM-1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "AADARSH KANYA INTER COLLEGE DAKSHIN BHAWAN GOVINDPURI ROOM-2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "AADARSH KANYA INTER COLLEGE DAKSHIN BHAWAN GOVINDPURI ROOM-3"
+  },
+  {
+    "partNumber": 108,
+    "partName": "AADARSH KANYA INTER COLLEGE DAKSHIN BHAWAN GOVINDPURI ROOM-4"
+  },
+  {
+    "partNumber": 109,
+    "partName": "AADARSH KANYA INTER COLLEGE DAKSHIN BHAWAN GOVINDPURI ROOM-5"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PARMILA MODI KANYAJUNIOR HIGH SCHOOLHARMUKHPURI ROOM-1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PARMILA MODI KANYAJUNIOR HIGH SCHOOLHARMUKHPURI ROOM-2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PARMILA MODI KANYAJUNIOR HIGH SCHOOLHARMUKHPURI ROOM-3"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PARMILA MODI KANYA JUNIOR HIGH SCHOOLHARMUKHPURI ROOM-4"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PARMILA MODI KANYA JUNIOR HIGH SCHOOLHARMUKHPURI ROOM-5"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PARMILA MODI KANYA JUNIOR HIGH SCHOOLHARMUKHPURI ROOM-6"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PARMILA MODI KANYA JUNIOR HIGH SCHOOL HARMUKHPURI ROOM-7"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PARMILA MODI KANYA JUNIOR HIGH SCHOOL HARMUKHPURI ROOM-8"
+  },
+  {
+    "partNumber": 118,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-1"
+  },
+  {
+    "partNumber": 119,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGA R ROOM-2"
+  },
+  {
+    "partNumber": 120,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-3"
+  },
+  {
+    "partNumber": 121,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-4"
+  },
+  {
+    "partNumber": 122,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-5"
+  },
+  {
+    "partNumber": 123,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-6"
+  },
+  {
+    "partNumber": 124,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-7"
+  },
+  {
+    "partNumber": 125,
+    "partName": "DAYAWATI MODI TRAINING COLLEGE MODINAGAR ROOM-8"
+  },
+  {
+    "partNumber": 126,
+    "partName": "GINNI DEVI JUNIOR HIGHSCHOOL DEVENDERPURI ROOM-1"
+  },
+  {
+    "partNumber": 127,
+    "partName": "GINNI DEVI JU HIGH SCHOOL DEVENDRAPURI ROOM NO 2"
+  },
+  {
+    "partNumber": 128,
+    "partName": "GINNI DEVI JU HIGH SCHOOL DEVENDRAPURI ROOM NO 3"
+  },
+  {
+    "partNumber": 129,
+    "partName": "GINNI DEVI JU HIGH SCHOOL DEVENDRAPURI ROOM NO 4"
+  },
+  {
+    "partNumber": 130,
+    "partName": "GINNI DEVI JU HIGH SCHOOL DEVENDRAPURI ROOM NO 5"
+  },
+  {
+    "partNumber": 131,
+    "partName": "GINNI DEVI JU HIGH SCHOOL DEVENDRAPURI ROOM NO 6"
+  },
+  {
+    "partNumber": 132,
+    "partName": "COMPOSITE SCHOOL JAGATPURI-1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "COMPOSITE SCHOOL JAGATPURI-2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOL SANJAYPURI ROOM-1"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY SCHOOL SANJAYPURI ROOM-2"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMERY SCHOOL BUDANA ROOM-1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMERY SCHOOL BUDANA  ROOM-2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "CHAYA PUBLIC SCHOOL RAJCHOPLA ROOM-1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "CHAYA PUBLIC SCHOOL RAJCHOPLA ROOM-2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-3"
+  },
+  {
+    "partNumber": 143,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-4"
+  },
+  {
+    "partNumber": 144,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-5"
+  },
+  {
+    "partNumber": 145,
+    "partName": "SENT TERESA ACADMY BISOKHER ROAD MODINAGAR ROOM-6"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRIMERY SCHOOL ZILA PARISHAD GOVINDPURI ROOM-1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMERY SCHOOL ZILA PARISHAD GOVINDPURI ROOM-2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "PRIMERY SCHOOL ZILA PARISHAD GOVINDPURI ROOM-3"
+  },
+  {
+    "partNumber": 149,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-1"
+  },
+  {
+    "partNumber": 150,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-2"
+  },
+  {
+    "partNumber": 151,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-3"
+  },
+  {
+    "partNumber": 152,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-4"
+  },
+  {
+    "partNumber": 153,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-5"
+  },
+  {
+    "partNumber": 154,
+    "partName": "GINNI DEVI GIRLS DIGREE COLLEGE MODINAGARNO-6"
+  },
+  {
+    "partNumber": 155,
+    "partName": "DR. K.N. MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-3"
+  },
+  {
+    "partNumber": 158,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-4"
+  },
+  {
+    "partNumber": 159,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-5"
+  },
+  {
+    "partNumber": 160,
+    "partName": "DR. K.N. MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNNO-6"
+  },
+  {
+    "partNumber": 161,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-7"
+  },
+  {
+    "partNumber": 162,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-8"
+  },
+  {
+    "partNumber": 163,
+    "partName": "DR. K.N.  MODI SCIENCE AND COMMERCE COLLEGE MODINAGARNO-9"
+  },
+  {
+    "partNumber": 164,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-1"
+  },
+  {
+    "partNumber": 165,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-2"
+  },
+  {
+    "partNumber": 166,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-3"
+  },
+  {
+    "partNumber": 167,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-4"
+  },
+  {
+    "partNumber": 168,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-5"
+  },
+  {
+    "partNumber": 169,
+    "partName": "GAYATRI DEVI JUNIOR HIGH SCHOOL MODIPON COLONY ROOM-6"
+  },
+  {
+    "partNumber": 170,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOM NO-1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOM NO-2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOM NO-3"
+  },
+  {
+    "partNumber": 173,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOMNO-4"
+  },
+  {
+    "partNumber": 174,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOMNO-5"
+  },
+  {
+    "partNumber": 175,
+    "partName": "MULTANIMAL DEGREE COLLEGE MODINAGAR ROOM NO-6"
+  },
+  {
+    "partNumber": 176,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-1"
+  },
+  {
+    "partNumber": 177,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-2"
+  },
+  {
+    "partNumber": 178,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-3"
+  },
+  {
+    "partNumber": 179,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-4"
+  },
+  {
+    "partNumber": 180,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-5"
+  },
+  {
+    "partNumber": 181,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-6"
+  },
+  {
+    "partNumber": 182,
+    "partName": "TULSIRAM MAHESHWARI KANYA INTER COLLEGE AADARSH NAGAR ROOM-7"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-1"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-2"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-3"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-4"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-5"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.B.A.S. INTER COLLEGE MODINAGAR  ROOM-6"
+  },
+  {
+    "partNumber": 189,
+    "partName": "GREEN LAND ACADEMY FAFRANA BASTI ROOM-1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "GREEN LAND ACADEMY FAFRANA BASTI ROOM NO 2"
+  },
+  {
+    "partNumber": 191,
+    "partName": "GREEN LAND ACADEMY FAFRANA BASTI ROOM NO 3"
+  },
+  {
+    "partNumber": 192,
+    "partName": "GREEN LAND ACADEMY FAFRANA BASTI ROOM NO 4"
+  },
+  {
+    "partNumber": 193,
+    "partName": "GREEN LAND ACADEMY FAFRANA BASTI ROOM NO 5"
+  },
+  {
+    "partNumber": 194,
+    "partName": "DAYAWATI MODI KANYA JUNIOR HIGH SCHOOL DALEEP PARK ROOM-1"
+  },
+  {
+    "partNumber": 195,
+    "partName": "DAYAWATI MODI KANYA JUNIOR HIGH SCHOOL DALEEP PARK ROOM-2"
+  },
+  {
+    "partNumber": 196,
+    "partName": "DAYAWATI MODI KANYA JUNIOR HIGH SCHOOL DALEEP PARK ROOM-3"
+  },
+  {
+    "partNumber": 197,
+    "partName": "DAYAWATI MODI KANYA JUNIOR HIGH SCHOOL DALEEP PARK ROOM-4"
+  },
+  {
+    "partNumber": 198,
+    "partName": "RUKMANI MODI PRIMARY SCHOOL THANE K PICHHE ROOM NO 1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "RUKMANI MODI PRIMARY SCHOOL THANE K PICHHE ROOM NO 2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "RUKMANI MODI PRIMARY SCHOOL THANE K PICHHE ROOM NO  3"
+  },
+  {
+    "partNumber": 201,
+    "partName": "RUKMANI MODI PRIMARY SCHOOL THANE K PICHHE ROOM NO 4"
+  },
+  {
+    "partNumber": 202,
+    "partName": "RUKMANI MODI PRIMARY SCHOOL THANE K PICHHE ROOM NO 5"
+  },
+  {
+    "partNumber": 203,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "T R M  P B S PUBLIC SCHOOL MODINAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 3"
+  },
+  {
+    "partNumber": 206,
+    "partName": "T R M  P B S PUBLIC SCHOOL MODINAGAR ROOM NO 4"
+  },
+  {
+    "partNumber": 207,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 5"
+  },
+  {
+    "partNumber": 208,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 6"
+  },
+  {
+    "partNumber": 209,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 7"
+  },
+  {
+    "partNumber": 210,
+    "partName": "T R M P B S PUBLIC SCHOOL MODINAGAR ROOM NO 8"
+  },
+  {
+    "partNumber": 211,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-1"
+  },
+  {
+    "partNumber": 212,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-2"
+  },
+  {
+    "partNumber": 213,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-3"
+  },
+  {
+    "partNumber": 214,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-4"
+  },
+  {
+    "partNumber": 215,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-5"
+  },
+  {
+    "partNumber": 216,
+    "partName": "DAYAWATI MODI PUBLIC ACADMY FAFARANA ROAD ROOM-6"
+  },
+  {
+    "partNumber": 217,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-2"
+  },
+  {
+    "partNumber": 219,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-3"
+  },
+  {
+    "partNumber": 220,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-4"
+  },
+  {
+    "partNumber": 221,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-5"
+  },
+  {
+    "partNumber": 222,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-6"
+  },
+  {
+    "partNumber": 223,
+    "partName": "LAL BAHADUR SHASTRI SMARK JUNIOR HIGH SCHOOL TIBDA ROAD ROOM-7"
+  },
+  {
+    "partNumber": 224,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PURV DISHSA RAILWAY ROAD MODINAGAR ROOM-1"
+  },
+  {
+    "partNumber": 225,
+    "partName": "RUKMANI MODI MAHILA VI PURV DISHA RAILWAY ROAD MODINAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 226,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PURV DISHSA RAILWAY ROAD MODINAGAR ROOM-3"
+  },
+  {
+    "partNumber": 227,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PURV DISHSA RAILWAY ROAD MODINAGAR ROOM-4"
+  },
+  {
+    "partNumber": 228,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PURV DISHSA RAILWAY ROAD MODINAGAR ROOM-5"
+  },
+  {
+    "partNumber": 229,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-3"
+  },
+  {
+    "partNumber": 232,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-4"
+  },
+  {
+    "partNumber": 233,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-5"
+  },
+  {
+    "partNumber": 234,
+    "partName": "RUKMANI MODI MAHILA VIDHYALYA PASHACHIM DISHSA RAILWAY ROAD MODINAGAR ROOM-6"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRIMERY SCHOOL FAFARANA ROOM-1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRIMERY SCHOOL FAFARANA ROOM-2"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PRIMERY SCHOOL FAFARANA ROOM-3"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PRIMERY SCHOOL N0 2 BEGMABAD ROOM-1"
+  },
+  {
+    "partNumber": 239,
+    "partName": "PRIMERY SCHOOL N0 2 BEGMABAD ROOM-2"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRIMERY SCHOOL N0 2 BEGMABAD ROOM-3"
+  },
+  {
+    "partNumber": 241,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-2"
+  },
+  {
+    "partNumber": 243,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-3"
+  },
+  {
+    "partNumber": 244,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-4"
+  },
+  {
+    "partNumber": 245,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-5"
+  },
+  {
+    "partNumber": 246,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-6"
+  },
+  {
+    "partNumber": 247,
+    "partName": "AADARSH COMPOSITE SCHOOL THANE KE PASS BEGMABAD ROOM-7"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PASHU CHIKITSHALYA SIKRI KHURD ROOM-1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PASHU CHIKITSHALYA SIKRI KHURD ROOM-2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "ANGANBADI KENDRA - 2 SIKRI KHURD ROOM-1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "ANGANBADI KENDRA - 2 SIKRI KHURD ROOM-2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "COMPOSITE SCHOOL SIKRI KHURD ROOM-1"
+  },
+  {
+    "partNumber": 253,
+    "partName": "COMPOSITE SCHOOL SIKRI KHURD ROOM-2"
+  },
+  {
+    "partNumber": 254,
+    "partName": "COMPOSITE VIDYALAY SIKRI KHURD ROOM NO 3"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PURV MA. VIDHYALYA  KAJAMPUR  ROOM-1"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRIMERY SCHOOL DAUSABANJARPUR ROOM-1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRIMERY SCHOOL DAUSABANJARPUR  ROOM-2"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-3"
+  },
+  {
+    "partNumber": 261,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-4"
+  },
+  {
+    "partNumber": 262,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-5"
+  },
+  {
+    "partNumber": 263,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-6"
+  },
+  {
+    "partNumber": 264,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-7"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSITE SCHOOL KALCHHINA ROOM-8"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMERY SCHOOLKALCHEENA SUKKAN GARHI ROOM-1"
+  },
+  {
+    "partNumber": 267,
+    "partName": "RAJKEEYA KANYA INTER COLLEGE KALCHEENA ROOM-1"
+  },
+  {
+    "partNumber": 268,
+    "partName": "RAJKEEYA KANYA INTER COLLEGE KALCHEENA ROOM-2"
+  },
+  {
+    "partNumber": 269,
+    "partName": "RAJKEEYA KANYA INTER COLLEGE KALCHEENA ROOM-3"
+  },
+  {
+    "partNumber": 270,
+    "partName": "RAJKEEYA KANYA INTERCOLLEGE KALCHEENA ROOM-4"
+  },
+  {
+    "partNumber": 271,
+    "partName": "COMPOSITE SCHOOL NANGLABER ROOM-1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "COMPOSITE SCHOOL NANGLABER ROOM-2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRIMERY SCHOOL AABIDPUR MANKI ROOM-1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMERY SCHOOL AABIDPUR MANKI ROOM-2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "COMPOSITE SCHOOL LATIFPUR TIBRA ROOM-1"
+  },
+  {
+    "partNumber": 276,
+    "partName": "COMPOSITE SCHOOL LATIFPUR TIBRA ROOM-2"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE SCHOOL LATIFPUR TIBRA ROOM-3"
+  },
+  {
+    "partNumber": 278,
+    "partName": "COMPOSITE SCHOOL AURANGABAD GADANA ROOM-1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSITE SCHOOL AURANGABAD GADANA ROOM-2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSITE SCHOOL AURANGABAD GADANA ROOM-3"
+  },
+  {
+    "partNumber": 281,
+    "partName": "COMPOSITE SCHOOL AURANGABAD GADANA ROOM-4"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMERY SCHOOL GARHI GADANA ROOM-1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRIMERY SCHOOL GARHI GADANA ROOM-2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRIMERY SCHOOL VIDHYAPUR SAFIYABAD ROOM-1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMERY SCHOOLBAKHARVA ROOM-1"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMERY SCHOOL BAKHARVA ROOM-2"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMERY SCHOOL BAKHARVA ROOM-3"
+  },
+  {
+    "partNumber": 288,
+    "partName": "MODI KANYA PURV MA. VI.SHAJHAPUR ROOM-1"
+  },
+  {
+    "partNumber": 289,
+    "partName": "MODI KANYA PURV MA. VI.SHAJHAPUR ROOM-2"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMERY SCHOOLHRIDYAPUR BHANDOLA ROOM-1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMERY SCHOOLHRIDYAPUR BHANDOLA ROOM-2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "COMPOSITE SCHOOL SHAKURPUR ROOM-1"
+  },
+  {
+    "partNumber": 293,
+    "partName": "COMPOSITE SCHOOL SHAKURPUR ROOM-2"
+  },
+  {
+    "partNumber": 294,
+    "partName": "COMPOSITE SCHOOL MURADABAD ROOM-1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOSITE SCHOOL MURADABAD ROOM-2"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRIMERY SCHOOL DEELNA ROOM-1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMERY SCHOOL DEELNA ROOM-2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMERY SCHOOL SAIDPURHUSAINPUR DEELNA ROOM-1"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMERY SCHOOL SAIDPURHUSAINPUR DEELNA ROOM-2"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRIMERY SCHOOL SAIDPURHUSAINPUR DEELNA ROOM-3"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMERY SCHOOL SAIDPURHUSAINPUR DEELNA ROOM-4"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRIMERY SCHOOL SAIDPURHUSAINPUR DEELNA ROOM-5"
+  },
+  {
+    "partNumber": 303,
+    "partName": "KRISHAK INTER COLLEGECHURIYALA ROOM-1"
+  },
+  {
+    "partNumber": 304,
+    "partName": "KRISHAK  INTER COLLEGECHURIYALA ROOM-2"
+  },
+  {
+    "partNumber": 305,
+    "partName": "KRISHAK INTER COLLEGE CHURIYALA ROOM-3"
+  },
+  {
+    "partNumber": 306,
+    "partName": "KRISHAK  INTER COLLEGECHURIYALA ROOM-4"
+  },
+  {
+    "partNumber": 307,
+    "partName": "KRISHAK  INTER COLLEGE CHURIYALA ROOM-5"
+  },
+  {
+    "partNumber": 308,
+    "partName": "KANYA PURV MA. VI.TALHETA ROOM-1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "KANYA PURV MA. VI.TALHETA ROOM-2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "KANYA PURV MA. VI.TALHETA ROOM-3"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PURV MA. VI. TALHETA ROOM-1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "RAJKEEYA INTER COLLEGETYODI 13 BISVA ROOM-1"
+  },
+  {
+    "partNumber": 313,
+    "partName": "RAJKEEYA INTER COLLEGETYODI 13 BISVA ROOM-2"
+  },
+  {
+    "partNumber": 314,
+    "partName": "RAJKEEYA INTER COLLEGETYODI 13 BISVA ROOM-3"
+  },
+  {
+    "partNumber": 315,
+    "partName": "RAJKEEYA INTER COLLEGETYODI 13 BISVA ROOM-4"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PURV MA. VI. TYODI 13 BISVA ROOM-1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PURV MA. VI. TYODI 13 BISVA ROOM-2"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PURV MA. VI. TYODI 7 BISVA ROOM-1"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PURV MA. VI. TYODI 7 BISVA ROOM-2"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PURV MA. VI. TYODI 7 BISVA ROOM-3"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PURV MA. VI. TYODI 7 BISVA ROOM-4"
+  },
+  {
+    "partNumber": 322,
+    "partName": "COMPOSITE  SCHOOL BHADAULA ROOM-1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMERY SCHOOL RAGHUNATHPUR ROOM-1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRIMERY SCHOOL KILHAUDA ROOM-1"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMERY SCHOOL KILHAUDA ROOM-2"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE SCHOOL ISAPUR ROOM-1"
+  },
+  {
+    "partNumber": 327,
+    "partName": "COMPOSITE SCHOOL ISAPUR ROOM-2"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMERY SCHOOLAURANGABAD FAZALGARH ROOM-1"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMERY SCHOOLAURANGABAD FAZALGARH ROOM-2"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMERY SCHOOLAURANGABAD FAZALGARH ROOM-3"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMERY SCHOOLAURANGABAD FAZALGARH ROOM-4"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMERY SCHOOL PALAUTA ROOM-1"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMERY SCHOOL BHATJAN ROOM-1"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMERY SCHOOL BHATJAN  ROOM-2"
+  },
+  {
+    "partNumber": 335,
+    "partName": "COMPOSITE SCHOOL MACHHRI ROOM-1"
+  },
+  {
+    "partNumber": 336,
+    "partName": "COMPOSITE SCHOOL MACHHRI ROOM-2"
+  },
+  {
+    "partNumber": 337,
+    "partName": "DAYAWATI MODI KANYASCHOOL BHOJPUR ROOM-1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "DAYAWATI MODI KANYASCHOOL BHOJPUR ROOM-2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "COMPOSITE  SCHOOL BHOJPUR ROOM-1"
+  },
+  {
+    "partNumber": 340,
+    "partName": "COMPOSITE  SCHOOL BHOJPUR ROOM-2"
+  },
+  {
+    "partNumber": 341,
+    "partName": "COMPOSITE  SCHOOL BHOJPUR ROOM-3"
+  },
+  {
+    "partNumber": 342,
+    "partName": "COMPOSITE  SCHOOL BHOJPUR ROOM-4"
+  },
+  {
+    "partNumber": 343,
+    "partName": "COMPOSITE SCHOOL KHANJERPUR ROOM-1"
+  },
+  {
+    "partNumber": 344,
+    "partName": "COMPOSITE SCHOOL KHANJARPUR ROOM-2"
+  },
+  {
+    "partNumber": 345,
+    "partName": "COMPOSITE SCHOOL KHANJARPUR ROOM-3"
+  },
+  {
+    "partNumber": 346,
+    "partName": "COMPOSITE SCHOOL KHANJARPUR ROOM-4"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMERY SCHOOL PATTI ROOM-1"
+  },
+  {
+    "partNumber": 348,
+    "partName": "COMPOSITE SCHOOL JAHANGIRPUR ROOM-1"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE SCHOOL JAHANGIRPUR ROOM-2"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMERY SCHOOL AMRALA ROOM-1"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRIMERY SCHOOL AMRALA ROOM-2"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMERY SCHOOL AMRALA ROOM-3"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSITE SCHOOL PURVI BHAWAN FAREEDNAGAR ROOM-1"
+  },
+  {
+    "partNumber": 354,
+    "partName": "COMPOSITE SCHOOL PURVI BHAWAN FAREEDNAGAR ROOM-2"
+  },
+  {
+    "partNumber": 355,
+    "partName": "COMPOSITE SCHOOL PURVI BHAWAN FAREEDNAGAR ROOM-3"
+  },
+  {
+    "partNumber": 356,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-2"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-3"
+  },
+  {
+    "partNumber": 359,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-4"
+  },
+  {
+    "partNumber": 360,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-5"
+  },
+  {
+    "partNumber": 361,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-6"
+  },
+  {
+    "partNumber": 362,
+    "partName": "COMPOSITE SCHOOL  PASHACHIM  BHAWAN FAREEDNAGAR ROOM-7"
+  },
+  {
+    "partNumber": 363,
+    "partName": "AADARSH PRIMERY SCHOOL AURANGNAGAR KINHAPUR ROOM-1"
+  },
+  {
+    "partNumber": 364,
+    "partName": "PRIMERY SCHOOL AMIRPURBADAYLA ROOM-1"
+  },
+  {
+    "partNumber": 365,
+    "partName": "COMPOSITE SCHOOL SUJANPUR AAKHARA ROOM-1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRIMERY SCHOOL  MOHAMMADPUR SUJANPUR ROOM-1"
+  },
+  {
+    "partNumber": 367,
+    "partName": "PRIMERY SCHOOL SHAMLI ROOM-1"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PRIMERY SCHOOL SHAMLI ROOM-2"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PURV MA. VI. ATROLI ROOM-1"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PURV MA. VI. ATROLI ROOM-2"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PURV MA. VI. ATROLI ROOM-3"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PURV MA. VI. ATROLI ROOM-4"
+  },
+  {
+    "partNumber": 373,
+    "partName": "COMPOSITE SCHOOL AURANGABAD DATAIRI ROOM-1"
+  },
+  {
+    "partNumber": 374,
+    "partName": "PRIMERY SCHOOLKANAKPUR ROOM-1"
+  },
+  {
+    "partNumber": 375,
+    "partName": "PURV MA. VI. JOYA ROOM-1"
+  },
+  {
+    "partNumber": 376,
+    "partName": "COMPOSITE SCHOOL ISHAK NAGAR ROOM-1"
+  },
+  {
+    "partNumber": 377,
+    "partName": "COMPOSITE  SCHOOL NAHLI ROOM-1"
+  },
+  {
+    "partNumber": 378,
+    "partName": "COMPOSITE  SCHOOL NAHLI ROOM-2"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE  SCHOOL NAHLI ROOM-3"
+  },
+  {
+    "partNumber": 380,
+    "partName": "COMPOSITE  SCHOOL NAHLI ROOM-4"
+  },
+  {
+    "partNumber": 381,
+    "partName": "COMPOSITE SCHOOL NANGAULA  AMIPUR NO-1"
+  },
+  {
+    "partNumber": 382,
+    "partName": "COMPOSITE SCHOOL NANGAULA  AMIPUR NO-2"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PURV MA. VI. MUKEEMPUR ROOM-1"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PURV MA. VI. MUKEEMPUR ROOM-2"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PRIMERY SCHOOLMUKEEMPURNO-1"
+  },
+  {
+    "partNumber": 386,
+    "partName": "PRIMERY SCHOOL MUKEEMPUR NO-2"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PRIMERY SCHOOL MUKEEMPUR NO-3"
+  }
+]

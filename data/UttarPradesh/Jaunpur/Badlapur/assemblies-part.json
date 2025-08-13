@@ -1,0 +1,1422 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PS JAGDISHPUR"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PS KACHHAURA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PS ANUSAR"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PS KANAKPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PS JAMAUPATTI ROOM NO.1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PS JAMAUPATTI ROOM NO.2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P S BAGHADIKALA"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P S MEDHA ROOM NO.1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P S MEDHA ROOM NO.2"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P S MEDHA ROOM NO.3"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P S FIROJPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P S FIROJPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P S RATASI EAST SIDE"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P S RATASI WEST SIDE"
+  },
+  {
+    "partNumber": 15,
+    "partName": "J H S ARJUNPUR"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P S MAHADA NORTH SIDE"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P S MAHADA SOUTH SIDE"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P S BAHARIPURKALA EAST SIDE"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P S BAHARIPURKALA WEST SIDE"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P S MALLUPUR EAST SIDE"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P S MALLUPUR WEST SIDE"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P S BARAIYA EAST SIDE"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P S BARAIYA WEST SIDE"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P S NAKAKARAKHANDEV NORTH SIDE"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P S NAKAKARAKHANDEV SOUTH SIDE"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P S BACHHUVAR"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P S HARIHARPUR"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P S KARAMPUR"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PANCHAYAT BHAVAN KEVATALI"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P S NABHIPUR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P S BHOOLA"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P S DEHUDA NORTH SIDE"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P S DEHUDA SOUTH SIDE"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P S NIDURPUR"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P S KUDHUA"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PS KAITHAURA"
+  },
+  {
+    "partNumber": 37,
+    "partName": "J H S KHANPUR EAST SIDE"
+  },
+  {
+    "partNumber": 38,
+    "partName": "J H S KHANPUR WEST SIDE"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P S DAYALAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P S DAYALAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P S AHOPUR"
+  },
+  {
+    "partNumber": 42,
+    "partName": "J H S SIGHAWAL EAST SIDE"
+  },
+  {
+    "partNumber": 43,
+    "partName": "J H S SINGHAWAL WEST SIDE"
+  },
+  {
+    "partNumber": 44,
+    "partName": "J H S SINGHAWAL MIDDLE SIDE"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P S MISHRAULI EAST SIDE"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P S MISHRAULI WEST SIDE"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P S KAVELI NORTH SIDE"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P S KAVELI SOUTH SIDE"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P S SIRKINA EAST SIDE"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PANCHAYAT BHAWAN BAHUR"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P S KARANPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P S KARANPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P S PAHITIYAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P S PAHITIYAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P S SADHAPUR  EAST SIDE"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P S SADHAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P S GONAULI NORTH SIDE"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P S GONAULI SOUTH SIDE"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P S KUSAHAN"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P S KHAMPUR"
+  },
+  {
+    "partNumber": 61,
+    "partName": "SHRI DEVAKINANDAN JANKALYAN J H S RAMPUR EAST SIDE"
+  },
+  {
+    "partNumber": 62,
+    "partName": "SHRI DEVAKINANDAN JANKALYAN J H S RAMPUR WEST SIDE"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P S FATTUPUR"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P S BABURA NORTH SIDE"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P S BABURA SOUTH SIDE"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P S ATAULI"
+  },
+  {
+    "partNumber": 67,
+    "partName": "J H S TIYARA EAST SIDE"
+  },
+  {
+    "partNumber": 68,
+    "partName": "J H S TIYARA WEST SIDE"
+  },
+  {
+    "partNumber": 69,
+    "partName": "J H S TIYARA NORTH SIDE"
+  },
+  {
+    "partNumber": 70,
+    "partName": "J H S TIYARA SOUTH SIDE"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P S BACHHADI"
+  },
+  {
+    "partNumber": 72,
+    "partName": "P S INAMIPUR"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P S RAMIPUR"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P S PURARAJWAR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P S DUDHAUDA"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P S RUPPUR AT BUDHANEPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "SHRI KRISHN I C GAJENDRAPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 78,
+    "partName": "SHRI KRISHN I C GAJENDRAPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P S  GAJENDRAPUR FIRST AT GAURA NORTH SIDE"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P S GAJENDRAPUR FIRST AT GAURA SOUTH SIDE"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P S BESAHUPUR"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P S KAMMARPUR"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P S RAMANIPUR EAST SIDE"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P S RAMANIPUR WEST SIDE"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P S RAMNAGAR EAST SIDE"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P S RAMNAGAR WEST SIDE"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P S TILWARI"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P S BADSARA"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRE SECONDARY SCHOOL GOPALAPUR"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P S SUTAULI"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P S MAHMADPUR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P S SHAHPURSANI"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P S BADERI NORTH SIDE"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P S BADERI SOUTH SIDE"
+  },
+  {
+    "partNumber": 95,
+    "partName": "P S GHANSHYAMPUR"
+  },
+  {
+    "partNumber": 96,
+    "partName": "I C GHANSHYAMPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 97,
+    "partName": "I C GHANSHYAMPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P S DEVRAMPUR"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P S KUCHAUHA"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P S RAYPUR AT CHANDAPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P S RAYPUR AT CHANDAPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P S SARAYGUNJA"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P S SHAHPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P S SHAHPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P S DUGAULI KHURD NORTH SIDE"
+  },
+  {
+    "partNumber": 106,
+    "partName": "P S DUGAULI KHURD SOUTH SIDE"
+  },
+  {
+    "partNumber": 107,
+    "partName": " P S DUGAULI KALA EAST SIDE"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P S DUGAULI KALA WEST SIDE"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P S MARAGUPUR"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P S PURANI BAZAR EAST SIDE"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P S PURANI BAZAR WEST SIDE"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P S BITHUA KALA EAST SIDE"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P S BITHUA KALA WEST SIDE"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P S  SHRI KRISHANNAGAR AT BHALUWAHI NORTH SIDE"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P S SHRI KRISHANNAGAR AT BHALUWAHI SOUTH SIDE"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P S SHRI KRISHANNAGAR AT BHALUWAHI EAST SIDE"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P S SHRI KRISHANNAGAR AT BHALUWAHI WEST SIDE"
+  },
+  {
+    "partNumber": 118,
+    "partName": "P S UDAPUR GHATAMPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P S UDAPUR GHATAMPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P S RAIBHANIPUR"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P S NEVADA MUKHLISPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P S NEVADA MUKHLISPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P S PATTIDAYAL"
+  },
+  {
+    "partNumber": 124,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO.1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO.2"
+  },
+  {
+    "partNumber": 126,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO.3"
+  },
+  {
+    "partNumber": 127,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO.4"
+  },
+  {
+    "partNumber": 128,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO .5"
+  },
+  {
+    "partNumber": 129,
+    "partName": "SAROKHANPUR SHRIKRISHNNAGAR J H S ROOM NO .6"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P S SAROKHANPUR FIRST"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P S SAROKHANPUR SECOND"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P S UDAPUR GELHAWA NORTH SIDE"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P S UDAPUR GELHAWA SOUTH SIDE"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P S UDAPUR GELHAWA EAST SIDE"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P S UDAPUR GELHAWA WEST SIDE"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P S MURADPUR KOTILA EAST SIDE"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P S MURADPUR KOTILA WEST SIDE"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P S MURADPUR KOTILA NORTH SIDE"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P S MURADPUR KOTILA SOUTH SIDE"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRE SECONDARY SCHOOL MIRSHADPUR EAST SIDE"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRE SECONDARY SCHOOL MIRSHADPUR WEST SIDE"
+  },
+  {
+    "partNumber": 142,
+    "partName": "P S BALUA  NORTH SIDE"
+  },
+  {
+    "partNumber": 143,
+    "partName": "P S BALUA  SOUTH SIDE"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P S HIMMATPUR"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P S ROOPCHANDPUR EAST SIDE"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P S ROOPCHANDPUR WEST SIDE"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P S BANGAOVPATTI URF SALEKHANPATTI"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P S BANGAONPATTI"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P S KAMALPUR"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P S BANGAOV BHUMIHAR"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P S MACHHALIGAOV NORTH SIDE"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P S MACHHALIGAOV SOUTH SIDE"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P S MACHHALIGAOV MIDDLE SIDE"
+  },
+  {
+    "partNumber": 154,
+    "partName": "J H S BADLAPUR KHURD NORTH SIDE"
+  },
+  {
+    "partNumber": 155,
+    "partName": "J H S BADLAPUR KHURD  SOUTH SIDE"
+  },
+  {
+    "partNumber": 156,
+    "partName": "J H S BADLAPUR KHURD  EAST SIDE"
+  },
+  {
+    "partNumber": 157,
+    "partName": "J H S BADLAPUR KHURD WEST SIDE"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P S RARIKALA"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P S VIRBHANPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P S VIRBHANPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P S DURGAPATTI"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P S DENUA"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P S DEVAPATTI"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P S KHALISPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P S KHALISPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P S DADAWA NORTH SIDE"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P S DADAWA SOUTH SIDE"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P S BAKKHO PUR"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P S MASANPUR"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P S PRANPATTI"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P S CHHANGAPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P S CHHANGAPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P S SALAMATPUR"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P S  CHAVARI EAST SIDE"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P S  CHAVARI WEST SIDE"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P S BARBASPUR"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P S KATHARI"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P S BELAWA NORTH SIDE"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P S BELAWA MIDDLE SIDE"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P S BELAWA SOUTH SIDE"
+  },
+  {
+    "partNumber": 181,
+    "partName": "ARYA I C LEDUKA EAST SIDE"
+  },
+  {
+    "partNumber": 182,
+    "partName": "ARYA I C LEDUKA  WEST SIDE"
+  },
+  {
+    "partNumber": 183,
+    "partName": "ARYA I C LEDUKA  NORTH SIDE"
+  },
+  {
+    "partNumber": 184,
+    "partName": "ARYA I C LEDUKA  SOUTH SIDE"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P S DEVARIYA NORTH SIDE"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P S DEVARIYA SOUTH SIDE"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P S AGRAURA EAST SIDE"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P S AGRAURA MIDDLE SIDE"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P S AGRAURA  WEST SIDE"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P S SONVAR"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P S BADARI"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P S SARAY HARAKHU AT DHANIYAMAU EAST SIDE"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P S SARAY HARAKHU AT DHANIYAMAU WEST SIDE"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P S SARAY HARAKHU NORTH SIDE"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P S SARAY HARAKHU SOUTH SIDE"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P S AUNKA EAST SIDE"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P S AUNKA WEST SIDE"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P S BRAHMANPUR NAVABAD NORTH SIDE"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P S BRAHMANPUR NAVABAD SOUTH SIDE"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P S KALINJARA"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P S BASARA"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P S KHAIRPARA"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P S DILSHADPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P S DILSHADPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P S UDAPUR"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P S MITAWA"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P S BHOSILA"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P S  RASIKAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 209,
+    "partName": "P S RASIKAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P S  MAINUDDINPUR"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P S BEDAULI"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P S SALAMATPUR"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P S  SARAY TRILOKI SOUTH SIDE"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P S SARAY TRILOKI NORTH SIDE"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P S NARAYANPUR"
+  },
+  {
+    "partNumber": 216,
+    "partName": "J H S  DHARAMDASPUR"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P S SCHOOL DANDAWA"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P S UMARI KHURD SECOND"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P S UMARI KHURD FIRST NORTH SIDE"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P S UMARI KHURD FIRST SOUTH SIDE"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P S LAMHAN EAST SIDE"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P S LAMHAN MIDDLE SIDE"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P S LAMHAN WEST SIDE"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P S PURA GAMBHIRSHAH NORTH SIDE"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P S PURA GAMBHIRSHAH SOUTH SIDE"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P S DOMPUR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P S  KATHAR"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P S KHAJURAN NORTH SIDE"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P S  KHAJURAN SOUTH SIDE"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRE SECONDARY SCHOOL DHEMA FIRST EAST SIDE"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRE SECONDARY SCHOOL DHEMA FIRST MIDDLE SIDE"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRE SECONDARY SCHOOL DHEMA FIRST WEST SIDE"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P S ASUAPAR"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P S BHEEMPUR"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P S PURALAL"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P S CHHITAKAPUR KASTURI"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P S GAJADHARPUR"
+  },
+  {
+    "partNumber": 238,
+    "partName": "P S PURABALAI"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P S KOL"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P S MARAKHAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P S MARAKHAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P S THEGAHA"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P S SEED NORTH SIDE"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P S SEED SOUTH SIDE"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P S SENPURKALA"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P S BASUPUR"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P S CHARIYAHI FIRST"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRE SECONDARY SCHOOL FATTUPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P S NAHARPUR"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PS NAHARPUR"
+  },
+  {
+    "partNumber": 251,
+    "partName": " P S RAJPUR  RUKHAR NORTH SIDE"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P S RAJPUR  RUKHAR SOUTH SIDE"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P S CHARIYAHI SECOND"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P S GADDOPUR"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P S BASAHARAKALA"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P S HARAKHAPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P S KAILVAL"
+  },
+  {
+    "partNumber": 258,
+    "partName": "J H S  GHURIPUR URF SHIVNAGAR"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P S GHUSKURI"
+  },
+  {
+    "partNumber": 260,
+    "partName": "J H S MIRAPUR SHIROMANI  EAST SIDE"
+  },
+  {
+    "partNumber": 261,
+    "partName": "J H S MIRAPUR SHIROMANI  WEST SIDE"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P S BAGAUJHAR NORTH SIDE"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P S BAGAUJHAR SOUTH SIDE"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P S  SARAI PARSHURAM AT KATRA "
+  },
+  {
+    "partNumber": 265,
+    "partName": "GAURISHANKAR SANSKRIT PATHSHALA SARAY PARSARAM RAJABAZAR EAST SIDE"
+  },
+  {
+    "partNumber": 266,
+    "partName": "GAURISHANKAR SANSKRIT PATHSHALA  SARAY PARSARAM RAJABAZAR EAST SIDE WEST SIDE"
+  },
+  {
+    "partNumber": 267,
+    "partName": "GAURISHANKAR SANSKRIT PATHSHALA SARAY PARSARAM RAJABAZAR MIDDLE SIDE"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P S BHOGIPUR  EAST SIDE"
+  },
+  {
+    "partNumber": 269,
+    "partName": " P S BHOGIPUR  WEST SIDE"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P S  BANKAT LODHI NORTH SIDE"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P S  BANKAT LODHI SOUTH SIDE"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P S AHIRAULI"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P S SARAY DURGADAS NORTH SIDE"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P S SARAY DURGADAS SOUTH SIDE"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P S  BAHARPUR KHURD NORTH SIDE"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P S  BAHARPUR KHURD SOUITH SIDE"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P S RAMNAGARUPDHAN"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PS RAMNAGAR UPDHAN"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P S BAIHARI "
+  },
+  {
+    "partNumber": 280,
+    "partName": "P S BARAHUPUR"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P S ANGARAH"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P S ANAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P S ANAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P S BAHORIKPUR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P S VIJHAWAT EAST SIDE"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P S VIJHAWAT  WEST SIDE"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P S HATIYARAMNATH EAST SIDE"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P S HATIYARAMNATH WEST SIDE"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P S DALUPUR"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P S MAYA"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P S  KHUTAHANI"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P S BHAGWANPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P S BHAGWANPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P S  BANBEERPUR"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P S BABHANPUR"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P S BESAR"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P S  ASAROPUR EAST SIDE"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P S  ASAROPUR WEST SIDE"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P S RAJAPUR"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P S KEVATALI"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P S PAHADPUR"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P S TURKAULI"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P S EKHUAA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P S SARAYPADARI EAST SIDE"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P S SARAYPADARI WEST SIDE"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P S   BAHAUDDINPUR  NORTH SIDE"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P S  BAHAUDDINPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P S MUHKUCHA EAST SIDE"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P S MUHKUCHA WEST SIDE"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P S KOIRIPUR"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P S SADARUDDINPUR"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P S AMARI EAST SIDE"
+  },
+  {
+    "partNumber": 313,
+    "partName": "P S AMARI WEST SIDE"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P S BHATPURA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P S UDAYBHANPUR"
+  },
+  {
+    "partNumber": 316,
+    "partName": "J H S   KOLHUA NORTH SIDE"
+  },
+  {
+    "partNumber": 317,
+    "partName": "J H S  KOLHUA SOUTH SIDE"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P S  HARIAPUR   AT RAMNAGAR NORTH SIDE"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P S  HARAIPUR  AT RAMNAGAR SOUTH SIDE"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P S POKHARA EAST SIDE"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P S POKHARA WEST SIDE"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P S RASIKAPUR"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P S RAMDEIYA"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P S SHAHPUR NEVADA"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P S  GAURA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "J H S RAJEPUR"
+  },
+  {
+    "partNumber": 327,
+    "partName": "P S RAIPUR"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P S KALYANPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P S KALYANPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P S BARJI KHURD"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P S L MAJITHI NORTH SIDE"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P S  MAJITHI SOUTH SIDE"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P S  IBRAHIMPUR"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P S  GOKULA  AT MASTHARI"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P S KEVATALI MAHARAJGANJ NORTH SIDE"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P S KEVATALI MAHARAJGANJ SOUTH SIDE"
+  },
+  {
+    "partNumber": 337,
+    "partName": "J H S  DELHUPUR"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P S  SAVANSA NORTH SIDE"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P S  SAVANSA SOUTH SIDE"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P S BAJAHA"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P S LOHARIYAV EAST SIDE"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P S LOHARIYAV WEST SIDE"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P S BHATAULI NORTH SIDE"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P S BHATAULI SOUTH SIDE"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P S BHARTHARI"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P S  SETAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P S  SETAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P S GOTHAWA"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P S RAMPUR TALUKA BHARTHARI"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P S  JANAUR EAST SIDE"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P S  JANAUR WEST SIDE"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P S SARSARA"
+  },
+  {
+    "partNumber": 353,
+    "partName": "P S  HILALI"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P S KANDHIKALA"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P S  KARCHHULI"
+  }
+]

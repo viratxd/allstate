@@ -1,0 +1,32 @@
+[
+  {
+    "acNumber": 30,
+    "asmblyName": "Bilari",
+    "asmblyNameL1": "बिलारी"
+  },
+  {
+    "acNumber": 25,
+    "asmblyName": "Kanth",
+    "asmblyNameL1": "कांठ"
+  },
+  {
+    "acNumber": 29,
+    "asmblyName": "Kundarki",
+    "asmblyNameL1": "कुन्दरकी"
+  },
+  {
+    "acNumber": 28,
+    "asmblyName": "Moradabad Nagar",
+    "asmblyNameL1": "मुरादाबाद नगर"
+  },
+  {
+    "acNumber": 27,
+    "asmblyName": "Moradabad Rural",
+    "asmblyNameL1": "मुरादाबाद ग्रामीण"
+  },
+  {
+    "acNumber": 26,
+    "asmblyName": "Thakurdwara",
+    "asmblyNameL1": "ठाकुरद्वारा"
+  }
+]

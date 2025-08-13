@@ -1,0 +1,1498 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S. LALPUR"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.S. MUDAINA ROOPSHAH R.N.01"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S. MUDAINA ROOPSHAH R.N.02"
+  },
+  {
+    "partNumber": 4,
+    "partName": "U.P.S. GANGDASPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S. KAKRAIYA"
+  },
+  {
+    "partNumber": 6,
+    "partName": "KANYA U.P.S. SAUNASI R.N.1"
+  },
+  {
+    "partNumber": 7,
+    "partName": "KANYA U.P.S. SAUNASI R.N.2"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S. MANIKPUR"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S. CHAKSARAY ANANTRAM"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S.  CHANDUPUR"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S. MOHARI R.N. 1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S.  MOHARI R.N. 2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S.  PHOOLPUR R.N.1"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S.  PHOOLPUR R.N.2"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S.  SURAYANDHA"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S.  MAHMOODPUR PAINGUPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "U.P.S. DAHIYAPUR(COMPOSITE)"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S. SIMAR"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S.  SHALA"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.S.  JAGANPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. BADAIRA"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S.  BHUREPUR KALA"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.S. SIKRAUDI"
+  },
+  {
+    "partNumber": 24,
+    "partName": "U.P.S. GAUHANI KALA (COMPOSITE)"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S.  GAUHANI KHURD"
+  },
+  {
+    "partNumber": 26,
+    "partName": "U.P.S. PACHDEVRA (COMPOSITE)"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S. CHHITAPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 28,
+    "partName": "SHRI J.S.INTER COLLEGE AMAVATA R.N. 1"
+  },
+  {
+    "partNumber": 29,
+    "partName": "SHRI J.S.INTER COLLEGE AMAVATA R.N. 2"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S. NIYAMATPUR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "U.P.S. SHAHBAJPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 32,
+    "partName": "U.P.S. HAJRATPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.S. JAGANNATHPUR R.N. 1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.S. JAGANNATHPUR R.N. 2"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P.S. HAJARIPUR"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.S. KHUSHALPUR"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S. NAVIN NAGAR BABARPUR R.N.1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S. NAVIN NAGAR BABARPUR R.N.2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S. NAVIN NAGAR BABARPUR R.N.3"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S. NAVIN NAGAR BABARPUR R.N.4"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.S. BARAILA"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.S. SARAY AMILIYA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "U.P.S. GADA"
+  },
+  {
+    "partNumber": 44,
+    "partName": "SHRI JANTA INTER COLLEGE AJITMAL R.N. 1"
+  },
+  {
+    "partNumber": 45,
+    "partName": "SHRI JANTA INTER COLLEGE AJITMALR.N. 2"
+  },
+  {
+    "partNumber": 46,
+    "partName": "SHRI JANTA INTER COLLEGE AJITMAL R.N. 3"
+  },
+  {
+    "partNumber": 47,
+    "partName": "JANTA MAHAVIDYALAY AJITMAL R.N. 1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "JANTA MAHAVIDYALAY AJITMAL R.N. 2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "JANTA MAHAVIDYALAY AJITMAL R.N. 3"
+  },
+  {
+    "partNumber": 50,
+    "partName": "A.P.S. LAXMI NAGAR  R.N. 1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "A.P.S. LAXMI NAGAR  R.N. 2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "A.P.S. LAXMI NAGAR  R.N. 3"
+  },
+  {
+    "partNumber": 53,
+    "partName": "A.U.P.S. LAXMI NAGAR AJITMAL R.N. 1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "A.U.P.S. LAXMI NAGAR AJITMAL R.N. 2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "A.U.P.S. LAXMI NAGAR AJITMAL R.N. 3"
+  },
+  {
+    "partNumber": 56,
+    "partName": "DISTRICT INSTITUTE OF EDUCATION AND TRAINING AJITMAL HOSTEL R.N. 1"
+  },
+  {
+    "partNumber": 57,
+    "partName": "DISTRICT INSTITUTE OF EDUCATION AND TRAINING AJITMAL HOSTEL R.N. 2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. ADAMPUR"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S. CHITKAPUR R.N. 1"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S. CHITKAPUR R.N. 2"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.S. CHAKSATTAPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.S. ATSU R.N. 1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.S. ATSU R.N. 2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "U.P.S. ATSU"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.S. ALAMGIRPUR"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P.S. KULHURUA"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.S. JANISNAGAR"
+  },
+  {
+    "partNumber": 68,
+    "partName": "KANYA U.P.S. ATSU"
+  },
+  {
+    "partNumber": 69,
+    "partName": "U.P.S. CHANVARPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.S. MUHIUDDINPUR"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P.S. RAUPUR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "U.P.S. ELCHINAGAR (COMPOSITE)"
+  },
+  {
+    "partNumber": 73,
+    "partName": "U.P.S. TADVA RANGIYA (COMPOSITE)"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S. DERA BANJARAN (BILAVA)"
+  },
+  {
+    "partNumber": 75,
+    "partName": "KANYA P.M.V. BILAVA R.N. 1"
+  },
+  {
+    "partNumber": 76,
+    "partName": "KANYA P.M.V. BILAVA R.N. 2"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. BILAVA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.S. JAGDISHPUR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.S. RATNIPUR"
+  },
+  {
+    "partNumber": 80,
+    "partName": "U.P.S. PUTHA (COMPOSITE)"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.S. JAINPUR"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.M. SHRI U.P.S. BHIKHEPUR COMPOSITE R.N. 1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.M. SHRI U.P.S. BHIKHEPUR COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 84,
+    "partName": "U.P.S. SHAHPUR LALPUR(COMPOSITE)"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S. RAJPURA"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.S. MALGAWAN"
+  },
+  {
+    "partNumber": 87,
+    "partName": "KAUSHLENDRA M.V. MALGAWAN MANDIR"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S. RAMNAGAR"
+  },
+  {
+    "partNumber": 89,
+    "partName": "A.P.S. SARAY TADWA"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S. GOKULPUR"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S. IKBALPUR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "U.P.S. AKBARPUR"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S. MILAK"
+  },
+  {
+    "partNumber": 94,
+    "partName": "KANYA P. S. KASBA SENGAN PUR"
+  },
+  {
+    "partNumber": 95,
+    "partName": "ADARSH KENDRIYA U.P.S. SENGANPUR R.N. 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "ADARSH KENDRIYA U.P.S. SENGANPUR R.N. 2"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S. KAITHAULI"
+  },
+  {
+    "partNumber": 98,
+    "partName": "U.P.S. ASEWATA COMPOSITE"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S. ASEWA"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S. BARBATPUR"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P.S. NAGLA BANARAS"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S. MAHEWA"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.S. BABAIN"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.S. JUHIKHA"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.S. GUNJ TATARPUR"
+  },
+  {
+    "partNumber": 106,
+    "partName": "U.P.S. TIVARLALPUR COMPOSITE R.N. 1"
+  },
+  {
+    "partNumber": 107,
+    "partName": "U.P.S. TIVARLALPUR COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P.S. NAWADA MAHIPATSHAH"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S. FARIHA"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S. PURWA PAKAR"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S. SIKHARNA COMPOSITE"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S. KHERA DADA"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S. BHARTAUL"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S. KARKE KA PURWA"
+  },
+  {
+    "partNumber": 115,
+    "partName": "U.P.S. SADRAPUR COMPOSITE"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S. GANGDASPUR"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P.S. BIJHALPUR"
+  },
+  {
+    "partNumber": 118,
+    "partName": "U.P.S. BHUREPUR KHURD COMPOSITE"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P.S. AYANA R.N. 1"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.S. AYANA R.N. 2"
+  },
+  {
+    "partNumber": 121,
+    "partName": "GANDHI P.S. AYANA R.N. 1"
+  },
+  {
+    "partNumber": 122,
+    "partName": "GANDHI P.S. AYANA R.N. 2"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. RUPPURA AYANA"
+  },
+  {
+    "partNumber": 124,
+    "partName": "U.P.S. KATGHARA BRAHMNAN COMPOSITE"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P.S. DHANAUPUR"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S. KUVARDEPUR"
+  },
+  {
+    "partNumber": 127,
+    "partName": "U.P.S. BHAUTAPUR COMPOSITE"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.S. JASVANTPUR R.N1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.S. JASVANTPUR R.N 2"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.S. NAWADA JWALAPRASAD"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.S. ROSHANGPUR R.N. 1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.S. ROSHANGPUR R.N. 2"
+  },
+  {
+    "partNumber": 133,
+    "partName": "U.P.S. ANTAUL COMPOSITE"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S. PRAYAGPUR"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S. MANSUKHPUR"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.S. TURKIPUR BHAGWANDAS"
+  },
+  {
+    "partNumber": 137,
+    "partName": "U.P.S. KASBA JANA COMPSITE R.N. 1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "U.P.S. KASBA JANA COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "U.P.S. JAGATPUR"
+  },
+  {
+    "partNumber": 140,
+    "partName": "JILA PANCHYAT INTER COLLEGE MURADGANJ R.N. 1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JILA PANCHYAT INTER COLLEGE MURADGANJ R.N. 2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "UP.S. DALELNAGAR COMPOSITE R.N. 1 "
+  },
+  {
+    "partNumber": 143,
+    "partName": "U.P.S. DALELNAGAR COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 144,
+    "partName": "U.P.S. DALELNAGAR (COMPOSITE) R.N. 3"
+  },
+  {
+    "partNumber": 145,
+    "partName": "U.P.S SEGANPUTTHA(COMPOSITE) R.N. 1."
+  },
+  {
+    "partNumber": 146,
+    "partName": "U.P.S. SEGANPUTTHA(COMPOSITE) R.N. 2"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S. PURWA MAHASUKH"
+  },
+  {
+    "partNumber": 148,
+    "partName": "U.P.S. HASULIYA COMPOSITE"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S. CHANDNAPUR DAYAL SINGH"
+  },
+  {
+    "partNumber": 150,
+    "partName": "U.P.S. PURWA DORI (COMPOSITE)"
+  },
+  {
+    "partNumber": 151,
+    "partName": "U.P.S. SALAIYA COMPOSITE R.N. 1"
+  },
+  {
+    "partNumber": 152,
+    "partName": "U.P.S. SALAIYA COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S. CHAPTA R.N. 1"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. CHAPTA R.N. 2"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.S. TATARPUR KHURD"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S. JALUPUR"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S. ALIPUR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. MIRJAPUR KHURD"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P.S. MAHARAJPUR"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S. HAIDARPUR"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.S. UNCHA"
+  },
+  {
+    "partNumber": 162,
+    "partName": "U.P.S. MISHRIPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 163,
+    "partName": "U.P.S. SURJANPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 164,
+    "partName": "VIJAY SHANKAR SHANTI DEVI M.V BAHADURPUR UNCHA"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S. PURWA HARSAHAY"
+  },
+  {
+    "partNumber": 166,
+    "partName": "U.P.S. PRATAPPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S. LAXMANPUR"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.S. SATAHDI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S BELAJHAR"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.S. PADARIYA"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S. HIRAPUR"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S. AKBARPUR DADA"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S. DWARIKAPUR PHAPHUND"
+  },
+  {
+    "partNumber": 174,
+    "partName": "UPPER PRIMARY SCHOOL NAGLA PATHAK (COMPOSITE)"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S. SINDURIYA ALAMPUR FIRST"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.S. SINDURIYA ALAMPUR SECOND"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.S. BHARRAPUR"
+  },
+  {
+    "partNumber": 178,
+    "partName": "UPPER PRIMARY SCHOOL DASRAURA (COMPOSITE)"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S. PASAIPUR KESHAMPUR  R.N. 1"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. PASAIPUR KESHAMPUR  R.N. 2"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S. PASAIPUR KESHAMPUR  R.N. 3"
+  },
+  {
+    "partNumber": 182,
+    "partName": "UPPER PRIMARY SCHOOL MAMREJPUR KHAM (COMPOSITE)"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S. JAITPUR PHAPHUND"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PANCHAYAT GHAR JAITPUR PHAPHUND"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S. SHAH LAMPUR"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. RANIPUR"
+  },
+  {
+    "partNumber": 187,
+    "partName": "UPPER PRIMARY SCHOOL JAGJIVANPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 188,
+    "partName": "SHRI SHRIRAM INTER COLLEGE DEVARPUR R.N 1"
+  },
+  {
+    "partNumber": 189,
+    "partName": "SHRI SHRIRAM INTER COLLEGE DEVARPUR R.N 2"
+  },
+  {
+    "partNumber": 190,
+    "partName": "U.P.S. KESHAMPUR KHAM LIDAIYAPUR"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S. BARAUA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.S. ATA"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.S. GAMNAMAU"
+  },
+  {
+    "partNumber": 194,
+    "partName": "UPPER PRIMARY SCHOOL MUDI (COMPOSITE)"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.S. SHERPUR SARAIYA"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.S. BAMHAURI"
+  },
+  {
+    "partNumber": 197,
+    "partName": "U.P.S. DAULATPUR R.N. 1"
+  },
+  {
+    "partNumber": 198,
+    "partName": "U.P.S. DAULATPUR R.N. 2"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.S. ANANTPUR"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.S. MISHRIPUR"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. KAJIPUR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "U.P.S. GADANPUR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. DHARMPUR"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.S. SINGLAMAU"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. BHAUNAKPUR"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. KHOYALA"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S. CHIRAIYAPUR"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P.S. GADAMANIK CHANDRA"
+  },
+  {
+    "partNumber": 209,
+    "partName": "U.P.S. RAJAUHAPUR(COMPOSITE)"
+  },
+  {
+    "partNumber": 210,
+    "partName": "U.P.S. UDYAMPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S. PURWA UMMED"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.S. TILAKPUR"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.S. INGUTHIYA"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.S. RAJANDAJPUR"
+  },
+  {
+    "partNumber": 215,
+    "partName": "U.P.S. SAINPUR COMPOSITE"
+  },
+  {
+    "partNumber": 216,
+    "partName": "U.P.S. SHAHABDA R.N. 1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "U.P.S. SHAHABDA R.N. 2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.S. LUDHPURA"
+  },
+  {
+    "partNumber": 219,
+    "partName": "U.P.S. BAKHARIYA"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S. BAKHARIYA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. NIGDA R.N. 1"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S. NIGDA R.N. 2"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S. FATEHPUR KARAM"
+  },
+  {
+    "partNumber": 224,
+    "partName": "U.P.S. BAKARPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P.S. KARAMPUR"
+  },
+  {
+    "partNumber": 226,
+    "partName": "AGANWARI CENTER VIKRAMPUR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.S. RASULPUR HULASRAY R.N. 1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S. RASULPUR HULASRAY R.N. 2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S. MAHARATHPUR"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. MAHMOODPUR DARIYAB SINGH"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S. CHAUKI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "U.P.S. BHASAUN (COMPOSITE)"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.S. BHAIROPUR"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S. SWAROOP NAGAR (BHASAUN)"
+  },
+  {
+    "partNumber": 235,
+    "partName": "U.P.S. RAHTAULI (COMPOSITE)"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S. SIHAULI"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.S. JAGATPUR MAUJA MAI"
+  },
+  {
+    "partNumber": 238,
+    "partName": "U.P.S. NAVEEN MANPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.S. DASPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "RAMSAHAY H.S. SCHOOL PANHAR R.N. 1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "RAMSAHAY H.S. SCHOOL PANHAR R.N. 2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "U.P.S. MIHAULI (COMPOSITE) R.N.1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "U.P.S. MIHAULI (COMPOSITE) R.N.2"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S. JOGIPUR"
+  },
+  {
+    "partNumber": 245,
+    "partName": "U.P.S. CHIRUHULI COMPOSITE  R.N. 1"
+  },
+  {
+    "partNumber": 246,
+    "partName": "U.P.S. CHIRUHULI COMPOSITE R.N. 2"
+  },
+  {
+    "partNumber": 247,
+    "partName": "U.P.S. JAMALIPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 248,
+    "partName": "U.P.S. JAITPUR AURAIYA (COMPOSITE) R.N. 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "U.P.S. JAITPUR AURAIYA (COMPOSITE) R.N. 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.S. ASTA"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U.P.S. KULHUPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.S. JALOKHAR"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S. GOHNA"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.S. KHARKA"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S. BASANTPUR"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S. DWARIKAPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P.S. ANEPUR"
+  },
+  {
+    "partNumber": 258,
+    "partName": "U.P.S. ANEPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 259,
+    "partName": "U.P.S. RAUTIYAPUR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.S. MADHUPUR"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.S. GADIYA BAKSIRAM"
+  },
+  {
+    "partNumber": 262,
+    "partName": "U.P.S. NASIRABAD (COMPOSITE)"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U.P.S. TALHEPUR COMPOSITE"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S. PADIN R.N. 1"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. PADIN R.N. 2"
+  },
+  {
+    "partNumber": 266,
+    "partName": "U.P.S. MALHEPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. FARIDPUR"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. SALEMPUR NAVAL SINGH"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S. NAROTTAMPUR"
+  },
+  {
+    "partNumber": 270,
+    "partName": "U.P.S. BARMUPUR COMPOSITE"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.S. J.P. PADIN DARWAJA NAGAR KSHETRA R.N. 1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. J.P. PADIN DARWAJA NAGAR KSHETRA R.N. 2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "NEHRU INTER COLLEGE AURAIYA  R.N. 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "NEHRU INTER COLLEGE AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "NEHRU INTER COLLEGE AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 276,
+    "partName": "NEHRU INTER COLLEGE AURAIYA  R.N. 4"
+  },
+  {
+    "partNumber": 277,
+    "partName": "JANAK DULARI BALIKA INTER COLLEGE AURAIYA R.N 1"
+  },
+  {
+    "partNumber": 278,
+    "partName": "JANAK DULARI BALIKA INTER COLLEGE AURAIYAR.N 2"
+  },
+  {
+    "partNumber": 279,
+    "partName": "JANAK DULARI BALIKA INTER COLLEGE AURAIYA R.N 3"
+  },
+  {
+    "partNumber": 280,
+    "partName": "JANAK DULARI BALIKA INTER COLLEGE AURAIYA  R.N 4"
+  },
+  {
+    "partNumber": 281,
+    "partName": "TILAK INTER COLLEGE AURAIYA.R.N. 1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "TILAK INTER COLLEGE AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 283,
+    "partName": "TILAK INTER COLLEGE AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 284,
+    "partName": "KANYA U.P.S. KHANDERAV TALAB AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "KANYA U.P.S. KHANDERAV TALAB AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. PORWAL DHARMSHALA BAGHAKATRA PURANA PHAPHUND ROAD AURAIYA"
+  },
+  {
+    "partNumber": 287,
+    "partName": "A.K.M.I.C. AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 288,
+    "partName": "A.K.M.I.C. AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 289,
+    "partName": "A.K.M.I.C. AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 290,
+    "partName": "SARASWATI U.P.S. DIBIYAPUR ROAD AURAIYA R.N.1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "SARASWATI U.P.S. DIBIYAPUR ROAD AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "SARASWATI U.P.S. DIBIYAPUR ROAD AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 293,
+    "partName": "CHAU.V.SINGH.B.V.INTER COLLEGE AURAIYA R.N.1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "CHAU.V.SINGH.B.V.INTER  COLLEGE AURAIYA R.N.2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "CHAU.V.SINGH.B.V INTER COLLEGE AURAIYA R.N.3"
+  },
+  {
+    "partNumber": 296,
+    "partName": "CHAU.V.SINGH.B.V.INTER COLLEGE AURAIYA R.N.4"
+  },
+  {
+    "partNumber": 297,
+    "partName": "CHAU.V.SINGH.B.V.INTER COLLEGE AURAIYA R.N.5"
+  },
+  {
+    "partNumber": 298,
+    "partName": "CHAU.V.SINGH.B.V. BALIKA INTER COLLEGE AURAIYA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "CHAU.RAGHU. SAMTA COLLEGE AURAIYA R.N1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "CHAU.RAGHU. SAMTA COLLEGE . AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 301,
+    "partName": "CHAU.RAGHU. SAMTA COLLEGE AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S. BAJAJA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "GANGARAM BAJAJA BALIKA INTER COLLEGE AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 304,
+    "partName": "GANGARAM BAJAJA BALIKA INTER COLLEGE AURAIYA  R.N. 2"
+  },
+  {
+    "partNumber": 305,
+    "partName": "SHRI GOPAL INTER COLLEGE AURAIYA  R.N. 1"
+  },
+  {
+    "partNumber": 306,
+    "partName": "SHRI GOPAL INTER COLLEGE AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 307,
+    "partName": "SHRI GOPAL INTER COLLEGE AURAIYAR.N. 3"
+  },
+  {
+    "partNumber": 308,
+    "partName": "SHRI GOPAL INTER COLLEGE AURAIYA R.N. 4"
+  },
+  {
+    "partNumber": 309,
+    "partName": "SHRI GOPAL INTER COLLEGE AURAIYA  R.N. 5"
+  },
+  {
+    "partNumber": 310,
+    "partName": "U.P.S NARAYANPUR"
+  },
+  {
+    "partNumber": 311,
+    "partName": "NAGAR PALIKA INTER COLLEGE AURAIYA  R.N 1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "NAGAR PALIKA INTER COLLEGE AURAIYA R.N 2"
+  },
+  {
+    "partNumber": 313,
+    "partName": "NAGAR PALIKA INTER COLLEGE AURAIYA  R.N 3"
+  },
+  {
+    "partNumber": 314,
+    "partName": "NAGAR PALIKA INTER COLLEGE AURAIYA R.N 4"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S. GURUHAI"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.S. GURUHAI"
+  },
+  {
+    "partNumber": 317,
+    "partName": "TILAK DEGREE COLLEGE AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "TILAK DEGREE COLLEGE AURAIYA  R.N. 2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "TILAK DEGREE COLLEGE AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 320,
+    "partName": "TILAK DEGREE COLLEGE. AURAIYA R.N. 4"
+  },
+  {
+    "partNumber": 321,
+    "partName": "CITY MONTESSORI INTER COLLEGE AURAIYA R.N 1"
+  },
+  {
+    "partNumber": 322,
+    "partName": "CITY MONTESSORI INTER COLLEGE AURAIYA R.N 2"
+  },
+  {
+    "partNumber": 323,
+    "partName": "ANURADHA TRIPATHI BALIKA MAHAVIDYALAY KHANPUR AURAIYA R.N.1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "ANURADHA TRIPATHI BALIKA MAHAVIDYALAY KHANPUR AURAIYA R.N.2"
+  },
+  {
+    "partNumber": 325,
+    "partName": "AGRASEN J.H. SCHOOL SATTESHWAR AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "AGRASEN J.H. SCHOOL SATTESHWAR AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "NARAYAN HIGHER SECONDARY SCHOOL SATTESWAR AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "NARAYAN HIGHER SECONDARY SCHOOL SATTESWAR AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 329,
+    "partName": "NARAYAN HIGHER SECONDARY SCHOOL SATTESWAR AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S. NAVEEN NARAYANPUR STHIT BANARSIDAS AURAIYA R.N.1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.S. NAVIN NARAYANPUR STHIT BANARSIDAS AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S.   ( DAYAL GANJ)BHIKHAMPUR  R.N. 1"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S.(DAYAL GANJ) BHIKHAMPUR R.N. 2"
+  },
+  {
+    "partNumber": 334,
+    "partName": "U.P.S. (DAYALGANJ) AURAIYA R.N. 1"
+  },
+  {
+    "partNumber": 335,
+    "partName": "U.P.S. (DAYALGANJ) AURAIYA R.N. 2"
+  },
+  {
+    "partNumber": 336,
+    "partName": "U.P.S. (DAYALGANJ) AURAIYA R.N. 3"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.S. KASBA KHANPUR NAVIN R.N. 1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S. KASBA KHANPUR NAVIN R.N. 2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "U.P.S. KASBA KHANPUR R..N. 1"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P.S. KASBA KHANPUR R..N. 2"
+  },
+  {
+    "partNumber": 341,
+    "partName": "U.P.S. KASBA KHANPUR R..N. 3"
+  },
+  {
+    "partNumber": 342,
+    "partName": "U.P.S. KASBA KHANPUR R..N. 4"
+  },
+  {
+    "partNumber": 343,
+    "partName": "U.P.S. KASBA KHANPUR R..N. 5"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.S. KASBA KHANPUR R.N. 1"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P.S. KASBA KHANPUR R.N. 2"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P.S. SURAN"
+  },
+  {
+    "partNumber": 347,
+    "partName": "CHAU.RAGHU.SINGH INTER COLLEGE RAHATPUR"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. DHAURERA"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S. JAITAPUR"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S. BHARSEN R.N. 1"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S. BHARSEN R.N. 2"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PANCHAYAT GHAR BHARSEN"
+  },
+  {
+    "partNumber": 353,
+    "partName": "U.P.S. BHARSEN"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S. PATEPUR"
+  },
+  {
+    "partNumber": 355,
+    "partName": "U.P.S. LUHIYAPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.S. KADALPUR"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.S. SUNDARI PUR"
+  },
+  {
+    "partNumber": 358,
+    "partName": "P.S. BARIPUR MAFI"
+  },
+  {
+    "partNumber": 359,
+    "partName": "U.P.S. BHIKHAPUR (COMPOSITE)"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S. KUMHAPUR"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.S. GAJIPUR ISHWARI PRASAD"
+  },
+  {
+    "partNumber": 362,
+    "partName": "U.P.S. PURWA RAHAT (COMPOSITE)"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.S. BHADARI PUR"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P.S. BHEROPUR"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.S. BHAUPUR AURAIYA"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S. BHAGAUTIPUR"
+  },
+  {
+    "partNumber": 367,
+    "partName": "U.P.S. JARUHAULIYA COMPOSITE"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. PURUSHOTTAMPUR"
+  },
+  {
+    "partNumber": 369,
+    "partName": "U.P.S MADAPUR (COMPOSITE)R.N.1"
+  },
+  {
+    "partNumber": 370,
+    "partName": "U.P.S. MADAPUR (COMPOSITE)R.N.2"
+  },
+  {
+    "partNumber": 371,
+    "partName": "P.S. NANDGAON"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PT. ATMARAM INTER COLLEGE  KYOTRA R.N. 1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "PT. ATMARAM INTER COLLEGE KYOTRA R.N. 2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P.S. KYOTRA"
+  }
+]

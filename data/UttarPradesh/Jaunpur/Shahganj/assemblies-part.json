@@ -1,0 +1,1590 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL SURAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY SCHOOL SURAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL KHETAPUR"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL BALMEETPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL SHEKHPUR EAST SIDE"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMARY SCHOOL SHEKHPUR WEST SIDE"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE SCHOOL DEEH ASHARFABAD EAST SIDE"
+  },
+  {
+    "partNumber": 8,
+    "partName": "COMPOSITE SCHOOL DEEH ASHARFABAD MIDDLE SIDE"
+  },
+  {
+    "partNumber": 9,
+    "partName": "COMPOSITE SCHOOL DEEH ASHARFABAD WEST SIDE"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRIMARY SCHOOL  ASHOKPUR KHURD"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRE SECONDARY SCHOOL ASHOKPUR KALAN"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRIMARY SCHOOL DENUWA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMARY SCHOOL JUNEDPUR"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRIMARY SCHOOL  RAHIMAPUR"
+  },
+  {
+    "partNumber": 15,
+    "partName": "POST SECONDARY SCHOOL AMARI"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL PURA ASALAT KHAN EAST SIDE"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL PURA ASALAT KHAN WEST SIDE"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMARY SCHOOL PURA SAMBHALSHAH EAST SIDE"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY SCHOOL PURA SAMBHALSHAH WEST SIDE"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRE SECONDARY SCHOOL MISIRPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "BEEJ GODAM BHIWRAHAN"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY SCHOOL  MAYARI"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRIMARY SCHOOL PIPRAUL"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE SCHOOL SAWAYAN EAST SIDE"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE SCHOOL SAWAYAN MIDDLE SIDE"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSITE SCHOOL SAWAYAN WEST SIDE"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PRIMARY SCHOOL SORNA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "COMPOSITE SCHOOL CHILBILI EAST SIDE"
+  },
+  {
+    "partNumber": 29,
+    "partName": "COMPOSITE SCHOOL CHILBILI WEST SIDE"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRIMARY SCHOOL GANGAULI EAST SIDE"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRIMARY SCHOOL GANGAULI WEST SIDE"
+  },
+  {
+    "partNumber": 32,
+    "partName": "PRIMARY SCHOOL BADAUNA"
+  },
+  {
+    "partNumber": 33,
+    "partName": "PRIMARY SCHOOL SARI JAHAGIRPATTI EAST SIDE"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL SARI JAHAGIRPATTI WEST SIDE"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PRIMARY SCHOOL JAINPUR"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PRIMARY SCHOOL RAMNAGAR"
+  },
+  {
+    "partNumber": 37,
+    "partName": "COMPOSITE SCHOOL KATGHAR EAST SIDE"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE SCHOOL KATGHAR WEST SIDE"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE SCHOOL KUSIYABAHAR"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRIMARY SCHOOL KHANPUR"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL AKDALA"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRIMARY SCHOOL SUITHAKALA FIRST"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRIMARY SCHOOL SUITHAKALA FIRST"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRIMARY SCHOOL SUITHAKALA FIRST"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL SUITHAKALA SECOND"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL SUITHAKALA SECOND"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRIMARY SCHOOL CHHITAMPATTI"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRIMARY SCHOOL DAKAHAN"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL SARPATAHAN"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMARY SCHOOL RUDHAULI EAST SIDE"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMARY SCHOOL RUDHAULI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PRIMARY SCHOOL RUDHAULI WEST SIDE"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRIMARY SCHOOL LALAPUR"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRIMARY SCHOOL KAMMARPUR EAST SIDE"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY SCHOOL KAMMARPUR WEST SIDE"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL SUKARNA KALAN EAST SIDE"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL SUKARNA KALAN WEST SIDE"
+  },
+  {
+    "partNumber": 58,
+    "partName": "COMPOSITE SCHOOL BHAISAULI EAST SIDE"
+  },
+  {
+    "partNumber": 59,
+    "partName": "COMPOSITE SCHOOL BHAISAULI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSITE SCHOOL BHAISAULI WEST SIDE"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRIMARY SCHOOL BIRAILI"
+  },
+  {
+    "partNumber": 62,
+    "partName": "JUNIOR HIGH SCHOOL USRAULI EAST SIDE"
+  },
+  {
+    "partNumber": 63,
+    "partName": "JUNIOR HIGH SCHOOL USRAULI WEST SIDE"
+  },
+  {
+    "partNumber": 64,
+    "partName": "SRI GANDHI SMARAK INTER COLLEGE SAMODHPUR EAST SIDE"
+  },
+  {
+    "partNumber": 65,
+    "partName": "SRI GANDHI SMARAK INTER COLLEGE SAMODHPUR WEST SIDE"
+  },
+  {
+    "partNumber": 66,
+    "partName": "SRI GANDHI SMARAK INTER COLLEGE SAMODHPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 67,
+    "partName": "SRI GANDHI SMARAK INTER COLLEGE SAMODHPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE SCHOOL LAUNDA"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRIMARY SCHOOL SHAHMAU"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRIMARY SCHOOL JAMAULI"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMARY SCHOOL UNCHGAON EAST SIDE"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRIMARY SCHOOL UNCHGAON WEST SIDE"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRIMARY SCHOOL BHELA EAST SIDE"
+  },
+  {
+    "partNumber": 74,
+    "partName": "PRIMARY SCHOOL BHELA WEST SIDE"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE SCHOOL BASAULI EAST SIDE"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSITE SCHOOL BASAULI WEST SIDE"
+  },
+  {
+    "partNumber": 77,
+    "partName": "JUNIOR HIGH SCHOOL DUMDUMA EAST SIDE"
+  },
+  {
+    "partNumber": 78,
+    "partName": "JUNIOR HIGH SCHOOL DUMDUMA WEST SIDE"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL  AMAWAKHURD"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL AMAWAKALAN EAST SIDE"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL AMAWAKALAN WEST SIDE"
+  },
+  {
+    "partNumber": 82,
+    "partName": "NATIONAL INTER COLLEGE PATTI NARENDRAPUR EAST PART"
+  },
+  {
+    "partNumber": 83,
+    "partName": "NATIONAL INTER COLLEGE PATTI NARENDRAPUR WEST PART"
+  },
+  {
+    "partNumber": 84,
+    "partName": "NATIONAL INTER COLLEGE PATTI NARENDRAPUR NORTH PART"
+  },
+  {
+    "partNumber": 85,
+    "partName": "NATIONAL INTER COLLEGE PATTI NARENDRAPUR SOUTH PART"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE SCHOOL BARBASPUR EAST SIDE"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSITE SCHOOL BARBASPUR WEST SIDE"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY SCHOOL BHAGASA EAST SIDE"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL BHAGASA WEST SIDE"
+  },
+  {
+    "partNumber": 90,
+    "partName": "TILAK MEMORIAL NORTH SECONDARY SCHOOL ISHAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 91,
+    "partName": "TILAK MEMORIAL NORTH SECONDARY SCHOOL ISHAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRIMARY SCHOOL KARIMPUR BIND"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRIMARY SCHOOL PALIYA"
+  },
+  {
+    "partNumber": 94,
+    "partName": "GRAM PANCHAYAT SECRETARIAT SHEKHAHI"
+  },
+  {
+    "partNumber": 95,
+    "partName": "COMPOSITE SCHOOL ADHANPUR EAST SIDE"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE SCHOOL ADHANPUR WEST SIDE"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY SCHOOL BAASGAON"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRIMARY SCHOOL BASUPUR"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL BAGHARWARA EAST SIDE"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL BAGHARWARA WEST SIDE"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRIMARY SCHOOL HAMZAPUR EAST SIDE"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY SCHOOL HAMJAPUR WEST SIDE"
+  },
+  {
+    "partNumber": 103,
+    "partName": "INDIRA JUNIOR HIGH SCHOOL BUDHUPUR EAST SIDE"
+  },
+  {
+    "partNumber": 104,
+    "partName": "INDIRA JUNIOR HIGH SCHOOL BUDHUPUR MIDDLE SIDE"
+  },
+  {
+    "partNumber": 105,
+    "partName": "INDIRA JUNIOR HIGH SCHOOL BUDHUPUR WEST SIDE"
+  },
+  {
+    "partNumber": 106,
+    "partName": "COMPOSITE SCHOOL JAHIRUDDINPUR"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY SCHOOL SARAI MOHIUDDINPUR EAST SIDE"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PRIMARY SCHOOL SARAI MOHIUDDINPUR WEST SIDE"
+  },
+  {
+    "partNumber": 109,
+    "partName": "COMPOSITE SCHOOL KOHDA EAST SIDE"
+  },
+  {
+    "partNumber": 110,
+    "partName": "COMPOSITE SCHOOL KOHDA WEST SIDE"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY SCHOOL KAZIPUR"
+  },
+  {
+    "partNumber": 112,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BADAGAON EAST SIDE"
+  },
+  {
+    "partNumber": 113,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BADAGAON WEST SIDE"
+  },
+  {
+    "partNumber": 114,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BADAGAON MIDDLE SIDE"
+  },
+  {
+    "partNumber": 115,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BADAGAON NORTH SIDE"
+  },
+  {
+    "partNumber": 116,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BADAGAON SOUTH SIDE"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRIMARY SCHOOL HUSENABAD EAST SIDE"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY SCHOOL HUSENABAD MIDDLE SIDE"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL HUSENABAD WEST SIDE"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL KHANUWAI EAST SIDE"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY SCHOOL KHANUWAI WEST SIDE"
+  },
+  {
+    "partNumber": 122,
+    "partName": "PRIMARY SCHOOL PURASARVAN"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRIMARY SCHOOL CHETRAHAN"
+  },
+  {
+    "partNumber": 124,
+    "partName": "COMPOSITE SCHOOL MITTUPUR"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL PURADARIYAO"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL SALEMPUR"
+  },
+  {
+    "partNumber": 127,
+    "partName": "LAKSHMISHANKAR JUNIOR HIGH SCHOOL BARAUD EAST SIDE"
+  },
+  {
+    "partNumber": 128,
+    "partName": "LAKSHMISHANKAR JUNIOR HIGH SCHOOL BARAUD WEST SIDE"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRIMARY SCHOOL JANGIPUR"
+  },
+  {
+    "partNumber": 130,
+    "partName": "PRIMARY SCHOOL BHATAULI"
+  },
+  {
+    "partNumber": 131,
+    "partName": "COMPOSITE SCHOOL BUMKAHAN"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRIMARY SCHOOL BHUSAUDI EAST SIDE"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL BHUSAUDI WEST SIDE"
+  },
+  {
+    "partNumber": 134,
+    "partName": "KISAN INTER MEDIATE COLLEGE ARSIYAN EAST SIDE"
+  },
+  {
+    "partNumber": 135,
+    "partName": "KISAN INTER MEDIATE COLLEGE ARSIYAN MIDDLE SIDE"
+  },
+  {
+    "partNumber": 136,
+    "partName": "KISAN INTER MEDIATE COLLEGE ARSIYAN WEST SIDE"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL ATARAUDA"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL BHANUPRATAPPUR SADI"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL BASIRAHAN"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRIMARY SCHOOL MANWAL EAST SIDE"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRIMARY SCHOOL MANWAL WEST SIDE"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL BADHGOAN EAST SIDE"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL BADHGOAN WEST SIDE"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE SCHOOL SANSARPATTI EAST SIDE"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE SCHOOL SANSARPATTI WEST SIDE"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRIMARY SCHOOL ASAITHAPATTI BALJOR"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PANCHAYAT BHAVAN ASAITHAPATTI NAURANG"
+  },
+  {
+    "partNumber": 148,
+    "partName": "RAM BUJARAT SINGH INTER COLLEGE GAIRWAH EAST SIDE"
+  },
+  {
+    "partNumber": 149,
+    "partName": "RAM BUJARAT SINGH INTER COLLEGE GAIRWAH MIDDLE SIDE"
+  },
+  {
+    "partNumber": 150,
+    "partName": "RAM BUJARAT SINGH INTER COLLEGE GAIRWAH WEST SIDE"
+  },
+  {
+    "partNumber": 151,
+    "partName": "JUNIOR HIGH SCHOOL GAIRWAH EAST PART SHAHAPUR"
+  },
+  {
+    "partNumber": 152,
+    "partName": "JUNIOR HIGH SCHOOL GAIRWAH WEST PART SHAHAPUR"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY SCHOOL GAIRWAH"
+  },
+  {
+    "partNumber": 154,
+    "partName": "COMPOSITE SCHOOL RAMPUR EAST SIDE"
+  },
+  {
+    "partNumber": 155,
+    "partName": "COMPOSITE SCHOOL RAMPUR MIDDLE SIDE"
+  },
+  {
+    "partNumber": 156,
+    "partName": "COMPOSITE SCHOOL RAMPUR WEST SIDE"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY SCHOOL GHURIPUR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRIMARY SCHOOL GODBADI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY SCHOOL ATARDEEHA EAST SIDE"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRIMARY SCHOOL ATARDEEHA WEST SIDE"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRIMARY SCHOOL ARGUPUR KALAN EAST SIDE"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRIMARY SCHOOL ARGUPUR KALAN MIDDLE SIDE"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY SCHOOL ARGUPUR KALAN WEST SIDE"
+  },
+  {
+    "partNumber": 164,
+    "partName": "KANYA PRIMARY SCHOOL ARGUPUR KALAN EAST SIDE"
+  },
+  {
+    "partNumber": 165,
+    "partName": "KANYA PRIMARY SCHOOL ARGUPUR KALAN WEST SIDE"
+  },
+  {
+    "partNumber": 166,
+    "partName": "PRIMARY SCHOOL DANAPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL LATEEFPUR EAST SIDE"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL LATEEFPUR WEST SIDE"
+  },
+  {
+    "partNumber": 169,
+    "partName": "JUNIOR HIGH SCHOOL KOPA"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL PATTI EAST SIDE"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY SCHOOL PATTI WEST SIDE"
+  },
+  {
+    "partNumber": 172,
+    "partName": "COMPOSITE SCHOOL JAMDARA EAST SIDE"
+  },
+  {
+    "partNumber": 173,
+    "partName": "COMPOSITE SCHOOL JAMDARA WEST SIDE"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRIMARY SCHOOL CHAKESAR"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL KOPA EAST SIDE"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRIMARY SCHOOL KOPA WEST SIDE"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY SCHOOL MUJFFARPUR"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRIMARY SCHOOL GOLHAGAUR"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRIMARY SCHOOL PARASIN EAST SIDE"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRIMARY SCHOOL PARASIN WEST SIDE"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRIMARY SCHOOL CHHABAWAN"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE SCHOOL GODILA EAST SIDE"
+  },
+  {
+    "partNumber": 183,
+    "partName": "COMPOSITE SCHOOL GODILA MIDDLE SIDE"
+  },
+  {
+    "partNumber": 184,
+    "partName": "COMPOSITE SCHOOL GODILA WEST SIDE"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY SCHOOL ARAGUPUR KHURD EAST SIDE"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY SCHOOL ARAGUPUR KHURD WEST SIDE"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL BADAUNA EAST SIDE"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY SCHOOL BADAUNA WEST SIDE"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRIMARY SCHOOL KACHHARA"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PRIMARY SCHOOL PAKHANPUR"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PRIMARY SCHOOL TAKHA PURAB EAST SIDE"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PRIMARY SCHOOL TAKHA PURAB MIDDLE SIDE"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRIMARY SCHOOL TAKHA PURAB WEST SIDE"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY SCHOOL TAKHA PASHCHIM EAST SIDE"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL TAKHA PASHCHIM WEST SIDE"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL TAKHA PASHCHIM NORTH SIDE"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRIMARY SCHOOL TAKHA PASHCHIM SOUTH SIDE"
+  },
+  {
+    "partNumber": 198,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL MADWA MOHIUDDINPUR EAST SIDE"
+  },
+  {
+    "partNumber": 199,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL MADWA MOHIUDDINPUR WEST SIDE"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY SCHOOL SURIS EAST SIDE"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY SCHOOL SURIS WEST SIDE"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL SURIS NORTH SIDE"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL SURIS SOUTH SIDE"
+  },
+  {
+    "partNumber": 204,
+    "partName": "JUNIOR HIGH SCHOOL SHAHGANJ EAST SIDE"
+  },
+  {
+    "partNumber": 205,
+    "partName": "JUNIOR HIGH SCHOOL SHAHGANJ WEST SIDE"
+  },
+  {
+    "partNumber": 206,
+    "partName": "JUNIOR HIGH SCHOOL SHAHGANJ MIDDLE SIDE"
+  },
+  {
+    "partNumber": 207,
+    "partName": "JUNIOR HIGH SCHOOL SHAHGANJ NORTH SIDE"
+  },
+  {
+    "partNumber": 208,
+    "partName": "JUNIOR HIGH SCHOOL SHAHGANJ SOUTH SIDE"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRIMARY SCHOOL KAUDIYA EAST SIDE"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY SCHOOL KAUDIYA MIDDLE SIDE"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRIMARY SCHOOL KAUDIYA WEST SIDE"
+  },
+  {
+    "partNumber": 212,
+    "partName": "COMPOSITE SCHOOL NATAULI EAST SIDE"
+  },
+  {
+    "partNumber": 213,
+    "partName": "COMPOSITE SCHOOL NATAULI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 214,
+    "partName": "COMPOSITE SCHOOL NATAULI WEST SIDE"
+  },
+  {
+    "partNumber": 215,
+    "partName": "AGRICULTURAL PRODUCTION MARKET COMMITTEE SHAHGANJ EAST SIDE"
+  },
+  {
+    "partNumber": 216,
+    "partName": "AGRICULTURAL PRODUCTION MARKET COMMITTEE SHAHGANJ MIDDLE SIDE"
+  },
+  {
+    "partNumber": 217,
+    "partName": "AGRICULTURAL PRODUCTION MARKET COMMITTEE SHAHGANJ WEST SIDE"
+  },
+  {
+    "partNumber": 218,
+    "partName": "SHAHGANJ TEHSIL OFFICE EAST SIDE"
+  },
+  {
+    "partNumber": 219,
+    "partName": "SHAHGANJ TEHSIL OFFICE WEST SIDE"
+  },
+  {
+    "partNumber": 220,
+    "partName": "SHAHGANJ TEHSIL OFFICE NORTH SIDE"
+  },
+  {
+    "partNumber": 221,
+    "partName": "SHAHGANJ TEHSIL OFFICE SOUTH SIDE"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL MACHARHATTA EAST SIDE"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY SCHOOL MACHARHATTA WEST SIDE"
+  },
+  {
+    "partNumber": 224,
+    "partName": "MUNICIPALITY OFFICE SHAHGANJ EAST SIDE"
+  },
+  {
+    "partNumber": 225,
+    "partName": "MUNICIPALITY OFFICE SHAHGANJ WEST SIDE"
+  },
+  {
+    "partNumber": 226,
+    "partName": "MUNICIPALITY OFFICE SHAHGANJ NORTH SIDE"
+  },
+  {
+    "partNumber": 227,
+    "partName": "MUNICIPALITY OFFICE SHAHGANJ SOUTH SIDE"
+  },
+  {
+    "partNumber": 228,
+    "partName": "GIRLS INTER COLLEGE SHAHGANJ EAST SIDE"
+  },
+  {
+    "partNumber": 229,
+    "partName": "GIRLS INTER COLLEGE SHAHGANJ WEST SIDE"
+  },
+  {
+    "partNumber": 230,
+    "partName": "GIRLS INTER COLLEGE SHAHGANJ MIDDLE SIDE"
+  },
+  {
+    "partNumber": 231,
+    "partName": "GIRLS INTER COLLEGE SHAHGANJ NORTH SIDE"
+  },
+  {
+    "partNumber": 232,
+    "partName": "GIRLS INTER COLLEGE SHAHGANJ SOUTH SIDE"
+  },
+  {
+    "partNumber": 233,
+    "partName": "SIR SYED INTER COLLEGE SABARHAD EAST SIDE"
+  },
+  {
+    "partNumber": 234,
+    "partName": "SIR SYED INTER COLLEGE SABARHADWEST SIDE"
+  },
+  {
+    "partNumber": 235,
+    "partName": "SIR SYED INTER COLLEGE SABARHAD NORTH SIDE"
+  },
+  {
+    "partNumber": 236,
+    "partName": "SIR SYED INTER COLLEGE SABARHAD SOUTH SIDE"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSITE SCHOOL SABARHAD EAST SIDE"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSITE SCHOOL SABARHAD MIDDLE SIDE"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE SCHOOL SABARHAD WEST SIDE"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE SCHOOL NEWADA EAST SIDE"
+  },
+  {
+    "partNumber": 241,
+    "partName": "COMPOSITE SCHOOL NEWADA WEST SIDE"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRE SECONDARY SCHOOL BHARAULI EAST SIDE"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRE SECONDARY SCHOOL BHARAULI WEST SIDE"
+  },
+  {
+    "partNumber": 244,
+    "partName": "ISLAMIA SCHOOL RAFIPUR EAST SIDE"
+  },
+  {
+    "partNumber": 245,
+    "partName": "ISLAMIA SCHOOL RAFIPUR WEST SIDE"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL DANDSAULI"
+  },
+  {
+    "partNumber": 247,
+    "partName": "NIYAZ TALEEMI MARKAZ PARAKAMAL EAST SIDE"
+  },
+  {
+    "partNumber": 248,
+    "partName": "NIYAZ TALEEMI MARKAZ PARAKAMAL MIDDLE SIDE"
+  },
+  {
+    "partNumber": 249,
+    "partName": "NIYAZ TALEEMI MARKAZ PARAKAMAL WEST SIDE"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL ARAND EAST SIDE"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL ARAND MIDDLE SIDE"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRIMARY SCHOOL ARAND WEST SIDE"
+  },
+  {
+    "partNumber": 253,
+    "partName": "JUNIOR HIGH SCHOOL ASHRAFPUR USRAHATA EAST SIDE"
+  },
+  {
+    "partNumber": 254,
+    "partName": "JUNIOR HIGH SCHOOL ASHRAFPUR USRAHATA WEST SIDE"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRIMARY SCHOOL MAJDEEHA EAST SIDE"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRIMARY SCHOOL MAJDEEHA WEST SIDE"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRIMARY SCHOOL DOMANPUR EAST SIDE"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRIMARY SCHOOL DOMANPUR WEST SIDE"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PRIMARY SCHOOL SINDHAI EAST SIDE"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PRIMARY SCHOOL SINDHAI WEST SIDE"
+  },
+  {
+    "partNumber": 261,
+    "partName": "COMPOSITE SCHOOL CHAKRAJ SAHAVEN EAST SIDE"
+  },
+  {
+    "partNumber": 262,
+    "partName": "COMPOSITE SCHOOL CHAKRAJ SAHAVEN WEST SIDE"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRIMARY SCHOOL DHANDWARA KALAN EAST SIDE"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRIMARY SCHOOL DHANDWARA KALAN WEST SIDE"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRIMARY SCHOOL DHANDWARA KHURD"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMARY SCHOOL RANIMAU EAST SIDE"
+  },
+  {
+    "partNumber": 267,
+    "partName": "PRIMARY SCHOOL RANIMAU WEST SIDE"
+  },
+  {
+    "partNumber": 268,
+    "partName": "COMPOSITE SCHOOL BADDOPUR EAST SIDE"
+  },
+  {
+    "partNumber": 269,
+    "partName": "COMPOSITE SCHOOL BADDOPUR WEST SIDE"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRIMARY SCHOOL SETHUWAPARA EAST SIDE"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY SCHOOL SETHUWAPARA WEST SIDE"
+  },
+  {
+    "partNumber": 272,
+    "partName": "COMPOSITE SCHOOL NIZAMPUR EAST SIDE"
+  },
+  {
+    "partNumber": 273,
+    "partName": "COMPOSITE SCHOOL NIZAMPUR WEST SIDE"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PANCHAYAT BHAWAN SAMAISA EAST SIDE"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PANCHAYAT BHAWAN SAMAISA WEST SIDE"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRIMARY SCHOOL RASOOLPUR"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRIMARY SCHOOL CHHATAIKALA EAST SIDE"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRIMARY SCHOOL CHHATAIKALA WEST SIDE"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOL MALHACH"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL DIPAIPUR"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL AHARPUR"
+  },
+  {
+    "partNumber": 282,
+    "partName": "GAJRAJ SINGH INTER COLLEGE JAMUNIAN EAST SIDE"
+  },
+  {
+    "partNumber": 283,
+    "partName": "GAJRAJ SINGH INTER COLLEGE JAMUNIAN WEST SIDE"
+  },
+  {
+    "partNumber": 284,
+    "partName": "GIRLS PRIMARY SCHOOL SAMSUDDINPUR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMARY SCHOOL KHARTABPUR"
+  },
+  {
+    "partNumber": 286,
+    "partName": "JUNIOR HIGH SCHOOL DEHRI EAST SIDE"
+  },
+  {
+    "partNumber": 287,
+    "partName": "JUNIOR HIGH SCHOOL DEHRI WEST SIDE"
+  },
+  {
+    "partNumber": 288,
+    "partName": "COMPOSITE SCHOOL SULTANPUR GHUGHURI EAST SIDE"
+  },
+  {
+    "partNumber": 289,
+    "partName": "COMPOSITE SCHOOL SULTANPUR GHUGHURI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 290,
+    "partName": "COMPOSITE SCHOOL SULTANPUR GHUGHURI WEST SIDE"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL KADIRAPUR"
+  },
+  {
+    "partNumber": 292,
+    "partName": "COMPOSITE SCHOOL DHIRAULI NANKAR EAST SIDE"
+  },
+  {
+    "partNumber": 293,
+    "partName": "COMPOSITE SCHOOL DHIRAULI NANKAR WEST SIDE"
+  },
+  {
+    "partNumber": 294,
+    "partName": "GIRLS PRIMARY SCHOOL PATAILA EAST SIDE"
+  },
+  {
+    "partNumber": 295,
+    "partName": "GIRLS PRIMARY SCHOOL PATAILA WEST SIDE"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRIMARY SCHOOL BANAHARA EAST SIDE"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMARY SCHOOL BANAHARA WEST SIDE"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE SCHOOL MAKHDUMPUR EAST SIDE"
+  },
+  {
+    "partNumber": 299,
+    "partName": "COMPOSITE SCHOOL MNAKHDUMPUR WEST SIDE"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PANCHAYAT BHAWAN SAMSIPUR"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL MOHAMMADPUR"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRIMARY SCHOOL HABIBPUR"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRIMARY SCHOOL KUTUBICHAK"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRIMARY SCHOOL FATEHGARH EAST SIDE"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL FATEHGARH WEST SIDE"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRIMARY SCHOOL BHATAULI"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRIMARY SCHOOL BHIVRAHAN KALAN"
+  },
+  {
+    "partNumber": 308,
+    "partName": "COMPOSITE SCHOOL LAKHRAIYA"
+  },
+  {
+    "partNumber": 309,
+    "partName": "INTER COLLEGE RASOOLPUR SECTION 1 EAST SIDE"
+  },
+  {
+    "partNumber": 310,
+    "partName": "INTER COLLEGE RASOOLPUR SECTION 1 WEST SIDE"
+  },
+  {
+    "partNumber": 311,
+    "partName": "INTER COLLEGE RASOOLPUR SECTION 2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "DARUL ULOOM HANAFIA SCHOOL KHWAJAPUR"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE SCHOOL AKABARPUR EAST SIDE"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE SCHOOL AKABARPUR WEST SIDE"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PRIMARY SCHOOL FIROZPUR"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL PURADALA"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRIMARY SCHOOL UCHWADEEH"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRIMARY SCHOOL LONIYAPATTI EAST SIDE"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMARY SCHOOL LONIYAPATTI WEST SIDE"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL BANUVADEEH EAST SIDE"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL BANUVADEEH WEST SIDE"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL DARNA EAST SIDE"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMARY SCHOOL DARNA WEST SIDE"
+  },
+  {
+    "partNumber": 324,
+    "partName": "JUNIOR HIGH SCHOOL BHAGMALPUR"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL GOSAIPUR"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL SUITHAKHURD EAST SIDE"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL SUITHAKHURD WEST SIDE"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL MALOOKPUR"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL SAURAIYAPATTI EAST SIDE"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL SAURAIYAPATTI MIDDILE SIDE"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL SAURAIYAPATTI WEST SIDE"
+  },
+  {
+    "partNumber": 332,
+    "partName": "COMPOSITE SCHOOL KANAMAU"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY SCHOOL PANAULI EAST SIDE"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMARY SCHOOL PANAULI WEST SIDE"
+  },
+  {
+    "partNumber": 335,
+    "partName": "COMPOSITE SCHOOL LAWAYAN EAST SIDE"
+  },
+  {
+    "partNumber": 336,
+    "partName": "COMPOSITE SCHOOL LAWAYAN MIDDLE SIDE"
+  },
+  {
+    "partNumber": 337,
+    "partName": "COMPOSITE SCHOOL LAWAYAN WEST SIDE"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRIMARY SCHOOL KHALSAPATTI EAST SIDE"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRIMARY SCHOOL KHALSAPATTI WEST SIDE"
+  },
+  {
+    "partNumber": 340,
+    "partName": "COMPOSITE SCHOOL SHERPUR EAST SIDE"
+  },
+  {
+    "partNumber": 341,
+    "partName": "COMPOSITE SCHOOL SHERPUR MIDDLE SIDE"
+  },
+  {
+    "partNumber": 342,
+    "partName": "COMPOSITE SCHOOL SHERPUR WEST SIDE"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRIMARY SCHOOL ASHARAFGARH"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRIMARY SCHOOL SAGHANPUR"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRIMARY SCHOOL KAPASIYA"
+  },
+  {
+    "partNumber": 346,
+    "partName": "JUNIOR HIGH SCHOOL DEHIYA EAST SIDE"
+  },
+  {
+    "partNumber": 347,
+    "partName": "JUNIOR HIGH SCHOOL DEHIYA WEST SIDE"
+  },
+  {
+    "partNumber": 348,
+    "partName": "JUNIOR HIGH SCHOOL DEHIYA NORTH SIDE"
+  },
+  {
+    "partNumber": 349,
+    "partName": "JUNIOR HIGH SCHOOL DEHIYA SOUTH SIDE"
+  },
+  {
+    "partNumber": 350,
+    "partName": "COMPOSITE SCHOOL OINA EAST SIDE"
+  },
+  {
+    "partNumber": 351,
+    "partName": "COMPOSITE SCHOOL OINA WEST SIDE"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY SCHOOL RUSTAMPUR"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRIMARY SCHOOL BEERAMPUR EAST SIDE"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PRIMARY SCHOOL BEERAMPUR WEST SIDE"
+  },
+  {
+    "partNumber": 355,
+    "partName": "PRIMARY SCHOOL SHAHABUDDINPUR"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL USARAULI EAST SIDE"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRIMARY SCHOOL USARAULI WEST SIDE"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE SCHOOL UDAIPURDIPI"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRIMARY SCHOOL SHERAPATTI"
+  },
+  {
+    "partNumber": 360,
+    "partName": "GRAM VIKAS HIGHER SECONDARY INTER COLLEGE KHUTAHAN EAST SIDE"
+  },
+  {
+    "partNumber": 361,
+    "partName": "GRAM VIKAS HIGHER SECONDARY INTER COLLEGE KHUTAHAN WEST SIDE"
+  },
+  {
+    "partNumber": 362,
+    "partName": "GRAM VIKAS HIGHER SECONDARY INTER COLLEGE KHUTAHAN NORTH SIDE"
+  },
+  {
+    "partNumber": 363,
+    "partName": "GRAM VIKAS HIGHER SECONDARY INTER COLLEGE KHUTAHAN SOUTH SIDE"
+  },
+  {
+    "partNumber": 364,
+    "partName": "COMPOSITE SCHOOL DAULATPUR EAST SIDE"
+  },
+  {
+    "partNumber": 365,
+    "partName": "COMPOSITE SCHOOL DAULATPUR WEST SIDE"
+  },
+  {
+    "partNumber": 366,
+    "partName": "COMPOSITE SCHOOL DAULATPUR NORTH SIDE"
+  },
+  {
+    "partNumber": 367,
+    "partName": "COMPOSITE SCHOOL DAULATPUR SOUTH SIDE"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PRIMARY SCHOOL PILKICHHA  FIRST EAST SIDE"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PRIMARY SCHOOL PILKICHHA FIRST WEST SIDE"
+  },
+  {
+    "partNumber": 370,
+    "partName": "GRAM VIKAS INTER COLLEGE KHUTHAN"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY SCHOOL GOBRAHAN"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRIMARY SCHOOL TISAULI"
+  },
+  {
+    "partNumber": 373,
+    "partName": "DEVELOPMENT BLOCK OFFICE KHUTAHAN EAST SIDE"
+  },
+  {
+    "partNumber": 374,
+    "partName": "DEVELOPMENT BLOCK OFFICE KHUTAHAN WEST SIDE"
+  },
+  {
+    "partNumber": 375,
+    "partName": "DEVELOPMENT BLOCK OFFICE KHUTAHAN NORTH SIDE"
+  },
+  {
+    "partNumber": 376,
+    "partName": "DEVELOPMENT BLOCK OFFICE KHUTAHAN SOUTH SIDE"
+  },
+  {
+    "partNumber": 377,
+    "partName": "PRIMARY SCHOOL JAMALUDDINPUR EAST SIDE"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PRIMARY SCHOOL JAMALUDDINPUR WEST SIDE"
+  },
+  {
+    "partNumber": 379,
+    "partName": "PRE SECONDARY SCHOOL MARHAT EAST SIDE"
+  },
+  {
+    "partNumber": 380,
+    "partName": "PRE SECONDARY SCHOOL MARHAT WEST SIDE"
+  },
+  {
+    "partNumber": 381,
+    "partName": "PRIMARY SCHOOL KABIRUDDINPUR"
+  },
+  {
+    "partNumber": 382,
+    "partName": "COMPOSITE SCHOOL TIGHRA EAST SIDE"
+  },
+  {
+    "partNumber": 383,
+    "partName": "COMPOSITE SCHOOL TIGHRA WEST SIDE"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PRIMARY SCHOOL GAUSPUR EAST SIDE"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PRIMARY SCHOOL GAUSPUR WEST SIDE"
+  },
+  {
+    "partNumber": 386,
+    "partName": "COMPOSITE SCHOOL MOZIPUR EAST SIDE"
+  },
+  {
+    "partNumber": 387,
+    "partName": "COMPOSITE SCHOOL MOZIPUR WEST SIDE"
+  },
+  {
+    "partNumber": 388,
+    "partName": "PRIMARY SCHOOL MUBARAKPUR EAST SIDE"
+  },
+  {
+    "partNumber": 389,
+    "partName": "PRIMARY SCHOOL MUBARKPUR WEST SIDE"
+  },
+  {
+    "partNumber": 390,
+    "partName": "COMPOSITE SCHOOL ANGULI EAST SIDE"
+  },
+  {
+    "partNumber": 391,
+    "partName": "COMPOSITE SCHOOL ANGULI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 392,
+    "partName": "COMPOSITE SCHOOL ANGULI WEST SIDE"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PRIMARY SCHOOL KHANPUR"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PRIMARY SCHOOL GULRA"
+  },
+  {
+    "partNumber": 395,
+    "partName": "COMPOSITE SCHOOL SHEKHPUR SUTAULI EAST SIDE"
+  },
+  {
+    "partNumber": 396,
+    "partName": "COMPOSITE SCHOOL SHEKHPUR SUTAULI MIDDLE SIDE"
+  },
+  {
+    "partNumber": 397,
+    "partName": "COMPOSITE SCHOOL SHEKHPUR SUTAULI WEST SIDE"
+  }
+]

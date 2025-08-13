@@ -1,0 +1,1654 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S. NAGLA MEV"
+  },
+  {
+    "partNumber": 2,
+    "partName": "U.P.S. RAJAGADHI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 3,
+    "partName": "U.P.S. RAJAGADHI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.S. BADHA R.N. 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S. BADHA R.N. 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.S. RAMPUR"
+  },
+  {
+    "partNumber": 7,
+    "partName": "U.P.S. UJHANI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 8,
+    "partName": "U.P.S UJHANI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 9,
+    "partName": "U.P.S. HUSAINI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 10,
+    "partName": "U.P.S HUSAINI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S. JATWARI R.N. 1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S. JATWARI R.N. 2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S. SAHAB NAGAR"
+  },
+  {
+    "partNumber": 14,
+    "partName": "U.P.S. BASAI SHERGARH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S. KHADWAI"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S. AADAMPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "U.P.S. NAGLA PACHAINYA (1-8)"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PANCHAYATGHAR SHERGARH R.N. 1"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PANCHAYATGHAR SHERGARH R.N. 2"
+  },
+  {
+    "partNumber": 20,
+    "partName": "SARDAR PATEL I.C. SHERGARH R.N. 1"
+  },
+  {
+    "partNumber": 21,
+    "partName": "SARDAR PATEL I.C. SHERGARH R.N. 2"
+  },
+  {
+    "partNumber": 22,
+    "partName": "SARDAR PATEL I.C. SHERGARH R.N. 3"
+  },
+  {
+    "partNumber": 23,
+    "partName": "SARDAR PATEL I.C. SHERGARH R.N. 4"
+  },
+  {
+    "partNumber": 24,
+    "partName": "KHELANVAN I.C. SHERGARH R. N. 1"
+  },
+  {
+    "partNumber": 25,
+    "partName": "KHELANVAN I.C. SHERGARH R. N. 2"
+  },
+  {
+    "partNumber": 26,
+    "partName": "U.P.S JANGHAWALI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S JANGHAWALI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 28,
+    "partName": "U.P.S JANGHAWALI (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 29,
+    "partName": "U.P.S KHURSHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PUNIYA RUMALI U.P.S. RANHERA R.N. 1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PUNIYA RUMALI U.P.S RANHERA R.N.2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "PUNIYA RUMALI U.P.S RANHERA R.N. 3"
+  },
+  {
+    "partNumber": 33,
+    "partName": "RAJKIYA U.P.S. SAINWA R. N.1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "RAJKIYA U.P.S. SAINWA R. N. 2 "
+  },
+  {
+    "partNumber": 35,
+    "partName": "RAJKIYA U.P.S. SAINWA R. N. 3 "
+  },
+  {
+    "partNumber": 36,
+    "partName": "U.P.S. SAINVA\t"
+  },
+  {
+    "partNumber": 37,
+    "partName": "U.P.S ASTAULI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S. GARHI BHEEMA R.N. 1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S. GARHI BHEEMA R.N. 2"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S. NAGLA BANA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "U.P.S PEERPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 42,
+    "partName": "U.P.S OWA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 43,
+    "partName": "U.P.S BAJIDPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.S. GULALPUR"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S. DHIMARI"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S. BABUGARH"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P.S. RAYPUR R.N. 1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P.S. RAYPUR R.N. 2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "U.P.S MANIGARHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.S. BHAGWANGARHI"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.S. TILKAGARHI R.N. 1"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.S. TILKAGARHI R.N. 2"
+  },
+  {
+    "partNumber": 53,
+    "partName": "U.P.S. NANAKPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 54,
+    "partName": "U.P.S KHAJPUR (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 55,
+    "partName": "U.P.S KHAJPUR (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 56,
+    "partName": "SHRI KRISHNA VANASTHALI I.C. MANAGARHI R.N. 1"
+  },
+  {
+    "partNumber": 57,
+    "partName": "SHRI KRISHNA VANASTHALI I.C MANAGARHI R.N. 2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "U.P.S CHANDPUR KHURD (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 59,
+    "partName": "U.P.S. CHANDPUR KHURD (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S. BIRJUGADHI (MARHALA)"
+  },
+  {
+    "partNumber": 61,
+    "partName": "U.P.S. BIRJUGADHI MARHALA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 62,
+    "partName": "U.P.S. SAKATPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.S. NAVIPUR"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P.S. KHANPUR"
+  },
+  {
+    "partNumber": 65,
+    "partName": "AADARSH I.C. MITTHAULI R. N. 1"
+  },
+  {
+    "partNumber": 66,
+    "partName": "AADARSH I.C. MITTHAULI R. N. 2"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.S. CHAUKADA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "U.P.S KANEKA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 69,
+    "partName": "U.P.S. CHINDAULI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.S. BHARTIYAKA"
+  },
+  {
+    "partNumber": 71,
+    "partName": "U.P.S AWAKHEDA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 72,
+    "partName": "U.P.S. AWAKHEDA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 73,
+    "partName": "U.P.S. MADUAAKA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S. ABHAYPURA"
+  },
+  {
+    "partNumber": 75,
+    "partName": "U.P.S. MADUAAKA (CLASS 1-8) (AANGANVADI KENDRA)"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.S. NOORPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. RAMGADHI"
+  },
+  {
+    "partNumber": 78,
+    "partName": "U.P.S. MUSMUNA R.N. 1"
+  },
+  {
+    "partNumber": 79,
+    "partName": "U.P.S. MUSMUNA R.N. 2"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.S. BHAGAT BHAKRELIYA"
+  },
+  {
+    "partNumber": 81,
+    "partName": "U.P.S BHAIRAI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.P.S BHAIRAI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 83,
+    "partName": "U.P.S. BAGHAI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 84,
+    "partName": "U.P.S KAULANA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "U.P.S KAULANA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "U.P.S. JAFARPUR ( CLASS 1-8)"
+  },
+  {
+    "partNumber": 87,
+    "partName": "U.P.S. MUDALIYA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 88,
+    "partName": "U.P.S. MUDALIYA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 89,
+    "partName": "U.P.S BADAUTH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S. KANKARGADHI"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S. AHMADPUR R.N. 1"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S. AHMADPUR R.N. 2"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S. GADHI KOLAHAR"
+  },
+  {
+    "partNumber": 94,
+    "partName": "U.P.S. JATPURA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 95,
+    "partName": "U.P.S KOLAHAR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 96,
+    "partName": "U.P.S. UDIYAGADHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S. SHANKARGARHI"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S. CHINTAGARHI"
+  },
+  {
+    "partNumber": 99,
+    "partName": "U.P.S. AAJNAUTH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 100,
+    "partName": "JANTA JANARDAN I.C. EDALGARHI"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P.S. DHALGARHI"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S. SULTANPATTI"
+  },
+  {
+    "partNumber": 103,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 1"
+  },
+  {
+    "partNumber": 104,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 2"
+  },
+  {
+    "partNumber": 105,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 3"
+  },
+  {
+    "partNumber": 106,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 4"
+  },
+  {
+    "partNumber": 107,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 5"
+  },
+  {
+    "partNumber": 108,
+    "partName": "BRIJ HITKARI INTER COLLEGE  BAJNA R.N. 6"
+  },
+  {
+    "partNumber": 109,
+    "partName": "BRIJ HITKARI INTER COLLEGE BAJNA R.N. 7"
+  },
+  {
+    "partNumber": 110,
+    "partName": "U.P.S. PARSAULI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S PARSAULI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "U.P.S PARSAULI (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S. BHOOTGARHI"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S. MAHARAMGARHI"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S. JARAILIYA SEHU"
+  },
+  {
+    "partNumber": 116,
+    "partName": "JANTA I.C. NAUJHIL R.N. 1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "JANTA I.C. NAUJHIL R.N. 2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "JANTA I.C. NAUJHIL R.N. 3"
+  },
+  {
+    "partNumber": 119,
+    "partName": "JANTA I.C. NAUJHIL R.N. 4"
+  },
+  {
+    "partNumber": 120,
+    "partName": "JANTA I.C. NAUJHIL R.N. 5"
+  },
+  {
+    "partNumber": 121,
+    "partName": "JANTA I.C. NAUJHIL R.N. 6"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.S. NAUJHIL R. N. 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. NAUJHIL R. N. 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.5. NAUJHIL R. N. 3"
+  },
+  {
+    "partNumber": 125,
+    "partName": "U.P.S. FIROJPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S. MANGALKHOH"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S. DEDNA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "U.P.S. DEDNA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 129,
+    "partName": "U.P.S. INAYATGARH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.S. MAKHDOOMPUR"
+  },
+  {
+    "partNumber": 131,
+    "partName": "U.P.S DAULATPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.S. BASAU"
+  },
+  {
+    "partNumber": 133,
+    "partName": "U.P.S CHHINPARAI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 134,
+    "partName": "U.P.S CHHINPARAI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S. ADDA CHHINPARAI"
+  },
+  {
+    "partNumber": 136,
+    "partName": "U.P.S. BAGHARRA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.S. ADDA MALHAN"
+  },
+  {
+    "partNumber": 138,
+    "partName": "U.P.S. NAUSHERPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P.S. ANDHARE KI GADHI"
+  },
+  {
+    "partNumber": 140,
+    "partName": "U.P.S. MUBARIKPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 141,
+    "partName": "SHRI RAMRUP U.P.S BARAUTH R. N. 1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "SHRI RAMRUP U.P.S. BARAUTH R. N. 2"
+  },
+  {
+    "partNumber": 143,
+    "partName": "SHRI RAMRUP U.P.S BARAUTH R. N. 3"
+  },
+  {
+    "partNumber": 144,
+    "partName": "U.P.S. BHOORGARHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 145,
+    "partName": "U.P.S. SUHAGPUR R. N. 1"
+  },
+  {
+    "partNumber": 146,
+    "partName": "U.P.S. SUHAGPUR R. N. 2"
+  },
+  {
+    "partNumber": 147,
+    "partName": "SHRI RAMRUP U.P.S BARAUTH (UTTARI BHAG)"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S. SADDIKPUR"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S. LALPUR"
+  },
+  {
+    "partNumber": 150,
+    "partName": "SHANTI NIKETAN U.P.S. SHALL R. N. 1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "SHANTI NIKETAN U.P.S. SHALL R. N. 2"
+  },
+  {
+    "partNumber": 152,
+    "partName": "U.P.S. BALIPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S. PACHAHARA R.N. 1"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. PACHAHARA R.N. 2"
+  },
+  {
+    "partNumber": 155,
+    "partName": "U.P.S NAVLI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "U.P.S NAVLI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "U.P.S NAVLAI (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 158,
+    "partName": "U.P.S. GADHI SAMANTA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 159,
+    "partName": "NEHRU INTER COLLEGE CHANDPUR KALA"
+  },
+  {
+    "partNumber": 160,
+    "partName": "U.P.S RAMNAGLA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 161,
+    "partName": "U.P.S. SHAHADGADHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.S. PALKHEDA R.N. 1"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.S. PALKHEDA R. N. 2"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.S. MANDIYARI"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S. GADHI RAYKARAN"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S. LUKHATIYAPAR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "RADHAKRISHNA I.C. HASANPUR R. N. 1"
+  },
+  {
+    "partNumber": 168,
+    "partName": "RADHAKRISHNA I.C. HASANPUR R. N. 2"
+  },
+  {
+    "partNumber": 169,
+    "partName": "RADHAKRISHNA I.C. HASANPUR R. N. 3"
+  },
+  {
+    "partNumber": 170,
+    "partName": "U.P.S. JARAILIYA HASANPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 171,
+    "partName": "U.P.S. MAKRANDGADHI CLASS 1-8)"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P. S. BHUREKA"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PANCHAYAT OFFICE BHUREKA"
+  },
+  {
+    "partNumber": 174,
+    "partName": "U.P.S. MASANDGADHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S. EKHU"
+  },
+  {
+    "partNumber": 176,
+    "partName": "U.P.S. MUIDDINPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 177,
+    "partName": "GANDHI SMARAK I.C. BERA R. N. 1"
+  },
+  {
+    "partNumber": 178,
+    "partName": "GANDHI SMARAK I.C. BERA R. N. 2"
+  },
+  {
+    "partNumber": 179,
+    "partName": "GANDHI SMARAK I.C. BERA R. N. 3"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. SIKANDARPUR R. N. 1"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S. SIKANDARPUR R. N. 2"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.S. SIKANDARPUR R. N. 3"
+  },
+  {
+    "partNumber": 183,
+    "partName": "U.P.S NAGLA JAGRUPA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S. MEHANDIPUR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S. THENUA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. BULAKPUR"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. LAMTAURI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S. MEERPUR"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.S. TEHRA DWITIYA R.N. 1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S. TEHRA DWITIYA R.N. 2"
+  },
+  {
+    "partNumber": 191,
+    "partName": "U.P.S. SULTANPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 192,
+    "partName": "NATIONAL I.C. SURIRKALA R. N. 1"
+  },
+  {
+    "partNumber": 193,
+    "partName": "NATIONAL I.C. SURIRKALA R. N. 2"
+  },
+  {
+    "partNumber": 194,
+    "partName": "NATIONAL I.C. SURIRKALA R. N. 3"
+  },
+  {
+    "partNumber": 195,
+    "partName": "U.P.S. GADHI PARSAUTI"
+  },
+  {
+    "partNumber": 196,
+    "partName": "U.P.S NAGLA MAUJI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "U.P.S NAGLA MAUJI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "JAMUNA PRASAD SHRIRAM I.C. SURIR BIJAU R. N. 1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "JAMUNA PRASD SHRIRAM I.C. SURIR BIJAU R. N. 2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "JAMUNA PRASD SHRIRAM I.C. SURIR BIJAU R. N. 3"
+  },
+  {
+    "partNumber": 201,
+    "partName": "JAMUNA PRASD SHRIRAM I.C. SURIR BIJAU R. N. 4"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. SINHAWAN"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. BHAGAT NAGARIYA"
+  },
+  {
+    "partNumber": 204,
+    "partName": "U.P.S. NAGLA SAPERA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. BHIDAUNI R. N. 1"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. BHIDAUNI R. N. 2"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S. BHIDAUNI R. N. 3"
+  },
+  {
+    "partNumber": 208,
+    "partName": "U.P.S. AUHAWA R. N. 1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "U.P.S. AUHAWA R. N. 2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.M.V. NAGLA AUHAWA"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S. IRAULI GUJAR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "U.P.S. SARKORIYA PART IRAULI GUJAR(CLASS 1-8)"
+  },
+  {
+    "partNumber": 213,
+    "partName": "U.P.S. SAMAULI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 214,
+    "partName": "BRIJ KRISHAK I.C. TENTIGAON R. N. 1"
+  },
+  {
+    "partNumber": 215,
+    "partName": "BRIJ KRISHAK I.C. TENTIGAON R. N. 2"
+  },
+  {
+    "partNumber": 216,
+    "partName": "BRIJ KRISHAK I.C. TENTIGAON R. N. 3"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.S. NAGLA HARIYA"
+  },
+  {
+    "partNumber": 218,
+    "partName": "U.P.S. BAIKUNTHPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 219,
+    "partName": "U.P.S. SUDAMAGADHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 220,
+    "partName": "JANTA I.C. RAJAGADHI R. N. 1"
+  },
+  {
+    "partNumber": 221,
+    "partName": "JANTA I.C. RAJAGADHI R. N. 2"
+  },
+  {
+    "partNumber": 222,
+    "partName": "U.P.S TULAGADHI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "U.P.S TULAGADHI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 224,
+    "partName": "U.P.S BHADANWARA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 225,
+    "partName": "U.P.S BHADANWARA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 226,
+    "partName": "U.P.S. NAYAVAS (CLASS 1-8)"
+  },
+  {
+    "partNumber": 227,
+    "partName": "U.P.S. RAMNAGLA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S. SHISHAGADHI"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S. JARARA FIRST R. N. 1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. JARARA FIRST R. N. 2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S. JARARA SECOND"
+  },
+  {
+    "partNumber": 232,
+    "partName": "U.P.S. NAGLA PATI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.S. MARAHALA (NAGLA MOTI)"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S. KHAYRA R. N. 1"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S. KHAYRA R.N. 2"
+  },
+  {
+    "partNumber": 236,
+    "partName": "U.P.S. ASAFABAD (CLASS 1-8)"
+  },
+  {
+    "partNumber": 237,
+    "partName": "U.P.S AMANULLAPUR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 238,
+    "partName": "P.S. BADANPUR"
+  },
+  {
+    "partNumber": 239,
+    "partName": "U.P.S. LOHAI R. N. 1"
+  },
+  {
+    "partNumber": 240,
+    "partName": "U.P.S. LOHAI R. N. 2"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S. NAGLA JAYSINGH R. N. 1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S. NAGLA JAYSINGH R. N. 2"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.S. BHALAI R. N. 1"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S. BHALAI R. N. 2"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S. BYAUNHI"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S. DADISARA"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S. DADISARI"
+  },
+  {
+    "partNumber": 248,
+    "partName": "U.P.S KARAHARI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "U.P.S KARAHARI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "U.P.S KARAHARI (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.S. BASDHAUKLA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.S. NAGARIYA BIRJI"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S. PABBIPUR"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.S. IRAULI JUNNARDAR FIRST R.N. 1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S. IRAULI JUNNARDAR FIRST R.N. 2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S. SIRRELA"
+  },
+  {
+    "partNumber": 257,
+    "partName": "U.P.S LALGADHI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P,.S. KUDWARA"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. NAGLA KHEMA"
+  },
+  {
+    "partNumber": 260,
+    "partName": "U.P.S. NAGLA SHYAM (CLASS 1-8)"
+  },
+  {
+    "partNumber": 261,
+    "partName": "U.P.S. MANIKABAS (CLASS 1-8)"
+  },
+  {
+    "partNumber": 262,
+    "partName": "U.P.S NEEMGAON (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U.P.S NEEMGAON (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 264,
+    "partName": "U.P.S NEEMGAON (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. NAGLA MENA PART NEEMGAON"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S. MUSARIYA PART NEEMGAON"
+  },
+  {
+    "partNumber": 267,
+    "partName": "U.P.S. PIRI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. BIBAVALI"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S. DHAKU"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.S. PARASAR"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.S. ANDUAA"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. BAHADIN"
+  },
+  {
+    "partNumber": 273,
+    "partName": "U.P.S. MILKKALAN (CLASS 1-8)"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.S. NAGLA DANI"
+  },
+  {
+    "partNumber": 275,
+    "partName": "U.P.S. JAISWAN R. N. 1"
+  },
+  {
+    "partNumber": 276,
+    "partName": "U.P.S. JAISWAN R.N. 2"
+  },
+  {
+    "partNumber": 277,
+    "partName": "U.P.S. JAVRA R.N. 1"
+  },
+  {
+    "partNumber": 278,
+    "partName": "U.P.S. JAVRA R. N. 2"
+  },
+  {
+    "partNumber": 279,
+    "partName": "U.P.S. GADHI MANSUKH PART JAVRA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 280,
+    "partName": "U.P.S. NAGLA BINDA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S. KHURRAM"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S. PAPRELA"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.S. NAGLA BARI R. N. 1"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.S. NAGLA BARI R. N. 2"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S. NAGLA HARDAYAL"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. LAXMINAGAR"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S. TALIYA"
+  },
+  {
+    "partNumber": 288,
+    "partName": "U.P.S. GADHI BALKISHAN (CLASS 1-8)"
+  },
+  {
+    "partNumber": 289,
+    "partName": "U.P.S. NAGLA BAISLA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 290,
+    "partName": "U.P.S NASITI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "U.P.S NASITI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.S. GADHI BIHARI"
+  },
+  {
+    "partNumber": 293,
+    "partName": "GIRLS U.P.S HARNAUL R. N. 1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "GIRLS U.P.S HARNAUL R. N. 2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "GIRLS U.P.S. HARNAUL R. N. 3"
+  },
+  {
+    "partNumber": 296,
+    "partName": "U.P.S. LAXMANPURA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 297,
+    "partName": "U.P.S. MIRTANA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S. BHADRAWAN"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.S. NAGLA NATTHA"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P.S. BILANDPUR"
+  },
+  {
+    "partNumber": 301,
+    "partName": "U.P.S BIJAULI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "U.P.S BIJAULI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S. PREMNAGAR"
+  },
+  {
+    "partNumber": 304,
+    "partName": "BRIJ ADARSH I.C. MANT R.N. 1"
+  },
+  {
+    "partNumber": 305,
+    "partName": "BRIJ ADARSH I.C. MANT R.N.2"
+  },
+  {
+    "partNumber": 306,
+    "partName": "BRIJ ADARSH I.C. MANT R.N. 3"
+  },
+  {
+    "partNumber": 307,
+    "partName": "BRIJ ADARSH I.C. MANT R.N. 4"
+  },
+  {
+    "partNumber": 308,
+    "partName": "U.P.S. CHHAHARI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 309,
+    "partName": "U.P.S. MANTRAJA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "U.P.S. MANTRAJA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 311,
+    "partName": "U.P.S. MANTRAJA (CLASS 1-8) R. N. 3"
+  },
+  {
+    "partNumber": 312,
+    "partName": "U.P.S. MANTRAJA (CLASS 1-8) R. N. 4"
+  },
+  {
+    "partNumber": 313,
+    "partName": "U.P.S. MANTRAJA (CLASS 1-8) R. N. 5"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.S. NAGLA BINDA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S. ARRUA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.S. CHAUKADA R.N. 1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S. CHAUKADA R.N. 2"
+  },
+  {
+    "partNumber": 318,
+    "partName": "U.P.S. JASAULI KALAN (CLASS 1-8)"
+  },
+  {
+    "partNumber": 319,
+    "partName": "SARDAR PATEL I.C. DARBE PART ARRUA"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.S. DARVE PART ARRUA"
+  },
+  {
+    "partNumber": 321,
+    "partName": "U.P.S. KASERA KALAN PART ARRUA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.S. NAND NAGARIYA PART ARRUA"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.S. JANAKPUR"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S. GADHI ASHA"
+  },
+  {
+    "partNumber": 325,
+    "partName": "U.P.S. BHEEM (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "U.P.S. BHEEM (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "P.S. JAHANGIRPUR"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P.S. BEGAMPUR"
+  },
+  {
+    "partNumber": 329,
+    "partName": "U.P.S. DANGAULI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "U.P.S. DANGAULI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.S. PANIGAON FIRST R. N. 1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S. PANIGAON FIRST R. N. 2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "U.P.S. NAGLA BHOODA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 334,
+    "partName": "U.P.S. BHUTIYA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 335,
+    "partName": "U.P.S. POKHAR HRIDAY (CLASS 1-8)"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.S. SAUR GUDDAR"
+  },
+  {
+    "partNumber": 337,
+    "partName": "A.S.S. I.C. KEHARI GADHI"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S. BALDEVGADH"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.S. KOOPGADH"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P.S. PIPRAULI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.S. NAGLA HANSI"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PANCHAYATGHAR NAGLA AMBU"
+  },
+  {
+    "partNumber": 343,
+    "partName": "U.P.S. SARDARGARH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.S. BHOLGARH"
+  },
+  {
+    "partNumber": 345,
+    "partName": "U.P.S. LOHAGARH (CLASS 1-8)"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P.S. NAGLA ALIYA"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PANCHAYATGHAR NAGLA SIRIYA"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. NAGLA GANGA (PART KAKRARI)"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S. NAGLA MAHRU"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S. MURJA"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S. SURRAKA"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P.S. NAGLA DEH"
+  },
+  {
+    "partNumber": 353,
+    "partName": "P.S. NAGLA HIMAYU"
+  },
+  {
+    "partNumber": 354,
+    "partName": "U.P.S. DUNETIYA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 355,
+    "partName": "U.P.S. UDHAR (CLASS 1-8)"
+  },
+  {
+    "partNumber": 356,
+    "partName": "ADARSH U.M.V. AYARAKHEDA R. N. 1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "ADARSH U.M.V. AYARAKHEDA R. N. 2"
+  },
+  {
+    "partNumber": 358,
+    "partName": "P.S. AYARAKHEDA FIRST R. N. 1"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S. AYARAKHEDA FIRST R. N. 2"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S. MAGDA"
+  },
+  {
+    "partNumber": 361,
+    "partName": "U.P.S. BHAINSARA (CLASS 1-8)"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S. BHANKARPUR BASELA"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.S. PANNAPUR"
+  },
+  {
+    "partNumber": 364,
+    "partName": "U.P.S. MANINABALU (CLASS 1-8)"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.S. NAGLA SAMPATI"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S. SUTHARIYA"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S. LALPUR MAHAVAN"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. BHARAUAA"
+  },
+  {
+    "partNumber": 369,
+    "partName": "U.P.S. BHUDASANI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.S. NAGLA CHIKAN"
+  },
+  {
+    "partNumber": 371,
+    "partName": "U.P.S. SHERNI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 372,
+    "partName": "P.S. NAGARIYA"
+  },
+  {
+    "partNumber": 373,
+    "partName": "U.P.S. BADHAUN (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 374,
+    "partName": "U.P.S. BADHAUN (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.S. DHAKPURA"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S. JOGPURA"
+  },
+  {
+    "partNumber": 377,
+    "partName": "P.S. GAIYARA"
+  },
+  {
+    "partNumber": 378,
+    "partName": "U.P.S. DHAGOI (CLASS 1-8)"
+  },
+  {
+    "partNumber": 379,
+    "partName": "U.P.S. KHARBA (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 380,
+    "partName": "U.P.S. KHARBA (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P.S. KHARBA"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.S. KESHOPUR"
+  },
+  {
+    "partNumber": 383,
+    "partName": "OFFICE GRAM PANCHAYAT THANA AMARSINGH"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.S. KOYAL"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.S. NAGLA AMARUAA"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S. NAGLA PIRSUAA"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S. PIRSUAA"
+  },
+  {
+    "partNumber": 388,
+    "partName": "U.P.S. BISAWALI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 389,
+    "partName": "U.P.S. BISAWALI (CLASS 1-8) R.N. 2"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S. SIMANA"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S. BIRAHANA"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P.S. CHIMALA"
+  },
+  {
+    "partNumber": 393,
+    "partName": "P.S. ITAURA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S. KUMHA R. N. 1"
+  },
+  {
+    "partNumber": 395,
+    "partName": "P.S. KUMHA R. N. 2"
+  },
+  {
+    "partNumber": 396,
+    "partName": "P.S. GADHI HARIYA"
+  },
+  {
+    "partNumber": 397,
+    "partName": "U.P.S. NAYAVAS (CLASS 1-8)"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P.S. NAGLA KARNA"
+  },
+  {
+    "partNumber": 399,
+    "partName": "U.P.S. GAJU (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 400,
+    "partName": "U.P.S. GAJU (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S. AYERA"
+  },
+  {
+    "partNumber": 402,
+    "partName": "U.P.S. SARUPA PART BIRBAL (CLASS 1-8)"
+  },
+  {
+    "partNumber": 403,
+    "partName": "P.S. MISHRI"
+  },
+  {
+    "partNumber": 404,
+    "partName": "P.S. NAGLA ALGARJI"
+  },
+  {
+    "partNumber": 405,
+    "partName": "P.S. PARSAGADHI PART BIRBAL"
+  },
+  {
+    "partNumber": 406,
+    "partName": "P.S. SONAI SECOND R.N. 1"
+  },
+  {
+    "partNumber": 407,
+    "partName": "P.S. SONAI SECOND R.N. 2"
+  },
+  {
+    "partNumber": 408,
+    "partName": "U.P.S. SONAI (CLASS 1-8) R. N. 1"
+  },
+  {
+    "partNumber": 409,
+    "partName": "U.P.S. SONAI (CLASS 1-8) R. N. 2"
+  },
+  {
+    "partNumber": 410,
+    "partName": "P.S. KHOJIYA PART THOK KAMAL"
+  },
+  {
+    "partNumber": 411,
+    "partName": "P.S. SONAI FIRST"
+  },
+  {
+    "partNumber": 412,
+    "partName": "P.S. BHUDARI"
+  },
+  {
+    "partNumber": 413,
+    "partName": "U.P.S. SARUA JANGALI (CLASS 1-8)"
+  }
+]

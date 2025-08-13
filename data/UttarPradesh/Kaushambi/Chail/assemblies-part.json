@@ -1,0 +1,1622 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "UPS SHAKHABARIPUR EAST PART"
+  },
+  {
+    "partNumber": 2,
+    "partName": "UPS SHAKHABARIPUR WEST PART"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S. MAKHDOOMPUR KAJI"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.S. SIHORI"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S. RASOOLPUR KAJI EAST PART"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.S. RASOOLPUR KAJI WEST PART"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S. GRAMEEN BHARWARI"
+  },
+  {
+    "partNumber": 8,
+    "partName": "NATIONAL I C BHARWARI WEST PART"
+  },
+  {
+    "partNumber": 9,
+    "partName": "NATIONAL I C BHARWARI WEST PART FIRST"
+  },
+  {
+    "partNumber": 10,
+    "partName": "NATIONAL I C BHARWARI CENTER PART"
+  },
+  {
+    "partNumber": 11,
+    "partName": "NATIONAL I C BHARWARI CENTER PART FIRST"
+  },
+  {
+    "partNumber": 12,
+    "partName": "NATIONAL I C BHARWARI WEST PART SECOND"
+  },
+  {
+    "partNumber": 13,
+    "partName": "NATIONAL I C BHARWARI WEST PART THIRD"
+  },
+  {
+    "partNumber": 14,
+    "partName": "NATIONAL I C BHARWARI WEST PART FOURTH"
+  },
+  {
+    "partNumber": 15,
+    "partName": "NATIONAL I C BHARWARI WEST PART FIFTH"
+  },
+  {
+    "partNumber": 16,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 17,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI SOUTH PART SECOND"
+  },
+  {
+    "partNumber": 18,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI SOUTH PART THIRD"
+  },
+  {
+    "partNumber": 19,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI NORTH PART FIRST"
+  },
+  {
+    "partNumber": 20,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI NORTH PART SECOND"
+  },
+  {
+    "partNumber": 21,
+    "partName": "KASTOORBA GANDHI GIRLS I C BHARWARI NORTH PART THIRD"
+  },
+  {
+    "partNumber": 22,
+    "partName": "UPS ASDULLAPUR ROHI EAST PART"
+  },
+  {
+    "partNumber": 23,
+    "partName": "UPS ASDULLAPUR ROHI EAST PART FIRST"
+  },
+  {
+    "partNumber": 24,
+    "partName": "UPS ASDULLAPUR ROHI EAST PART SECOND"
+  },
+  {
+    "partNumber": 25,
+    "partName": "UPS ASDULLAPUR ROHI EAST PART THIRD"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PANCHAYAT BHAVAN MARUFPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PANCHAYAT BHAVAN MARUFPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.S. KASIYA EAST PART"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.S. KASIYA EAST PART FIRST"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S. KASIYA WEST PART"
+  },
+  {
+    "partNumber": 31,
+    "partName": "UPS KASIYA EAST PART"
+  },
+  {
+    "partNumber": 32,
+    "partName": "UPS KASIYA WEST PART"
+  },
+  {
+    "partNumber": 33,
+    "partName": "UPS KASIYA CENTER PART"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.S. BHIKHAMPUR"
+  },
+  {
+    "partNumber": 35,
+    "partName": "UPS SAITA EAST PART"
+  },
+  {
+    "partNumber": 36,
+    "partName": "UPS SAITA WEST PART"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S. PALHANA EAST PART"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S. PALHANA WEST PART"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S. PALHANA WEST CENTER PART"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S. PALHANA EAST PART FIRST"
+  },
+  {
+    "partNumber": 41,
+    "partName": "UPS PALHANA KACHAR"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.S. DHANNI EAST PART"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.S. DHANNI WEST PART"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.S. DHANNI WEST PART FIRST"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S. SAKADHA EAST PART"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S. SAKADHA WEST PART"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P.S. IBRAHIMPUR NAUGIRA"
+  },
+  {
+    "partNumber": 48,
+    "partName": "UPS PATTI NARVAR NORTH PART"
+  },
+  {
+    "partNumber": 49,
+    "partName": "UPS PATTI NARVAR SOUTH PART"
+  },
+  {
+    "partNumber": 50,
+    "partName": "UPS PATTI NARVAR SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 51,
+    "partName": "UPS. PATTI NARVAR CENTER PART"
+  },
+  {
+    "partNumber": 52,
+    "partName": "UPS. PATTI NARVAR CENTER PART FIRST"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PS BARAI SULEM"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S. BASEDHI EAST PART"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S. BASEDHI WEST PART"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S. BASEDHI WEST PART FIRST"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. SHOBHNA EAST PART"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. SHOBHNA WEST PART"
+  },
+  {
+    "partNumber": 59,
+    "partName": "MAHESHVARI PRASAD I COLLEGE ALAMCHANDRA NORTH PART"
+  },
+  {
+    "partNumber": 60,
+    "partName": "MAHESHVARI PRASAD I COLLEGE ALAMCHANDRA NORTH PART FIRST"
+  },
+  {
+    "partNumber": 61,
+    "partName": "MAHESHVARI PRASAD I COLLEGE ALAMCHANDRA CENTER PART"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.S. ADAMPUR NADIRALI EAST PART"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.S. ADAMPUR NADIRALI WEST PART"
+  },
+  {
+    "partNumber": 64,
+    "partName": "UPS SIKANDARPUR BAJHAN NORTH PART"
+  },
+  {
+    "partNumber": 65,
+    "partName": "UPS SIKANDARPUR BAJHAN NORTH PART FIRST"
+  },
+  {
+    "partNumber": 66,
+    "partName": "UPS SIKANDARPUR BAJHAN SOUTH PART"
+  },
+  {
+    "partNumber": 67,
+    "partName": "UPS LOHRA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P.S. SOKHDA"
+  },
+  {
+    "partNumber": 69,
+    "partName": "MAHGAON I C MAHGAON EAST PART"
+  },
+  {
+    "partNumber": 70,
+    "partName": "MAHGAON I C MAHGAON EAST CENTER PART"
+  },
+  {
+    "partNumber": 71,
+    "partName": "MAHGAON I C MAHGAON WEST CENTER PART"
+  },
+  {
+    "partNumber": 72,
+    "partName": "MAHGAON I C MAHGAON WEST CENTER PART FIRST"
+  },
+  {
+    "partNumber": 73,
+    "partName": "MAHGAON I C MAHGAON EAST CENTER PART FIRST"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S. MALAK MOHIUDDINPUR EAST PART"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S. MALAK MOHIUDDINPUR WEST PART"
+  },
+  {
+    "partNumber": 76,
+    "partName": "UPS BHEETI DEHMAFI"
+  },
+  {
+    "partNumber": 77,
+    "partName": "UPS UMARCHA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "UPS KURAI"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.S. MOHIUDDINPUR GAUS EAST PART"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.S. MOHIUDDINPUR GAUS WEST PART"
+  },
+  {
+    "partNumber": 81,
+    "partName": "UPS MOHANNAGAR HATIYABHEET"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.S. HATHIYABHEET"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S. HUSENMAU"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.S. KYAMUDDINPUR"
+  },
+  {
+    "partNumber": 85,
+    "partName": "UPS MIRJAPUR GAUS EAST PART"
+  },
+  {
+    "partNumber": 86,
+    "partName": "UPS MIRJAPUR GAUSH WEST PART"
+  },
+  {
+    "partNumber": 87,
+    "partName": "UPS UJIHINI KHALSA NORTH PART"
+  },
+  {
+    "partNumber": 88,
+    "partName": "UPS UJIHINI KHALSA SOUTH PART"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S. FARIDPUR CHAKTAJPUR EAST PART"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S. FARIDPUR CHAKTAJPUR WEST PART"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S. NAYA TALAB MAJRA SAIYAD SARAWAN EAST PART"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S. NAYA TALAB MAJRA SAIYAD SARAWAN WEST PART"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S. KOODAPUR MAJRA SAIYAD SARAWAN EAST PART"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S. KOODAPUR MAJRA SAIYAD SARAWAN WEST PART"
+  },
+  {
+    "partNumber": 95,
+    "partName": "UPS SAIYAD SARAWAN NORTH PART"
+  },
+  {
+    "partNumber": 96,
+    "partName": "UPS SAIYAD SARAWAN NORTH PART FIRST"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P KANYA PATHSHALA SAIYAD SARAWAN"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S. SAIYAD SARAWAN FIRST"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S. KAJIPUR EAST PART"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S. KAJIPUR WEST PART"
+  },
+  {
+    "partNumber": 101,
+    "partName": "UPS UDATHU"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S. BATHUI"
+  },
+  {
+    "partNumber": 103,
+    "partName": "UPS RASOOLPUR BADLE EAST PART"
+  },
+  {
+    "partNumber": 104,
+    "partName": "UPS RASOOLPUR BADLE WEST PART"
+  },
+  {
+    "partNumber": 105,
+    "partName": "UPS RASOOLPUR BADLE WEST PART FIRST"
+  },
+  {
+    "partNumber": 106,
+    "partName": "UPS AMNI LOKIPUR NORTH PART"
+  },
+  {
+    "partNumber": 107,
+    "partName": "UPS AMNI LOKIPUR SOUTH PART"
+  },
+  {
+    "partNumber": 108,
+    "partName": "UPS PANSAUR EAST PART"
+  },
+  {
+    "partNumber": 109,
+    "partName": "UPS. PANSAUR WEST PART"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S. BALKARANPUR"
+  },
+  {
+    "partNumber": 111,
+    "partName": "UPS. MALAK NAGAR"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S. ASHRAFPUR TA ASDULLAPUR NORTH PART"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S. ASHRAFPUR TA ASDULLAPUR SOUTH PART"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S. JEEVANGAJ"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S. BALIHAVAN EAST PART"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S. BALIHAVAN WEST PART"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P.S. SARVAKAJI"
+  },
+  {
+    "partNumber": 118,
+    "partName": "P.S. PANNOI"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P.S. PATTI PARVEJABAD WEST PART"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.S. PATTI PARVEJABAD WEST CENTER PART"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.S. PATTI PARVEJABAD CENTER PART"
+  },
+  {
+    "partNumber": 122,
+    "partName": "UPS PATTI PARVEJABAD NORTH PART"
+  },
+  {
+    "partNumber": 123,
+    "partName": "UPS PATTI PARVEJABAD SOUTH PART"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S. JALALPUR BORIYO NORTH PART"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P.S. JALALPUR BORIYO SOUTH PART"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S. DARVESHPUR"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S. LALPUR"
+  },
+  {
+    "partNumber": 128,
+    "partName": "UPS CHAKMAHPUR PANDEYMAU NORTH PART"
+  },
+  {
+    "partNumber": 129,
+    "partName": "UPS CHAKMAHPUR PANDEYMAU SOUTH PART"
+  },
+  {
+    "partNumber": 130,
+    "partName": "UPS PARSARA NORTH PART"
+  },
+  {
+    "partNumber": 131,
+    "partName": "UPS PARSARA SOUTH PART"
+  },
+  {
+    "partNumber": 132,
+    "partName": "UPS PARSARA SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.S. MOHAMMADPUR ASWAN NORTH PART"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S. MOHAMMADPUR ASWAN SOUTH PART"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S. ASHOKPUR"
+  },
+  {
+    "partNumber": 136,
+    "partName": "UPS ASHOKPUR"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.S. MAULI NORTH PART"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S. MAULI SOUTH PART"
+  },
+  {
+    "partNumber": 139,
+    "partName": "UPS CHAPHUA"
+  },
+  {
+    "partNumber": 140,
+    "partName": "UPS BIRAULI EAST PART"
+  },
+  {
+    "partNumber": 141,
+    "partName": "UPS BIRAULI WEST PART"
+  },
+  {
+    "partNumber": 142,
+    "partName": "P.S. JALEELPUR"
+  },
+  {
+    "partNumber": 143,
+    "partName": "UPS. BERUA"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S. MALAKBHARAT"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S. SIRIYAWAN KALA EAST PART"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S. SIRIYAWAN KALA WEST PART"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S ARAI SUMERPUR EAST PART"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S. ARAI SUMERPUR WEST PART"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S. KAJU NORTH PART"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S. KAJU SOUTH PART"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S. KAJU NORTH PART FIRST"
+  },
+  {
+    "partNumber": 152,
+    "partName": "U.P.S. KAJU CENTER PART"
+  },
+  {
+    "partNumber": 153,
+    "partName": "U.P.S. KAJU CENTER PART FIRST"
+  },
+  {
+    "partNumber": 154,
+    "partName": "UPS PAKSARAI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "UPS SAMASPUR NORTH PART"
+  },
+  {
+    "partNumber": 156,
+    "partName": "UPS SAMASPUR SOUTH PART"
+  },
+  {
+    "partNumber": 157,
+    "partName": "UPS SAMASPUR SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. KRISHNA DOLI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P.S. GAUHANI KALA EAST PART"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S. GAUHANI KALA WEST PART"
+  },
+  {
+    "partNumber": 161,
+    "partName": "UPS MAHMOODPUR MANAURI NORTH PART"
+  },
+  {
+    "partNumber": 162,
+    "partName": "UPS MAHMOODPUR  MANAURI SOUTH PART"
+  },
+  {
+    "partNumber": 163,
+    "partName": "UPS MAHMOODPUR  MANAURI CENTER PART"
+  },
+  {
+    "partNumber": 164,
+    "partName": "UPS MAHMOODPUR  MANAURI CENTER PART FIRST"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S. MEERPUR"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S. RATGAHAN NORTH PART"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S. RATGAHAN SOUTH PART"
+  },
+  {
+    "partNumber": 168,
+    "partName": "UPS MOHIUDDINPUR"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S. PAHADPUR SUDHVAR NORTH PART"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.S. PAHADPUR SUDHVAR SOUTH PART"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S. JANKIPUR"
+  },
+  {
+    "partNumber": 172,
+    "partName": "UPS KAMALPUR"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S. FARIDPUR SULEM EAST PART"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S. FARIDPUR SULEM WEST PART"
+  },
+  {
+    "partNumber": 175,
+    "partName": "UPS NIJAMPUR PURAINI NORTH PART"
+  },
+  {
+    "partNumber": 176,
+    "partName": "UPS NIJAMPUR PURAINI NORTH PART FIRST"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.S MOHAMMADPUR NORTH PART"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.S. MOHAMMADPUR SOUTH PART"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S. CHAIL EAST PART"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. CHAIL WEST PART"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S. CHAIL WEST PART FIRST"
+  },
+  {
+    "partNumber": 182,
+    "partName": "SHRI LAL BAHADUR SHASTRI I C CHAIL SOUTH PART"
+  },
+  {
+    "partNumber": 183,
+    "partName": "SHRI LAL BAHADUR SHASTRI I C CHAIL CENTER PART FIRST"
+  },
+  {
+    "partNumber": 184,
+    "partName": "SHRI LAL BAHADUR SHASTRI I C CHAIL SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 185,
+    "partName": "SHRI LAL BAHADUR SHASTRI I C CHAIL NORTH PART FIRST"
+  },
+  {
+    "partNumber": 186,
+    "partName": "SHRI LAL BAHADUR SHASTRI I C CHAIL NORTH PART SECOND"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. GIRIYA KHALSA EAST PART"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S. GIRIYA KHALSA WEST PART"
+  },
+  {
+    "partNumber": 189,
+    "partName": "U.P.S. LALAPUR"
+  },
+  {
+    "partNumber": 190,
+    "partName": "UPS CHALAULI"
+  },
+  {
+    "partNumber": 191,
+    "partName": "UPS KASENDA EAST PART"
+  },
+  {
+    "partNumber": 192,
+    "partName": "UPS KASENDA WEST PART"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.S. MURADPUR"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.S. FATEHPUR SAHAVPUR EAST PART"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.S. FATEHPUR SAHAVPUR WEST PART"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.S. SINGHPUR"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.S. KATHRA EAST PART"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.S. KATHRA WEST PART"
+  },
+  {
+    "partNumber": 199,
+    "partName": "UPS. CHAURADEEH EAST PART"
+  },
+  {
+    "partNumber": 200,
+    "partName": "UPS CHAURADEEH WEST PART"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. BALIPUR TATA NORTH PART"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. BALIPUR TATA CENTER PART"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. BALIPUR TATA SOUTH PART"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.S. BALIPUR TATA CENTER PART FIRST"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. SHEKHPUR RASOOLPUR NORTH PART"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. SHEKHPUR RASOOLPUR SOUTH PART"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S. SHEKHPUR RASOOLPUR SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 208,
+    "partName": "UPS CHILLASHAHBAJI NORTH PART"
+  },
+  {
+    "partNumber": 209,
+    "partName": "UPS CHILLASHAHBAJI EAST PART"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S. DANIYALPUR"
+  },
+  {
+    "partNumber": 211,
+    "partName": "UPS RASOOLABAD URF KOILAHA EAST PART"
+  },
+  {
+    "partNumber": 212,
+    "partName": "UPS RASOOLABAD URF KOILAHA WEST PART"
+  },
+  {
+    "partNumber": 213,
+    "partName": "UPS PIPRI MAJRA CHARWA NORTH PART"
+  },
+  {
+    "partNumber": 214,
+    "partName": "UPS PIPRI MAJRA CHARWA NORTH PART FIRST"
+  },
+  {
+    "partNumber": 215,
+    "partName": "UPS PIPRI MAJRA CHARWA NORTH PART SECOND"
+  },
+  {
+    "partNumber": 216,
+    "partName": "UPS PIPRI MAJRA CHARWA CENTER PART"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.S. POORE AYODHYA CHARWA WEST PART"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.S. POORE AYODHYA CHARWA CENTER PART"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P.S. POORE AYODHYA CHARWA CENTER PART FIRST"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S. BAHADUR PUR CHARWA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. DHAMSEDA CHARWA EAST PART"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S. DHAMSEDA CHARWA WEST PART"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S. DHAMSEDA CHARWA EAST PART FIRST"
+  },
+  {
+    "partNumber": 224,
+    "partName": "ADARSH GRAM SABHA I C CHARWA EAST PART"
+  },
+  {
+    "partNumber": 225,
+    "partName": "ADARSH GRAM SABHA I C CHARWA EAST PART FIRST"
+  },
+  {
+    "partNumber": 226,
+    "partName": "ADARSH GRAM SABHA I C CHARWA EAST PART SECOND"
+  },
+  {
+    "partNumber": 227,
+    "partName": "ADARSH GRAM SABHA I C CHARWA EAST PART THIRD"
+  },
+  {
+    "partNumber": 228,
+    "partName": "ADARSH GRAM SABHA I C CHARWA EAST PART FOURTH"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S. CHARWA SECOND EAST PART"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. CHARWA SECOND WEST PART"
+  },
+  {
+    "partNumber": 231,
+    "partName": "UPS RAIYA DEHMAFI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "UPS JALALPUR SHANA EAST PART"
+  },
+  {
+    "partNumber": 233,
+    "partName": "UPS JALALPUR SHANA WEST PART"
+  },
+  {
+    "partNumber": 234,
+    "partName": "UPS. MAHRAJ KA PURA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S.SHANA NEEBI"
+  },
+  {
+    "partNumber": 236,
+    "partName": "UPS CHAKBADSHAHPUR"
+  },
+  {
+    "partNumber": 237,
+    "partName": "UPS HARDUA NORTH PART"
+  },
+  {
+    "partNumber": 238,
+    "partName": "UPS HARDUA SOUTH PART"
+  },
+  {
+    "partNumber": 239,
+    "partName": "SAMUDAYIK BHAVAN HASIMPUR CHABILEPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "RADHYA SINGH I T I COLLEGE KHANPUR SATWAN"
+  },
+  {
+    "partNumber": 241,
+    "partName": "UPS. BILASPUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S. BHOJPUR"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.S. MAKHAUPUR EAST PART"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S. MAKHAUPUR WEST PART"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S. MAKHAUPUR WEST PART FIRST"
+  },
+  {
+    "partNumber": 246,
+    "partName": "UPS PERAI EAST PART"
+  },
+  {
+    "partNumber": 247,
+    "partName": "UPS. PERAI EAST PART FIRST"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S. DARIYAPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "UPS KHAPRA KHANDEVRA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.S. SIKANDARPUR AIMA"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.S. GHOORI"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.S. KAUDIYA"
+  },
+  {
+    "partNumber": 253,
+    "partName": "UPS BAIRGAON NORTH PART"
+  },
+  {
+    "partNumber": 254,
+    "partName": "UPS. BAIRGAON SOUTH PART"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S. LOHI"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S. BARAULAHA"
+  },
+  {
+    "partNumber": 257,
+    "partName": "UPS RAMPUR"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.S. BARIYAVA EAST PART"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. BARIYAVA WEST PART"
+  },
+  {
+    "partNumber": 260,
+    "partName": "UPS BASUHAR EAST PART"
+  },
+  {
+    "partNumber": 261,
+    "partName": "UPS BASUHAR EAST PART FIRST"
+  },
+  {
+    "partNumber": 262,
+    "partName": "UPS KATAINI ROOM NO. 1"
+  },
+  {
+    "partNumber": 263,
+    "partName": "UPS KATAINI ROOM NO. 2"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S. BAIRAGIPUR"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. KHARSEN KA PURA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S. MOHIUDDIN NAGAR URF BAHUGARI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. ICHCHNA EAST PART"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. ICHCHNA WEST PART"
+  },
+  {
+    "partNumber": 269,
+    "partName": "UPS GHOSIYA NORTH PART"
+  },
+  {
+    "partNumber": 270,
+    "partName": "UPS. GHOSIYA CENTER PART"
+  },
+  {
+    "partNumber": 271,
+    "partName": "UPS. GHOSIYA SOUTH PART"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. CHITTAPUR NORTH PART"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.S. CHITTAPUR SOUTH PART"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.S. BHAGWANPUR BAHUGARA EAST PART"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.S. BHAGWANPUR BAHUGARA WEST CENTER PART"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.S. BHAGWANPUR BAHUGARA WEST PART"
+  },
+  {
+    "partNumber": 277,
+    "partName": "UPS. CHANDUPUR EAST PART"
+  },
+  {
+    "partNumber": 278,
+    "partName": "UPS CHANDUPUR WEST PART"
+  },
+  {
+    "partNumber": 279,
+    "partName": "UPS KOORA"
+  },
+  {
+    "partNumber": 280,
+    "partName": "SHRI BRAMHACHARI I C SEWTHA TILHAPUR EAST PART"
+  },
+  {
+    "partNumber": 281,
+    "partName": "SHRI BRAMHACHARI I C SEWTHA TILHAPUR WEST PART"
+  },
+  {
+    "partNumber": 282,
+    "partName": "UPS GOVINDPUR EAST PART"
+  },
+  {
+    "partNumber": 283,
+    "partName": "UPS. GOVINDPUR WEST PART"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.S. HASIMPUR KINAR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P. S JALALPUR JAVAHARGANJ"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. JAITPUR POORE HAJARI"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S. MUSTAFABAD SOUTH PART"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P.S. MUSTAFABAD SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S. MUSTAFABAD SOUTH PART SECOND"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P.S. AMIRSA EAST PART"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.S. AMIRSA WEST PART"
+  },
+  {
+    "partNumber": 292,
+    "partName": "UPS. MISHRAPUR DAHIYA EAST PART"
+  },
+  {
+    "partNumber": 293,
+    "partName": "UPS. MISHRAPUR DAHIYA WEST PART"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S. BARAI SARAIAKIL"
+  },
+  {
+    "partNumber": 295,
+    "partName": "BANVARI LAL GAUTAM BALIKA I C SARAIAKIL ROOM NO. FIRST"
+  },
+  {
+    "partNumber": 296,
+    "partName": "BANVARI LAL GAUTAM BALIKA I C SARAIAKIL ROOM NO. SECOND"
+  },
+  {
+    "partNumber": 297,
+    "partName": "BANVARI LAL GAUTAM BALIKA I C SARAIAKIL ROOM NO. THIRD"
+  },
+  {
+    "partNumber": 298,
+    "partName": "BANVARI LAL GAUTAM BALIKA I C SARAIAKIL ROOM NO. FOURTH"
+  },
+  {
+    "partNumber": 299,
+    "partName": "BANVARI LAL GAUTAM BALIKA I C SARAIAKIL ROOM NO. FIFTH"
+  },
+  {
+    "partNumber": 300,
+    "partName": "SARDAR BALLABH BHAI PATEL I C SARAIAKIL EAST PART"
+  },
+  {
+    "partNumber": 301,
+    "partName": "SARDAR BALLABH BHAI PATEL I C SARAIAKIL EAST PART FIRST"
+  },
+  {
+    "partNumber": 302,
+    "partName": "SARDAR BALLABH BHAI PATEL I C L SARAIAKIL EAST PART SECOND"
+  },
+  {
+    "partNumber": 303,
+    "partName": "SARDAR BALLABH BHAI PATEL I C SARAIAKIL EAST CENTER PART"
+  },
+  {
+    "partNumber": 304,
+    "partName": "ADARSH I C SARAIAKIL EAST PART"
+  },
+  {
+    "partNumber": 305,
+    "partName": "ADARSH I C SARAIAKIL EAST PART FIRST"
+  },
+  {
+    "partNumber": 306,
+    "partName": "ADARSH I C SARAIAKIL EAST PART SECOND"
+  },
+  {
+    "partNumber": 307,
+    "partName": "ADARSH I C SARAIAKIL WEST PART"
+  },
+  {
+    "partNumber": 308,
+    "partName": "ADARSH I C SARAIAKIL WEST PART FIRST"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P.S. RASOOLPUR TAPPA EAST PART"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.S. RASOOLPUR TAPPA WEST PART"
+  },
+  {
+    "partNumber": 311,
+    "partName": "UPS. KHOPA EAST PART"
+  },
+  {
+    "partNumber": 312,
+    "partName": "UPS. KHOPA WEST PART"
+  },
+  {
+    "partNumber": 313,
+    "partName": "UPS. KHOPA WEST PART FIRST"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.S. PURANA KHOPA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "UPS PANARA GOPALPUR EAST PART"
+  },
+  {
+    "partNumber": 316,
+    "partName": "UPS. PANARA GOPALPUR EAST PART FIRST"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S. DARIYAV KA PURA ROOM NO. 1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S. DARIYAV KA POORA ROOM NO. 2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "UPS USMANPUR BIGHARA"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.S. KHANPUR KHAS"
+  },
+  {
+    "partNumber": 321,
+    "partName": "UPS. SARAI YOUSUF"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.S. BANTHARI"
+  },
+  {
+    "partNumber": 323,
+    "partName": "UPS. AKBARABAD EAST PART"
+  },
+  {
+    "partNumber": 324,
+    "partName": "UPS AKBARABAD WEST PART"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P.S. CHAKPINHA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "UPS KATAIYA EAST PART"
+  },
+  {
+    "partNumber": 327,
+    "partName": "UPS. KATAIYA WEST PART"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P.S BENPUR TALUKA PURKHAS"
+  },
+  {
+    "partNumber": 329,
+    "partName": "UPS. MOHAMMADABAD"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S. NANDA KA PURA (YOUSHUFPUR)"
+  },
+  {
+    "partNumber": 331,
+    "partName": "UPS SHYAMPUR URF MALHIPUR"
+  },
+  {
+    "partNumber": 332,
+    "partName": "UPS PURKHAS EAST PART"
+  },
+  {
+    "partNumber": 333,
+    "partName": "UPS PURKHAS EAST PART FIRST"
+  },
+  {
+    "partNumber": 334,
+    "partName": "UPS PURKHAS WEST PART"
+  },
+  {
+    "partNumber": 335,
+    "partName": "UPS PURKHAS WEST PART FIRST"
+  },
+  {
+    "partNumber": 336,
+    "partName": "UPS PURKHAS NORTH PART FIRST"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.S. YOUSHUFPUR TA PURKHAS"
+  },
+  {
+    "partNumber": 338,
+    "partName": "UPS KANYA PURKHAS"
+  },
+  {
+    "partNumber": 339,
+    "partName": "UPS. KISUNPUR AMBARI EAST PART"
+  },
+  {
+    "partNumber": 340,
+    "partName": "UPS KISUNPUR AMBARI WEST PART"
+  },
+  {
+    "partNumber": 341,
+    "partName": "UPS KISUNPUR AMBARI SOUTH PART"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.S. CHIRARI"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.S. BIRNER EAST PART"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.S. BIRNER WEST PART"
+  },
+  {
+    "partNumber": 345,
+    "partName": "UPS HASANPUR EAST PART"
+  },
+  {
+    "partNumber": 346,
+    "partName": "UPS. HASANPUR WEST PART"
+  },
+  {
+    "partNumber": 347,
+    "partName": "UPS. DHARUPUR"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. UMARVAL"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S. PIPARHATA"
+  },
+  {
+    "partNumber": 350,
+    "partName": "UPS JAWAI"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S. BIGHARA USMANPUR NORTH PART"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P.S. BIGHARA USMANPUR SOUTH PART"
+  },
+  {
+    "partNumber": 353,
+    "partName": "UPS. TILHAPUR NORTH PART"
+  },
+  {
+    "partNumber": 354,
+    "partName": "UPS. TILHAPUR SOUTH PART"
+  },
+  {
+    "partNumber": 355,
+    "partName": "UPS TILHAPUR SOUTH PART FIRST"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.S. RUSHAI"
+  },
+  {
+    "partNumber": 357,
+    "partName": "UPS DURGAPUR EAST PART"
+  },
+  {
+    "partNumber": 358,
+    "partName": "UPS DURGAPUR EAST PART FIRST"
+  },
+  {
+    "partNumber": 359,
+    "partName": "UPS NEVADA NORTH PART"
+  },
+  {
+    "partNumber": 360,
+    "partName": "UPS NEVADA SOUTH PART"
+  },
+  {
+    "partNumber": 361,
+    "partName": "UPS. AMVAN"
+  },
+  {
+    "partNumber": 362,
+    "partName": "GAUTAM BUDDH P.S. LODHAUR EAST PART"
+  },
+  {
+    "partNumber": 363,
+    "partName": "GAUTAM BUDDH P.S. LODHAUR WEST PART"
+  },
+  {
+    "partNumber": 364,
+    "partName": "UPS. KOTIYA EAST PART"
+  },
+  {
+    "partNumber": 365,
+    "partName": "UPS. KOTIYA WEST PART"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S. KHIJIRPUR KAILAI EAST PART"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S. KHIJIRPUR KAILAI EAST PART FIRST"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. KHIJIRPUR KAILAI WEST PART"
+  },
+  {
+    "partNumber": 369,
+    "partName": "UPS. GAURA EAST PART"
+  },
+  {
+    "partNumber": 370,
+    "partName": "UPS. GAURA WEST PART"
+  },
+  {
+    "partNumber": 371,
+    "partName": "P.S. TARNA"
+  },
+  {
+    "partNumber": 372,
+    "partName": "UPS TARNI"
+  },
+  {
+    "partNumber": 373,
+    "partName": "UPS SURSENI"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P.S. SURSENA"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.S. TILGODI EAST PART"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S. TILGODI WEST PART"
+  },
+  {
+    "partNumber": 377,
+    "partName": "UPS JARAINI"
+  },
+  {
+    "partNumber": 378,
+    "partName": "P.S. AHLADPUR"
+  },
+  {
+    "partNumber": 379,
+    "partName": "UPS. SHAHPUR PERVA"
+  },
+  {
+    "partNumber": 380,
+    "partName": "UPS. BARETHI"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P.S. ALAMPUR"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.S. BOONDA EAST PART"
+  },
+  {
+    "partNumber": 383,
+    "partName": "P.S. BOONDA WEST PART"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.S. RASOOLPUR VYOOR EAST PART"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.S. RASOOLPUR VYOOR WEST PART"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S. AUDHAN EAST PART"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S AUDHAN EAST PART FIRST"
+  },
+  {
+    "partNumber": 388,
+    "partName": "BHARAT BHARTI UPS GAUHAR ALI KA PURA"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P.S. FARIDPUR"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S. NOORPUR HAJIPUR EAST PART"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S. NOORPUR HAJIPUR WEST PART"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P.S. REHI"
+  },
+  {
+    "partNumber": 393,
+    "partName": "UPS BALHEPUR"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S MAKHDOOMPUR KHAS EAST PART"
+  },
+  {
+    "partNumber": 395,
+    "partName": "P.S. MAKHDOOMPUR KHAS WEST PART"
+  },
+  {
+    "partNumber": 396,
+    "partName": "P.S. IBRAHIMPUR URF DULHAPUR"
+  },
+  {
+    "partNumber": 397,
+    "partName": "UPS SEVDHA EAST PART"
+  },
+  {
+    "partNumber": 398,
+    "partName": "UPS SEVDHA WEST PART"
+  },
+  {
+    "partNumber": 399,
+    "partName": "UPS SEVDHA WEST PART FIRST"
+  },
+  {
+    "partNumber": 400,
+    "partName": "UPS SHERGARH"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S. NASEERPUR TA IBRAHIMPUR"
+  },
+  {
+    "partNumber": 402,
+    "partName": "UPS BHOPATPUR TARAPUR EAST PART"
+  },
+  {
+    "partNumber": 403,
+    "partName": "UPS. BHOPATPUR TARAPUR WEST PART"
+  },
+  {
+    "partNumber": 404,
+    "partName": "UPS. JALALPUR BHARTI NORTH PART"
+  },
+  {
+    "partNumber": 405,
+    "partName": "UPS JALALPUR BHARTI SOUTH PART"
+  }
+]

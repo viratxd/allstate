@@ -1,0 +1,37 @@
+[
+  {
+    "acNumber": 1,
+    "asmblyName": "Behat",
+    "asmblyNameL1": "बेहट"
+  },
+  {
+    "acNumber": 5,
+    "asmblyName": "Deoband",
+    "asmblyNameL1": "देवबन्द"
+  },
+  {
+    "acNumber": 7,
+    "asmblyName": "Gangoh",
+    "asmblyNameL1": "गंगोह"
+  },
+  {
+    "acNumber": 2,
+    "asmblyName": "Nakur",
+    "asmblyNameL1": "नकुड़"
+  },
+  {
+    "acNumber": 6,
+    "asmblyName": "Rampur Maniharan ",
+    "asmblyNameL1": "रामपुर मनिहारन"
+  },
+  {
+    "acNumber": 4,
+    "asmblyName": "Saharanpur  ",
+    "asmblyNameL1": "सहारनपुर"
+  },
+  {
+    "acNumber": 3,
+    "asmblyName": "Saharanpur Nagar",
+    "asmblyNameL1": "सहारनपुर नगर"
+  }
+]

@@ -1,0 +1,2082 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.M.V. EAST PART CHANDAWALI"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.M.V. WEST PART CHANDAWALI"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.M.V. EAST PART MARROLI"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.M.V. WEST PART MARROLI"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL TEELA EXTRA ROOM"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.M.V. HIRANAGAR EAST PART MYAAW"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.M.V. HIRANAGAR WEST PART MYAAW"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY SCHOOL NO 1 KAILGUVAN"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.M.V. KAILGUVAN NORTH PART"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.M.V. KAILGUVAN SOUTH PART"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRIMARY SCHOOL KAKRELA KAILGUVAN"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRIMARY SCHOOL BANGRA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMARY SCHOOL GAHRAV"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE SCHOOL JARAVALI"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRIMARY SCHOOL KAILONI"
+  },
+  {
+    "partNumber": 16,
+    "partName": "HIGHER PRIMARY SCHOOL KAKDARI"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.M.V. MAUGAN NORTH PART"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.M.V. MAUGAN SOUTH PART"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY SCHOOL PURADHUNDHKUAN"
+  },
+  {
+    "partNumber": 20,
+    "partName": "HIGHER PRIMARY SCHOOL BILATA"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.M.V. UDAYPURA"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY SCHOOL CHIGALUA Part-1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRIMARY SCHOOL CHIGALUA Part-2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "PRIMARY SCHOOL SEMRABUJURG"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRIMARY SCHOOL SEMRA BADA"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMARY SCHOOL BHAGNAGAR"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P.M.V. TAURIYA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "COMPOSITE P.M.V. NAGARA"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PRIMARY SCHOOL MIRCHWARA PART-1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRIMARY SCHOOL MIRCHWARA  PART-2"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRIMARY SCHOOL SURIKALAN"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.M. SHREE COMPOSITE SCHOOL DANGRANA "
+  },
+  {
+    "partNumber": 33,
+    "partName": "GIRLS PRIMARY SCHOOL DANGRANA"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL BARTALA"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P.M.V. KHAKRON"
+  },
+  {
+    "partNumber": 36,
+    "partName": "COMPOSITE P.M.V. GANGASAGAR"
+  },
+  {
+    "partNumber": 37,
+    "partName": "HIGHER PRIMARY SCHOOL  EAST PART  CHAKORA (CLASS -1 FROM 8)"
+  },
+  {
+    "partNumber": 38,
+    "partName": "HIGHER PRIMARY SCHOOL WEST PART CHAKORA (CLASS- 1 FROM 8)"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE P.M.V. SURIKHURD"
+  },
+  {
+    "partNumber": 40,
+    "partName": "NEW PRIMARY SCHOOL BADOKHARA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.M.V. BILLA"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRIMARY SCHOOL BILLA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.M.V. GUGARWARA NORTH PART"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.M.V. GUGARWARA SOUTH PART"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL BHARONI"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.M.V. DAILWARA"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRIMARY SCHOOL CHHILLA"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P.M.V. KUAGAON NORTH PART"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P.M.V. KUAGAON SOUTH PART"
+  },
+  {
+    "partNumber": 50,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BANPUR PART-1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BANPUR PART-2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BANPUR PART-3"
+  },
+  {
+    "partNumber": 53,
+    "partName": "RAM MANOHAR LOHIYA KANYA HIGH SCHOOL ROOM NO-5 BANPUR"
+  },
+  {
+    "partNumber": 54,
+    "partName": "RAM MANOHAR LOHIYA KANYA HIGH SCHOOL ROOM NO-6 BANPUR"
+  },
+  {
+    "partNumber": 55,
+    "partName": "KANYA P.M.V.  NARTH PART BANPUR"
+  },
+  {
+    "partNumber": 56,
+    "partName": "KANYA P.M.V. SOUTH PART BANPUR"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL GANESHPURA BANPUR"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRIMARY SCHOOL HASRAIYAN BANPUR"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY SCHOOL AJNAURA"
+  },
+  {
+    "partNumber": 60,
+    "partName": "HIGHER PRIMARY EAST PART GANGCHARI"
+  },
+  {
+    "partNumber": 61,
+    "partName": "HIGHER PRIMARY WEST PART GANGCHARI"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.M.V. BANAUNI PART-1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.M.V. BANAUNI PART-2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE P.M.V. EAST PART PAH"
+  },
+  {
+    "partNumber": 65,
+    "partName": "COMPOSITE P.M.V. WEST PART PAH"
+  },
+  {
+    "partNumber": 66,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL UMRI"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRIMARY SCHOOL UDAYA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P.M.V. VEER PART-1"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.M.V. VEER PART-2"
+  },
+  {
+    "partNumber": 70,
+    "partName": "KANYA P.M.V. SUNWAHA PART-1 "
+  },
+  {
+    "partNumber": 71,
+    "partName": "KANYA P.M.V. SUNWAHA PART-2 "
+  },
+  {
+    "partNumber": 72,
+    "partName": "SAMVILIAN P.M.V. NAIGUWAN"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRIMARY SCHOOL DARAUNI"
+  },
+  {
+    "partNumber": 74,
+    "partName": "SAMVILIYAN HIGHER PRIMARY SCHOOL SIMIRIYA"
+  },
+  {
+    "partNumber": 75,
+    "partName": "PRIMARY SCHOOL BARAYAU"
+  },
+  {
+    "partNumber": 76,
+    "partName": "HIGHER PRIMARY SCHOOL ( 1 FROM 8)  AMAURA "
+  },
+  {
+    "partNumber": 77,
+    "partName": "PRIMARY SCHOOL BHAIRA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "SAMMELIAN P.M.V. BHAIRA"
+  },
+  {
+    "partNumber": 79,
+    "partName": "SAMMELIAN P.M.V. DIDAURA"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL DHAWARI"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.M. SHREE COMPOSITE SCHOOL NORTH PART PADWAN"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.M. SHREE COMPOSITE SCHOOL SOUTH PART PADWAN"
+  },
+  {
+    "partNumber": 83,
+    "partName": "COMPOSITE P.M.V. EAST PART BAMHAURIGHAT"
+  },
+  {
+    "partNumber": 84,
+    "partName": "COMPOSITE P.M.V. WEST PART BAMHAURIGHAT"
+  },
+  {
+    "partNumber": 85,
+    "partName": "COMPOSITE P.M.V. NIWARI"
+  },
+  {
+    "partNumber": 86,
+    "partName": "RAJENDRA SHUKLA P.M.V. MALAIYAPURA MEHRONI"
+  },
+  {
+    "partNumber": 87,
+    "partName": "C.B.GUPTA INTER COLLEGE NORTH PART MEHRONI"
+  },
+  {
+    "partNumber": 88,
+    "partName": "C.B.GUPTA INTER COLLEGE SOUTH PART  MEHRONI"
+  },
+  {
+    "partNumber": 89,
+    "partName": "CB-GUPTA INTER COLLEGE  EAST PART  MEHRONI"
+  },
+  {
+    "partNumber": 90,
+    "partName": "C.B.GUPTA INTER COLLEGE WEST PART MEHRONI  "
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRIMARY SCHOOL NORTH PART MEHRONI"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRIMARY SCHOOL SOUTH PART MEHRONI"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRIMARY SCHOOL BALMIKI NAGAR MEHRONI"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PRACHEEN GIRLS PRIMARY SCHOOL MEHRONI"
+  },
+  {
+    "partNumber": 95,
+    "partName": "COMPOSITE P.M.V. MADAWARA ROAD MEHRONI PART 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE P.M.V. MADAWARA ROAD PART 2 MEHRONI"
+  },
+  {
+    "partNumber": 97,
+    "partName": "GOV. GIRLS INTER COLLEGE NORTH PART MEHRONI"
+  },
+  {
+    "partNumber": 98,
+    "partName": "GOV- GIRLS INTER COLLGE SOUTH PART MEHRONI"
+  },
+  {
+    "partNumber": 99,
+    "partName": "GOV GIRLS INTER COLLGE  EAST PART MEHRONI"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL BHAUNRAT"
+  },
+  {
+    "partNumber": 101,
+    "partName": "COMPOSITE P.M.V. KURAURA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "COMPOSITE P.M.V. SUKADI"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRIMARY SCHOOL TAPRAN"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL CHIRAULA"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL SILAWAN"
+  },
+  {
+    "partNumber": 106,
+    "partName": "P.M.V.SILAWAN NORTH PART"
+  },
+  {
+    "partNumber": 107,
+    "partName": "P.M.V. SILAWAN SOUTH PART"
+  },
+  {
+    "partNumber": 108,
+    "partName": "COPOSITE P.M.V. SAMONGAR PART 1"
+  },
+  {
+    "partNumber": 109,
+    "partName": "COPOSITE P.M.V. SAMONGAR PART 2"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.M.V. CHHAPRAT"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY SCHOOL KISARDA"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE P.M.V. PALI"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PRIMARY SCHOOL JAKHAURA NORTH PART"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY SCHOOL JAKHAURA SOUTH PART"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL AGAURA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "M.M.M.M. INTER COLLEGE NORTH PART GUDHA"
+  },
+  {
+    "partNumber": 117,
+    "partName": "M-M-MOHAN M- INTER COLLEGE EAST PART GUDHA"
+  },
+  {
+    "partNumber": 118,
+    "partName": "M-M-MOHAN M- INTAR COLLEGE SOUTH PART GURHA"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL NORTH PART BHADAURA"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL SOUTH PART BHADAURA"
+  },
+  {
+    "partNumber": 121,
+    "partName": "COPOSITE P.M.V. EAST PART CHHAPCHHAUL"
+  },
+  {
+    "partNumber": 122,
+    "partName": "COMPOSITE P.M.V. WEST PART CHHAPCHHAUL"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRIMARY SCHOOL MAIGUWAN"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRIMARY SCHOOL BANGARUVA"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL LAHRAIN"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL SADKAURA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.M.V. KHATAURA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COPOSITE P.M.V. RUKWAHA PART -1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "COPOSITE P.M.V. RUKWAHA PART-2"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.M.V. EAST PART BAMHAURI BAHADUR SINGH"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.M.V. WEST PART BAMHAURI BAHADUR SINGH"
+  },
+  {
+    "partNumber": 132,
+    "partName": "SAMMELIAN P.M.V. KYOLARI"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL EAST PART KHIRIYA LATKANJU"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOL WEST PART KHIRIYA LATKANJU"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY SCHOOL EAST PART KUAGHOSHI"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMARY SCHOOL WEST PART KUAGHOSHI"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL PACHAUDA"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL DIGWAR"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL CHAUKI"
+  },
+  {
+    "partNumber": 140,
+    "partName": "COPOSITE P.M.V.JARYA PART-1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "COPOSITE P.M.V. JARYA PART-2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "SAMMELIAN P.M.V. GUNDRAPUR EAST PART"
+  },
+  {
+    "partNumber": 143,
+    "partName": "SAMMELIAN P.M.V. GUNDRAPUR WEST PART GUNDRAPUR"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRIMARY SCHOOL BAIJNATH"
+  },
+  {
+    "partNumber": 145,
+    "partName": "PRIMARY SCHOOL PATHAVIJAYPURA PART-1"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRIMARY SCHOOL PATHAVIJAYPURA PART-2"
+  },
+  {
+    "partNumber": 147,
+    "partName": "HIGHER PRIMARI PATHAVIJAYPURA NORTH PART"
+  },
+  {
+    "partNumber": 148,
+    "partName": "HIGHER PRIMARI PATHAVIJAYPURA SOUTH PART"
+  },
+  {
+    "partNumber": 149,
+    "partName": "COPOSITE P.M.V. MIDARWAHA PART-1"
+  },
+  {
+    "partNumber": 150,
+    "partName": "COPOSITE P.M.V. MIDARWAHA PART-2"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRIMARY SCHOOL AJAAN"
+  },
+  {
+    "partNumber": 152,
+    "partName": "COPOSITE P.M.V. CHHAYAN"
+  },
+  {
+    "partNumber": 153,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL KUMHEDI"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.M.V. KUMHEDI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "KANYA .P.M.V. KUMHEDI NORTH PART"
+  },
+  {
+    "partNumber": 156,
+    "partName": "KANYA .P.M.V. KUMHEDI SOUTH PART"
+  },
+  {
+    "partNumber": 157,
+    "partName": "SAMILILIAN P.M.V. KHIRIYA BHARANJU"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRIMARY SCHOOL BUDHI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "COMPOSITE P.M.V. NORTH PART SAUJANA"
+  },
+  {
+    "partNumber": 160,
+    "partName": "COMPOSITE P.M.V. SOUTH PART SAUJANA"
+  },
+  {
+    "partNumber": 161,
+    "partName": "COMPOSITE P.M.V. EAST PART SAUJANA"
+  },
+  {
+    "partNumber": 162,
+    "partName": "COMPOSITE P.M.V. WEST PART SAUJANA"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY SCHOOL JAMUNJHAR SAUJANA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRIMARY SCHOOL PANDAKHERA SAUJANA"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PRIMARY SCHOOL NAVAI"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSITE P.M.V. NORTH PART MAINWAR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOSITE P.M.V. SOUTH PART MAINWAR"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.M.V. PATHRAI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.M.V. NORTH PART BHAUDI"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL EAST PART KORWAS"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY SCHOOL WEST PART KORWAS"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRIMARY SCHOOL BARAUN"
+  },
+  {
+    "partNumber": 173,
+    "partName": "COMPOSITE P.M.V. LARGAN"
+  },
+  {
+    "partNumber": 174,
+    "partName": "COMPOSITE P.M.V. NAINWARA"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL DARAUNA"
+  },
+  {
+    "partNumber": 176,
+    "partName": "COMPOSITE HIGHER PRIMARY SCHOOL  (1 FROM 8) JAGARA"
+  },
+  {
+    "partNumber": 177,
+    "partName": "NEW PRIMARY SCHOOL NORTH PART KUSMAD"
+  },
+  {
+    "partNumber": 178,
+    "partName": "NEW PRIMARY SCHOOL SOUTH PART KUSMAD"
+  },
+  {
+    "partNumber": 179,
+    "partName": " SAMVILIYAN  HIGHER PRIMARY SCHOOL GAUNA PART-1"
+  },
+  {
+    "partNumber": 180,
+    "partName": " SAMVILIYAN  HIGHER PRIMARY SCHOOL GAUNA PART-2"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSITE P.M.V. KARAUNDA"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE P.M.V. EAST PART DONGRAKHURD"
+  },
+  {
+    "partNumber": 183,
+    "partName": "COMPOSITE P.M.V. WEST PART DONGRAKHURD"
+  },
+  {
+    "partNumber": 184,
+    "partName": "NEW PRIMARY SCHOOL (NORTH PART ) SINDWAHA"
+  },
+  {
+    "partNumber": 185,
+    "partName": "NEW PRIMARY SCHOOL  (SOUTH PART) SINDWAHA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "HIGHER PRIMARY SCHOOL SINDWAHA"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL EAST PART BAIRWARA"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY SCHOOL WEST PART BAIRWARA"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.M.V. BARCHON"
+  },
+  {
+    "partNumber": 190,
+    "partName": "COMPOSITE H.P.S. GUDHABUJURG PART-1"
+  },
+  {
+    "partNumber": 191,
+    "partName": "COMPOSITE H.P.S. GUDHABUJURG PART-2"
+  },
+  {
+    "partNumber": 192,
+    "partName": "HIGHER PRIMARY SCHOOL  GADANPUR NARTH PART "
+  },
+  {
+    "partNumber": 193,
+    "partName": "HIGHER PRIMARY SCHOOL  GADANPUR SOUTH PART "
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY SCHOOL  KAKARUVA EAST PART"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL  KAKARUVA WEST PART"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL BUDNINARAHAT"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRIMARY SCHOOL PARSAI"
+  },
+  {
+    "partNumber": 198,
+    "partName": "COMPOSITE P.M.V. NAIKORA ROOM NO-1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "COMPOSITE P.M.V. NAIKORA ROOM NO. -2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY SCHOOL CHADRA"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.M.V. TEEKRA"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL AGAUDI"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL ULDNAKALAN"
+  },
+  {
+    "partNumber": 204,
+    "partName": "U. P. SCHOOL ULDNAKALAN"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRIMARY SCHOOL GADHAULIKALAN ROOM NO. -1"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY SCHOOL GADHAULIKALAN ROOM NO. -2"
+  },
+  {
+    "partNumber": 207,
+    "partName": "COMPOSITE P.M.V. BHOTA"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRIMARY SCHOOL SAIDPUR ROOM NO. -1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRIMARY SCHOOL SAIDPUR ROOM NO. -2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY SCHOOL SAIDPUR ROOM NO. -3"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.M.V. SAIDPUR ROOM NO. -1"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.M.V. SAIDPUR ROOM NO. -2"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.M.V. SAIDPUR ROOM NO. -3"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRIMARY SCHOOL MUDIYA SAIDPUR"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL RAMESHRA ROOM NO. -1"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL RAMESHRA ROOM NO. -2"
+  },
+  {
+    "partNumber": 217,
+    "partName": "HIGHER PRIMARY SCHOOL SATWANSA ROOM No-1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "HIGHER PRIMARY SCHOOL SATWANSA ROOM No-2"
+  },
+  {
+    "partNumber": 219,
+    "partName": "U. P. SCHOOL VUDNI MADAWARA"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRIMARY SCHOOL DHURWARA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRIMARY SCHOOL MANIKPUR"
+  },
+  {
+    "partNumber": 222,
+    "partName": "COMPOSIT P.M.V. PYASA"
+  },
+  {
+    "partNumber": 223,
+    "partName": "COMPOSIT P.M.V. LUHARRA ROOM NO. -1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "COMPOSIT P.M.V. LUHARRA ROOM NO. -2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRIMARY SCHOOL SUKALGUNVA"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSIT P.M.V. KHAIRPURA"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRIMARY SCHOOL JHANKAR"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRIMARY SCHOOL RAMGADHA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "U. P. SCHOOL KAREETORAN ROOM NO-1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "U. P. SCHOOL KAREETORAN ROOM NO-2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRIMARY SCHOOL KHUTGUNVA"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRIMARY SCHOOL PEEDAR"
+  },
+  {
+    "partNumber": 233,
+    "partName": "NEW PRIMARY SCHOOL BHEEKAMPUR"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRIMARY SCHOOL PIPARIYA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRIMARY SCHOOL SUNAUNI"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRIMARY SCHOOL IKAUNA"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PRIMARY SCHOOL CHHITRAPUR"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PRIMARY SCHOOL GORAKALAN"
+  },
+  {
+    "partNumber": 239,
+    "partName": "U. P. SCHOOL RAJAULA (GAURAKALAN)"
+  },
+  {
+    "partNumber": 240,
+    "partName": "H.P.V.(1 FROM 8) GAURAKACHHYA"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRIMAY SCHOOL CHHAPRAUNI"
+  },
+  {
+    "partNumber": 242,
+    "partName": "HIGHER PRIMARY SCHOOL SADHUMAL ROOM NO.-1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "HIGHER PRIMARY SCHOOL SADHUMAL ROOM NO.-2"
+  },
+  {
+    "partNumber": 244,
+    "partName": "HIGHER PRIMARY SCHOOL SADHUMAL ROOM NO.-3"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY SCHOOL SADHUMAL ROOM NO. -1"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL SADHUMAL ROOM NO. -2"
+  },
+  {
+    "partNumber": 247,
+    "partName": "NEW PRIMARY SCHOOL DEVRANKHURD"
+  },
+  {
+    "partNumber": 248,
+    "partName": "COMPOSIT P.M.V. DEVRANKALAN"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY SCHOOL SIMIRIYA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL BACHHRAVNI"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U. P. SCHOOL RAKHVARA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "U. P. SCHOOL DHAWA ROOM NO. -1"
+  },
+  {
+    "partNumber": 253,
+    "partName": "U. P. SCHOOL DHAWA ROOM NO. -2"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL RANGAON ROOM NO. -1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRIMARY SCHOOL RANGAON ROOM NO. -2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "GIRLS PRIMARY SCHOOL RANGAON ROOM NO. -1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "GIRLS PRIMARY SCHOOL RANGAON ROOM NO. -2"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRIMARY SCHOOL (ENGLISH MEDIUM) MADAWARA"
+  },
+  {
+    "partNumber": 259,
+    "partName": "U.P.V.(1 FROM 8) MADAWARA ROOM.No.-1"
+  },
+  {
+    "partNumber": 260,
+    "partName": "U.P.V.(1 FROM 8) MADAWARA ROOM.No.-2"
+  },
+  {
+    "partNumber": 261,
+    "partName": "U. P. SCHOOL (GIRLS) MADAWARA ROOM NO. -1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "U. P. SCHOOL (GIRLS) MADAWARA ROOM NO. -2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U. P. SCHOOL (GIRLS) MADAWARA ROOM NO. -3"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PANCHAYAT BHAVAN MADAWARA"
+  },
+  {
+    "partNumber": 265,
+    "partName": "U. P. SCHOOL TISAGANA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMARY SCHOOL DANGLI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "U. P. SCHOOL GANGACHARI"
+  },
+  {
+    "partNumber": 268,
+    "partName": "U. P. SCHOOL GIDAWAHA ROOM NO. -1"
+  },
+  {
+    "partNumber": 269,
+    "partName": "U. P. SCHOOL GIDAWAHA ROOM NO. -2"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRIMARY SCHOOL BALNA"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY SCHOOL HANUMATGARH"
+  },
+  {
+    "partNumber": 272,
+    "partName": "U. P. V. GIRAR ROOM NO-2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRIMARY SCHOOL MANPURA"
+  },
+  {
+    "partNumber": 274,
+    "partName": "U. P. SCHOOL BADAWAR"
+  },
+  {
+    "partNumber": 275,
+    "partName": "U. P. SCHOOL KURRAT"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRIMARY SCHOOL JAITUPURA"
+  },
+  {
+    "partNumber": 277,
+    "partName": "U. P. SCHOOL (SINGLE ROOM) LAKHANJAR"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRIMARY SCHOOL ULDANAKHURD"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOL SAULDA"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL THANGANA"
+  },
+  {
+    "partNumber": 281,
+    "partName": "U. P. SCHOOL SEERAUN ROOM NO. -1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "U. P. SCHOOL SEERAUN ROOM NO. -2"
+  },
+  {
+    "partNumber": 283,
+    "partName": "U. P. SCHOOL LIDHAURA"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRIMARY SCHOOL HANSARI"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMARY SCHOOL PISANARI"
+  },
+  {
+    "partNumber": 286,
+    "partName": "NEW PRIMARY SCHOOL HANSARA"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMARY SCHOOL DHAUREESAGAR"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRIMARY SCHOOL SAKRA DHAUREESAGAR"
+  },
+  {
+    "partNumber": 289,
+    "partName": "U. P. SCHOOL BAMHAURIKALAN ROOM NO. -1"
+  },
+  {
+    "partNumber": 290,
+    "partName": "U. P. SCHOOL BAMHAURIKALAN ROOM NO. -2"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL SAURAI"
+  },
+  {
+    "partNumber": 292,
+    "partName": "U. P. SCHOOL SAURAI ROOM NO -1"
+  },
+  {
+    "partNumber": 293,
+    "partName": "U. P. SCHOOL SAURAI ROOM NO-2"
+  },
+  {
+    "partNumber": 294,
+    "partName": "U. P. SCHOOL JALANDHAR"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRIMARY SCHOOL HASERA"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRIMARY SCHOOL BIRONDA"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMARY SCHOOL GARRAULIMAF"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMARY SCHOOL BAMHAURIKHURD"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY SCHOOL TAURI"
+  },
+  {
+    "partNumber": 300,
+    "partName": "U. P. SCHOOL SEMARKHEDA"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL BHAUTI MADAWARA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "NEW PRIMARY SCHOOL DIDAUNIYA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRIMARY SCHOOL GORAKHURD"
+  },
+  {
+    "partNumber": 304,
+    "partName": "NEW PRIMARY SCHOOL MADANPUR"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL PAHADIKALAN"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRIMARY SCHOOL NEEMKHEDA"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRIMARY SCHOOL PIPRAT"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRIMARY SCHOOL KABRATA"
+  },
+  {
+    "partNumber": 309,
+    "partName": "U. P. V. BAHADURPUR ROOM NO.-1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "U. P. V. BAHADURPUR ROOM NO.-2"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL BANYANA"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P. M.V. ARJUNKHIRIYA EAST PART"
+  },
+  {
+    "partNumber": 313,
+    "partName": "P. M.V. ARJUNKHIRIYA WEST PART"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PRIMARY SCHOOL BAMRANA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "HIGHER PRIMARI SCHOOL DAINPURA"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL GADAURA"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRIMARY SCHOOL DHAULPURA"
+  },
+  {
+    "partNumber": 318,
+    "partName": "NEW PRIMARY SCHOOL GUDHA MADAWRA"
+  },
+  {
+    "partNumber": 319,
+    "partName": "COMPOSITE H.P.S. KHIRIYAUWARI"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL BARAUDIYA"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL SINGARWARA"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL PARAUL"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.M.V. PARAUL EAST PART"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.M.V. PARAUL WEST PART"
+  },
+  {
+    "partNumber": 325,
+    "partName": "COMPOSITE H.P.S. PATANA MADAWARA PART-1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE H.P.S. PATANA MADAWARA PART-2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL CHANDAURA"
+  },
+  {
+    "partNumber": 328,
+    "partName": "COMPOSITE H.P.S. GURYANA"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSITE H.P.S. DEVRI"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL PACHAUNI"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL DHOVANKHERI"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.M.V. BARKHIRIYA EAST PART"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.M.V. BARKHIRIYA WEST PART"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.M.V. KHANDOWRA NORTH PART"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.M.V. KHANDAURA SOUTH PART"
+  },
+  {
+    "partNumber": 336,
+    "partName": "COMPOSITE P.M.V. BIRARI EAST PART"
+  },
+  {
+    "partNumber": 337,
+    "partName": "COMPOSITE P.M.V. BIRARI WEST PART"
+  },
+  {
+    "partNumber": 338,
+    "partName": "NEW PRIMARY SCHOOL GOGALA BIRARI"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.M.V. TERA EAST PART"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P.M.V. TERA WEST PART"
+  },
+  {
+    "partNumber": 341,
+    "partName": "HIGHER PRIMARY SAMVILIYAN SCHOOL KHOKHRA"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRIMARY SCHOOL KACHNODAKALAN"
+  },
+  {
+    "partNumber": 343,
+    "partName": "HIGHER PRIMARY SCHOOL KACHNODAKALAN EAST PART"
+  },
+  {
+    "partNumber": 344,
+    "partName": "HIGHER PRIMARY SCHOOL KACHNODAKALAN WEST PART"
+  },
+  {
+    "partNumber": 345,
+    "partName": "NAVIN COMPOSITE P.M.V. TIKRATIWARI"
+  },
+  {
+    "partNumber": 346,
+    "partName": "NAVIN PRIMARY SCHOOL RAMESHRA"
+  },
+  {
+    "partNumber": 347,
+    "partName": "COMPOSITE SCHOOL KHIRIYACHHATARA NORTH PART"
+  },
+  {
+    "partNumber": 348,
+    "partName": "COMPOSITE SCHOOL KHIRIYACHHATARA SOUTH PART"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE P.M.V. TOR"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.M.V. KALYANPURA NORTH PART"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.M.V. KALYANPURA SOUTH PART"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY SCHOOL DANGA KALYANPURA"
+  },
+  {
+    "partNumber": 353,
+    "partName": "NEW J.H.S KALYANPURA"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.M.V. JHARKAUN NORTH PART"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P.M.V. JHARKAUN SOUTH PART"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL RAGHUNATHPURA"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRIMARY SCHOOL BAMHAURINAGAL"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRIMARY SCHOOL MAILWARAKHURRD"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.M.V. MAILWARAKALAN"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRIMARY SCHOOL MAUMAFI"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.M.V. RAJWARA EAST PART"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.M.V. RAJWARA WEST PART"
+  },
+  {
+    "partNumber": 363,
+    "partName": "PRIMARY SCHOOL RAJWARA"
+  },
+  {
+    "partNumber": 364,
+    "partName": "ENGLISH MEDIUM MODEL PRIMARY SCHOOL EAST PART PANARI"
+  },
+  {
+    "partNumber": 365,
+    "partName": "ENGLISH MEDIUM MODEL PRIMARY SCHOOL WEST PART PANARI"
+  },
+  {
+    "partNumber": 366,
+    "partName": "ENGLISH MEDIUM MODEL PRIMARY SCHOOL  MASAURA KALA EAST PART"
+  },
+  {
+    "partNumber": 367,
+    "partName": "ENGLISH MEDIUM MODEL PRIMARY SCHOOL  MASAURA KALA WEST PART"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.M.V. JIJYAVAN EAST PART"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.M.V. JIJYAVAN WEST PART"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.M.V. JIJYAVAN NORTH PART"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY SCHOOL ANAURA EAST PART"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRIMARY SCHOOL ANORA WEST PART"
+  },
+  {
+    "partNumber": 373,
+    "partName": "P.M.V. BHAUNRADA"
+  },
+  {
+    "partNumber": 374,
+    "partName": "COMPOSITE P.M.V. TENGA NORTH PART"
+  },
+  {
+    "partNumber": 375,
+    "partName": "COMPOSITE P.M.V. TENGA SOUTH PART"
+  },
+  {
+    "partNumber": 376,
+    "partName": "SAMVILIYAN P.M.V. BHADRAU"
+  },
+  {
+    "partNumber": 377,
+    "partName": "NEW PRIMARY SCHOOL TALGANV"
+  },
+  {
+    "partNumber": 378,
+    "partName": "P.M.V. MIRCHWARA NORTH PART"
+  },
+  {
+    "partNumber": 379,
+    "partName": "P.M.V. MIRCHWARA SOUTH PART"
+  },
+  {
+    "partNumber": 380,
+    "partName": "SAMVILIYAN SCHOOL PATSEMRA NORTH PART"
+  },
+  {
+    "partNumber": 381,
+    "partName": "SAMVILIYAN SCHOOL PATSEMRA SOUTH PART"
+  },
+  {
+    "partNumber": 382,
+    "partName": "PRIMARY SCHOOL KHANDERA"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PRIMARY SCHOOL BHAISAI"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PRIMARY SCHOOL MASAURAKHURD EAST PART"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PRIMARY SCHOOL MASAURAKHURD WEST PART"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.M.V. MASORAKHURD"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PRIMARY SCHOOL GHATWAR"
+  },
+  {
+    "partNumber": 388,
+    "partName": "PRIMARY SCHOOL JAMUNDHANAKHURD"
+  },
+  {
+    "partNumber": 389,
+    "partName": "HIGHER PRIMARY SCHOOL NIWAI COMPOSITE EAST PART"
+  },
+  {
+    "partNumber": 390,
+    "partName": "HIGHER PRIMARY SCHOOL NIWAI COMPOSITE WEST PART"
+  },
+  {
+    "partNumber": 391,
+    "partName": "PRIMARY SCHOOL NIWAHO"
+  },
+  {
+    "partNumber": 392,
+    "partName": "NEW PRIMARY SCHOOL KUMRAUL"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PRIMARY SCHOOL VIJAYPURA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PRIMARY SCHOOL BAMRAULA"
+  },
+  {
+    "partNumber": 395,
+    "partName": "HIGHER PRIMARY SCHOOL SATARWANS"
+  },
+  {
+    "partNumber": 396,
+    "partName": "PRIMARY SCHOOL NAYA BAG SATARWANS"
+  },
+  {
+    "partNumber": 397,
+    "partName": "P.M.V. CHADHRAU NORTH PART"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P.M.V. CHADHRAU SOUTH PART"
+  },
+  {
+    "partNumber": 399,
+    "partName": "P.M.V. CHADHRAU EAST PART"
+  },
+  {
+    "partNumber": 400,
+    "partName": "PRIMARY SCHOOL CHHILLA"
+  },
+  {
+    "partNumber": 401,
+    "partName": "PRIMARY SCHOOL BAJARRA"
+  },
+  {
+    "partNumber": 402,
+    "partName": "PRIMARY SCHOOL KHAJURIYA EAST PART"
+  },
+  {
+    "partNumber": 403,
+    "partName": "PRIMARY SCHOOL KHAJURIYA WEST PART"
+  },
+  {
+    "partNumber": 404,
+    "partName": "P.M.V. KHITWANS"
+  },
+  {
+    "partNumber": 405,
+    "partName": "PRIMARY SCHOOL KHITWANS"
+  },
+  {
+    "partNumber": 406,
+    "partName": "PRIMARY SCHOOL ANDELA"
+  },
+  {
+    "partNumber": 407,
+    "partName": "PRIMARY SCHOOL BIRDHA NORTH PART"
+  },
+  {
+    "partNumber": 408,
+    "partName": "PRIMARY SCHOOL BIRDHA SOUTH PART"
+  },
+  {
+    "partNumber": 409,
+    "partName": "PRIMARY SCHOOL BIRDHA EAST PART"
+  },
+  {
+    "partNumber": 410,
+    "partName": "P.M.V. BIRDHA"
+  },
+  {
+    "partNumber": 411,
+    "partName": "COMPOSITE KANYA HIGHER PRIMARY SCHOOL BIRDHA"
+  },
+  {
+    "partNumber": 412,
+    "partName": "P.M.V. AMAUKHEDA"
+  },
+  {
+    "partNumber": 413,
+    "partName": "COMPOSITE P.M.V. DHAUJRI"
+  },
+  {
+    "partNumber": 414,
+    "partName": "COMPOSITE P.M.V. MADAUN NORTH PART"
+  },
+  {
+    "partNumber": 415,
+    "partName": "COMPOSITE P.M.V. MADAUN SOUTH PART"
+  },
+  {
+    "partNumber": 416,
+    "partName": "PRIMARY SCHOOL JAHAJPUR"
+  },
+  {
+    "partNumber": 417,
+    "partName": "PRIMARY SCHOOL DHAURRA EAST PART"
+  },
+  {
+    "partNumber": 418,
+    "partName": "PRIMARY SCHOOL DHAURRA WEST PART"
+  },
+  {
+    "partNumber": 419,
+    "partName": "NEW P.M.V. DHAURRA"
+  },
+  {
+    "partNumber": 420,
+    "partName": "P.M.V. PIPRAI EAST PART"
+  },
+  {
+    "partNumber": 421,
+    "partName": "P.M.V. PIPRAI WEST PART"
+  },
+  {
+    "partNumber": 422,
+    "partName": "PRIMARY SCHOOL KAPASI"
+  },
+  {
+    "partNumber": 423,
+    "partName": "PRIMARY SCHOOL BHARON"
+  },
+  {
+    "partNumber": 424,
+    "partName": "PRIMARY SCHOOL PATHARI"
+  },
+  {
+    "partNumber": 425,
+    "partName": "P.M.V. MAINWAR EAST PART"
+  },
+  {
+    "partNumber": 426,
+    "partName": "P.M.V. MAINWAR WEST PART"
+  },
+  {
+    "partNumber": 427,
+    "partName": "COMPOSITE HIGHER PRIMARY SCHOOL MAGARPUR"
+  },
+  {
+    "partNumber": 428,
+    "partName": "PRIMARY SCHOOL BADGANA"
+  },
+  {
+    "partNumber": 429,
+    "partName": "COMPOSITE HIGHER PRIMARY SCHOOL BAGAUNI"
+  },
+  {
+    "partNumber": 430,
+    "partName": "PRIMARY SCHOOL JAMUNIYAKALAN"
+  },
+  {
+    "partNumber": 431,
+    "partName": "COMPOSITE P.M.V. IMILIYAKALAN"
+  },
+  {
+    "partNumber": 432,
+    "partName": "COMPOSITE P.M.V. JHARAWATA PART-1"
+  },
+  {
+    "partNumber": 433,
+    "partName": "COMPOSITE P.M.V. JHARAWATA PART-2"
+  },
+  {
+    "partNumber": 434,
+    "partName": "PRIMARY SCHOOL BACHHARAI"
+  },
+  {
+    "partNumber": 435,
+    "partName": "COMPOSITE H.P.S. SARKHADI"
+  },
+  {
+    "partNumber": 436,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL GAUNA  PART-1"
+  },
+  {
+    "partNumber": 437,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL GAUNA  PART-2"
+  },
+  {
+    "partNumber": 438,
+    "partName": "NEW P.M.V. SCHOOL (NORTH PART) GAUNA"
+  },
+  {
+    "partNumber": 439,
+    "partName": "NEW P.M.V.  SCHOOL (SOUTH PART) GAUNA"
+  },
+  {
+    "partNumber": 440,
+    "partName": "PRIMARY SCHOOL MAKRIPUR"
+  },
+  {
+    "partNumber": 441,
+    "partName": "PRIMARY SCHOOL TARAWALI"
+  },
+  {
+    "partNumber": 442,
+    "partName": "PRIMARY SCHOOL MAHARAJPURA"
+  },
+  {
+    "partNumber": 443,
+    "partName": "COMPOSITE H.P.S. BAREJA"
+  },
+  {
+    "partNumber": 444,
+    "partName": "COMPOSITE H.P.S. DONGRAKALANKHURD PART-1"
+  },
+  {
+    "partNumber": 445,
+    "partName": "COMPOSITE H.P.S. DONGRAKALANKHURD PART-2"
+  },
+  {
+    "partNumber": 446,
+    "partName": "COMPOSITE H.P.S. DONGRAKALANKHURD PART-3"
+  },
+  {
+    "partNumber": 447,
+    "partName": "PRIMARY SCHOOL DIGWAR"
+  },
+  {
+    "partNumber": 448,
+    "partName": "SHRI CHHATRASAL ZILLA PARISHAD U.M.SCHOOL (NORTH PART) NARAHAT"
+  },
+  {
+    "partNumber": 449,
+    "partName": "SHRI CHHATRASAL ZILLA PARISHAD U.M.SCHOOL (SOUTH PART) NARAHAT"
+  },
+  {
+    "partNumber": 450,
+    "partName": "SHRI CHHATRASAL ZILLA PARISHAD U.M.SCHOOL (EAST PART) NARAHAT"
+  },
+  {
+    "partNumber": 451,
+    "partName": "KANYA P.M.V NARAHAT"
+  },
+  {
+    "partNumber": 452,
+    "partName": "PRIMARY SCHOOL NARAHAT PART-1"
+  },
+  {
+    "partNumber": 453,
+    "partName": "PRIMARY SCHOOL NARAHAT PART-2"
+  },
+  {
+    "partNumber": 454,
+    "partName": "PRIMARY SCHOOL NARAHAT PART-3"
+  },
+  {
+    "partNumber": 455,
+    "partName": "PRIMARY SCHOOL TEELA"
+  },
+  {
+    "partNumber": 456,
+    "partName": "PRIMARY SCHOOL KAITHAURA"
+  },
+  {
+    "partNumber": 457,
+    "partName": "COMPOSITE HIGHER PRIMARY SCHOOL REECHHPURA"
+  },
+  {
+    "partNumber": 458,
+    "partName": "HIGHER PRIMARY SCHOOL SATAURA"
+  },
+  {
+    "partNumber": 459,
+    "partName": "NEW PRIMARY SCHOOL SINGEPUR NORTH PART"
+  },
+  {
+    "partNumber": 460,
+    "partName": "NEW PRIMARY SCHOOL SINGEPUR SOUTH PART"
+  },
+  {
+    "partNumber": 461,
+    "partName": "PRIMARY SCHOOL KALAUTHRA EAST PART"
+  },
+  {
+    "partNumber": 462,
+    "partName": "PRIMARY SCHOOL KALAUTHRA WEST PART"
+  },
+  {
+    "partNumber": 463,
+    "partName": "COMPOSITE P.M.V. KALRAV"
+  },
+  {
+    "partNumber": 464,
+    "partName": "PRIMARY SCHOOL PIPARIYA PALI"
+  },
+  {
+    "partNumber": 465,
+    "partName": "COMPOSITE H.P.S. NEEMKHERA"
+  },
+  {
+    "partNumber": 466,
+    "partName": "COMPOSITE H.P.S. PATAUWA PART-1"
+  },
+  {
+    "partNumber": 467,
+    "partName": "COMPOSITE H.P.S. PATAUWA PART-2"
+  },
+  {
+    "partNumber": 468,
+    "partName": "PRIMARY SCHOOL (EAST PART) KARMARA"
+  },
+  {
+    "partNumber": 469,
+    "partName": "PRIMARY SCHOOL (WEST PART) KARMARA"
+  },
+  {
+    "partNumber": 470,
+    "partName": "PRIMARY SCHOOL BANGARIYA"
+  },
+  {
+    "partNumber": 471,
+    "partName": "PRIMARY SCHOOL SALAIYA"
+  },
+  {
+    "partNumber": 472,
+    "partName": "PRIMARY SCHOOL BETNA"
+  },
+  {
+    "partNumber": 473,
+    "partName": "PRIMARY SCHOOL PIPARIYA DONGRA"
+  },
+  {
+    "partNumber": 474,
+    "partName": "P.M.V. UMARIYA"
+  },
+  {
+    "partNumber": 475,
+    "partName": "COMPOSITE H.P.S. BARAUDIYARAIN"
+  },
+  {
+    "partNumber": 476,
+    "partName": "PRIMARY SCHOOL THAGARI"
+  },
+  {
+    "partNumber": 477,
+    "partName": "GIRLS HIGHER PRIMARY SCHOOL PIPARI PALI EAST PART"
+  },
+  {
+    "partNumber": 478,
+    "partName": "GIRLS HIGHER PRIMARY SCHOOL PIPRI PALI WEST PART"
+  },
+  {
+    "partNumber": 479,
+    "partName": "KANYA PRIMARY SCHOOL PALI"
+  },
+  {
+    "partNumber": 480,
+    "partName": "JILA PARISHAD INTER COLLEGE PALI  ROOM NO-3"
+  },
+  {
+    "partNumber": 481,
+    "partName": "JILA PARISHAD INTER COLLEGE PALI ROOM  NO-8"
+  },
+  {
+    "partNumber": 482,
+    "partName": "JILA PARISHAD INTER COLLEGE  PALI ROOM NO-5"
+  },
+  {
+    "partNumber": 483,
+    "partName": "JILA PARISHAD INTER COLLEGE PALI ROOM NO-2"
+  },
+  {
+    "partNumber": 484,
+    "partName": "S.V.M.  PALI NORTH PART"
+  },
+  {
+    "partNumber": 485,
+    "partName": "S.V.M.   PALI SOUTH PART"
+  },
+  {
+    "partNumber": 486,
+    "partName": "PRIMARY SCHOOL BHAUNTA"
+  },
+  {
+    "partNumber": 487,
+    "partName": "P.M.V. SIMARDHA"
+  },
+  {
+    "partNumber": 488,
+    "partName": "HIGHER PRIMARY SCHOOL BANT PART-1"
+  },
+  {
+    "partNumber": 489,
+    "partName": "HIGHER PRIMARY SCHOOL BANT PART-2"
+  },
+  {
+    "partNumber": 490,
+    "partName": "PRIMARY SCHOOL BANT"
+  },
+  {
+    "partNumber": 491,
+    "partName": "PRIMARY SCHOOL PIPARIYA JAGEER"
+  },
+  {
+    "partNumber": 492,
+    "partName": "P.M.V. PADANA"
+  },
+  {
+    "partNumber": 493,
+    "partName": "PRIMARY SCHOOL CHANDERA"
+  },
+  {
+    "partNumber": 494,
+    "partName": "PRIMARY SCHOOL DONGRAKALAN"
+  },
+  {
+    "partNumber": 495,
+    "partName": "HIGHER PRIMARY SCHOOL DONGRAKALAN PART-1"
+  },
+  {
+    "partNumber": 496,
+    "partName": "KANYA PRIMARY SCHOOL DONGRAKALAN"
+  },
+  {
+    "partNumber": 497,
+    "partName": "HIGHER PRIMARY SCHOOL DONGRAKALAN PART-2"
+  },
+  {
+    "partNumber": 498,
+    "partName": "PRIMARY SCHOOL KYOLARI"
+  },
+  {
+    "partNumber": 499,
+    "partName": "PRIMARY SCHOOL DUNGARIYA"
+  },
+  {
+    "partNumber": 500,
+    "partName": "PRIMARY SCHOOL DUDHAI"
+  },
+  {
+    "partNumber": 501,
+    "partName": "PRIMARY SCHOOL BAMHAURIVANSHA"
+  },
+  {
+    "partNumber": 502,
+    "partName": "PRIMARY SCHOOL RASOI"
+  },
+  {
+    "partNumber": 503,
+    "partName": "PRIMARY SCHOOL MAHOLI"
+  },
+  {
+    "partNumber": 504,
+    "partName": "P.M.V. MAHOLI"
+  },
+  {
+    "partNumber": 505,
+    "partName": "PRIMARY SCHOOL DARA"
+  },
+  {
+    "partNumber": 506,
+    "partName": "PRIMARY SCHOOL BARAINA"
+  },
+  {
+    "partNumber": 507,
+    "partName": "PRIMARY SCHOOL BALABEHAT"
+  },
+  {
+    "partNumber": 508,
+    "partName": "COMPOSITE H.P.S. BALABEHAT PART-1"
+  },
+  {
+    "partNumber": 509,
+    "partName": "COMPOSITE H.P.S. BALABEHAT PART-2"
+  },
+  {
+    "partNumber": 510,
+    "partName": "COMPOSITE H.P.S. BALABEHAT PART-3"
+  },
+  {
+    "partNumber": 511,
+    "partName": "COMPOSITE H.P.S. BALABEHAT PART-4"
+  },
+  {
+    "partNumber": 512,
+    "partName": "PRIMARY SCHOOL MUDARI"
+  },
+  {
+    "partNumber": 513,
+    "partName": "PRIMARY SCHOOL BANSPUR"
+  },
+  {
+    "partNumber": 514,
+    "partName": "KANYA PRIMARY SCHOOL PIPRAUNIYAN"
+  },
+  {
+    "partNumber": 515,
+    "partName": "PRIMARY SCHOOL DANVAR"
+  },
+  {
+    "partNumber": 516,
+    "partName": "COMPOSITE H.P.S. SEMRA"
+  },
+  {
+    "partNumber": 517,
+    "partName": "PRIMARY SCHOOL BARAUDIYA"
+  },
+  {
+    "partNumber": 518,
+    "partName": "COMPOSITE H.P.S. KAKORIYA"
+  },
+  {
+    "partNumber": 519,
+    "partName": "PRIMARY SCHOOL PURA"
+  },
+  {
+    "partNumber": 520,
+    "partName": "P.M.V. GILTAURA"
+  }
+]

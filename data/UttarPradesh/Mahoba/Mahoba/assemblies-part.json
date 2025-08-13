@@ -1,0 +1,1330 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S. LUHEDI COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.S. LUHEDI COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.M.V. HILUWA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.M.V. PIPRAMAF COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.M.V. PIPRAMAF COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.M.V. PIPRAMAF COMPOSITE ROOM NO 3"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S. UDAYPURA"
+  },
+  {
+    "partNumber": 8,
+    "partName": "U.P.S. NANAURA ROOM NO 1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "U.P.S. NANAURA ROOM NO 2"
+  },
+  {
+    "partNumber": 10,
+    "partName": "U.P.S. NANAURA PRAMUKH"
+  },
+  {
+    "partNumber": 11,
+    "partName": "SHRI GANDHI V.M.J.H.S. NANAURA ROOM NO 1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "SHRI GANDHI V.M.J.H.S. NANAURA ROOM NO 2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S. DHUDAIYAN"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S. CHITAIYAN"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.M.V. URWARA"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.M.V. ATRARMAF ROOM NO 1"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.M.V. ATRARMAF ROOM NO 2"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S. IMILIYA"
+  },
+  {
+    "partNumber": 19,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 21,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 3"
+  },
+  {
+    "partNumber": 22,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 4"
+  },
+  {
+    "partNumber": 23,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 5"
+  },
+  {
+    "partNumber": 24,
+    "partName": "G.I.C. SHRINAGAR ROOM NO 6"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S. BHAIROGANJ SHRINAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.S. BHAIROGANJ SHRINAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P.M.V. BHAIROGANJ SHRINAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.M.V. BHAIROGANJ SHRINAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.S. BILKHI ROOM NO 1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S. BILKHI ROOM NO 2"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.M.V. PAWA ROOM NO 1"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.M.V. PAWA ROOM NO 2"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.S. MURANI"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.S. MAJHALWARA ROOM NO 1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P.S. MAJHALWARA ROOM NO 2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "U.P.S. RAIPURAKALAN COMPOSITE"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.M.V. KARHARAKALAN COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.M.V. KARHARAKALAN COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.M.V. KARHARAKALAN COMPOSITE ROOM NO 3"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.M.V. CHHIKAHARA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.M.V. CHHIKAHARA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.M.V. CHHIKAHARA COMPOSITE ROOM NO 3"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.S. KUMHARAN KHODA CHHIKAHARA COMPOSITE"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.S. NATHUPURA"
+  },
+  {
+    "partNumber": 45,
+    "partName": "U.P.S. PACHPAHARA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "U.P.S. PACHPAHARA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P.S. CHANDO"
+  },
+  {
+    "partNumber": 48,
+    "partName": "U.P.S. CHANDPURA COMPOSITE ENGLISH MIDIUM"
+  },
+  {
+    "partNumber": 49,
+    "partName": "U.P.S. BANIYATALA"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.M.V. PALKA COMPOSITE"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.S. BASAURA"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.M.V. MIRTALA COMPOSITE"
+  },
+  {
+    "partNumber": 53,
+    "partName": "G.H.SCHOOL SIJAHARI ROOM NO 1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "G.H.SCHOOL SIJAHARI ROOM NO 2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "K.P.S. SIJAHARI"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.M.V. AMRAIYA SIJAHARI"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. BARA ROOM NO 1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. BARA ROOM NO 2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S. DHIKWAHA"
+  },
+  {
+    "partNumber": 60,
+    "partName": "K.P.M.S. BILRAHI COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 61,
+    "partName": "K.P.M.S. BILRAHI COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.S. KAIMAHA"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.S. TAPARIYA DAKSHIN KAIMAHA"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P.S. DIGARIYA ROOM NO 1"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.S. DIGARIYA ROOM NO 2"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P.M.V. JYORAIYA COMPOSITE"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.S. SIJARIYA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "K.P.S. SIJWAHA COMPOSITE"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.M.V. SIJWAHA"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.M.V. MAVAI COMPOSITE"
+  },
+  {
+    "partNumber": 71,
+    "partName": "K.P.M.V. BHANDARA ROOM NO 1"
+  },
+  {
+    "partNumber": 72,
+    "partName": "K.P.M.V. BHANDARA ROOM NO 2"
+  },
+  {
+    "partNumber": 73,
+    "partName": "K.P.M.V. BHANDARA ROOM NO 3"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.M.V. SALARPUR COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.M.V. SALARPUR COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.M.V. TINDAULI"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. MAMNA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.S. MUDAHARA"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.S. RAHELIYA"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.M.V. BAMHAURI GUSAI COMPOSITE"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.M.V. FATEHPUR BAJARIYA ROOM NO 1"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.M.V. FATEHPUR BAJARIYA ROOM NO 2"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.M.V. FATEHPUR BAJARIYA ROOM NO 3"
+  },
+  {
+    "partNumber": 84,
+    "partName": "G.P. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "G.P. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "G.P. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 87,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 88,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 89,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 90,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 91,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 5"
+  },
+  {
+    "partNumber": 92,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 6"
+  },
+  {
+    "partNumber": 93,
+    "partName": "G.M.L.T.I.C. MAHOBA ROOM NO 7"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S. MA. KANSHIRAM KALONI RATH ROAD MAHOBA"
+  },
+  {
+    "partNumber": 95,
+    "partName": "U.P.S. ALAMPURA MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "U.P.S. ALAMPURA MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 97,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 98,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 100,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 101,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 5"
+  },
+  {
+    "partNumber": 102,
+    "partName": "G.G.I.C. MAHOBA ROOM NO 6"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.S. BANDHANWARD MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.S. BANDHANWARD MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 105,
+    "partName": "K.P.S. SARAFIPURA BANDHAN WARD MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "K.P.S. SARAFIPURA BANDHANWARD MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 110,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 111,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 5"
+  },
+  {
+    "partNumber": 112,
+    "partName": "D.A.V.I.C. MAHOBA ROOM NO 6"
+  },
+  {
+    "partNumber": 113,
+    "partName": "N.I.C. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 114,
+    "partName": "N.I.C. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 115,
+    "partName": "N.I.C. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 116,
+    "partName": "N.I.C. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 117,
+    "partName": "TEHSIL BHAVAN S.K.MAHOBA"
+  },
+  {
+    "partNumber": 118,
+    "partName": "TEHSIL BHAVAN RAJASV NIRIKSHAK ROOM MAHOBA"
+  },
+  {
+    "partNumber": 119,
+    "partName": "TEHSIL BHAVAN NAJARAT KARYALAY MAHOBA"
+  },
+  {
+    "partNumber": 120,
+    "partName": "TEHSIL BHAVAN JANGARNA ROOM MAHOBA"
+  },
+  {
+    "partNumber": 121,
+    "partName": "K.S.K.N.G.M.MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 122,
+    "partName": "K.S.K.N.G.M.MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. HAMIRPUR CHUNGI MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S. HAMIRPUR CHUNGI MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 125,
+    "partName": "K.VIKAS.KHAND. KABRAI MEETING HAL NAYA MAHOBA"
+  },
+  {
+    "partNumber": 126,
+    "partName": "ROOM S.V.A.P.V.K. KABRAI MAHOBA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "MA.KANSHIRAM P.S. SUBHASHNAGAR MAHOBA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "TOWN HAL.N.P.P. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "TOWN HAL.N.P.P. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.S.S.S. BADIHAT MAHOBA"
+  },
+  {
+    "partNumber": 131,
+    "partName": "N.P.P. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "N.P.P. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 133,
+    "partName": "N.P.P. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 134,
+    "partName": "N.P.P. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 135,
+    "partName": "N.P.P. MAHOBA ROOM NO 5"
+  },
+  {
+    "partNumber": 136,
+    "partName": "K.P.M.V. NAIKANA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "K.P.M.V. NAIKANA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S.M.KANSHIRAM KALONI BICHCHHU PAHADIYA"
+  },
+  {
+    "partNumber": 139,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 1"
+  },
+  {
+    "partNumber": 140,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 2"
+  },
+  {
+    "partNumber": 141,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 3"
+  },
+  {
+    "partNumber": 142,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 4"
+  },
+  {
+    "partNumber": 143,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 5"
+  },
+  {
+    "partNumber": 144,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 6"
+  },
+  {
+    "partNumber": 145,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 7"
+  },
+  {
+    "partNumber": 146,
+    "partName": "G.V.B.M.V. MAHOBA ROOM NO 8"
+  },
+  {
+    "partNumber": 147,
+    "partName": "M.S.V.MA.KASHIRAM KALONI CHHOTI CHANDRIKA POLICE LINE MAHOBA"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S. SHAHPAHADI ROOM NO 1"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S. SHAHPAHADI ROOM NO 2"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S. KUMHDAURA MAF"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S. CHURBARA"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S. BEEJANAGAR"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S. KIDARI"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. TEEKAMAU"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.S. DADHAHATMAF ROOM NO 1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S. DADHAHATMAF ROOM NO 2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S. KALIPAHADI ROOM NO 1"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. KALIPAHADI ROOM NO 2"
+  },
+  {
+    "partNumber": 159,
+    "partName": "A.U.M.V. BILBAI ROOM NO 1"
+  },
+  {
+    "partNumber": 160,
+    "partName": "A.U.M.V. BILBAI ROOM NO 2"
+  },
+  {
+    "partNumber": 161,
+    "partName": "A.U.M.V. BILBAI ROOM NO 3"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.M.V. DISRAPUR COMPOSITE"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.S. BARATPAHADI"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.S. RAIPURAKHURD"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.M.V. JUJHAR"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S. BHATEWAR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S. BARI"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.S. BAMHAURI KAJI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "KANYA P.S. GAHRA ROOM NO 1"
+  },
+  {
+    "partNumber": 170,
+    "partName": "KANYA P.S. GAHRA ROOM NO 2"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S. SINGHANPUR BAGHARI ROOM NO 1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S. SINGHANPUR BAGHARI ROOM NO 2"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.M.V. SINGHANPUR BAGHARI COMPOSITE"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S. SURHA ROOM NO 1"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S. SURHA ROOM NO 2"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.M.V. SURHA"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.M.V. BABEDI COMPOSITE"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.M.V. KAUHARI"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.K.P.S.GYODI ROOM NO 1"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.K.P.S.GYODI ROOM NO 2"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.M.V. CHURAIRIN PURWAN GYODI COMPOSITE"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.M.V. GYODI ROOM NO 1"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.M.V. GYODI ROOM NO 2"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.M.V. GYODI ROOM NO 3"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.M.V. GYODI ROOM NO 4"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. KHODA GYODI"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. PALWAR GYODI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.M.V. PURA"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.M.V. PARSAHA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.M.V. PARSAHA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S. PIDARI"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.M.V. LILWAHI COMPOSITE"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.M.V. CHHANIKALAN ROOM NO 1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.M.V. CHHANIKALAN ROOM NO 2"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.M.V. CHHANIKALAN ROOM NO 3"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.M.V. MAHEWA COMPOSITE"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.S. SICHAURA"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.S. UTIYAN ROOM NO 1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.S. UTIYAN ROOM NO 2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.M.V. DHARAUN ROOM NO 1"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.M.V. DHARAUN ROOM NO 2"
+  },
+  {
+    "partNumber": 202,
+    "partName": "K.P.M.V. KABRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "K.P.M.V. KABRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 204,
+    "partName": "K.P.M.V. KABRAI ROOM NO 3"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. GANDHINAGAR KABRAI"
+  },
+  {
+    "partNumber": 206,
+    "partName": "K.P.S. KABRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 207,
+    "partName": "K.P.S. KABRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P.S. GAUHARI ROOM NO 1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "P.S. GAUHARI ROOM NO 2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S. VIVEK NAGAR KABRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S. VIVEK NAGAR KABRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "A.I.C. KABRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "A.I.C. KABRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "A.I.C. KABRAI ROOM NO 3"
+  },
+  {
+    "partNumber": 215,
+    "partName": "A.I.C. KABRAI ROOM NO 4"
+  },
+  {
+    "partNumber": 216,
+    "partName": "A.I.C. KABRAI ROOM NO 5"
+  },
+  {
+    "partNumber": 217,
+    "partName": "A.I.C. KABRAI ROOM NO 6"
+  },
+  {
+    "partNumber": 218,
+    "partName": "A.I.C. KABRAI ROOM NO 7"
+  },
+  {
+    "partNumber": 219,
+    "partName": "K.N.P. KABRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 220,
+    "partName": "K.N.P. KABRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. BAGHWA ROOM NO 1"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S. BAGHWA ROOM NO 2"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.M.V. ALIPURA COMPOSITE"
+  },
+  {
+    "partNumber": 224,
+    "partName": "SHAHID BALENDRA SINGH P.M.V. GANJ ROOM NO 1"
+  },
+  {
+    "partNumber": 225,
+    "partName": "SHAHID BALENDRA SINGH P.M.V. GANJ ROOM NO 2"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.M.V. GUGAURA COMPOSITE"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.S. DAHARRA ROOM NO 1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S. DAHARRA ROOM NO 2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "K.P.S. MAKARBAI COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "K.P.S. MAKARBAI COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S. YADAV KHODA MAKARBAI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S. BEELA DAKSHIN ROOM NO 1"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.S. BEELA DAKSHIN ROOM NO 2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S. BAGHWA KHODA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S. NAHDAURAMAF"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S. BILA UTTAR"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.S. SUKAURA ROOM NO 1"
+  },
+  {
+    "partNumber": 238,
+    "partName": "P.S. SUKAURA ROOM NO 2"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.M.V. RAIWARA COMPOSITE"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.M.V. KHARKA ROOM NO 1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.M.V. KHARKA ROOM NO 2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "K.P.V. PAHRA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "K.P.V. PAHRA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 244,
+    "partName": "K.P.V. PAHRA COMPOSITE ROOM NO 3"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.M.V. PAHRA"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S. RATAULI"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S. NAIGAWAN"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.M.V. PASWARA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P.M.V. PASWARA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.S. THANA"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.M.V. PACHAHARA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.S. GHUTWAI"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.M.V. DAMAURA COMPOSITE"
+  },
+  {
+    "partNumber": 254,
+    "partName": "K.P.V. KHANNA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "K.P.V. KHANNA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.M.V. KHANNA"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P.M.V. BARBHAULI COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.M.V. BARBHAULI COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. BANNI"
+  },
+  {
+    "partNumber": 260,
+    "partName": "K.P.V. MAVAIKHURD COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 261,
+    "partName": "K.P.V. MAVAIKHURD COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 262,
+    "partName": "K.P.V. MAVAIKHURD COMPOSITE ROOM NO 3"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.M.V. CHICHARA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.M.V. CHICHARA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. TAMAURA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S. BARBAI ROOM NO 1"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. BARBAI ROOM NO 2"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. KULKUWAN"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S. BAHINGA ROOM NO 1"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.S. BAHINGA ROOM NO 2"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.S. SIRSIKHURD ROOM NO 1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. SIRSIKHURD ROOM NO 2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.M.V. KHAMHARIYA COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.M.V. KHAMHARIYA COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "K.P.S. KAHRA ROOM NO 1"
+  },
+  {
+    "partNumber": 276,
+    "partName": "K.P.S. KAHRA ROOM NO 2"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.S. KAHARA"
+  },
+  {
+    "partNumber": 278,
+    "partName": "K.P.S. RIVAI COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "K.P.S. RIVAI COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.S. SUNAICHA"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S. KAIMAHA"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.M.V. SIRSIKALAN COMPOSITE ROOM 1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.M.V. SIRSIKALAN COMPOSITE ROOM 2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.M.V. SIRSIKALAN COMPOSITE ROOM 3"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S. NYURIYA MODAL SCHOOL"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. KHIRUHI"
+  },
+  {
+    "partNumber": 287,
+    "partName": "NAVEEN P.S. ATGHAR"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P.M.V. ATGHAR"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S. TINDUHI"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P.S. AKBAI ROOM NO 1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.M.V. PACHPAHRA H COMPOSITE ROOM NO 1"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.M.V. PACHPAHRA H COMPOSITE ROOM NO 2"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.S. GHANDUWA"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PS BASHAUTH ROOM NO.1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PS BASHAUTH ROOM NO.2"
+  },
+  {
+    "partNumber": 296,
+    "partName": "GPMV DHAVARI ROOM NO.1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "GPMV DHAVARI ROOM NO.2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PS BARDA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PS TIKRI MAJRA KHARELA"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PMV PARTHANIYA MAJRA KHARELA COMPOSITE"
+  },
+  {
+    "partNumber": 301,
+    "partName": "KASHIPRASAD INTER COLLEGE KHARELA ROOM NO. 1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "KASHIPRASAD INTER COLLEGE KHARELA ROOM NO. 2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "KASHIPRASAD INTER COLLEGE KHARELA ROOM NO. 3"
+  },
+  {
+    "partNumber": 304,
+    "partName": "KASHIPRASAD INTER COLLEGE KHARELA ROOM NO. 4"
+  },
+  {
+    "partNumber": 305,
+    "partName": "KASHIPRASAD INTER COLLEGE KHARELA ROOM NO. 5"
+  },
+  {
+    "partNumber": 306,
+    "partName": "GPMV KHARELA COMPOSITE EXTRA ROOM NO. 1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "GPMV KHARELA COMPOSITE ROOM NO. 1"
+  },
+  {
+    "partNumber": 308,
+    "partName": "GPMV KHARELA COMPOSITE ROOM NO. 2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "GPMV KHARELA COMPOSITE ROOM NO. 3"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PS PUNNIYA"
+  },
+  {
+    "partNumber": 311,
+    "partName": "GPS PUNNIYA"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PMV KAKUN COMPOSITE"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PS BAIHARI"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PMV SIJAORA COMPOSITE"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PS RIHUNIYA"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PMV PAHRETHA ROOM NO.1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PMV PAHRETHA ROOM NO.2"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PS PUPWARA"
+  },
+  {
+    "partNumber": 319,
+    "partName": "NPS KUWAN"
+  },
+  {
+    "partNumber": 320,
+    "partName": "GPS KUWAN"
+  },
+  {
+    "partNumber": 321,
+    "partName": "NPS BARAYN ROOM NO.1"
+  },
+  {
+    "partNumber": 322,
+    "partName": "NPS BARAYN ROOM NO.2"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PMV AICHANA ROOM NO.1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PMV AICHANA ROOM NO.2"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PS BARI"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PMV PADORA COMPOSITE"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PMV PATHA COMPOSITE ROOM NO.1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PMV PATHA COMPOSITE ROOM NO.2"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PS KANERI"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PS GADHARI"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PMV KAMALKHEDA"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PMV SALUWA COMPOSITE"
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.P. BHOPALPUR EAST"
+  },
+  {
+    "partNumber": 2,
+    "partName": "COMPOSITE SCHOOL BHOPALPUR WEST (EAST)"
+  },
+  {
+    "partNumber": 3,
+    "partName": "COMPOSITE SCHOOL BHOPALPUR WEST (WEST)"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.P. RAMPUR MAGRIV SATHIT BHOPALPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "JUNIOR HIGH SCHOOL DATTAHA EAST"
+  },
+  {
+    "partNumber": 6,
+    "partName": "JUNIOR HIGH SCHOOL DATTAHA MIDDLE"
+  },
+  {
+    "partNumber": 7,
+    "partName": "JUNIOR HIGH SCHOOL DATAHA WEST"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.P. SHIVPUR SATHIT JAMDHARWA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.P. SHIVPUR SATHIT GRAM JAMDHARWA SOUTH PART"
+  },
+  {
+    "partNumber": 10,
+    "partName": "COMPOSITE SCHOOL CHHAPARA SARIW"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRATHMIK VIDYALAY RAMRATAN KE DERA EAST"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRATHMIK VIDYALAY RAMRATAN KE DERA WEST"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.P. ASMANPUR SATHIT GRAM DATAHA"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE SCHOOL NAVAKA GAO EAST"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOSITE SCHOOL NAVAKA GAO WEST"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.P. JAMDHARAWA"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.P. LAMUHI"
+  },
+  {
+    "partNumber": 18,
+    "partName": "JUNIOR HIGH SCHOOL GOPALNAGAR NORTH"
+  },
+  {
+    "partNumber": 19,
+    "partName": "JUNIOR HIGH SCHOOL GOPALNAGAR WEST"
+  },
+  {
+    "partNumber": 20,
+    "partName": "JUNIOR HIGH SCHOOL GOPALNAGAR MIDDLE"
+  },
+  {
+    "partNumber": 21,
+    "partName": "JUNIOR HIGH SCHOOL GOPALNAGAR SOUTH"
+  },
+  {
+    "partNumber": 22,
+    "partName": "JUNIOR HIGH SCHOOL GOPALNAGAR EAST"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.P. VASHISHATH NAGAR"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE SCHOOL JHARKATAHA EAST"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE SCHOOL JHARKATAHA WEST"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSITE SCHOOL JHARKATAHA MIDDLE"
+  },
+  {
+    "partNumber": 27,
+    "partName": "COMPOSITE SCHOOL JHARKATAHA SOUTH"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.P. BHAKHAR"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PANCHAYAT BHAWAN KHARIKA"
+  },
+  {
+    "partNumber": 30,
+    "partName": "COMPOSITE SCHOOL KHARIKA EAST"
+  },
+  {
+    "partNumber": 31,
+    "partName": "COMPOSITE SCHOOL KHARIKA WEST"
+  },
+  {
+    "partNumber": 32,
+    "partName": "COMPOSITE SCHOOL CHAUBEY CHHAPARA NORTH"
+  },
+  {
+    "partNumber": 33,
+    "partName": "COMPOSITE SCHOOL CHAUBEY CHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRATHAMIK VIDYALAY KANCHANPUR"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P.P. CHHERDIH EAST"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.P. CHHERDIH WEST"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.P. CHHERDIH MIDDLE"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE SCHOOL RAMPUR EAST"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE SCHOOL RAMPUR WEST"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.P. MUNCHHAPARA EAST"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.P. MUNCHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.P. MUNCHHAPARA WEST"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE SCHOOL GANGA PANDEY KA TOLA"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.P. LAXMIPUR EAST"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.P. MANSINGH CHHAPARA URF ACHALAGAR NORTH"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.P. MANSINGH CHHAPARA URF ACHALAGAR SOUTH"
+  },
+  {
+    "partNumber": 47,
+    "partName": "JUNIOR HIGH SCHOOL VIGAHI EAST"
+  },
+  {
+    "partNumber": 48,
+    "partName": "JUNIOR HIGH SCHOOL VIGAHI WEST"
+  },
+  {
+    "partNumber": 49,
+    "partName": "JUNIOR HIGH SCHOOL VIGAHI MIDDLE"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.P. VIGAHI"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.P. KATHAHI NORTH"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.P. KATHAHI SOUTH"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.P. SONVANI EAST"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.P. SONWANI MIDDLE"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.P. SONVANI NORTH"
+  },
+  {
+    "partNumber": 56,
+    "partName": "COMPOSITE SCHOOL SAMARTHPAH"
+  },
+  {
+    "partNumber": 57,
+    "partName": "COMPOSITE SCHOOL KRIPALPUR EAST"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PURV M.V. DUDHAILA EAST"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PURV M.V. DUDHAILA WEST"
+  },
+  {
+    "partNumber": 60,
+    "partName": "ENGLISH MIDDLE PRATHAMIK DUDHAILA KHURD"
+  },
+  {
+    "partNumber": 61,
+    "partName": "COMPOSITE SCHOOL BADILPUR EAST"
+  },
+  {
+    "partNumber": 62,
+    "partName": "COMPOSITE SCHOOL BADILPUR WEST"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.P. GAIGHAT EAST"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P.P. GAIGHAT MIDDLE"
+  },
+  {
+    "partNumber": 65,
+    "partName": "COMPOSITE SCHOOL MUDADIH SATHIT MUDADIH EAST"
+  },
+  {
+    "partNumber": 66,
+    "partName": "COMPOSITE SCHOOL MUDADIH SATHIT MUDADIH WEST"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSITE SCHOOL MUDADIH SATHIT MUDADIH MIDDLE"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE SCHOOL MUDADIH STHIT MUDADIH WEST"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.P. GAIGHAT SATHIT MUDADIH EAST"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.P. GAIGHAT SATHIT MUDADIH WEST"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P.P. RUDRAPUR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "P.P. BABUBEL SATHIT BAGHAUCH NORTH"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.P. BABUBEL SATHIT BAGHAUCH SOUTH"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSITE SCHOOL BELHARI EAST"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE SCHOOL BELHARI MIDDLE"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSITE SCHOOL BELHARI WEST"
+  },
+  {
+    "partNumber": 77,
+    "partName": "JUNIOR HIGH SCHOOL RUDRAPUR SATHIT BELHARI EAST"
+  },
+  {
+    "partNumber": 78,
+    "partName": "JUNIOR HIGH SCHOOL RUDRAPUR SATHIT BELHARI MIDDLE"
+  },
+  {
+    "partNumber": 79,
+    "partName": "JUNIOR HIGH SCHOOL RUDRAPUR SATHIT BELHARI WEST"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.P. SHUKALCHHAPARA EAST"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.P. SHUKALCHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.P. DHARAMPURA BELHARI EAST"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRATHAMIK VIDYALAY GARYA EAST"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRATHAMIK VIDYALAY GARYA WEST"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.P. MAJHAUA EAST"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.P. MAJHAUA WEST"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.P. MAJHAUA EAST NAYA BHAWAN"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.P. MAJHAUA WEST NAYA BHAWAN"
+  },
+  {
+    "partNumber": 89,
+    "partName": "ADARSH INTER COLLAGE MAJHAUA"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.P. NARAYANPUR SATHIT GANGAPUR EAST"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.P. NARAYANPUR SATHIT GANGAPUR WEST"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.P. NARAYANPUR SATHIT GANGAPUR MIDDLE"
+  },
+  {
+    "partNumber": 93,
+    "partName": "SHRIKRISHAN INTER COLLAGE PIYRAUTA EAST"
+  },
+  {
+    "partNumber": 94,
+    "partName": "SHRIKRISHAN INTER COLLAGE PIYRAUTA MIDDLE"
+  },
+  {
+    "partNumber": 95,
+    "partName": "SHRIKRISHAN INTER COLLAGE PIYRAUTA WEST"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE SCHOOL DIGHAR EAST"
+  },
+  {
+    "partNumber": 97,
+    "partName": "COMPOSITE SCHOOL DIGHAR MIDDLE"
+  },
+  {
+    "partNumber": 98,
+    "partName": "COMPOSITE SCHOOL DIGHAR WEST"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.P. GANGAPUR EAST"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.P. GANGAPUR WEST"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P.P. DURJANPUR STHIT GRAM GANGAPUR"
+  },
+  {
+    "partNumber": 102,
+    "partName": "SADHAN SAHAKARI SAMITI RAMGAR STHIT GANGAPUR EAST"
+  },
+  {
+    "partNumber": 103,
+    "partName": "SADHAN SAHAKARI SAMITI RAMGAR STHIT GANGAPUR MIDDLE"
+  },
+  {
+    "partNumber": 104,
+    "partName": "DHUPARAM PYARI DEVI BALIKA VIDHAYALAY BALIHAR NORTH"
+  },
+  {
+    "partNumber": 105,
+    "partName": "DHUPARAM PYARI DEVI BALIKA VIDHAYALAY BALIHAR MIDDLE"
+  },
+  {
+    "partNumber": 106,
+    "partName": "DHUPARAM PYARI DEVI BALIKA VIDHAYALAY BALIHAR SOUTH"
+  },
+  {
+    "partNumber": 107,
+    "partName": "P.P. SHIVCHAK TANDI SATHIT NAUKA GAO"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P.P. NAUKA GAO EAST"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.P. NAUKAGAO MIDDLE"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.P. NAUKAGAO WEST"
+  },
+  {
+    "partNumber": 111,
+    "partName": "COMPOSITE SCHOOL TANDI DAYACHHAPARA EAST"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE SCHOOL TANDI DAYACHHAPARA WEST"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.P. DAYACHHAPARA N0-1 EAST"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.P. DAYACHHAPARA N0-1 WEST"
+  },
+  {
+    "partNumber": 115,
+    "partName": "UCHCH PRATHAMIK VIDYALAY DAYACHHAPARA EAST"
+  },
+  {
+    "partNumber": 116,
+    "partName": "UCHCH PRATHAMIK VIDYALAY DAYACHHAPARA WEST"
+  },
+  {
+    "partNumber": 117,
+    "partName": "COMPOSITE SCHOOL BUDHANCHAK SATHIT DAYACHHAPARA EAST"
+  },
+  {
+    "partNumber": 118,
+    "partName": "COMPOSITE SCHOOL BUDHANCHAK SATHIT DAYACHHAPARA WEST"
+  },
+  {
+    "partNumber": 119,
+    "partName": "COMPOSITE SCHOOL DALAPATPUR"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.P. DALAPATPUR SOUTH"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.N. INTER COLLAGE DUBEYCHHAPARA EAST"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.N. INTER COLLAGE DUBEYCHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.N. INTER COLLAGE DUBEYCHHAPARA NORTH"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.N.INTER COLLEGE DUBECHHAPARA WEST"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P.P. PRASAD CHHAPARA"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.P. SUGHARCHHAPARA EAST"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.P. SUGHARCHHAPARA WEST"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.P. SUGHAR CHHAPARA NORTH"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.P. RAMPUR MISHRA SATHIT JAGDEVA EAST"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.P. RAMPUR MISHRA SATHIT JAGDEVA MIDDLE"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.P. RAMPUR MISHRA SATHIT JAGDEVA WEST"
+  },
+  {
+    "partNumber": 132,
+    "partName": "JUNIOR HIGH SCHOOL PANDEYPUR SATHIT JAGDEVA EAST"
+  },
+  {
+    "partNumber": 133,
+    "partName": "JUNIOR HIGH SCHOOL PANDEYPUR SATHIT JAGDEVA MIDDLE"
+  },
+  {
+    "partNumber": 134,
+    "partName": "JUNIOR HIGH SCHOOL PANDEYPUR SATHIT JAGDEVA WEST"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.P. TENGARAHI NORTH"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.P. TENGARAHI SOUTH"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.P. TENGARAHI EAST"
+  },
+  {
+    "partNumber": 138,
+    "partName": "COMPOSITE SCHOOL CHANDPUR EAST"
+  },
+  {
+    "partNumber": 139,
+    "partName": "COMPOSITE SCHOOL CHANDPUR MIDDLE"
+  },
+  {
+    "partNumber": 140,
+    "partName": "COMPOSITE SCHOOL CHANDPUR WEST"
+  },
+  {
+    "partNumber": 141,
+    "partName": "COMPOSITE SCHOOL CHANDPUR NORTH"
+  },
+  {
+    "partNumber": 142,
+    "partName": "RAMIKBAL BABA JUNIOR HIGH SCHOOL CHANDPUR"
+  },
+  {
+    "partNumber": 143,
+    "partName": "P.P. GOVINDPUR"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRATHMIK VIDYALAY CHARAJPURA"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.P. SHRIPALPUR"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.P.LAXMIPUR"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.P. SAVANCHHAPARA NORTH"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.P. SAVANCHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.P. CHIRANJICHHAPARA EAST"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.P. CHIRANJICHHAPARA WEST"
+  },
+  {
+    "partNumber": 151,
+    "partName": "S.S.S.S.S. INTER COLLAGE BAHUARA EAST"
+  },
+  {
+    "partNumber": 152,
+    "partName": "S.S.S.S.S. INTER COLLAGE BAHUARA WEST"
+  },
+  {
+    "partNumber": 153,
+    "partName": "S.S.S.S.S. INTER COLLAGE BAHUARA NORTH"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.P. JAICHHAPARA EAST"
+  },
+  {
+    "partNumber": 155,
+    "partName": "COMPOSITE SCHOOL BHUSAULA NORTH"
+  },
+  {
+    "partNumber": 156,
+    "partName": "COMPOSITE SCHOOL BHUSAULA SOUTH"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.P. JAGDISHPUR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "COMPOSITE SCHOOL BHUWAL CHHAPARA (NAURNGA) EAST"
+  },
+  {
+    "partNumber": 159,
+    "partName": "COMPOSITE SCHOOL BHUWAL CHHAPARA (NAURNGA) MIDDLE"
+  },
+  {
+    "partNumber": 160,
+    "partName": "COMPOSITE SCHOOL BHUWAL CHHAPARA (NAURNGA) WEST"
+  },
+  {
+    "partNumber": 161,
+    "partName": "COMPOSITE SCHOOL BHUWAL CHHAPARA (NAURNGA) NORTH"
+  },
+  {
+    "partNumber": 162,
+    "partName": "COMPOSITE SCHOOL BHUWAL CHHAPARA (NAURNGA) SOUTH"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.P. BHAGWANPUR CHAKKI NAURANGA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.P. SHIVPUR KAPUR DIAR EAST"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.P. SHIVPUR KAPUR DIAR WEST"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.P. SEMARIA"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.P. GARERIYA SATHIT SHIVPUR KAPUR DIAR"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.P. DALAKI N0-1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "COMPOSITE SCHOOL LACHHU TOLA NORTH"
+  },
+  {
+    "partNumber": 170,
+    "partName": "COMPOSITE SCHOOL LACHHU TOLA SOUTH"
+  },
+  {
+    "partNumber": 171,
+    "partName": "U.P.S. COMPOSITE ARAJI MAFI BAL GOVIND RAI UPADHYAY NORTH"
+  },
+  {
+    "partNumber": 172,
+    "partName": "U.P.S. COMPOSITE ARAJI  MAFI BAL GOVIND RAI UPADHYAY SOUTH"
+  },
+  {
+    "partNumber": 173,
+    "partName": "RAMNATH INTER COLLAGE MAURARPATTI EAST"
+  },
+  {
+    "partNumber": 174,
+    "partName": "RAMNATH INTER COLLAGE MURARPATTI WEST"
+  },
+  {
+    "partNumber": 175,
+    "partName": "RAMNATH INTER COLLAGE MURARPATTI NORTH"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.P. HRIDAYPUR EAST"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.P. HRIDAYPUR WEST"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.P. GARERIYA SATHIT GRAM MURARPATTI"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.P. VAJIDPUR NORTH"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.P. DALANCHHAPARA N0-1 EAST"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.P. DALANCHHAPARA N0-1 WEST"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.P. RAMPUR KODARAHA"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PANCHAYAT BHAWAN RAMPUR EAST"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.P. RAMPUR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "COMPOSITE SCHOOL DOKATI NORTH"
+  },
+  {
+    "partNumber": 186,
+    "partName": "COMPOSITE SCHOOL DOKATI MIDDLE"
+  },
+  {
+    "partNumber": 187,
+    "partName": "COMPOSITE SCHOOL DOKATI SOUTH"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.P. MURALICHHAPARA NORTH"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.P. MURALICHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 190,
+    "partName": "M.G.I.C. DALANCHHAPARA NORTH-1"
+  },
+  {
+    "partNumber": 191,
+    "partName": "M.G.I.C. DALANCHHAPARA NORTH-1 MIDDILE"
+  },
+  {
+    "partNumber": 192,
+    "partName": "M.G.I.C. DALACHHAPARA NORTH -2"
+  },
+  {
+    "partNumber": 193,
+    "partName": "M.G.I.C. DALANCHHAPARA DALANCHHAPARA SOUTH-1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "M.G.I.C. DALANCHHAPARA SOUTH-1 MIDDILE"
+  },
+  {
+    "partNumber": 195,
+    "partName": "M.G.I.C. DALANCHHAPARA SOUTH-2"
+  },
+  {
+    "partNumber": 196,
+    "partName": "M.G.I.C. DALANCHHAPARA SOUTH-2 MIDDILE"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.P. DALANCHHAPARA N0-2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.P. MANIRAI KA DERA EAST"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.P. MANIRAI KA DERA WEST"
+  },
+  {
+    "partNumber": 200,
+    "partName": "COMPOSITE SCHOOL KARANCHHAPARA EAST"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSITE SCHOOL KARANCHHAPARA MIDDLE -1"
+  },
+  {
+    "partNumber": 202,
+    "partName": "COMPOSITE SCHOOL KARANCHHAPARA MIDDLE-2"
+  },
+  {
+    "partNumber": 203,
+    "partName": "COMPOSITE SCHOOL KARANCHHAPARA WEST"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.P. KARANCHHAPARA N0-2 NORTH"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.P. KARANCHHAPARA N0-2 SOUTH"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.P. DHATURI TOLA NORTH"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.P. DHATURI TOLA SOUTH"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P.P. KAKAN TOLA"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE SCHOOL SONAKIBHAT NORTH"
+  },
+  {
+    "partNumber": 210,
+    "partName": "COMPOSITE SCHOOL SONAKIBHAT SOUTH"
+  },
+  {
+    "partNumber": 211,
+    "partName": "COMPOSITE VIDYALAYA SUKRAULI MILKI"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.V. SUKRAULI"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.P. SHRIPATIPUR NORTH"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.P. SHRIPATIPUR SOUTH"
+  },
+  {
+    "partNumber": 215,
+    "partName": "COMPOSITE SCHOOL SHIVPUR NAURANGA EAST"
+  },
+  {
+    "partNumber": 216,
+    "partName": "COMPOSITE SCHOOL SHIVPUR NAURANGA MIDDLE"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSITE SCHOOL SHIVPUR NAURANGA WEST"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.P. SAWAN CHHAPARA EAST"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PANCHAYAT BHAWAN BHOJAPUR EAST"
+  },
+  {
+    "partNumber": 220,
+    "partName": "A.J.V.KRIPLANI INTER COLLAGE JAMALPUR EAST"
+  },
+  {
+    "partNumber": 221,
+    "partName": "A.J.V.KRIPLANI INTER COLLAGE JAMALPUR MIDDLE"
+  },
+  {
+    "partNumber": 222,
+    "partName": "A.J.V.KRIPLANI INTER COLLAGE JAMALPUR WEST"
+  },
+  {
+    "partNumber": 223,
+    "partName": "A.J.V.KRIPLANI INTER COLLAGE JAMALPUR MIDDLE"
+  },
+  {
+    "partNumber": 224,
+    "partName": "COMPOSITE SCHOOL CHAKIA NORTH"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSITE SCHOOL CHAKIA MIDDLE"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSITE SCHOOL CHAKIA SOUTH"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.P. CHAKGIRDHAR WEST"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.P. CHAKGIRDHAR EAST"
+  },
+  {
+    "partNumber": 229,
+    "partName": "COMPOSITE SCHOOL KARMANPUR EAST"
+  },
+  {
+    "partNumber": 230,
+    "partName": "COMPOSITE SCHOOL KARMANPUR MIDDLE"
+  },
+  {
+    "partNumber": 231,
+    "partName": "COMPOSITE SCHOOL KARMANPUR WEST"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.P. SABALPUR"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE SCHOOL TALIBPUR EAST"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSITE SCHOOL TALIBPUR MIDDLE"
+  },
+  {
+    "partNumber": 235,
+    "partName": "COMPOSITE SCHOOL TALIBPUR WEST"
+  },
+  {
+    "partNumber": 236,
+    "partName": "AMAR SHAHID KAUSHAL KUMAR VIDHYALAY NARAYANGAR WEST"
+  },
+  {
+    "partNumber": 237,
+    "partName": "AMAR SHAHID KAUSHAL KUMAR VIDHYALAY NARAYANGAR MIDDLE"
+  },
+  {
+    "partNumber": 238,
+    "partName": "AMAR SHAHID KAUSHAL KUMAR VIDHYALAY NARAYANGAR EAST"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.P. DUKHAHARAN GIRI KE MADHIA EAST"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.P. DUKHAHARAN GIRI KE MADHIA WEST"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.P. SHRINAGAR N0-1 EAST"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.P. SHRINAGAR N0-1 MIDDLE"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.P. SHRINAGAR N0-1 NORTH"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.P. SHRINAGAR N0-1 WEST"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.P. SHRINAGAR N0-2 EAST"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.P. SHRINAGAR N0-2 MIDDLE"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.P. SHRINAGAR N0-2 WEST"
+  },
+  {
+    "partNumber": 248,
+    "partName": "COMPOSITE SCHOOL DALCHHAPARA NORTH"
+  },
+  {
+    "partNumber": 249,
+    "partName": "COMPOSITE SCHOOL DALCHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 250,
+    "partName": "COPOSITE SCHOOL DALCHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 251,
+    "partName": "COMPOSITE SCHOOL HANUMANGANJ NAI BASTI (SHRINAGAR)"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.P. HANUMANGANJ"
+  },
+  {
+    "partNumber": 253,
+    "partName": "COMPOSITE SCHOOL DURJANPUR EAST"
+  },
+  {
+    "partNumber": 254,
+    "partName": "COMPOSITE SCHOOL DURJANPUR MIDDLE"
+  },
+  {
+    "partNumber": 255,
+    "partName": "COMPOSITE SCHOOL DURJANPUR WEST"
+  },
+  {
+    "partNumber": 256,
+    "partName": "JUNIOR HIGH SCHOOL ADARSH NAGAR HEWANTPUR EAST"
+  },
+  {
+    "partNumber": 257,
+    "partName": "JUNIOR HIGH SCHOOL ADARSH NAGAR HEWANTPUR MIDDLE"
+  },
+  {
+    "partNumber": 258,
+    "partName": "JUNIOR HIGH SCHOOL ADARSH NAGAR HEWANTPUR WEST"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.P. GANGAPUR- SUREMANPUR EAST"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.P. GANGAPUR- SUREMANPUR WEST"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PANCHAYAT BHAWAN MADHUBANI EAST"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PANCHAYAT BHAWAN MADHUBANI WEST"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.P. MADHUBANI NORTH"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.P. MADHUBANI MIDDLE"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.P. MADHUBANI SOUTH"
+  },
+  {
+    "partNumber": 266,
+    "partName": "DR. BHIMRAO AMBEDKAR GANDHI CHABUTARA MADHUBANI EAST"
+  },
+  {
+    "partNumber": 267,
+    "partName": "DR. BHIMRAO AMBEDKAR GANDHI CHABUTARA MADHUBANI WEST"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.P. BAIJNATHPUR EAST"
+  },
+  {
+    "partNumber": 269,
+    "partName": "COMPOSITE SCHOOL MANGAR EAST"
+  },
+  {
+    "partNumber": 270,
+    "partName": "COMPOSITE SCHOOL MANGAR WEST"
+  },
+  {
+    "partNumber": 271,
+    "partName": "COMPOSITE SCHOOL SHIVAL"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.P. UPADHAYAYPUR"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.P. CHAICHHAPARA NORTH"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.P. CHAICHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.P. CHAICHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 276,
+    "partName": "CAMPOSITE SCHOOL GONHIYACHHAPARA EAST"
+  },
+  {
+    "partNumber": 277,
+    "partName": "CAMPOSITE SCHOOL GONHIYACHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 278,
+    "partName": "CAMPOSITE SCHOOL GONHIYACHHAPARA WEST"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.P. VISHUNPURA EAST"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.P. VISHUNPURA WEST"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.P. ADHISIJHUA"
+  },
+  {
+    "partNumber": 282,
+    "partName": "COMPOSIT SCHOOL BHIKHACHHAPARA EAST"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSIT SCHOOL BHIKHACHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 284,
+    "partName": "SUDISHATPURI M.V. RANIGANJ WEST"
+  },
+  {
+    "partNumber": 285,
+    "partName": "SUDISHATPURI M.V. RANIGANJ EAST"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.P. BAIJNATHCHHAPARA EAST"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.P. BAIJNATHCHHAPARA WEST"
+  },
+  {
+    "partNumber": 288,
+    "partName": "COMPOSITE SCHOOL JHANDA BHARATI KE MATHIA"
+  },
+  {
+    "partNumber": 289,
+    "partName": "COMPOSITE SCHOOL RANIGANJ BAZAR EAST"
+  },
+  {
+    "partNumber": 290,
+    "partName": "COMPOSITE SCHOOL RANIGANJ BAZAR MIDDLE"
+  },
+  {
+    "partNumber": 291,
+    "partName": "COMPOSITE SCHOOL RANIGANJ BAZAR WEST"
+  },
+  {
+    "partNumber": 292,
+    "partName": "COMPOSITE SCHOOL RANIGANJ MIDDLE NORTH"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.P. BHARATCHHAPARA EAST"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.P. BHARATCHHAPARA WEST"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.P. BIN KE TOLA SATHIT KOTVA"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOSITE SCHOOL MIRJAPUR EAST"
+  },
+  {
+    "partNumber": 297,
+    "partName": "COMPOSITE SCHOOL MIRJAPUR MIDDLE"
+  },
+  {
+    "partNumber": 298,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C BAIRIA NOURTH"
+  },
+  {
+    "partNumber": 299,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C. BAIRIA SOUTH"
+  },
+  {
+    "partNumber": 300,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C. BAIRIA WEST"
+  },
+  {
+    "partNumber": 301,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C. BAIRIA EAST-1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C. BAIRIA EAST-2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "BABA LAXMAN DAS DWABA R.I.C. BAIRIA EAST-3"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.P. MISHRA KE MATHIA BAIRIA EAST"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.P. MISHRA KE MATHIA BAIRIA WEST"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOSITE SCHOOL BAIRIA WEST-1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOSITE SCHOOL BAIRIA MIDDLE-1"
+  },
+  {
+    "partNumber": 308,
+    "partName": "COMPOSITE SCHOOL BAIRIA MIDDLE-2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "COMPOSITE SCHOOL BAIRIA EAST-1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "COMPOSITE SCHOOL BAIRIA EAST-2"
+  },
+  {
+    "partNumber": 311,
+    "partName": "COMPOSITE SCHOOL BAIRIA WEST-2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "COMPOSITE SCHOOL BAIRIA EAST-3"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE SCHOOL BAIRIA EAST-4"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.P. JAGDEVA GAO SABHA BAIRIA WEST"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P.P. JAGDEVA GAO SABHA BAIRIA WEST-1"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.P. JAGDEVA GAO SABHA BAIRIA EAST"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S. IBRAHIMABAD UPARWAR EAST"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S. IBRAHIMABAD UPARWAR MIDDLE"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.S. IBRAHIMABAD UPRAWAR WEST"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.P. MUJ KE DERA SATHIT IBRAHIMABAD UPARWAR EAST"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.P. MUJ KE DERA SATHIT IBRAHIMABAD UPARWAR WEST"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.P. NEKARAI N0-1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.P. NEKARAI N0-2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "COMPOSITE SCHOOL SHOBHA CHHAPARA WEST"
+  },
+  {
+    "partNumber": 325,
+    "partName": "COMPOSITE SCHOOL SHOBHA CHHAPARA EAST"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE SCHOOL SHOBHA CHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 327,
+    "partName": "P.P. MATHDHAJJU GIRI"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PURV MADHYMIK VIDHYALAY TOLA BAJ RAI EAST"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PURV MADHYMIK VIDHYALAY TOLA BAJ RAI EAST"
+  },
+  {
+    "partNumber": 330,
+    "partName": "COMPOSITE SCHOOL TOLA SHIVAN RAI WEST"
+  },
+  {
+    "partNumber": 331,
+    "partName": "COMPOSITE SCHOOL TOLA SHIVAN RAI MIDDILE"
+  },
+  {
+    "partNumber": 332,
+    "partName": "COMPOSITE SCHOOL TOLA SHIVAN RAI EAST"
+  },
+  {
+    "partNumber": 333,
+    "partName": "COMPOSITE SCHOOL TOLA SHIVAN RAI EAST MIDDILE"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.P. FAKARU RAI KE TOLA WEST"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.P. FAKARU RAI KE TOLA EAST"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.P. SONBARASA EAST"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.P. SONBARASA MIDDILE-1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.P. SONBARASA MIDDILE-2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.P. SONBARASA WEST"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P.P. PRITAMCHHAPARA WEST"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.P. PRITAMCHHAPARA EAST"
+  },
+  {
+    "partNumber": 342,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR EAST"
+  },
+  {
+    "partNumber": 343,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR WEST"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.P. MURARPATTI NORTH"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P.P. MURARPATTI MIDDILE"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P.P. MURARPATTI SOUTH"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P.P. MURARPATTI SOUTH MIDDILE"
+  },
+  {
+    "partNumber": 348,
+    "partName": "COMPOSITE SCHOOL BHAGWANPUR EAST"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE SCHOOL BHAGWANPUR MIDDLE-1"
+  },
+  {
+    "partNumber": 350,
+    "partName": "COMPOSITE SCHOOL BHAGWANPUR NORTH"
+  },
+  {
+    "partNumber": 351,
+    "partName": "COMPOSITE SCHOOL BHAGWANPUR MIDDLE-2"
+  },
+  {
+    "partNumber": 352,
+    "partName": "COMPOSITE SCHOOL BHAGWANPUR SOUTH"
+  },
+  {
+    "partNumber": 353,
+    "partName": "P.P. CHAUBEY KI DALKI-2"
+  },
+  {
+    "partNumber": 354,
+    "partName": "COMPOSITE SCHOOL IBRAHIMABAD NAUBARAR NORTH"
+  },
+  {
+    "partNumber": 355,
+    "partName": "COMPOSITE SCHOOL IBRAHIMABAD NAUBARAR SOUTH"
+  },
+  {
+    "partNumber": 356,
+    "partName": "COMPOSITE SCHOOL IBRAHIMABAD NAUBRAR NORTH-1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "COMPOSITE SCHOOL IBRAHIMABAD NAUBRAR SOUTH-1"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE SCHOOL TOLA FATERAI NORTH"
+  },
+  {
+    "partNumber": 359,
+    "partName": "COMPOSITE SCHOOL TOLA FATERAI SOUTH"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.P. BAKULAHA"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.P. YADAV NAGAR CHAND DIAR"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.P. CHAKKI CHAND DIAR"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE SCHOOL THEKAHA NORTH"
+  },
+  {
+    "partNumber": 364,
+    "partName": "COMPOSITE SCHOOL THEKAHA MIDDLE"
+  },
+  {
+    "partNumber": 365,
+    "partName": "COMPOSITE SCHOOL THEKAHA SOUTH"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.P.LAXMANCHHAPARA NORTH"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.P.LAXMANCHHAPARA SOUTH"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.P.LAXMANCHHAPARA WEST"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.P.LAXMANCHHAPARA EAST"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.P.LAXMANCHHAPARA MIDDLE"
+  },
+  {
+    "partNumber": 371,
+    "partName": "P.P. PURVI DALJIT TOLA"
+  },
+  {
+    "partNumber": 372,
+    "partName": "HIGH SCHOOL JAIPRAKASH NAGAR"
+  },
+  {
+    "partNumber": 373,
+    "partName": "COMPOSITE SCHOOL JAIPRAKASH NAGAR EAST"
+  },
+  {
+    "partNumber": 374,
+    "partName": "COMPOSITE SCHOOL JAIPRAKASH NAGAR MIDDLE"
+  },
+  {
+    "partNumber": 375,
+    "partName": "COMPOSITE SCHOOL JAIPRAKASH NAGAR WEST"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.P. DALJIT TOLA WEST KALI SATHAN EAST"
+  },
+  {
+    "partNumber": 377,
+    "partName": "P.P. DALJIT TOLA WEST KALI SATHAN WEST"
+  },
+  {
+    "partNumber": 378,
+    "partName": "COMPOSITE SCHOOL TOLA KASHIRAI NORTH"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE SCHOOL TOLA KASHIRAI SOUTH"
+  },
+  {
+    "partNumber": 380,
+    "partName": "P.P. SHANKAR NAGAR"
+  },
+  {
+    "partNumber": 381,
+    "partName": "COMPOSITE SCHOOL KRISHANA NAGAR"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.P. BABU KE DERA KHWASPUR"
+  }
+]

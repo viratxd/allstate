@@ -1,0 +1,62 @@
+[
+  {
+    "acNumber": 262,
+    "asmblyName": "Allahabad North",
+    "asmblyNameL1": "इलाहाबाद उत्‍तर"
+  },
+  {
+    "acNumber": 263,
+    "asmblyName": "Allahabad South",
+    "asmblyNameL1": "इलाहाबाद दक्षिण"
+  },
+  {
+    "acNumber": 261,
+    "asmblyName": "Allahabad West",
+    "asmblyNameL1": "इलाहाबाद पश्‍चिम"
+  },
+  {
+    "acNumber": 264,
+    "asmblyName": "Bara ",
+    "asmblyNameL1": "बारा"
+  },
+  {
+    "acNumber": 258,
+    "asmblyName": "Handia",
+    "asmblyNameL1": "हण्डिया"
+  },
+  {
+    "acNumber": 260,
+    "asmblyName": "Karachhana",
+    "asmblyNameL1": "करछना"
+  },
+  {
+    "acNumber": 265,
+    "asmblyName": "Koraon ",
+    "asmblyNameL1": "कोरांव"
+  },
+  {
+    "acNumber": 259,
+    "asmblyName": "Meja",
+    "asmblyNameL1": "मेजा"
+  },
+  {
+    "acNumber": 254,
+    "asmblyName": "Phaphamau",
+    "asmblyNameL1": "फाफामउ"
+  },
+  {
+    "acNumber": 256,
+    "asmblyName": "Phulpur",
+    "asmblyNameL1": "फूलपुर"
+  },
+  {
+    "acNumber": 257,
+    "asmblyName": "Pratappur",
+    "asmblyNameL1": "प्रतापपुर"
+  },
+  {
+    "acNumber": 255,
+    "asmblyName": "Soraon ",
+    "asmblyNameL1": "सोरांव"
+  }
+]

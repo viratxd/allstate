@@ -1,0 +1,1862 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL CHADI PURAV"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY SCHOOL CHADI PASHCHIM"
+  },
+  {
+    "partNumber": 3,
+    "partName": "COMPOSITE P.M.V. RANIPUR"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PURVA MADHYAMIC SCHOOL NEWAS UTTAR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PURVA MADHYAMIC SCHOOL NEWAS DAKSHIN"
+  },
+  {
+    "partNumber": 6,
+    "partName": "COMPOSIT PURV M.V. BATHUA BUJURG"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRIMARY SCHOOL HARIHARPUR"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY SCHOOL MARCHA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRIMARY SCHOOL MARACHI"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRIMARY SCHOOL VAIDAULI DAKSHIN"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRIMARY SCHOOL VAIDAULI UTTAR"
+  },
+  {
+    "partNumber": 12,
+    "partName": "COMPOSITE P.M.V. BARIYAR UTTAR"
+  },
+  {
+    "partNumber": 13,
+    "partName": "COMPOSITE P.M.V. BARIYAR DAKSHIN"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRIMARY SCHOOL GAURKHAS PURAV"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRIMARY SCHOOL GAURKHAS PASHCHIM"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL NARAYANPUR KHURD"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL NARAYANPUR BUJURG"
+  },
+  {
+    "partNumber": 18,
+    "partName": "COMPOSITE PURV M.V. KESHAWAPAR"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY SCHOOL SIDHARI UTTAR"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRIMARY SCHOOL SIDHARI DAKSHIN"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMARY SCHOOL BHUPGARH PURAV"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY SCHOOL BHUPGARH PASHCHIM"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRIMARY SCHOOL GENUWADIH"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE  J.H.S. SAKARDEIYA"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE J.H.S. DEHARIBHAR"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMARY SCHOOL KUSAHA"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PRIMARY SCHOOL DHAURAHARA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "PRIMARY SCHOOL HARPUR PURAV"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PRIMARY SCHOOL HARPUR PASHCHIM"
+  },
+  {
+    "partNumber": 30,
+    "partName": "COMPOSITE  P.M.V. SARAM UTTAR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "COMPOSITE  P.M.V. SARAM DAKSHIN"
+  },
+  {
+    "partNumber": 32,
+    "partName": "L.B.S. PURV MADHYMIC SCHOOL DEIDIHA"
+  },
+  {
+    "partNumber": 33,
+    "partName": "PRIMARY SCHOOL GAJPUR UTTAR"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL GAJPUR DAKSHIN"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PURAV MADHAYMIC SCHOOL DUBRIPURA"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PRIMARY SCHOOL NAKAUJHA PURAV"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PRIMARY SCHOOL NAKAUJHA PASHCHIM"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE P.M.V. SULTANPUR"
+  },
+  {
+    "partNumber": 39,
+    "partName": "R.R.I.C. URUWA PURAV"
+  },
+  {
+    "partNumber": 40,
+    "partName": "R.R.I.C.URUWA MADHAY"
+  },
+  {
+    "partNumber": 41,
+    "partName": "R.R.I.C.URUWA UTTAR"
+  },
+  {
+    "partNumber": 42,
+    "partName": "R.R.I.C.URUWA PASHCHIM"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRIMARY SCHOOL CHACHAIRAM"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRIMARY SCHOOL ARAWJAGDISH"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL PARSA BUJURG PURAV"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL PARSA BUJURG PASHCHIM"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE P.M.V. AMODHA"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRIMARY SCHOOL TADI"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL DUGHRA UTTAR"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMARY SCHOOL DUGHRA MADHAY"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMARY SCHOOL DUGHRA DAKSHIN"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PRIMARY SCHOOL DUGHRA DAKSHIN PRATHAM"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRIMARY SCHOOL RAHADAULI UTTAR"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRIMARY SCHOOL RAHADAULI DAKSHIN"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY SCHOOL BHUIDHRA KHURD"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL BHAURDIH KHURD"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL RASULPUR MAFI"
+  },
+  {
+    "partNumber": 58,
+    "partName": "COMPOSITE V. PIPARI BUJURG"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY SCHOOL MOHANPUR"
+  },
+  {
+    "partNumber": 60,
+    "partName": "PRIMARY SCHOOL RUKUNPUR"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRIMARY SCHOOL CHAIPUR MAFI"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL RAUTPAR BUJURG"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRATHMIK VIDYALAY KURAWAL PRATHAM"
+  },
+  {
+    "partNumber": 64,
+    "partName": "PRATHMIK SCHOOL KURAVAL DWITIYA"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRIMARY SCHOOL MADHUPATTI"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PRIMARY SCHOOL PALHWAPUR (PRATAPIPUR)"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRIMARY SCHOOL SAMADPUR"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRIMARY SCHOOL ALAWALPUR"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRIMARY SCHOOL DURIYAPAR UTTAR"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRIMARY SCHOOL DURIYAPAR DAKSHIN"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P.M.V DURIYAPAR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "R. U. M.SCHOOL RUJADARGAH PURAV"
+  },
+  {
+    "partNumber": 73,
+    "partName": "R.U. M. SCHOOL RUJADARGAH PASHCHIM"
+  },
+  {
+    "partNumber": 74,
+    "partName": "PRIMARY SCHOOL PAHADPUR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE  P.M.V. BANKAT"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PRIMARY SCHOOL RAIPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "COMPOSITE  PURV M.V. DEWRAJPAR BUJURG UTTAR"
+  },
+  {
+    "partNumber": 78,
+    "partName": "COMPOSITE PURV M.V. DEWRAJPAR BUJURG UTTAR 1"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL GOLIPAR"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL BIRAI KHURD PURAV"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL BIRAI KHURD PASHCHIM"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY SCHOOL DEVAPAR PURAV"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL DEVAPAR PASHCHIM"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRIMARY SCHOOL BARPAR MAFI"
+  },
+  {
+    "partNumber": 85,
+    "partName": "COMPOSITE P.M.V. NAGWABHAGWAN"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PRIMARY SCHOOL BADHAYA BUJURG"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PRIMARY SCHOOL MOHIUDDINPUR"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY SCHOOL MATH BHATADI"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL MURARPUR"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY SCHOOL BHAWANIPUR"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRIMARY SCHOOL JEEGANI BUJURG UTTAR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRIMARY SCHOOL JEEGANI BUJURG DAKSHIN"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRIMARY SCHOOL RAMA LAKHANA"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PRIMARY SCHOOL AHIRAULI"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PRIMARY SCHOOL BHAWAJEETPUR PURAV"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRIMARY SCHOOL BHAWAJEETPUR PASHCHIM"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY SCHOOL HARIHARPUR"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRIMARY SCHOOL RATANPURA"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL BANKATI"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL BARA NAGAR PASHCHIM"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRIMARY SCHOOL BARANAGAR PURAV"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY SCHOOL DURUI"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRIMARY SCHOOL DADIYA"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL MANNIPUR (SAHDAULI)"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL NAWALI"
+  },
+  {
+    "partNumber": 106,
+    "partName": "P. M V MANNIPUR SAHADAULI"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY SCHOOL UNAULI"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PRIMARY SCHOOL KAUDIYA"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY SCHOOL SARSADA BUJURG"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRIMARY SCHOOL TARAYAPAR"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY SCHOOL MATHIYA"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PRIMARY SCHOOL KHOPAPAR"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PRIMARY SCHOOL BARIPAR RAMRUP"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY SCHOOL BANWARPAR"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL DEIDIHA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PRIMARY SCHOOL SISAI"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRIMARY SCHOOL PARSIYA SHUKLA PURAV"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY SCHOOL PARASIYA SHUKLA PASHCHIM"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL CHANDULI PURAV"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL CHANDAULI PASHCHIM"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY SCHOOL CHANDPAR"
+  },
+  {
+    "partNumber": 122,
+    "partName": "PRATHMIK SCHOOL UNCHAGAW"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRIMARY SCHOOL NAGWA PREM"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRIMARY SCHOOL CHAK SARAYA"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL BATH BUJURG PURAV"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL BATH BUJURG PASHCHIM"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PRIMARY SCHOOL TADHWA SHRIRAM"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSITE  U.P. V. BHAISAW"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRIMARY SCHOOL NEWADA"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P. M. V. VISUNPUR RAJA"
+  },
+  {
+    "partNumber": 131,
+    "partName": "COMPOSITE P. M.V. VIMUTI"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRIMARY SCHOOL VIJAI URF MEERPUR"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL DANDI KHAS PURAV"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOL DANDI KHAS PASHCHIM"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY SCHOOL BADEPAR"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMARY SCHOOL BARAHAJPAR PURAV"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL BARAHAJPAR PASHCHIM"
+  },
+  {
+    "partNumber": 138,
+    "partName": " PRIMARY SCHOOL BHARASI BUJURG PURAV"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL BHARASI BUJURG PASHCHIM"
+  },
+  {
+    "partNumber": 140,
+    "partName": "U.P. V. GHARAWAL"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRIMARY SCHOOL CHILAWA PURAV"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL CHILAWA PASHCHIM"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL PAHADPUR"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRIMARY SCHOOL PADAINIYA"
+  },
+  {
+    "partNumber": 145,
+    "partName": "PRIMARY SCHOOL PATAUHA"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P. BHAWAN KOTIYA NAYAK"
+  },
+  {
+    "partNumber": 147,
+    "partName": "J.H.SCHOOL KAKRAHI UTTAR"
+  },
+  {
+    "partNumber": 148,
+    "partName": "J.H. SCHOOL KAKARAHI DAKSHIN"
+  },
+  {
+    "partNumber": 149,
+    "partName": "J.H. SCHOOL KAKARAHI PURAV"
+  },
+  {
+    "partNumber": 150,
+    "partName": "K. PRIMARY SCHOOL GOPALAPUR PURAV"
+  },
+  {
+    "partNumber": 151,
+    "partName": "K. PRIMARY SCHOOL GOPALAPUR PASHCHIM"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRIMARY SCHOOL PARSA URF AGLAHAVA PURAV"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY SCHOOL PARSA URF AGLAHAVA PASHCHIM"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY SCHOOL ROINIDIH PURAV"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY SCHOOL ROINIDIH PASHCHIM"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL DHANRAJPUR"
+  },
+  {
+    "partNumber": 157,
+    "partName": "COMPOSITE V. GOPALPUR PRATHAM UTTAR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "COMPOSITE  V. GOPALPUR  PRATHAM MADHAY"
+  },
+  {
+    "partNumber": 159,
+    "partName": "COMPOSITE  V. GOPALPUR  PRATHAM DAKSHIN"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRIMARY SCHOOL ABARUS"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRIMARY SCHOOL SODHAVEER UTTAR"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRIMARY SCHOOL SODHAVEER DAKSHIN"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY SCHOOL KOHARI BUJURG"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRIMARY SCHOOL HATWA"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PANCHAYAT BHAWAN DEVKALI PURAV"
+  },
+  {
+    "partNumber": 166,
+    "partName": "PANCHAYAT BHAWAN DEVKALI PASHCHIM"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL RAKAULI"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL GODSARI PURAV"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY SCHOOL GODSARI PASHCHIM"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL RANIPUR"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY SCHOOL RANIPUR ( SANKUL BHAWAN) DWITIYA"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRIMARY SCHOOL BARRAH 1"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRIMARY SCHOOL BARRAH 2"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRIMARY SCHOOL GHODALOTAN"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P. M. V BISARA PURAV"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P. M. V. BISARA PASHCHIM"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY SCHOOL PARNAI URF ARJUN PURA"
+  },
+  {
+    "partNumber": 178,
+    "partName": "K. PRIMARY SCHOOL GOLA UTTAR"
+  },
+  {
+    "partNumber": 179,
+    "partName": "K. PRIMARY SCHOOL GOLA UTTAR PRATHAM"
+  },
+  {
+    "partNumber": 180,
+    "partName": "K. PRIMARY SCHOOL GOLA UTTAR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSITE V. GOLA  PRATHAM PASHCHIM 1"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE V. GOLA  PRATHAM PASHCHIM 2"
+  },
+  {
+    "partNumber": 183,
+    "partName": "COMPOSITE V. GOLA  PRATHAM PASHCHIM 3"
+  },
+  {
+    "partNumber": 184,
+    "partName": "COMPOSITE V. GOLA PRATHAM UTTAR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "COMPOSITE V.GOLA  PRATHAM MADHAY"
+  },
+  {
+    "partNumber": 186,
+    "partName": "COMPOSITE V. GOLA PRATHAM MADHAY 1"
+  },
+  {
+    "partNumber": 187,
+    "partName": "COMPOSITE V. GOLA  PRATHAM DAKSHIN"
+  },
+  {
+    "partNumber": 188,
+    "partName": "B. S. A. B.I. C. GOLA ATARAURA UTTAR"
+  },
+  {
+    "partNumber": 189,
+    "partName": "B. S. A.B. I. C. GOLA ATRAURA DAKSHIN"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PRIMARY SCHOOL SUARAJ BUJURG"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PRIMARY SCHOOL SUARAJ BUJURG PASHCHIM"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PANCHAYAT BHAWAN PARSIYA NISPY RAJA"
+  },
+  {
+    "partNumber": 193,
+    "partName": "U.T.S.C.I.C MANNIPUR PURAV"
+  },
+  {
+    "partNumber": 194,
+    "partName": "U.T.S.C.I.C MANNIPUR UTTAR"
+  },
+  {
+    "partNumber": 195,
+    "partName": "U. T. S. C. I C. MANNIPUR PASHCHIM"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL BHITI"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PANCHAYAT BHAWAN BEWRI"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRIMARY SCHOOL BHADSARA"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P. M. V. SEMARI UTTAR"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P. M. V. SEMARI DAKSHIN"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY SCHOOL DIPAGARH"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL MEHADARAW"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL BADITARAYA"
+  },
+  {
+    "partNumber": 204,
+    "partName": "COMPOSITE U.P.V. SURDAPAR SHUKL PURAV"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSITE U.P.V. SURADAPAR SHUKLA PASHCHIM"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY SCHOOL SURADA PAR RAJA"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRIMARY SCHOOL CHITTHEPAR"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRIMARY SCHOOL NUAW"
+  },
+  {
+    "partNumber": 209,
+    "partName": "U.P. V. SHIVPUR PASHCHIM"
+  },
+  {
+    "partNumber": 210,
+    "partName": "U.P. V. SHIVPUR PURAV"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRIMARY SCHOOL BHARROH PASHCHIM"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRIMARY SCHOOL BHARROH PURAV"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRIMARY SCHOOL BARAHAJ PASHCHIM"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRIMARY SCHOOL BARHAJ PURAV"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL AWASTHI"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL KALANI"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY SCHOOL CHADERIYA"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P. M. V. POKHARIGAW"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PRIMARY SCHOOL CHAK MAHESHPUR"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P. M. V. KOHRA BUJURG PURAV"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P. M. V. KOHRA BUJURG PASHCHIM"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL LOHARAPAR"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY SCHOOL KOHARA BUJURG"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRIMARY SCHOOL PAKADI PURAV"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRIMARY SCHOOL PAKADI PASHCHIM"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSITE PURV M.V. KHIRKEETA DUBEY PURAV"
+  },
+  {
+    "partNumber": 227,
+    "partName": "COMPOSITE PURV M.V. KHIRKEETA DUBEY PASHCHIM"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRIMARY SCHOOL GAJAHARA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "J.SE.P.M.V.S.S. TILSAR"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY SCHOOL MAJHAURA"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRIMARY SCHOOL BARAIPAR UTTAR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRIMARY SCHOOL BARAIPAR PURAV"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRIMARY SCHOOL BARAIPAR DAKSHIN"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSITE P. M. V. RAMPUR BAGHAURA PURAV ROOM N0 1"
+  },
+  {
+    "partNumber": 235,
+    "partName": "COMPOSITE P. M. V. RAMPUR BAGHAURA PASHCHIM ROOM N0 2"
+  },
+  {
+    "partNumber": 236,
+    "partName": "NRISINGH BHAGWAN INTER COLLEGE RAMPUR GADARI PURAV"
+  },
+  {
+    "partNumber": 237,
+    "partName": "NRISINGH BHAGWAN INTER COLLEGE RAMPUR GADARI PASHCHIM"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PRIMARY SCHOOL GAJEGARAHA"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.M.V.CHAVARIYA"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRIMARY SCHOOL BELNA PAR"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRIMARY SCHOOL PATARA PURAV"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRIMARY SCHOOL PATRA PASHCHIM"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PURVA MADHYAMIK SCHOOL CHAUKARI"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PRIMARY SCHOOL KODARI"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY SCHOOL BADAILA PURAV"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL BADAILA PASHCHIM"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY SCHOOL BAGHAGADA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "COMPOSITE P.M.V. PADAULI"
+  },
+  {
+    "partNumber": 249,
+    "partName": "COMPOSITE P.M.V. FATTEPUR"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL BHITI"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL KAUWADIL"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P. V. KHAKHAIJAKHOR PURAV"
+  },
+  {
+    "partNumber": 253,
+    "partName": " P. V. . KHAKHAIJAKHOR PASHCHIM"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL DEDAPAR"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PURVA MADHYAMIC SCHOOL MAMKHOR UTTAR"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PURVA MADHYAMIC SCHOOL MAMKHOR DAKSHIN"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PURVA MADHYAMIC SCHOOL MAMKHOR MADHAY"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRIMARY SCHOOL SAKHARUWA BUJURG"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PRIMARY SCHOOL BARAWALDIGAR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSITE V.  BHITI JAMIN UTTAR"
+  },
+  {
+    "partNumber": 261,
+    "partName": "COMPOSITE V. BHITI JAMIN DAKSHIN"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRIMARY SCHOOL RAMKOLA UTTAR"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRIMARY SCHOOL RAMKOLA DAKSHIN"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRIMARY SCHOOL NEWADA PURAV"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRIMARY SCHOOL NEWADA PASHCHIM"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMARY SCHOOL CHHAPRA PURAV"
+  },
+  {
+    "partNumber": 267,
+    "partName": "PRIMARY SCHOOL CHHAPRA PASHCHIM"
+  },
+  {
+    "partNumber": 268,
+    "partName": "COMPOSITE  V. MUHALJALKAR UTTAR"
+  },
+  {
+    "partNumber": 269,
+    "partName": "COMPOSITE  V. MUHALJALKAR MADHAYA"
+  },
+  {
+    "partNumber": 270,
+    "partName": "COMPOSITE  V. MUHALJALKAR DAKSHIN"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P. V. MAHRAJGANJ MUHALJALKAR UTTAR ROOM N0 1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P. V. MAHRAJGANJ MUHALJALKAR DAKSHIN ROOM N0 2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "S. CH. B. U. M. V GHIRAGHAT PURAV"
+  },
+  {
+    "partNumber": 274,
+    "partName": "S. CH. B. U. M. V. GA HIRAGHAT PASHCHIM"
+  },
+  {
+    "partNumber": 275,
+    "partName": "S. CH. B. U. M. V. GAHIRAGHAT UTTAR"
+  },
+  {
+    "partNumber": 276,
+    "partName": "COMPOSITE V. BAIRIYADIH MADHAYA"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE  V. BAIRIYADIH UTTAR"
+  },
+  {
+    "partNumber": 278,
+    "partName": "COMPOSITE  V. BAIRIYADIH DAKSHIN"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSITE  P.M.V. BAHASUA"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSITE V. KHUTABHAR PURAV"
+  },
+  {
+    "partNumber": 281,
+    "partName": "COMPOSITE V. KHUTABHAR PASHCHIM"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY SCHOOL KANSASUR"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRIMARY SCHOOL DADARI"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P. M.V. MISRAULI UTTAR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P. M.V. MISRAULI DAKSHIN"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMARY SCHOOL BHAISAHAT"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMARY SCHOOL MATHIYA"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRIMARY SCHOOL DAWANADIH PURAV"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY SCHOOL DAWANADIH PASHCHIM"
+  },
+  {
+    "partNumber": 290,
+    "partName": "U.P. V. KODARNILKANTH"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL KOILIKHAL PURAV"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY SCHOOL KOILIKHAL PASHCHIM"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.M.V. SEMARA KHURD"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P. M. V. SEMARA BUJURG"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRIMARY SCHOOL NAWALPUR"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOSITE U.P. V. BAIRIYAKHAS PURAV"
+  },
+  {
+    "partNumber": 297,
+    "partName": "COMPOSITE U.P.V. BAIRIYAKHAS PASHCHIM"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE U.P.V. BAIRIYAKHAS MADHAY"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY SCHOOL MOHAN PAUHARIYA"
+  },
+  {
+    "partNumber": 300,
+    "partName": "COMPOSITE  V.  SUBEDAR NAGAR"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL KHOHIYA PATTI"
+  },
+  {
+    "partNumber": 302,
+    "partName": "COMPOSIT V. PAUHARIA PURAV"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE V. PAUHARIA PASHCHIM"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE U.P.V. PATNA UTTAR"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE U.P.V.  PATANA DAKSHIN"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.M.V PATANA UTTAR"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRIMARY SCHOOL NETWAR PATTI"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRIMARY SCHOOL GAYAGHAT PURAV"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRIMARY SCHOOL GAYAGHAT PASHCHIM"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRIMARY SCHOOL MAIBHARA"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL LAKHANAURA"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL MARWATIYA"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PRIMARY SCHOOL MARAKADI"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PRIMARY SCHOOL PARASIYA TIWARI"
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSITE PURV M.V.  KHAJURI GOSAI"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL PIDHANI PURAV"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRIMARY SCHOOL PIDHANI MADHAY"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRIMARY SCHOOL PIDHANI PASHCHIM"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMARY SCHOOL RAMAGARH"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL BESAHANI"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL BELWA DAKHLI"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL KHADESARI PURAV"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMARY SCHOOL KHADESARI PASHCHIM"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRIMARY SCHOOL DUBAULI PURAV KHADESARI"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL DUBAULI PASHCHIM KHADESARI"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL JAITPUR"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL SANSARPAR PURAV"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL SANSARPAR PASHCHIM"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSITE U.P.V. BASAVANPUR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL MARWAT PURAV"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL MARWAT PASHCHIM"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMARY SCHOOL SIDHUWAPAR UTTAR"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY SCHOOL SIDHUWAPAR UTTAR 1"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMARY SCHOOL SIDHUWAPAR MADHAYA"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRIMARY SCHOOL GARATHAULI"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PRIMARY SCHOOL MISHRAULI"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRIMARY SCHOOL CHAUTISA"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRIMARY SCHOOL BABHANAULI"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRIMARY SCHOOL BARAHATA"
+  },
+  {
+    "partNumber": 340,
+    "partName": "PRIMARY SCHOOL BADHAYATIKUR UTTAR"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRIMARY SCHOOL BADHAYATIKUR DAKSHIN"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.M.V. FARSAR"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PANCHAYAT BHAWAN FARASAD PURAV"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PANCHAYAT BHAWAN FARASAD PASHCHIM"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P. M. V. CHAINPUR PURAV"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P. M. V. CHAINPUR PASHCHIM"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMARY SCHOOL CHAINPUR"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PRIMARY SCHOOL CHHAPIYA"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PRIMARY SCHOOL SAHADAULI"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMARY SCHOOL KOLHUA UTTAR"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRIMARY SCHOOL KOLHUA DAKSHIN"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY SCHOOL BELASARI PURAV"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRIMARY SCHOOL BELASARI PASHCHIM"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PRIMARY SCHOOL LAKHANAPAR UTTAR"
+  },
+  {
+    "partNumber": 355,
+    "partName": "PRIMARY SCHOOL LAKHANAPAR DAKSHIN"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL BHATPAR"
+  },
+  {
+    "partNumber": 357,
+    "partName": "K. P. M. V. TIHAMUHAMMDPUR UTTAR"
+  },
+  {
+    "partNumber": 358,
+    "partName": "K. P. M. V. TIHAMUHAMMDPUR UTTAR PRATHAM"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRIMARY SCHOOL TIHAMUHAMMD PUR DWITIY"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PANCHAYAT BHWAN MAKARANDPUR"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRIMARY SCHOOL KHAJURI PANDEY PURAV"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PRIMARY SCHOOL KHAJURI PANDEY PASHCHIM"
+  },
+  {
+    "partNumber": 363,
+    "partName": "S.B.PUSHKAR BUJURG"
+  },
+  {
+    "partNumber": 364,
+    "partName": "PRIMARY SCHOOL DHANAULI"
+  },
+  {
+    "partNumber": 365,
+    "partName": "S. P. M. V. SHUKLPURI"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRIMARY SCHOOL DHOBAULI"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P. M. V. SAKARAKHOR"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PRIMARY SCHOOL MANJHARIYA"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PRIMARY SCHOOL VIMUTI"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PRIMARY SCHOOL ATAULI"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY SCHOOL BAIDAULI UTTAR"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRIMARY SCHOOL BAIDAULI DAKSHIN"
+  },
+  {
+    "partNumber": 373,
+    "partName": "PANCHAYAT BHAWAN BAIDAULI"
+  },
+  {
+    "partNumber": 374,
+    "partName": "PRIMARY SCHOOL BHITIBAL"
+  },
+  {
+    "partNumber": 375,
+    "partName": "PRIMARY SCHOOL KUSHABHAUNA"
+  },
+  {
+    "partNumber": 376,
+    "partName": "PRIMARY SCHOOL KULDAWABARI PURAV"
+  },
+  {
+    "partNumber": 377,
+    "partName": "PRIMARY SCHOOL KULDAWABARI PASHCHIM"
+  },
+  {
+    "partNumber": 378,
+    "partName": "COMPOSITE P.M.V. BELASADA PURAV"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE P.M.V. BELASADA PASHCHIM"
+  },
+  {
+    "partNumber": 380,
+    "partName": "PRIMARY SCHOOL PADAMALPAR"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P. M. V. CHHITAUNA BUJURG"
+  },
+  {
+    "partNumber": 382,
+    "partName": "PRIMARY SCHOOL KHALHIPAR"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PRIMARY SCHOOL MARACHIPAR BUJURGURD"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PRIMARY SCHOOL MARACHIPAR KHURD"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.V. PARASIYA"
+  },
+  {
+    "partNumber": 386,
+    "partName": "PRIMARY SCHOOL MATIHANI"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PRIMARY SCHOOL KHAIRPAR"
+  },
+  {
+    "partNumber": 388,
+    "partName": "PRIMARY SCHOOL BHARAULI"
+  },
+  {
+    "partNumber": 389,
+    "partName": "PRIMARY SCHOOL MAHOW BUJURG"
+  },
+  {
+    "partNumber": 390,
+    "partName": "PRIMARY SCHOOL BARPAR UTTAR"
+  },
+  {
+    "partNumber": 391,
+    "partName": "PRIMARY SCHOOL BARAPAR DAKSHIN"
+  },
+  {
+    "partNumber": 392,
+    "partName": "PRIMARY SCHOOL AHIRAULI"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PRIMARY SCHOOL DORMAHA PURAV"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PRIMARY SCHOOL DORMAHA PASHCHIM"
+  },
+  {
+    "partNumber": 395,
+    "partName": "PRIMARY SCHOOL RAJAHATA"
+  },
+  {
+    "partNumber": 396,
+    "partName": "COMPOSITE U.P.V. MADARIYA DAKSHIN"
+  },
+  {
+    "partNumber": 397,
+    "partName": "COMPOSITE U.P.V. MADARIYA DAKSHIN"
+  },
+  {
+    "partNumber": 398,
+    "partName": "PRIMARY SCHOOL MADARAHA PURAV"
+  },
+  {
+    "partNumber": 399,
+    "partName": "PRIMARY SCHOOL MADARAHA PASHCHIM"
+  },
+  {
+    "partNumber": 400,
+    "partName": "PRIMARY SCHOOL MADARAHA PASHCHIM PRATHAM"
+  },
+  {
+    "partNumber": 401,
+    "partName": "PRIMARY SCHOOL NIBI DUBEY UTTAR"
+  },
+  {
+    "partNumber": 402,
+    "partName": "PRIMARY SCHOOL NIBI DUBEY DAKSHIN"
+  },
+  {
+    "partNumber": 403,
+    "partName": "PRIMARY SCHOOL KODAR URF BAGHOR"
+  },
+  {
+    "partNumber": 404,
+    "partName": "PRIMARY SCHOOL MUKUNDWAR"
+  },
+  {
+    "partNumber": 405,
+    "partName": "P. M. V. NEWAIJPAR UTTAR"
+  },
+  {
+    "partNumber": 406,
+    "partName": "P. M. V. NEWAIJ PAR DAKSHIN"
+  },
+  {
+    "partNumber": 407,
+    "partName": "PRIMARY SCHOOL RAJAULI KHURD"
+  },
+  {
+    "partNumber": 408,
+    "partName": "PRIMARY SCHOOL RAJAULI BUJURG"
+  },
+  {
+    "partNumber": 409,
+    "partName": "PRIMARY SCHOOL DALUA"
+  },
+  {
+    "partNumber": 410,
+    "partName": "PRIMARY SCHOOL ANANDGARH"
+  },
+  {
+    "partNumber": 411,
+    "partName": "PRIMARY SCHOOL MAHULIYA POYAL UTTAR"
+  },
+  {
+    "partNumber": 412,
+    "partName": "PRIMARY SCHOOL MAHULIYA POYAL DAKSHIN"
+  },
+  {
+    "partNumber": 413,
+    "partName": "COMPOSITE U.P.V. POHILA UTTAR"
+  },
+  {
+    "partNumber": 414,
+    "partName": "COMPOSITE U.P.V. POHILA DAKSHIN"
+  },
+  {
+    "partNumber": 415,
+    "partName": "PRIMARY SCHOOL BHITI DUBEY"
+  },
+  {
+    "partNumber": 416,
+    "partName": "G. I. C. MAHUAPAR PURAV"
+  },
+  {
+    "partNumber": 417,
+    "partName": "G. I. C. MAHUAPAR MADHAY"
+  },
+  {
+    "partNumber": 418,
+    "partName": "G. I. C. MAHUAPAR PASHCHIM"
+  },
+  {
+    "partNumber": 419,
+    "partName": "PRIMARY SCHOOL VISHUNPURA"
+  },
+  {
+    "partNumber": 420,
+    "partName": "PRIMARY SCHOOL KOKATA"
+  },
+  {
+    "partNumber": 421,
+    "partName": "PRIMARY SCHOOL OJHAULI UTTAR"
+  },
+  {
+    "partNumber": 422,
+    "partName": "PRIMARY SCHOOL OJHAULI UTTAR PRATHAM"
+  },
+  {
+    "partNumber": 423,
+    "partName": "PRIMARY SCHOOL OJHAULI DAKSHIN"
+  },
+  {
+    "partNumber": 424,
+    "partName": "P. M. V. KODARI UTTAR"
+  },
+  {
+    "partNumber": 425,
+    "partName": "P. M. V. KODARI DAKSHIN"
+  },
+  {
+    "partNumber": 426,
+    "partName": "PRIMARY SCHOOL BHAISAWALI PURAV"
+  },
+  {
+    "partNumber": 427,
+    "partName": "PRIMARY SCHOOL BHAISAWALI PASHCHIM"
+  },
+  {
+    "partNumber": 428,
+    "partName": "PRIMARY SCHOOL BHAISAWALI PASHCHIM"
+  },
+  {
+    "partNumber": 429,
+    "partName": "PRIMARY SCHOOL JAIPAR"
+  },
+  {
+    "partNumber": 430,
+    "partName": "PANCHAYAT BHAWAN MAHULIYA KHAJUHA"
+  },
+  {
+    "partNumber": 431,
+    "partName": "P. M. V. BARHALGANJ UTTAR"
+  },
+  {
+    "partNumber": 432,
+    "partName": "P. M. V. BARHALGANJ UTTAR PRATHAM"
+  },
+  {
+    "partNumber": 433,
+    "partName": "P. M. V. BARHALGANJ MADHAY"
+  },
+  {
+    "partNumber": 434,
+    "partName": "P. M. V. BARHALGANJ MADHAY 1"
+  },
+  {
+    "partNumber": 435,
+    "partName": "P. M. V. BARHALGANJ DAKSHIN"
+  },
+  {
+    "partNumber": 436,
+    "partName": "P. M. V. BARHALGANJ DAKSHIN"
+  },
+  {
+    "partNumber": 437,
+    "partName": "K. P. M. V. BARHALGANJ MADHYA"
+  },
+  {
+    "partNumber": 438,
+    "partName": "K. M. V. BARHALGANJ PASHCHIM"
+  },
+  {
+    "partNumber": 439,
+    "partName": "N.I. C. BARAHALGANJ UTTAR"
+  },
+  {
+    "partNumber": 440,
+    "partName": "N. I.C. BRAHALGANJ DAKSHIN"
+  },
+  {
+    "partNumber": 441,
+    "partName": "N.I. C. BARAHALGANJ MADHAY"
+  },
+  {
+    "partNumber": 442,
+    "partName": "N.I. C. BARAHALGANJ MADHAY 1"
+  },
+  {
+    "partNumber": 443,
+    "partName": "N.I. C. BARAHALGANJ MADHAY PRATAM 2"
+  },
+  {
+    "partNumber": 444,
+    "partName": "N. I. C. BARHALGANJ MADHAY 3"
+  },
+  {
+    "partNumber": 445,
+    "partName": "RAIMARY SCHOOL BARHALGANJ PURAV 1"
+  },
+  {
+    "partNumber": 446,
+    "partName": "RAIMARY SCHOOL BARHALGANJ MADHAY"
+  },
+  {
+    "partNumber": 447,
+    "partName": "RAIMARY SCHOOL BARHALGANJ MADHYA 2"
+  },
+  {
+    "partNumber": 448,
+    "partName": "PRIMARY SCHOOL NARAHARPUR UTTAR"
+  },
+  {
+    "partNumber": 449,
+    "partName": "PRIMARY SCHOOL NARAHARPUR MADHY"
+  },
+  {
+    "partNumber": 450,
+    "partName": "PRIMARY SCHOOL NARAHARPUR DAKSHIN"
+  },
+  {
+    "partNumber": 451,
+    "partName": "PRIMARY SCHOOL BUDANPURA PURAV"
+  },
+  {
+    "partNumber": 452,
+    "partName": "PRIMARY SCHOOL BUDANPURA PSHCHIM"
+  },
+  {
+    "partNumber": 453,
+    "partName": "PRIMARY SCHOOL MUJAUNA PURAV"
+  },
+  {
+    "partNumber": 454,
+    "partName": "PRIMARY SCHOOL MUJAUNA PASHCHIM"
+  },
+  {
+    "partNumber": 455,
+    "partName": "RAM ADHAR SINGH INTER COLLEGE DERAWA PURAB"
+  },
+  {
+    "partNumber": 456,
+    "partName": "RAM ADHAR SINGH INTER COLLEGE DERWA MADHAY"
+  },
+  {
+    "partNumber": 457,
+    "partName": "RAM ADHAR SINGH INTER COLLEGE DERWA DAKSHIN"
+  },
+  {
+    "partNumber": 458,
+    "partName": "PRIMARY SCHOOL CHAPIYAUMRAO UTTAR"
+  },
+  {
+    "partNumber": 459,
+    "partName": "PRIMARY SCHOOL CHAPIYAUMRAO DAKSHIN"
+  },
+  {
+    "partNumber": 460,
+    "partName": "COMPOSITE P.M.V. SIDHEGAUR PURAV"
+  },
+  {
+    "partNumber": 461,
+    "partName": "COMPOSITE P.M.V. SIDHEGAUR MADHYA"
+  },
+  {
+    "partNumber": 462,
+    "partName": "PRIMARY SCHOOL BARADIHA"
+  },
+  {
+    "partNumber": 463,
+    "partName": "PRIMARY SCHOOL BAGAHA"
+  },
+  {
+    "partNumber": 464,
+    "partName": "PRIMARY SCHOOL GONGHAT PURAV"
+  },
+  {
+    "partNumber": 465,
+    "partName": "PRIMARY SCHOOL GONGHAT PASHCHIM"
+  }
+]

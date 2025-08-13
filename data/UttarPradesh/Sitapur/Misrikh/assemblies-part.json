@@ -1,0 +1,1594 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "UPS JALEPARA R.N.1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "UPS JALEPARA R.N.2 "
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S R.N.1 HASKHERA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.S.R.N.1 DEVPARA"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S R.N.1MADER"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.S R.N1 ATARI"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S R,N.1 SAHASAPUR"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S R,N.2 SAHASAPUR"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S R.N1 DHAKIYA"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S.R.N 2 DHAKIYA"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S R.N1NIGHUWAMU"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S R.N.1 NEVADIYA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S BHADEBHAR"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S R.N.1 HISAMPUR JAKRIYA"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOJIT S.R.N.1 DADEVRA"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S. R.N.1 DALELNAGAR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.S. R.N.1 KINHAUTI"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S.R.N. 2 KINHAUTI"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S R.N.1 KATIYA"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.S. R.N.1 SURJANPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. R.N.1 GOPLAPUR"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S. R.N.1 PARSADA"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.S. R.N. 2 PARSADA"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSIT S.R.N.1 PAUDAVER"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOJIT S.R.N.2 PAUDAVER"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.S R.N.1 CHITREHATA"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P.S R.N. 2 CHITREHATA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.S R.N.1 KANDUVAPUR"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.S R.N.2 KANDUVAPUR"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S R.N.1 JAMALPUR NORTH"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.S R.N.1 BAREPARA"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.S R.N.1 DHARAU H/O SAKRARA"
+  },
+  {
+    "partNumber": 33,
+    "partName": "COMPOSIT S. R.N. 1 SAKRARA"
+  },
+  {
+    "partNumber": 34,
+    "partName": "COMPOSIT S.R.N.1GOURIYA"
+  },
+  {
+    "partNumber": 35,
+    "partName": "COMPOSIT S.R.N.2 GOURIYA"
+  },
+  {
+    "partNumber": 36,
+    "partName": "COMPOSIT S.R.N.3 GOURIYA"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S R.N.1 AKKILPUR"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSIT S.R.N.1 RAGUNATHPUR H/O PAIDAPUR"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COPMOSIT S. R.N.2RAGUNATHPUR H/O PAIDAPUR"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S R.N.1BARSANDHIYA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.S R.N.1 SADILA"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.S R.N. 2 SADILA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.S R.N.1 BEHAT BIRAM"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.S R.N.2 BEHATBIRAM"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S R.N.1 RAJPUR KHARG"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S R.N.1 ADILPUR"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSIT S.WEST BADRAWAN"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSIT S. MIDILE BADRAWAN"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSIT S.R.N.1 MUSAOLI H/O BADRAVA"
+  },
+  {
+    "partNumber": 50,
+    "partName": "COMPOSIT S.R.N.1 KESRA"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.S R.N.1 SHAHPUR"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.S R.N.1 BAHADURPUR H/O RAJEPARA"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S R.N.2 BAHADURPUR H/O RAJEPARA"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S R.N.1 RAJEPARA"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S R.N.2 RAJEPARA"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S R.N.1 MIRZAPUR NORTH"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S R.N.2 MIRZAPUR NORTH"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S R.N.1 BARCHANDPUR"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S R.N.1  MACHREHTA"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S R.N.2  MACHREHTA"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.M.S R.N.1 MACHREHTA"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.M.S R.N.2 MACHREHTA"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.M.S R.N.3 MACHREHTA"
+  },
+  {
+    "partNumber": 64,
+    "partName": "NAVIN GIRLS J.H.S R.N 1 KUNDAULI"
+  },
+  {
+    "partNumber": 65,
+    "partName": "NAVIN GIRLS J.H.S R.N. 2 KUNDAULI"
+  },
+  {
+    "partNumber": 66,
+    "partName": "GIRLS J.H.S.R.N.1 MACHREHTA"
+  },
+  {
+    "partNumber": 67,
+    "partName": "GIRLS J.H.S.R.N.2 MACHREHTA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSIT S R.N.1 PERIYAKODAR"
+  },
+  {
+    "partNumber": 69,
+    "partName": "COMPOSIT S.R.N.1 MAMUPUR"
+  },
+  {
+    "partNumber": 70,
+    "partName": "COMPOSIT S R.N.1 FATEHNAGAR"
+  },
+  {
+    "partNumber": 71,
+    "partName": "COMPOSIT S. R.N.2 FATEHNAGAR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "COMPOSIT S.R.N.3 FATEHNAGAR"
+  },
+  {
+    "partNumber": 73,
+    "partName": "COMPOSIT S.R.N.4 FATEHNAGAR"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S.R.N.1 JAJPUR H/O BELANDAPUR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S.R.N.1 JATPURWA"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.S.R.N.1 RAMUWAPUR H/O KUNHETALACHIPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S.R.N.2 RAMUWAPUR H/O KUNHETALACHIPUR"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.S R.N.1 DUGHRA"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.S R.N.2 DUGHRA"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.S R.N.1 RAJPUR PRATAP"
+  },
+  {
+    "partNumber": 81,
+    "partName": "COMPOSIT S.R.N.1 SIKANDARPUR"
+  },
+  {
+    "partNumber": 82,
+    "partName": "COMPOSIT S.R.N.2 SIKANDARPUR"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S R.N.1 RAJAGOWN"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.S.R.N.1 UMRAPUR"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S.R.N.1 RAMNAGAR H/O UMRAPUR"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.S.R.N.1 SENPUR"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.S.R.N.2 SENPUR"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S.R.N.3 SENPUR"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S R.N. 1 MIRCHAUDI"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S R.N. 2 MIRCHAUDI"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S.R.N.1 DHARHATI H/O MIRCHUDI"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S.R.N.1 GHARI"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S.R.N.2 GHARI"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S.SURJANPUR H/O FATTEPUR NORTH"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PANCHAYAT GHAR R.N.1 ASHOKPUR H/O FATTEPUR"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PANCHAYAT GHAR R.N.2 ASHOKPUR H/O FATTEPUR"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S.R.N.1 HARIPALPUR"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S.R.N.2 HARIPALPUR"
+  },
+  {
+    "partNumber": 99,
+    "partName": "COMPOSIT S.R.N.1 GHUSAULI H/O NEVADAKALA"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S. R.N.1 BETHORA"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P.S.R.N.2 BETHORA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S. R.N.3 BETHORA"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.S.R.N.1 MADHWAPUR HO RAMUAPURR"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.S.R.N.1 PAHADPUR"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.S.R.N.2 PAHADPUR"
+  },
+  {
+    "partNumber": 106,
+    "partName": "U.P.S.COMPOSIT R.N.1 BIJWAMAU"
+  },
+  {
+    "partNumber": 107,
+    "partName": "P.S.R.N.1 GHARI H/O BIJWAMAU"
+  },
+  {
+    "partNumber": 108,
+    "partName": "U.P.S.COMPOSIT R.N.1 KUNDRAULI H/O LALPUR"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S.R.N.1 LALPUR"
+  },
+  {
+    "partNumber": 110,
+    "partName": "U.P.S.COMPOSIT R.N.1 BANIYAMAU"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S.COMPOSIT R.N.2 BANIYAMAU"
+  },
+  {
+    "partNumber": 112,
+    "partName": "U.P.S.COMPOSIT R.N.3 BANIYAMAU"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S.R.N.1 ETOUWA"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S.R.N.1 GULRIHA H/O SIRSENDI"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S.R.N.1 BHATELIYA H/O SIRSENDI"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S.R.N.1 SIRSENDI"
+  },
+  {
+    "partNumber": 117,
+    "partName": "U.P.S.COMPOSIT R.N.1 GANDHIRIYA"
+  },
+  {
+    "partNumber": 118,
+    "partName": "U.P.S.COMPOSIT R.N.2 GANDHIRIYA"
+  },
+  {
+    "partNumber": 119,
+    "partName": "KANYA P.S.R.N.1 LALPUR H/O BHELAWAN"
+  },
+  {
+    "partNumber": 120,
+    "partName": "KANYA P.S.R.N.2 LALPUR H/O BHELAWAN"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.S.R.N.1 RAMPUR H/O MIRZAPUR SOUTH"
+  },
+  {
+    "partNumber": 122,
+    "partName": "J.H.S.R.N.1 RASULAVA H/O MADHVAPUR"
+  },
+  {
+    "partNumber": 123,
+    "partName": "U.P.S.COMPOSITR.N.1 MADHVAPUR"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S.R.N.1 LOHANGPUR"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P.S.R.N.2 LOHANGPUR"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S.R.N.1SARAIYA H/O LOHANGPUR"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S.R.N.-1 DHAVARPARA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.S.R.N.2 DHAVARPARA"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.S.R.N.1 SEKANDARPUR"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.S.R.N.1 GONDA"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.S.R.N.2 GONDA"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.S.R.N.1 HARIHARPUR"
+  },
+  {
+    "partNumber": 133,
+    "partName": "J.H.S.R.N.1 LAULI"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S.R.N.1 PURAINI"
+  },
+  {
+    "partNumber": 135,
+    "partName": "U.P.S.COMPOSIT R.N.1 KAKORI"
+  },
+  {
+    "partNumber": 136,
+    "partName": "S.P.M.S.R.N.1 UTTERTHOK"
+  },
+  {
+    "partNumber": 137,
+    "partName": "S.P.M.S.R.N.2 UTTERTHOK"
+  },
+  {
+    "partNumber": 138,
+    "partName": "U.P.S.COMPOSIT R.N.1 ANOGI"
+  },
+  {
+    "partNumber": 139,
+    "partName": "U.P.S.COMPOSIT R.N.2 ANOGI"
+  },
+  {
+    "partNumber": 140,
+    "partName": "U.P.S.COMPOSIT R.N.3 ANOGI"
+  },
+  {
+    "partNumber": 141,
+    "partName": "VIKAS KHAND EAST SANDNA"
+  },
+  {
+    "partNumber": 142,
+    "partName": "VIKAS KHAND WEST SANDNA"
+  },
+  {
+    "partNumber": 143,
+    "partName": "VIKAS KHAND MIDILE SANDNA"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S.R.N.1 SARWA"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S.R.N.1 GRISWALGRANT"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S.R.N.1 GANGAPUR"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S.R.N.1 KARSENDA"
+  },
+  {
+    "partNumber": 148,
+    "partName": "CUMPOJIT SCHOOL GOPALPUR"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S.R.N.1 SARAUSA PRACHIN"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S.R.N.2 SARAUSA PRACHIN"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S.R.N.1 UDAYEEPUR"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S.R.N.2 UDAYEEPUR"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S.R.N.1 LODH KEHRVA H/O KUSAOLI"
+  },
+  {
+    "partNumber": 154,
+    "partName": "COMPOJIT S.R.N1 NIMAMATPUR H/O KUSAOLI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.S.R.N.1 AAMBAGHAT"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S.R.N.2 AAMBAGHAT"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S.R.N.3 AAMBAGHAT"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S.R.N.1 GWALI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "CUMPOJIT SCHOOL R.N.1 KUMAUNGRANT"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S.R.N.1 SURAJPUR"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.S.R.N.1 AHAMDPUR"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.S.R.N.1 AMTAMAU"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.S.R.N.2 AMTAMAU"
+  },
+  {
+    "partNumber": 164,
+    "partName": "CUMPOJIT S.R.N1 UDAIPUR WEST"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S.R.N.1 RAUSINGHPUR"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S.R.N.2 RAUSINGHPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOJIT S.R.N.1 UTTARDHAUNA"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOJIT S. R.N.1 TARSAWAN"
+  },
+  {
+    "partNumber": 169,
+    "partName": "COMPOJIT S.R.N.2 TARSAWAN"
+  },
+  {
+    "partNumber": 170,
+    "partName": "COMPOJIT S.R.N.3 TARSAWAN"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S.R.N. 1 BIJNAGRANT"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S.R.N. 2 BIJNAGRANT"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S.R.N.1 HAJIPUR"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S.R.N.2 HAJIPUR"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S.R.N.1 JARIGAWAN"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.S.R.N.2 JARIGAWAN"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.M.V.R.N.1 KALLI"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.M.V.R.N.2 KALLI"
+  },
+  {
+    "partNumber": 179,
+    "partName": "COMPOJIT S.R.N.1 DENGARA"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S.R.N.1 LOKNAPUR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S.R.N.1 RAGHUNATHPURENI"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.S.R.N.1 MARELI"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S.R.N.2 MARELI"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S.R.N.1 KARKHILA"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S.R.N.2 KARKHILA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.M.S.COMPOSIT R.N.1 PARASPUR"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S.R.N.1 NAUSAHARA PARASPUR"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S.R.N.2 NAUSAHARA PARASPUR"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.S.R.N.1 MEERAPUR"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S.R.N.1 HEERAPUR"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S.R.N.1 AURANGABAD"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.S.R.N.2 AURANGABAD"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.S.R.N.3 AURANGABAD"
+  },
+  {
+    "partNumber": 194,
+    "partName": "J.H.S.R.N.1 AURANGABAD"
+  },
+  {
+    "partNumber": 195,
+    "partName": "J.H.S.R.N.2 AURANGABAD"
+  },
+  {
+    "partNumber": 196,
+    "partName": "J.H.S.R.N.3 AURANGABAD"
+  },
+  {
+    "partNumber": 197,
+    "partName": "J.H.S.R.N.1 DAHELRA"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.S.R.N.1 SADDEKPUR HO DAHELRA"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.M.S.R.N.1 BRAMHAWALI COMPOSIT"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.M.S.R.N.2 BRAMHAWALI COMPOSIT"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S.R.N.1 SIDAULI H/O ASHRAFNAGAR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S.R.N.2 SIDAULI H/O ASHRAFNAGAR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.M.S.R.N.1 KUNERA"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.M.S.R.N.2 KUNERA"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. R.N. 1 BHAUPUR"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S.R.N.1 NAGWAPENDI"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S.R.N.1 NATWALGRANT"
+  },
+  {
+    "partNumber": 208,
+    "partName": "J.H.S.R.N.1 NAGWA JAIRAM"
+  },
+  {
+    "partNumber": 209,
+    "partName": "J.H.S R.N.2 NAGWAJAIRAM"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S.R.N.1 SAMSAPUR"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.M.S.COMPOJIT R.N.1 GHATAMAPUR H/O SAMSAPUR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.S.R.N.1 TENDUVA H/O RAGHUNATHPUR"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.S.R.N.1KHEWTA"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.M.S.COMPOSIT R.N.1 GAURIYA H/O PANAH NAGAR"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P.M.S.COMPOSIT R.N.2GAURIYA H/O PANAH NAGAR"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P.S.R.N.1 RAMSHALA"
+  },
+  {
+    "partNumber": 217,
+    "partName": "J.H.S.R.N.1 TATROI"
+  },
+  {
+    "partNumber": 218,
+    "partName": "J.H.S.R.N.2 TATROI"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P.S.R.N.1 TELIYANI H/O LODHOURA"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.M.S.COMPOSIT R.N.1 FAULADGANJ H/O LODHURA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S.R.N.1 MAANPUR"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S.R.N.2 MAANPUR"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S.R.N.1 NAWABGANJ H/O GOHILARI"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S.R.N.1 GOHILARI"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOJIT S.R.N.1 KAKARGHATA"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOJIT S. R.N.2 KAKARGHATA"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.S.R.N.1 BAKCHERWA"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S.R.N.2 BAKCHERWA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S.R.N.1 KODIKAPUR"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S.R.N.1 RAGHURNATHPUR HARIHARPUR"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S.R.N.1 MAHSUI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S.R.N.2 MAHSUI"
+  },
+  {
+    "partNumber": 233,
+    "partName": "J.H.S.R.N.1 RAMGARH"
+  },
+  {
+    "partNumber": 234,
+    "partName": "J.H.S.R.N.2 RAMGARH"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S.R.N.1 SARAIYA"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S. R.N.2 SARAIYA"
+  },
+  {
+    "partNumber": 237,
+    "partName": "B.I. COLLAGE R.N.1 KORAUNA"
+  },
+  {
+    "partNumber": 238,
+    "partName": "B.I. COLLAGE R.N.2 KORAUNA"
+  },
+  {
+    "partNumber": 239,
+    "partName": "B.I. COLLAGE R.N.3 KORAUNA"
+  },
+  {
+    "partNumber": 240,
+    "partName": "B.I. COLLAGE R.N.4 KORAUNA"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S.R.N.1 BASANTPUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "COMPOJIT S.R.N.1 BARTAL"
+  },
+  {
+    "partNumber": 243,
+    "partName": "COMPOJIT S.R.N.2 BARTAL"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S.R.N.1 KESHWAMAU"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S.R.N.1 RALAMAU"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S.R.N.2 RALAMAU"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S.R.N.3 RALAMAU"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S.R.N.4 RALAMAU"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P.S.R.N.1 GUJREHTA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "U.P.S.COMPOSIT R.N.1 DENGRA1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U.P.S.COPMOSIT R.N.2 DENGRA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "U.P.S.COMPOSIT R.N.1 GUMTA"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S.R.N.1 KONDRI"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.S.R.N.2 KONDRI"
+  },
+  {
+    "partNumber": 255,
+    "partName": "J.H.S.R.N.1 LOHAR KHEDA"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S.R.N.1 JAMUNIYA KUWARPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "NAVEEN P.S. DADHNAMAU"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.M.S.COMPOSIT R.N.1 KUTUBNAGAR"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.M.S.COMPOSIT R.N.2 KUTUBNAGAR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "SHANKUL BHAVAN KUTUBNAGAR"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.S.R.N.1 TEJIPURWA"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.S.R.N.1 KAITHOLIYA"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.S.R.N.2 KAITHOLIYA"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S.R.N.1 BALIYAPUR"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. R.N.1 JAYPUR"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S.R.N.2 JAYPUR"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.M.S.COMPOSIT R.N.1 BADHAIYA"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S.R.N.1 TIPONA"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S.R.N.1 ARSEHADA"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.S.R.N.2 ARSEHADA"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.M.S.COMPOSIT R.N.1 SHIVTHAN"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.M.S.COMPOSIT R.N.2 SHIVTHAN"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.S.R.N.1 INDALVELGRANT"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.S.R.N.2 INDALVELGRANT"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.S.R.N.1 BHAGWANPUR"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.M.S.COMPOSIT R.N.1 PHULARUWA"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.S.R.N.1 GOPALAPUR"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.S. BAIKUNTHAPUR"
+  },
+  {
+    "partNumber": 279,
+    "partName": "J.H.S.R.N.1 ISLAMNAGAR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "J.H.S.R.N.2 ISLAMNAGAR"
+  },
+  {
+    "partNumber": 281,
+    "partName": "J.H.S.R.N.3 ISLAMNAGAR"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S.R.N.1 MOHAMMADNAGAR"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.S.R.N.2 MOHAMMADNAGAR"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.S.R.N.1 KHANPUR"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S.R.N.1 SAHABNAGAR"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S.R.N.1 RAYPUR"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S.R.N.1 BIJAULI"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P.S.R.N.2 BIJAULI"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S.R.N.1 DIGHIYA"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PANCHAYAT BHWAN DIGHIYA KUSHHA"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.M.S.COMPOSIT R.N.1 ARTHAPUR"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.M.S.COMPOSIT R.N.2 ARTHAPUR"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.S.R.N.1 KHAJADABAR"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S.R.N.1 BAHERWA"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.S.R.N.1 NIRHAN"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S.R.N.2 NIRHAN"
+  },
+  {
+    "partNumber": 297,
+    "partName": "J.H.S. GULARIYA"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S.R.N.1 BAHERAKHEDA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.S.R.N.1 BARETHI"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P.S.R.N.2 BARETHI"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P.S.R.N.1 PIPROSA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S.R.N.1 IMALIYA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S.R.N.2 IMALIYA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.S.R.N.1 AANT"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.S.R.N.2 AANT"
+  },
+  {
+    "partNumber": 306,
+    "partName": "K.P.S.R.N.1 AANT"
+  },
+  {
+    "partNumber": 307,
+    "partName": "K.P.S.R.N.2 AANT"
+  },
+  {
+    "partNumber": 308,
+    "partName": "J.H.S.R.N.1 AANT"
+  },
+  {
+    "partNumber": 309,
+    "partName": "J.H.S.R.N.2 AANT"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.S.R.N.1 MIRJAPUR H/O AANT"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.S.R.N.1 BELHAIYA"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P.S.R.N.1 PATAUNJA"
+  },
+  {
+    "partNumber": 313,
+    "partName": "J.H.S.R.N.1 SAHADATNAGAR"
+  },
+  {
+    "partNumber": 314,
+    "partName": "J.H.S.R.N.2 SAHADATNAGAR"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P.S.R.N.1 JALALNAGAR HO SAHADATNAGAR"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.S.R.N.2 JALALNAGAR H/O SAHADATNAGAR"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S.R.N.1 TELIYANI"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.M.S.COMPOSIT R.N.1 BAUDHANI H/O TELIYANI"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.S.R.N.1 TIKRA H/O AKBARPUR"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.S.R.N.2 TIKARA H/O AKBARPUR"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.S.R.N.1 AKBARPUR"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.S.R.N.1 BARMI"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.S.R.N.1 GAJODHARPUR"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S.R.N.1 SARSAI"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P.S.R.N.1 NEWDIYA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "P.M.S.COMPOSIT R.N.1 MANDARUA"
+  },
+  {
+    "partNumber": 327,
+    "partName": "P.M.S.COMPOSIT R.N.2 MANDARUA"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P.S.R.N.1 CHANDRAWAL"
+  },
+  {
+    "partNumber": 329,
+    "partName": "V.K.K R.N.1 JASHRATHPUR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "V.K.K R.N.2 JASHRATHPUR"
+  },
+  {
+    "partNumber": 331,
+    "partName": "V.K.K R.N.3 JASHRATHPUR"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S.R.N.1 KARMSEPUR"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S.R.N.1 LODHAURA"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.S.R.N.1 RAMUAPUR"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.S.R.N.1 RAUDWAN"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.M.S.COMPOSIT R.N.1 NAI BASTI H/O JIHURA"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.S.R.N.1 MALINIYA"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S.R.N.1 BAHUTI"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.S.R.N.1 GAURIHAR"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P.S.R.N.1 DHARVASPARA KALA"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.S.R.N.1 LASHKARPUR"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.S.R.N.1 GAYANSAGAR"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.S.R.N.2 GAYANSAGAR"
+  },
+  {
+    "partNumber": 344,
+    "partName": "M.D.I.COLLEGE R.N.1MISRIKH DEHAAT"
+  },
+  {
+    "partNumber": 345,
+    "partName": "M.D.I.COLLEGE R.N.2 MISRIKH"
+  },
+  {
+    "partNumber": 346,
+    "partName": "M.D.I.COLLEGE R.N.3 MISRIKH"
+  },
+  {
+    "partNumber": 347,
+    "partName": "M.D.I.COLLEGE R.N.4 MISRIKH"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.M.S.COMPOSIT R.N.1 PARSAOLI"
+  },
+  {
+    "partNumber": 349,
+    "partName": "GIRLS P.S NORTH MISRIKH"
+  },
+  {
+    "partNumber": 350,
+    "partName": "GIRLS P.S.WEST MISRIKH"
+  },
+  {
+    "partNumber": 351,
+    "partName": "J.H.S R.N.1 MISRIKH"
+  },
+  {
+    "partNumber": 352,
+    "partName": "J.H.S R.N.2 MISRIKH"
+  },
+  {
+    "partNumber": 353,
+    "partName": "J.H.S R.N.3 MISREKH"
+  },
+  {
+    "partNumber": 354,
+    "partName": "J.H.S R.N.4 MISREKH"
+  },
+  {
+    "partNumber": 355,
+    "partName": "NAGAR PALIKA OFFICE R.N0 1 MISRIKH"
+  },
+  {
+    "partNumber": 356,
+    "partName": "NAGAR PALIKA OFFICE R.N0 2 MISRIKH"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.M.S.COMPOSIT R.N.1 MUDIYARA"
+  },
+  {
+    "partNumber": 358,
+    "partName": "P.M.S.COMPOSIT R.N.2 MUDIYARA"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S.R.N.1 BHIKNAPUR"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.M.S.COMPOSIT R.N.1 SANJARABAD"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.M.S.COMPOSIT R.N.1 NARSIGHAULI"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S.R.N.1 KISHNUPUR H/O NARSINGAULI"
+  },
+  {
+    "partNumber": 363,
+    "partName": "J.H.S R.N.1 BHITHOOLI"
+  },
+  {
+    "partNumber": 364,
+    "partName": "J.H.S R.N.2 BHITHOOLI"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.S.R.N.1 BHITHOOLI"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S.R.N.2 BHITHOOLI"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S.R.N.1 MADARI"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.M.S.COMPOSIT R.N.1 THAKUR NAGAR"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.S.R.N.1 AZIZPUR"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.M.S.COMPOSIT R.N.1 LAKADIYAMAU"
+  },
+  {
+    "partNumber": 371,
+    "partName": "P.M.S.COMPOSIT R.N.2 LAKADIYAMAU"
+  },
+  {
+    "partNumber": 372,
+    "partName": "P.S.R.N.1 ARBAPUR"
+  },
+  {
+    "partNumber": 373,
+    "partName": "J.H.S.R.N.1 JHARYA H/O PHULPUR"
+  },
+  {
+    "partNumber": 374,
+    "partName": "J.H.S.R.N.2 JHARYA H/O PHULPUR"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.S.R.N.1GOHRI"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S.R.N.1 ATWA"
+  },
+  {
+    "partNumber": 377,
+    "partName": "P.S.R.N.2 ATWA"
+  },
+  {
+    "partNumber": 378,
+    "partName": "J.H.S.R.N.1 ATWA"
+  },
+  {
+    "partNumber": 379,
+    "partName": "J.H.S.R.N.2 ATWA"
+  },
+  {
+    "partNumber": 380,
+    "partName": "P.S.R.N.1 LAXIMAN NAGAR"
+  },
+  {
+    "partNumber": 381,
+    "partName": "J.H.S.R.N.1 BINOURA"
+  },
+  {
+    "partNumber": 382,
+    "partName": "J.H.S.R.N.2 BINOURA"
+  },
+  {
+    "partNumber": 383,
+    "partName": "P.S.R.N.1 LEKHNAPUR"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.M.S.COMPOSIT R.N.1 BIBIPUR H/O LEKHNAPUR"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.M.S.COMPOSIT R.N.2 BIBIPUR H/O LEKHNAPUR"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S.R.N.1 MANIKAPUR"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S.R.N.1 SAMVAL H/O MANIKAPUR"
+  },
+  {
+    "partNumber": 388,
+    "partName": "LALA RAM NARAYAN SAHGAL INTER COLLAGE NAIMISARANYA R.N.1"
+  },
+  {
+    "partNumber": 389,
+    "partName": "LALA RAM NARAYAN SAHGAL INTER COLLAGE NAIMISARANYA R.N.2"
+  },
+  {
+    "partNumber": 390,
+    "partName": "LALA RAM NARAYAN SAHGAL INTER COLLAGE NAIMISARANYA R.N.3"
+  },
+  {
+    "partNumber": 391,
+    "partName": "LALA RAM NARAYAN SAHGAL INTER COLLAGE NAIMISARANYA R.N.4"
+  },
+  {
+    "partNumber": 392,
+    "partName": "GIRLS J.H.S. R.N.1 NAIMISARANYA"
+  },
+  {
+    "partNumber": 393,
+    "partName": "GIRLS J.H.S. R.N.2 NAIMISARANYA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.M.S.COMPOSIT R.N.1 RAHIMABAD"
+  },
+  {
+    "partNumber": 395,
+    "partName": "P.M.S.COMPOSIT R.N.2 RAHIMABAD"
+  },
+  {
+    "partNumber": 396,
+    "partName": "P.S.R.N.1 GAYAVAR"
+  },
+  {
+    "partNumber": 397,
+    "partName": "P.S.R.N.1 BHAIRAMPUR"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P.S.R.N.2 BHAIRAMPUR"
+  }
+]

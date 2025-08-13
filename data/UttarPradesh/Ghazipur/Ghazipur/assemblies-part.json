@@ -1,0 +1,1434 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S. SAURI (E.WING)"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.S. SAURI (W.WING)"
+  },
+  {
+    "partNumber": 3,
+    "partName": "U.P.S. SAURI W. WING"
+  },
+  {
+    "partNumber": 4,
+    "partName": "U.P.S. SAURI E. WING"
+  },
+  {
+    "partNumber": 5,
+    "partName": "U.P.S. SAURI NEW BUILDING"
+  },
+  {
+    "partNumber": 6,
+    "partName": "COMPOSITE SCHOOL  DIHAWALAKHMANPUR"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S. SALIKPUR S. GRAM ANDHOKHAR"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S. KHUTAWA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S. KATGHARA W. WING"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S. KATGHARA E. WING"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S. RAYPUR"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S. SULTANPUR BAIRISAL E.WING"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S. SULTANPUR BAIRISAL W. WING"
+  },
+  {
+    "partNumber": 14,
+    "partName": "U.P.S.(1 TO 8) KUKUDHA"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S. SAVNA"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S. SUJANIPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.S. DHARIKALA"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S. NARAYANPUR HALA"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S. JANGIPUR"
+  },
+  {
+    "partNumber": 20,
+    "partName": "U.P.S. (1 TO 8) SHIKARPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "U.P.S. (1 TO 8) HARIHARPUR"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S. HARIHARPUR CHAUHAN BASTI"
+  },
+  {
+    "partNumber": 23,
+    "partName": "U.P.S. (1 TO 8) TARDEEH E.WING"
+  },
+  {
+    "partNumber": 24,
+    "partName": "U.P.S. (1 TO 8) TARDEEH W. WING"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S. BHIKKHEPUR"
+  },
+  {
+    "partNumber": 26,
+    "partName": "U.P.S. (1 TO 8) BHIKKHEPUR"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S. DHARIKHURD E. WING"
+  },
+  {
+    "partNumber": 28,
+    "partName": "U.P.S. DHARIKHURD W. WING"
+  },
+  {
+    "partNumber": 29,
+    "partName": "U.P.S. (1 TO 8) MUDARBHA W. WING"
+  },
+  {
+    "partNumber": 30,
+    "partName": "U.P.S. (1 TO 8) MUDARBHA E. WING"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.S. LAKSHIMANPUR"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.S. SIRGITHA  N.WING"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.S. SIRGITHA  S.WING"
+  },
+  {
+    "partNumber": 34,
+    "partName": "U.P.S. (1 TO 8) KUSUMAHI KHURD (N.WING)"
+  },
+  {
+    "partNumber": 35,
+    "partName": "U.P.S. (1 TO 8) KUSUMAHI KHURD (S.WING)"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.S. SAMMANPUR W.WING"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S. SAMMANPUR  E.WING"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S. BHEDHUA"
+  },
+  {
+    "partNumber": 39,
+    "partName": "U.P.S. (1 TO 8) MADARPUR"
+  },
+  {
+    "partNumber": 40,
+    "partName": "U.P.S. (1 TO 8) ATARSUA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "J.H.S. BADAHARA  N.WING"
+  },
+  {
+    "partNumber": 42,
+    "partName": "J.H.S. BADAHARA  S.WING"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE J.H.SCHOOL  PIPARAHI  N.WING"
+  },
+  {
+    "partNumber": 44,
+    "partName": "COMPOSITE J.H.SCHOOL  PIPARAHI  S.WING"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S. KISHOHARI  E.WING"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S. KISHOHARI  W.WING"
+  },
+  {
+    "partNumber": 47,
+    "partName": "NEHARU J.H.S. PAHALVANPUR"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE U.P.S.CHILAR (1-8)  ROOM NO 1"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSITE U.P.S. CHILAR (1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.S. GOLA"
+  },
+  {
+    "partNumber": 51,
+    "partName": "U.P.S. (1 TO 8) BUDHANPUR  E. WING"
+  },
+  {
+    "partNumber": 52,
+    "partName": "U.P.S. (1 TO 8) BUDHANPUR  W. WING"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S. RATHAULI"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S. SARAI SARIPH (S.GRAM HARAKHUPUR)"
+  },
+  {
+    "partNumber": 55,
+    "partName": "U.P.S. (1 TO 8) SIHORI  S. WING"
+  },
+  {
+    "partNumber": 56,
+    "partName": "U.P.S. (1 TO 8) SIHORI  N. WING"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. NAISARA  E.WING"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. NAISARA  W.WING"
+  },
+  {
+    "partNumber": 59,
+    "partName": "U.P.S. (1 TO 8) DEVSINGHA  N. WING"
+  },
+  {
+    "partNumber": 60,
+    "partName": "U.P.S. (1 TO 8) DEVSINGHA  S. WING"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.S. DAVOPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "U.P.S. (1 TO 8) RAMPUR BANTARA  N.WING"
+  },
+  {
+    "partNumber": 63,
+    "partName": "U.P.S. (1 TO 8) RAMPUR BANTARA  S.WING"
+  },
+  {
+    "partNumber": 64,
+    "partName": "INDIRA GIRLS HIGHER SECONDARY SCHOOL NANDGANJ"
+  },
+  {
+    "partNumber": 65,
+    "partName": "U.P.S. NANDGANJ"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P M SHREE COMPOSITE SCHOOL BARAHPUR N.WING"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P M SHREE COMPOSITE SCHOOL BARAHPUR E.WING"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P M SHREE COMPOSITE SCHOOL BARAHPUR W.WING"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.S. BELASI"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.S. BELSADI"
+  },
+  {
+    "partNumber": 71,
+    "partName": "U.P.S. (1 TO 8) KHANKAH KALA  E.WING"
+  },
+  {
+    "partNumber": 72,
+    "partName": "U.P.S. (1 TO 8) KHANKAH KALA  W.WING"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.S. GARTHAULI"
+  },
+  {
+    "partNumber": 74,
+    "partName": "U.P.S. (1 TO 8) PACHARA  W.WING"
+  },
+  {
+    "partNumber": 75,
+    "partName": "U.P.S. (1 TO 8) PACHARA  E.WING"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.S. RASULPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. SARAULI  EXTRA ROOM"
+  },
+  {
+    "partNumber": 78,
+    "partName": "SUBHASH INTER COLLEGE NARIPACHDEVRA  E. WING"
+  },
+  {
+    "partNumber": 79,
+    "partName": "SUBHASH INTER COLLEGE NARIPACHDEVRA  N.WING"
+  },
+  {
+    "partNumber": 80,
+    "partName": "SUBHASH INTER COLLEGE NARIPACHDEVRA  W.WING"
+  },
+  {
+    "partNumber": 81,
+    "partName": "GOVERNMENT GIRLS INTER COLLEGE NAARIPACHDEVRA  (N. WING)"
+  },
+  {
+    "partNumber": 82,
+    "partName": "GOVERNMENT GIRLS INTER COLLEGE NAARIPACHDEVRA (S. WING)"
+  },
+  {
+    "partNumber": 83,
+    "partName": "GOVERNMENT GIRLS INTER COLLEGE NAARIPACHDEVRA (C. WING)"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PANCHAYAT BUILDNG BAGHI"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S. LONEPUR"
+  },
+  {
+    "partNumber": 86,
+    "partName": "U.P.S. (1 TO 8) CHADIPUR N.WING"
+  },
+  {
+    "partNumber": 87,
+    "partName": "U.P.S. (1 TO 8) CHADIPUR W.WING"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S.CHOCHAKPUR FIRST (SUAPUR)E.WING"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S. CHOCHAKPUR FIRST (SUAPUR) W.WING"
+  },
+  {
+    "partNumber": 90,
+    "partName": "UPPER PRIMARY COMPOSITE SCHOOL CHOCHAKPUR (E.M.) E.WING"
+  },
+  {
+    "partNumber": 91,
+    "partName": "UPPER PRIMARY COMPOSITE SCHOOL CHOCHAKPUR (E.M.) W.WING"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S. MEHRAULI"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S. TIWARIPUR"
+  },
+  {
+    "partNumber": 94,
+    "partName": "COMPOSITE SCHOOL MANIKPUR KOTE (E.WING)"
+  },
+  {
+    "partNumber": 95,
+    "partName": "COMPOSITE SCHOOL MANIKPUR KOTE (C.)"
+  },
+  {
+    "partNumber": 96,
+    "partName": "P.S. BAXSA"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S. SABUA  C.E.WING"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S. SABUA  C.WING"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S. SABUA  W.WING"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S. SABUA  W.C.WING"
+  },
+  {
+    "partNumber": 101,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAURAM E.WING"
+  },
+  {
+    "partNumber": 102,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAURAM  W.WING"
+  },
+  {
+    "partNumber": 103,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAURAM   N.WING"
+  },
+  {
+    "partNumber": 104,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAURAM   S.WING"
+  },
+  {
+    "partNumber": 105,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL  SHRIGANJ  N.WING"
+  },
+  {
+    "partNumber": 106,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL  SHRIGANJ  S.WING"
+  },
+  {
+    "partNumber": 107,
+    "partName": "COMPOSITE SCHOOL DHARVA (N.WING)"
+  },
+  {
+    "partNumber": 108,
+    "partName": "COMPOSITE SCHOOL DHARVA (S.WING)"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S. DHAMUPUR"
+  },
+  {
+    "partNumber": 110,
+    "partName": "U.P.S. REVSA (E.WING)"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S. REVSA (W.WING)"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S. KARAILA"
+  },
+  {
+    "partNumber": 113,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAHEDI-I  W.WING"
+  },
+  {
+    "partNumber": 114,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAHEDI-I  E.WING"
+  },
+  {
+    "partNumber": 115,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAHEDI-I  N.WING"
+  },
+  {
+    "partNumber": 116,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL SAHEDI-I S.WING"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P.S.  BAHADIPUR"
+  },
+  {
+    "partNumber": 118,
+    "partName": "COMPOSITE SCHOOL FATEULLAHPUR  C.WING"
+  },
+  {
+    "partNumber": 119,
+    "partName": "COMPOSITE SCHOOL FATEULLAHPUR  E.WING"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.S. AGASTA SALAMATPUR  E.WING"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.S. AGASTA SALAMATPUR  W.WING"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.S. KHIJIRPUR"
+  },
+  {
+    "partNumber": 123,
+    "partName": "COMPOSITE SCHOOL DILIA (E.WING)"
+  },
+  {
+    "partNumber": 124,
+    "partName": "COMPOSITE SCHOOL DILIA (W.WING)"
+  },
+  {
+    "partNumber": 125,
+    "partName": "LOK MA. HIGHER SECONDARY SCHOOLDILIA  W.WING"
+  },
+  {
+    "partNumber": 126,
+    "partName": "LOK MA. HIGHER SECONDARY DILIA E.WING"
+  },
+  {
+    "partNumber": 127,
+    "partName": "COMPOSITE SCHOOL TALVAL  E.WING"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSITE SCHOOL TALVAL  C.WING"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.S. KHANPUR SAPAHI"
+  },
+  {
+    "partNumber": 130,
+    "partName": "COMPOSITE SCHOOL CHAKABDUL SATTAR"
+  },
+  {
+    "partNumber": 131,
+    "partName": "COMPOSITE SCHOOL CHAUKIYA  E.WING"
+  },
+  {
+    "partNumber": 132,
+    "partName": "COMPOSITE SCHOOL CHAUKIYA  W.WING"
+  },
+  {
+    "partNumber": 133,
+    "partName": "MAA KALIKA ADARSH SCHOOL.AURANGABAD"
+  },
+  {
+    "partNumber": 134,
+    "partName": "COMPOSITE SCHOOL MOHAW"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S. SAKARTALI"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.S. ISLAMABAD"
+  },
+  {
+    "partNumber": 137,
+    "partName": "COMPOSITE SCHOOL SEMRACHAKFAIJ"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S. SARAYMUNIMABAD"
+  },
+  {
+    "partNumber": 139,
+    "partName": "ENGLISH MEDIUM SCHOOL MAHARAJGANJ  E.WING"
+  },
+  {
+    "partNumber": 140,
+    "partName": "ENGLISH MEDIUM SCHOOL MAHARAJGANJ  C.WING"
+  },
+  {
+    "partNumber": 141,
+    "partName": "ENGLISH MEDIUM SCHOOL MAHARAJGANJ  C.W.WING"
+  },
+  {
+    "partNumber": 142,
+    "partName": "ENGLISH MEDIUM SCHOOL MAHARAJGANJ W.WING"
+  },
+  {
+    "partNumber": 143,
+    "partName": "P.S. CHAUKIJIVDHAR"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE SCHOOL BABEDI  N.WING"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE SCHOOL BABEDI  S.WING"
+  },
+  {
+    "partNumber": 146,
+    "partName": "COMPOSITE SCHOOL BAKULIYAPUR"
+  },
+  {
+    "partNumber": 147,
+    "partName": "COMPOSITE SCHOOL BIKAPUR  E.WING"
+  },
+  {
+    "partNumber": 148,
+    "partName": "COMPOSITE SCHOOL BIKAPUR  W.WING"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S. FATEHPUR SIKANDAR  E.WING"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S. FATEHPUR SIKANDAR  W.WING"
+  },
+  {
+    "partNumber": 151,
+    "partName": "SRI MAHARANI LAKSHMIBAI GIRLS INTER COLLEGE FATEHPUR SIKANDAR  E.WING"
+  },
+  {
+    "partNumber": 152,
+    "partName": "SRI MAHARANI LAKSHMIBAI GIRLS INTER COLLEGE FATEHPUR SIKANDAR  W.WING"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S. GODA  E.WING"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. GODA  W.WING"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.S. SOHILAPUR"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S. MIRANPUR SAKKA"
+  },
+  {
+    "partNumber": 157,
+    "partName": "GIRLS P.S.HETIMPUR  W.WING"
+  },
+  {
+    "partNumber": 158,
+    "partName": "GIRLS P.S. HETIMPUR  E.WING"
+  },
+  {
+    "partNumber": 159,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL PAHADPUR U.LANGARPUR"
+  },
+  {
+    "partNumber": 160,
+    "partName": "COMPOSITE SCHOOL DHITUWA"
+  },
+  {
+    "partNumber": 161,
+    "partName": "COMPOSITE SCHOOL KUSUMAHI KALAN S.WING"
+  },
+  {
+    "partNumber": 162,
+    "partName": "COMPOSITE SCHOOL KUSUMAHI KALAN  W.WING"
+  },
+  {
+    "partNumber": 163,
+    "partName": "COMPOSITE SCHOOL KUSUMAHI KALAN E.WING"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.S. BASABADH"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S. SISOURA"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSITE SCHOOL ALIPUR BANGAWA  E.WING"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOSITE SCHOOL ALIPUR BANGAWA  W.WING"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOSITE SCHOOL MADANAHI  E.WING"
+  },
+  {
+    "partNumber": 169,
+    "partName": "COMPOSITE SCHOOL MADANAHI  W.WING"
+  },
+  {
+    "partNumber": 170,
+    "partName": "COMPOSITE SCHOOL MADANAHI  C.WING"
+  },
+  {
+    "partNumber": 171,
+    "partName": "COMPOSITE SCHOOL DHELVA  E.WING"
+  },
+  {
+    "partNumber": 172,
+    "partName": "COMPOSITE SCHOOL DHELVA  W.WING"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S. AMADPUR"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S. DHITUA"
+  },
+  {
+    "partNumber": 175,
+    "partName": "U.P.S. MUDWAL  E.WING"
+  },
+  {
+    "partNumber": 176,
+    "partName": "U.P.S. MUDWAL  W.WING"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.S. LALANPUR"
+  },
+  {
+    "partNumber": 178,
+    "partName": "COMPOSITE SCHOOL SAKRA  N.WING"
+  },
+  {
+    "partNumber": 179,
+    "partName": "COMPOSITE SCHOOL SAKRA  C.WING"
+  },
+  {
+    "partNumber": 180,
+    "partName": "COMPOSITE SCHOOL SAKRA  S.WING"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSITE SCHOOL SAKRA  E.WING"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.S. RAGHUNATHPUR  E.WING"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S. RAGHUNATHPUR W.WING"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S. MANGALMADAI"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S. GANGA VISHUNPUR E.WING"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. GANGA VISHUNPUR  C.WING"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. GANGA VISHUNPUR W.WING"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S. SARAIYA  N.WING"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.S.SARAIYA  S.WING"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S. POLICE LINE"
+  },
+  {
+    "partNumber": 191,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  E.WING"
+  },
+  {
+    "partNumber": 192,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  E.C.WING"
+  },
+  {
+    "partNumber": 193,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  N.C.WING"
+  },
+  {
+    "partNumber": 194,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  C.WING"
+  },
+  {
+    "partNumber": 195,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  W.WING"
+  },
+  {
+    "partNumber": 196,
+    "partName": "LOURDES CONVENT GIRLS INTER COLLEGE GHAZIPUR  W.C.WING"
+  },
+  {
+    "partNumber": 197,
+    "partName": "R.A.R. SUBCENTRE BADIBAG GHAZIPUR  E.WING"
+  },
+  {
+    "partNumber": 198,
+    "partName": "R.A.R. SUBCENTRE BADIBAG GHAZIPUR  C.WING"
+  },
+  {
+    "partNumber": 199,
+    "partName": "R.A.R. SUBCENTRE BADIBAG GHAZIPUR  W.WING"
+  },
+  {
+    "partNumber": 200,
+    "partName": "R.A.R. SUBCENTRE BADIBAG GHAZIPUR  N.WING"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. TULSISAGAR N.WING"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. TULSISAGAR   S.WING"
+  },
+  {
+    "partNumber": 203,
+    "partName": "ABHINAV SARASAWATI GIRLS INTER COLLEGE  STATION ROAD GHAZIPUR ROOM N-1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "ABHINAV SARASAWATI GIRLS INTER COLLEGE  STATION ROAD GHAZIPUR ROOM N-2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "ABHINAV SARASAWATI GIRLS INTER COLLEGE  STATION ROAD GHAZIPUR ROOM N-6"
+  },
+  {
+    "partNumber": 206,
+    "partName": "ABHINAV SARASAWATI GIRLS INTER COLLEGE STATION ROAD GHAZIPUR ROOM N-3"
+  },
+  {
+    "partNumber": 207,
+    "partName": "ABHINAV SARASAWATI GIRLS INTER COLLEGE STATION ROAD GHAZIPUR ROOM N-5"
+  },
+  {
+    "partNumber": 208,
+    "partName": "U.P.S.(1 TO 8) VISHESHWARGANJ N.WING"
+  },
+  {
+    "partNumber": 209,
+    "partName": "U.P.S.(1 TO 8) VISHESHWARGANJ  S.WING"
+  },
+  {
+    "partNumber": 210,
+    "partName": "U.P.S.(1 TO 8) VISHESHWARGANJ E.WING"
+  },
+  {
+    "partNumber": 211,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR ROOM N.1"
+  },
+  {
+    "partNumber": 212,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR ROOM N.2)"
+  },
+  {
+    "partNumber": 213,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR ROOM .N.3"
+  },
+  {
+    "partNumber": 214,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR  ROOM N.5"
+  },
+  {
+    "partNumber": 215,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR ROOM N.4"
+  },
+  {
+    "partNumber": 216,
+    "partName": "GOVERNMENT CITY INTER COLLEGE GHAZIPUR ROOM N.6"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSITE SCHOOL RAYGANJ  W.WING"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSITE SCHOOL RAYGANJ C.WING"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE SCHOOL RAYGANJ  E.WING"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSITE SCHOOL RAYGANJ E.C.WING"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE  SCHOOL RAYGANJ W.C.WING"
+  },
+  {
+    "partNumber": 222,
+    "partName": "ORIENTAL CHASHMERAHAMAT SCHOOL ROOM N.1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "ORIENTAL CHASHMERAHAMAT SCHOOL ROOM N.2"
+  },
+  {
+    "partNumber": 224,
+    "partName": "ORIENTAL CHASHMERAHAMAT SCHOOL ROOM N.3"
+  },
+  {
+    "partNumber": 225,
+    "partName": "ORIENTAL CHASHMERAHAMAT SCHOOL ROOM N.4"
+  },
+  {
+    "partNumber": 226,
+    "partName": "AJMIYA SCHOOL BARBARHANA ROOM N.1"
+  },
+  {
+    "partNumber": 227,
+    "partName": "AJMIYA SCHOOL BARBARHANA ROOM N.2"
+  },
+  {
+    "partNumber": 228,
+    "partName": "AJMIYA SCHOOL BARBARHANA ROOM N.3"
+  },
+  {
+    "partNumber": 229,
+    "partName": "AJMIYA SCHOOL BARBARHANA  ROOM N.4"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. KOT  E.WING"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S. KOT   W.WING"
+  },
+  {
+    "partNumber": 232,
+    "partName": "M.A.H.INTER COLLEGE GHAZIPUR ROOM N.1"
+  },
+  {
+    "partNumber": 233,
+    "partName": "M.A.H.INTER COLLEGE GHAZIPUR ROOM N.2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "M.A.H.INTER COLLEGE GHAZIPUR ROOM N.4"
+  },
+  {
+    "partNumber": 235,
+    "partName": "M.A.H.INTER COLLEGE GHAZIPUR ROOM N.3"
+  },
+  {
+    "partNumber": 236,
+    "partName": "M.A.H.INTER COLLEGE GHAZIPUR ROOM N. 5"
+  },
+  {
+    "partNumber": 237,
+    "partName": "GAUTAM BUDDH VIKLANG AND ANDH VIDYALAY JAMLAPUR  E.WING"
+  },
+  {
+    "partNumber": 238,
+    "partName": "GAUTAM BUDDH VIKLANG AND ANDH VIDYALAY JAMLAPUR  W.WING"
+  },
+  {
+    "partNumber": 239,
+    "partName": "GAUTAM BUDDH VIKLANG AND ANDH VIDYALAY JAMLAPUR  C.WING"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.S. JAMLAPUR  E.WING"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S. JAMLAPUR  C.WING"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S. JAMLAPUR  W.WING"
+  },
+  {
+    "partNumber": 243,
+    "partName": "SARASVATI SHISHU MANDIR GAYATRINAGAR NAWABGANJ ROOM N.1"
+  },
+  {
+    "partNumber": 244,
+    "partName": "SARASVATI SHISHU MANDIR GAYATRINAGAR NAWABGANJ ROOM N.2 "
+  },
+  {
+    "partNumber": 245,
+    "partName": "SARASVATI SHISHU MANDIR GAYATRINAGAR NAWABGANJ ROOM N.3 "
+  },
+  {
+    "partNumber": 246,
+    "partName": "SARASVATI SHISHU MANDIR GAYATRINAGAR NAWABGANJ ROOM N.4 "
+  },
+  {
+    "partNumber": 247,
+    "partName": "SARASVATI SHISHU MANDIR GAYATRINAGAR NAWABGANJ ROOM N.5 "
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S.JERKILA KOT  N.WING"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P.S. JERKILA KOT  E.WING"
+  },
+  {
+    "partNumber": 250,
+    "partName": "U.P.S. GHAZIPUR (TEHSILI SCHOOL)  ROOM N.1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U.P.S. GHAZIPUR (TEHSILI SCHOOL)  ROOM N.2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "U.P.S. GHAZIPUR (TEHSILI SCHOOL)  ROOM N.3"
+  },
+  {
+    "partNumber": 253,
+    "partName": "COMPOSITE SCHOOL. SUBHASHNAGAR  E.WING"
+  },
+  {
+    "partNumber": 254,
+    "partName": "COMPOSITE SCHOOL. SUBHASHNAGAR  W.WING"
+  },
+  {
+    "partNumber": 255,
+    "partName": "COMPOSITE SCHOOL. SUBHASHNAGAR  N.WING"
+  },
+  {
+    "partNumber": 256,
+    "partName": "COMPOSITE P.S. SUBHASHNAGAR (FIRST) E.WING"
+  },
+  {
+    "partNumber": 257,
+    "partName": "COMPOSITE P.S. SUBHASHNAGAR (FIRST) C.WING"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSITE P.S. SUBHASHNAGAR (FIRST) W.WING"
+  },
+  {
+    "partNumber": 259,
+    "partName": "WOMEN'S P.G. COLLEGE GHAZIPUR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "ANAND MARG SCHOOL LALDARWAJA  E.WING"
+  },
+  {
+    "partNumber": 261,
+    "partName": "ANAND MARG SCHOOL LALDARWAJA  W.WING"
+  },
+  {
+    "partNumber": 262,
+    "partName": "ADARSH INTER COLLEGE MAHUABAG"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.S. NAVAPURA COMPOSITE  W.WING"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S. NAVAPURA COMPOSITE  E.WING"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. NAVAPURA COMPOSITE  C.WING"
+  },
+  {
+    "partNumber": 266,
+    "partName": "R.R.D. INSTITUTE GHAZIPUR R.N.4"
+  },
+  {
+    "partNumber": 267,
+    "partName": "R.R.D. INSTITUTE GHAZIPUR R.N.1"
+  },
+  {
+    "partNumber": 268,
+    "partName": "R.R.D. INSTITUTE GHAZIPUR R.N.2"
+  },
+  {
+    "partNumber": 269,
+    "partName": "R.R.D. INSTITUTE GHAZIPUR R.N.3"
+  },
+  {
+    "partNumber": 270,
+    "partName": "COMPOSITE SCHOOL GORABAZAR ROOM N.1"
+  },
+  {
+    "partNumber": 271,
+    "partName": "COMPOSITE SCHOOL GORABAZAR  ROOM N.3"
+  },
+  {
+    "partNumber": 272,
+    "partName": "COMPOSITE SCHOOL GORABAZAR  ROOM N.4"
+  },
+  {
+    "partNumber": 273,
+    "partName": "COMPOSITE SCHOOL GORABAZAR  ROOM N.5"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.G.COLLEGE GHAZIPUR"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.S. FOXGANJ (E.WING)"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.S. FOXGANJ (W.WING)"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.S. HATHIKHANA (N.WING)"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.S. HATHIKHANA (S.WING)"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.S. HATHIKHANA (C.WING)"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSITE SCHOOL KURTHA"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S. HUSENPUR"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S. JANJEERPUR"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.S. JAITPURA  E.WING"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.S. JAITPURA  W.WING"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S. JAITPURA  N.WING"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. BAYEPUR  N.WING"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S. BAYEPUR  S.WING"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P S. BAYEPUR E.WING"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S. DEVKALI"
+  },
+  {
+    "partNumber": 290,
+    "partName": "COMPOSITE SCHOOL  JAMALPUR W.WING"
+  },
+  {
+    "partNumber": 291,
+    "partName": "COMPOSITE SCHOOL  JAMALPUR  E.WING"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.S. PARMETH"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.S. BINDPURVA"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S. MAHEPUR  E.WING"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.S. MAHEPUR  W.WING"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S. MAINPUR-I  N.WING"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S. MAINPUR-I  S.WING"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE SCHOOL MAINPUR ROOM N.1"
+  },
+  {
+    "partNumber": 299,
+    "partName": "COMPOSITE SCHOOL MAINPUR ROOM N.2"
+  },
+  {
+    "partNumber": 300,
+    "partName": "COMPOSITE SCHOOL MAINPUR ROOM N.3"
+  },
+  {
+    "partNumber": 301,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BRAHAMANPURA  E.WING"
+  },
+  {
+    "partNumber": 302,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL BRAHAMANPURA   W.WING"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE SCHOOL BIRAPAH  N.WING"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE SCHOOL BIRAPAH  S.WING"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE SCHOOL SONAHARIYA  E.WING"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOSITE SCHOOL SONAHARIYA  W.WING"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.S. NARAYANPUR"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P.S. LILAPUR  E.WING"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P.S. LILAPUR  W.WING"
+  },
+  {
+    "partNumber": 310,
+    "partName": "COMPOSITE SCHOOL SIKANDARPUR  N.WING"
+  },
+  {
+    "partNumber": 311,
+    "partName": "COMPOSITE SCHOOL SIKANDARPUR  S.WING"
+  },
+  {
+    "partNumber": 312,
+    "partName": "COMPOSITE SCHOOL SIKANDARPUR  C.WING"
+  },
+  {
+    "partNumber": 313,
+    "partName": "U.P.S. KARANDA E.WING"
+  },
+  {
+    "partNumber": 314,
+    "partName": "U.P.S. KARANDA C.WING"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S. KARANDA C.W.WING"
+  },
+  {
+    "partNumber": 316,
+    "partName": "INTER COLLEGE KARANDA W.WING"
+  },
+  {
+    "partNumber": 317,
+    "partName": "INTER COLLEGE KARANDA C.WING"
+  },
+  {
+    "partNumber": 318,
+    "partName": "INTER COLLEGE KARANDA E.WING"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.S. MADANPUR"
+  },
+  {
+    "partNumber": 320,
+    "partName": "U.P.S. KUCHAURA E.WING"
+  },
+  {
+    "partNumber": 321,
+    "partName": "U.P.S. KUCHAURA W.WING"
+  },
+  {
+    "partNumber": 322,
+    "partName": "COMPOSITE SCHOOL RAMNATHPUR"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.S. GOSHANDEPUR FIRST E.WING"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S. GOSHANDEPUR FIRST W.WING"
+  },
+  {
+    "partNumber": 325,
+    "partName": "INTER COLLEGE GOSHANDEPUR N.WING"
+  },
+  {
+    "partNumber": 326,
+    "partName": "INTER COLLEGE GOSHANDEPUR S.WING"
+  },
+  {
+    "partNumber": 327,
+    "partName": "INTER COLLEGE GOSHANDEPUR E.WING"
+  },
+  {
+    "partNumber": 328,
+    "partName": "COMPOSITE SCHOOL NAUDAR E.WING"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSITE SCHOOL NAUDAR W.WING"
+  },
+  {
+    "partNumber": 330,
+    "partName": "SRI NRISINGH DAS DAMODARPURI J.H.S.DINAPUR N.WING"
+  },
+  {
+    "partNumber": 331,
+    "partName": "SRI NRISINGH DAS DAMODARPURI J.H.S.DINAPUR S.WING"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S. MAHAVALPUR"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S. BADSARA N.WING"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.S. BADSARA S.WING"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.S. BADSARA E.WING"
+  },
+  {
+    "partNumber": 336,
+    "partName": "ENGLISH MEDIUM P.S. JAMUAW  E.WING"
+  },
+  {
+    "partNumber": 337,
+    "partName": "ENGLISH MEDIUM P.S. JAMUAW  C.WING"
+  },
+  {
+    "partNumber": 338,
+    "partName": "ENGLISH MEDIUM P.S. JAMUAW W.WING"
+  },
+  {
+    "partNumber": 339,
+    "partName": "U.P.S. AARI PAHADPUR W.WING"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P.S. AARI PAHADPUR E.WING"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PANCHAYAT SACHIWALAY SITAPATTI  N.WING"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PANCHAYAT SACHIWALAY SITAPATTI S.WING"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.S. VISHUNPURA"
+  },
+  {
+    "partNumber": 344,
+    "partName": "U.P.S. KATARIYA W.WING"
+  },
+  {
+    "partNumber": 345,
+    "partName": "U.P.S..KATARIYA C.WING"
+  },
+  {
+    "partNumber": 346,
+    "partName": "U.P.S. KATARIYA E.WING"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P.S. HIMARDOPUR E.WING"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. HIMARDOPUR W.WING"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S. SARAYMUHAMMADPUR"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S. BAYEPUR"
+  },
+  {
+    "partNumber": 351,
+    "partName": "COMPOSITE SCHOOL SOKANI E.WING"
+  },
+  {
+    "partNumber": 352,
+    "partName": "COMPOSITE SCHOOL SOKANI W.WING"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSITE SCHOOL PURAINA"
+  },
+  {
+    "partNumber": 354,
+    "partName": "COMPOSITE SCHOOL DHARAMMARPUR N.WING"
+  },
+  {
+    "partNumber": 355,
+    "partName": "COMPOSITE SCHOOL DHARAMMARPUR S.WING"
+  },
+  {
+    "partNumber": 356,
+    "partName": "COMPOSITE SCHOOL DHARAMMARPUR E.WING"
+  },
+  {
+    "partNumber": 357,
+    "partName": "COMPOSITE SCHOOL DHARAMMARPUR C.WING"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE SCHOOL DHARAMMARPUR W.WING"
+  }
+]

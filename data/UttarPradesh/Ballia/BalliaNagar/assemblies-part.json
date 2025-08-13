@@ -1,0 +1,1506 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.V. DHARMPURA (E.)"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.V. DHARMPURA (W.)"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.V. KUMHAILA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.V. DHARAHARA (N.)"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.V. DHARAHARA (S.)"
+  },
+  {
+    "partNumber": 6,
+    "partName": "JUNIOR HIGH SCHOOL DHARAHARA"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE VIDYALAY BHARATPURA (N.)"
+  },
+  {
+    "partNumber": 8,
+    "partName": "COMPOSITE VIDYALAY BHARATPURA (S.)"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.V. BRAHMAIN (N.)"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.V. BRAHMAIN (S.)"
+  },
+  {
+    "partNumber": 11,
+    "partName": "COMPOSITE VIDYALAY BRAHMAIN DERA"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.V. PIPARAULI BASANTPUR"
+  },
+  {
+    "partNumber": 13,
+    "partName": "COMPOSITE VIDYALAY BASANTPUR (E.)"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE VIDYALAY BASANTPUR (E.M.)"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOSITE VIDYALAY BASANTPUR (W.M.)"
+  },
+  {
+    "partNumber": 16,
+    "partName": "COMPOSITE VIDYALAY BASANTPUR (W.)"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.V. BASANTPUR NO.-2 (N.)"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.V. BASANTPUR NO.-2 (S.)"
+  },
+  {
+    "partNumber": 19,
+    "partName": "COMPOSITE VIDYALAY HANUMANGANJ (E.)"
+  },
+  {
+    "partNumber": 20,
+    "partName": "COMPOSITE VIDYALAY HANUMANGANJ (W.)"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.V. NONIYA CHHAPARA (JIRABASTI)"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.V. JIRABASTI NO.-1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "UCHCH PRATHIK VIDYALAY JIRABASTI (N.)"
+  },
+  {
+    "partNumber": 24,
+    "partName": "UCHCH PRATHIK VIDYALAY JIRABASTI (S.)"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.V. PATKHAULI (NAGARI) (E.)"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.V. PATKHAULI (NAGARI) (W.)"
+  },
+  {
+    "partNumber": 27,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL DEOKALI (W.)"
+  },
+  {
+    "partNumber": 28,
+    "partName": "ENGLISH MEDIUM PRIMARY SCHOOL DEOKALI (E.)"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.V. BAHADURPUR MU. BRAHMAIN, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.V. BAHADURPUR MU. BRAHMAIN, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.V. BAHADURPUR MU. BRAHMAIN, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.V. BAHADURPUR MU. BRAHMAIN, ROOM-4(W.)"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.V. PARIKHARA (E.)"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.V. PARIKHARA (W.)"
+  },
+  {
+    "partNumber": 35,
+    "partName": "POLYTECHNIC SCHOOL BALLIA (E.)"
+  },
+  {
+    "partNumber": 36,
+    "partName": "POLYTECHNIC SCHOOL BALLIA (W.)"
+  },
+  {
+    "partNumber": 37,
+    "partName": "COMPOSITE VIDYALAY TIKHAMPUR, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE VIDYALAY TIKHAMPUR, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE VIDYALAY TIKHAMPUR, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 40,
+    "partName": "COMPOSITE VIDYALAY TIKHAMPUR, ROOM-4(W.)"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 44,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-4(W.)"
+  },
+  {
+    "partNumber": 45,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-5(M.)"
+  },
+  {
+    "partNumber": 46,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-6(M.)"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE VIDYALAY HARPUR, ROOM-7(W.)"
+  },
+  {
+    "partNumber": 48,
+    "partName": "MUNICIPAL BOARD, BALLIA (N.)"
+  },
+  {
+    "partNumber": 49,
+    "partName": "MUNICIPAL BOARD, BALLIA (S.)"
+  },
+  {
+    "partNumber": 50,
+    "partName": "TOWN DIGREE COLLEGE BALLIA (N.)"
+  },
+  {
+    "partNumber": 51,
+    "partName": "TOWN DIGREE COLLEGE BALLIA (S.)"
+  },
+  {
+    "partNumber": 52,
+    "partName": "TOWN INTER COLLEGE BALLIA (E.)"
+  },
+  {
+    "partNumber": 53,
+    "partName": "TOWN INTER COLLEGE BALLIA (W.)"
+  },
+  {
+    "partNumber": 54,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 55,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 56,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 57,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-4(M.)"
+  },
+  {
+    "partNumber": 58,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-5(M.)"
+  },
+  {
+    "partNumber": 59,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-6(M.)"
+  },
+  {
+    "partNumber": 60,
+    "partName": "KUNWAR SINGH INTER COLLEGE BALLIA, ROOM-7(W.)"
+  },
+  {
+    "partNumber": 61,
+    "partName": "ISLAMIA SCHOOL PARMANDAPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.V. PARMANDAPUR (N.)"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P.V. PARMANDAPUR (S.)"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE VIDYALAY AMADARI"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.V. HAIDARCHAK (E.)"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P.V. HAIDARCHAK (W.)"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.V. PANDEYPUR  (E.)"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P.V. PANDEYPUR (W.)"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.V. BHAGWANPUR"
+  },
+  {
+    "partNumber": 70,
+    "partName": "COMPOSITE VIDYALAY NIDHARIA, ROOM-1(N.)"
+  },
+  {
+    "partNumber": 71,
+    "partName": "COMPOSITE VIDYALAY NIDHARIA, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 72,
+    "partName": "COMPOSITE VIDYALAY NIDHARIA, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 73,
+    "partName": "COMPOSITE VIDYALAY NIDHARIA, ROOM-4(M.)"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSITE VIDYALAY NIDHARIA, ROOM-5(S.)"
+  },
+  {
+    "partNumber": 75,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-1"
+  },
+  {
+    "partNumber": 76,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-2"
+  },
+  {
+    "partNumber": 77,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-3"
+  },
+  {
+    "partNumber": 78,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-4"
+  },
+  {
+    "partNumber": 79,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-5"
+  },
+  {
+    "partNumber": 80,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-6"
+  },
+  {
+    "partNumber": 81,
+    "partName": "FAROGE TALIM A-NISVA UMARGANJ, ROOM-7"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.V. DEORIA KALA"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.V. MANSOORPUR"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.V. NASIRABAD (E.)"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.V. NASIRABAD (W.)"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.V. DARAMPUR"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.V. MALDEPUR NO.1 (N.)"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.V. MALDEPUR NO.1 (S.)"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.V. HAIBATPUR (E.)"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.V. HAIBATPUR (W.)"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PANCHAYAT BHAWAN HAIBATPUR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "COMPOSITE VIDYALAY KHORIPAKAD, ROOM-1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "COMPOSITE VIDYALAY KHORIPAKAD, ROOM-2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "COMPOSITE VIDYALAY KHORIPAKAD, ROOM-3"
+  },
+  {
+    "partNumber": 95,
+    "partName": "P.V. JALALPUR (E.)"
+  },
+  {
+    "partNumber": 96,
+    "partName": "P. V. JALALPUR (W.)"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.V. RAMPUR MAHAWAL, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.V. RAMPUR MAHAWAL, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.V.RAMPUR MAHAWAL, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PANCHAYAT BHAWAN CHANDRASHEKHAR NAGAR, ROOM-1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PANCHAYAT BHAWAN CHANDRASHEKHAR NAGAR, ROOM-2"
+  },
+  {
+    "partNumber": 102,
+    "partName": "MADARSA ANWARUL ULOOM JUNIUR HIGH SCHOOL, BAHERI, ROOM-1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "MADARSA ANWARUL ULOOM JUNIUR HIGH SCHOOL, BAHERI, ROOM-2"
+  },
+  {
+    "partNumber": 104,
+    "partName": "MADARSA ANWARUL ULOOM JUNIUR HIGH SCHOOL, BAHERI, ROOM-3"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.V. BAHERI (E.)"
+  },
+  {
+    "partNumber": 106,
+    "partName": "P.V. BAHERI (M.)"
+  },
+  {
+    "partNumber": 107,
+    "partName": "P.V. BAHERI (W.)"
+  },
+  {
+    "partNumber": 108,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-1"
+  },
+  {
+    "partNumber": 109,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-2"
+  },
+  {
+    "partNumber": 110,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-3"
+  },
+  {
+    "partNumber": 111,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-4"
+  },
+  {
+    "partNumber": 112,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-5"
+  },
+  {
+    "partNumber": 113,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-6"
+  },
+  {
+    "partNumber": 114,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-7"
+  },
+  {
+    "partNumber": 115,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-8"
+  },
+  {
+    "partNumber": 116,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-9"
+  },
+  {
+    "partNumber": 117,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-10"
+  },
+  {
+    "partNumber": 118,
+    "partName": "GOVERNMENT INTER COLLEGE BALLIA, ROOM-11"
+  },
+  {
+    "partNumber": 119,
+    "partName": "TOWN HAL (BAPU BHAWAN) BALLIA (E.)"
+  },
+  {
+    "partNumber": 120,
+    "partName": "TOWN HAL (BAPU BHAWAN) BALLIA (W.)"
+  },
+  {
+    "partNumber": 121,
+    "partName": "COMPOSITE PRATHMIK VIDYALAY AZAD VISHUNIPUR (N.)"
+  },
+  {
+    "partNumber": 122,
+    "partName": "COMPOSITE PRATHMIK VIDYALAY AZAD VISHUNIPUR (S.)"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRATHMIK VIDYALAY VIJAYIPUR (SUBHASH) ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRATHMIK VIDYALAY VIJAYIPUR (SUBHASH ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRATHMIK VIDYALAY VIJAIPUR (SUBHASH) ROOM-3 (M.)"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRATHMIK VIDYALAY VIJAYIPUR (SUBHASH) ROOM-4 (M.)"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PRATHMIK VIDYALAY VIJAYIPUR (SUBHASH) ROOM-5 (W.)"
+  },
+  {
+    "partNumber": 128,
+    "partName": "SRI JATAHA BABA ADARSH MADHYAMIK VIDYALAY BALLIA (E.)"
+  },
+  {
+    "partNumber": 129,
+    "partName": "SRI JATAHA BABA ADARSH MADHYAMIK VIDYALAY BALLIA (W.)"
+  },
+  {
+    "partNumber": 130,
+    "partName": "CHITTU PANDEY P.V. VAJIRAPUR NAGAR KSHETRA BALLIA (E.)"
+  },
+  {
+    "partNumber": 131,
+    "partName": "CHITTU PANDEY P.V. VAJIRAPUR NAGAR KSHETRA BALLIA (W.)"
+  },
+  {
+    "partNumber": 132,
+    "partName": "GULAB DEVI K.H.S. SCHOOL BALLIA, ROOM-1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "GULAB DEVI K.H.S. SCHOOL BALLIA, ROOM-2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "GULAB DEVI K.H.S. SCHOOL BALLIA, ROOM-3"
+  },
+  {
+    "partNumber": 135,
+    "partName": "GULAB DEVI K.H.S. SCHOOL BALLIA, ROOM-4"
+  },
+  {
+    "partNumber": 136,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-3"
+  },
+  {
+    "partNumber": 139,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-4"
+  },
+  {
+    "partNumber": 140,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-5"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JUBALI SANSKRIT COLLEGE BALLIA, ROOM-6"
+  },
+  {
+    "partNumber": 142,
+    "partName": "B.S.A TRAINING HAL (TEHSILI SCHOOL PARISAR)"
+  },
+  {
+    "partNumber": 143,
+    "partName": "COMPOSITE TAHSILI SCHOOL BALLIA, ROOM-1"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE TAHSILI SCHOOL BALLIA, ROOM-2"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE TAHSILI SCHOOL BALLIA, ROOM-3"
+  },
+  {
+    "partNumber": 146,
+    "partName": "COMPOSITE TAHSILI SCHOOL BALLIA, ROOM-4"
+  },
+  {
+    "partNumber": 147,
+    "partName": "B.S.A KARYALAY (TEHSILI SCHOOL PARISAR), ROOM-1"
+  },
+  {
+    "partNumber": 148,
+    "partName": "B.S.A KARYALAY (TEHSILI SCHOOL PARISAR), ROOM-2"
+  },
+  {
+    "partNumber": 149,
+    "partName": "DAYANAND BAL V.M. ARYA SAMAJ ROAD (E.)"
+  },
+  {
+    "partNumber": 150,
+    "partName": "DAYANAND BAL V.M. ARYA SAMAJ ROAD (W.)"
+  },
+  {
+    "partNumber": 151,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-1(N.)"
+  },
+  {
+    "partNumber": 152,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 153,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 154,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-4(M.)"
+  },
+  {
+    "partNumber": 155,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-5(M.)"
+  },
+  {
+    "partNumber": 156,
+    "partName": "LAXMI RAJ DEVI INTER COLLEGE BALLIA, ROOM-6(S.)"
+  },
+  {
+    "partNumber": 157,
+    "partName": "SATISH CHANDRA COLLEGE BALLIA, ROOM-1(N.)"
+  },
+  {
+    "partNumber": 158,
+    "partName": "SATISH CHANDRA COLLEGE BALLIA, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 159,
+    "partName": "SATISH CHANDRA COLLEGE BALLIA, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 160,
+    "partName": "SATISH CHANDRA COLLEGE BALLIA, KAMRA-4(M.)"
+  },
+  {
+    "partNumber": 161,
+    "partName": "SATISH CHANDRA COLLEGE BALLIA, ROOM-5(S.)"
+  },
+  {
+    "partNumber": 162,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 163,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-2(M.)"
+  },
+  {
+    "partNumber": 164,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-3(M.)"
+  },
+  {
+    "partNumber": 165,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-4(M.)"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-5(M.)"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-6(M.)"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOSITE VIDYALAY BHRIGUASHRAM, ROOM-7(M.)"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P. VIDYALAY BHRIGUASHRAM NO.2 ROOM-1"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P. VIDYALAY BHRIGUASHRAM NO.2 ROOM-2"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P. VIDYALAY BHRIGUASHRAM NO.2 ROOM-3"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P. VIDYALAY BHRIGUASHRAM NO.2 ROOM-4"
+  },
+  {
+    "partNumber": 173,
+    "partName": "COMPOSITE VIDYALAY KADAMTAR (N.)"
+  },
+  {
+    "partNumber": 174,
+    "partName": "COMPOSITE VIDYALAY KADAMTAR (N.M.)"
+  },
+  {
+    "partNumber": 175,
+    "partName": "COMPOSITE VIDYALAY KADAMTAR (S.M.)"
+  },
+  {
+    "partNumber": 176,
+    "partName": "COMPOSITE VIDYALAY KADAMTAR (S.)"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.V. AMRITPALI BLOCK-DUBHAR (E.)"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.V. AMRITPALI BLOCK-DUBHAR (W.)"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.V. SUREMANPUR URF PIPARPATI NO-1 (E.)"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.V. SUREMANPUR URF PIPARPATI NO-1 (M.)"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.V. SUREMANPUR URF PIPARPATI NO-1 (W.)"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE VIDYALAY SONADABAR (N.)"
+  },
+  {
+    "partNumber": 183,
+    "partName": "COMPOSITE VIDYALAY SONADABAR (S.)"
+  },
+  {
+    "partNumber": 184,
+    "partName": "COMPOSITE VIDYALAY TAKARSAN (E.)"
+  },
+  {
+    "partNumber": 185,
+    "partName": "COMPOSITE VIDYALAY TAKARSAN (W.)"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.V. GOTHAHULI NO-1 (E.)"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.V. GOTHAHULI NO-1 (W.)"
+  },
+  {
+    "partNumber": 188,
+    "partName": "COMPOSITE VIDYALAY SHANKARPUR (E.)"
+  },
+  {
+    "partNumber": 189,
+    "partName": "COMPOSITE VIDYALAY SHANKARPUR (W.)"
+  },
+  {
+    "partNumber": 190,
+    "partName": "SHRI PARAMHANS INTER COLLAGE MAJHAULI"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.V. BAJAHA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.V. SONPURWA KALA"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.V. TAGHARAULI (E.)"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.V. TAGHARAULI (W.)"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSITE VIDYALAY CHHODAHAR (E.)"
+  },
+  {
+    "partNumber": 196,
+    "partName": "COMPOSITE VIDYALAY CHHODAHAR (W.)"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.V. NAWANAGAR"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.V. GAJIAPUR"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.V. SHRIPUR"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.V. BHIKHPUR"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.V. PARASPUR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "SHAHID JU.H. SCHOOL SALEMPUR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.V. DUBAULI"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.V. GHAGHARAULI"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSITE VIDYALAY DUMARI (E.)"
+  },
+  {
+    "partNumber": 206,
+    "partName": "COMPOSITE VIDYALAY DUMARI (M.)"
+  },
+  {
+    "partNumber": 207,
+    "partName": "COMPOSITE VIDYALAY DUMARI (W.)"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE VIDYALAY SARAYA (E.)"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE VIDYALAY SARAYA (W.)"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.V. FULWARIA (E.)"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.V. FULWARIA (W.)"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P. VIDYALAY BABHANAULI"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PANCHAYAT BHAWAN NARAINPUR"
+  },
+  {
+    "partNumber": 214,
+    "partName": "RAM DAHIN SINGH INTER COLLAGE AAMGHAT (E.)"
+  },
+  {
+    "partNumber": 215,
+    "partName": "RAM DAHIN SINGH INTER COLLAGE AAMGHAT (W.)"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P.V. BRAHMDEVATA"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSITE VIDYALAY SEMARI (E.)"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSITE VIDYALAY SEMARI (W.)"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P.V. DEAULI NO-1"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSIT VIDYALAY CHHATA (W.)"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE VIDYALAY CHHATA (E.)"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.V. CHHATA NO.-1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.V. HARIPUR"
+  },
+  {
+    "partNumber": 224,
+    "partName": "COMPOSITE VIDYALAY RUSTAMPUR"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSITE VIDYALAY KUNWAR JASHAON"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.V. BAGHAULI (E.)"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.V. BAGHAULI (W.)"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.V. MADHOPUR"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.V. PRATAPPUR"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.V. MANIYARI JASHAON"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.V. UDHODAWANI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "JR.H.S. SHITAL DAWANI (E.)"
+  },
+  {
+    "partNumber": 233,
+    "partName": "JR.H.S. SHITAL DAWANI (W.)"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.V. CHANDRAPURA (E.)"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.V. CHANDRAPURA (W.)"
+  },
+  {
+    "partNumber": 236,
+    "partName": "COMPOSITE VIDYALAY TIWARI BARAHATA"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.V. BHUILI"
+  },
+  {
+    "partNumber": 238,
+    "partName": "P.V. SARANK"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.V. BALIPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.V. MISHRAULI"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.V. SHER (E.)"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.V. SHER (M.)"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.V. SHER (W.)"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.V. PATHAKAULI TA. SHER"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.V. SOHILPUR"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.V. CHANDWAK"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.V. PURAS (N.)"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.V. PURAS (S.)"
+  },
+  {
+    "partNumber": 249,
+    "partName": "COMPOSITE VIDYALAY ROHUA (E.)"
+  },
+  {
+    "partNumber": 250,
+    "partName": "COMPOSITE VIDYALAY ROHUA (M.)"
+  },
+  {
+    "partNumber": 251,
+    "partName": "COMPOSITE VIDYALAY ROHUA (W.)"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.V. BASUDHARPAH"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.V. PINDARI"
+  },
+  {
+    "partNumber": 254,
+    "partName": "GOVT.KANYA B.V.RAMPUR TITIHI (E.)"
+  },
+  {
+    "partNumber": 255,
+    "partName": "GOVT.KANYA B.V.RAMPUR TITIHI (M.)"
+  },
+  {
+    "partNumber": 256,
+    "partName": "GOVT.KANYA B.V.RAMPUR TITIHI (W.)"
+  },
+  {
+    "partNumber": 257,
+    "partName": "COMPOSITE VIDYALAY RAMPUR BOHA"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSITE VIDYALAY BIND KE CHHAPARA"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.V. DADA KE CHHAPARA (E.)"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.V. DADA KE CHHAPARA (W.)"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PURWA MADHYAMIK VIDYALAY AKHAR (E.)"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PURWA MADHYAMIK VIDYALAY AKHAR (W.)"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.V. AKHAR"
+  },
+  {
+    "partNumber": 264,
+    "partName": "COMPOSITE VIDYALAY PIPARA"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSITE VIDYALAY SAWARUBANDH (E.)"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE VIDYALAY SAWARUBANDH (M.)"
+  },
+  {
+    "partNumber": 267,
+    "partName": "COMPOSITE VIDYALAY SAWARUBANDH (W.)"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.V. UDAYPURA (N.)"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.V. UDAYPURA (S.)"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.V. JAMUA, ROOM-1 (S.)"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.V. JAMUA, ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.V. JAMUA, ROOM-3 (M.)"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.V. JAMUA, ROOM-4 (M.)"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.V. JAMUA, ROOM-5 (N.)"
+  },
+  {
+    "partNumber": 275,
+    "partName": "JR.H. SCHOOL JAMUA"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.V. SAHARASPALI, ROOM-1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.V. SAHARASPALI, ROOM-2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.V. SAHARASPALI, ROOM-3"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.V. BANDHUCHAK, ROOM-1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.V. BANDHUCHAK, ROOM-2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.V. PANDEYPUR (E.)"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.V. PANDEYPUR (W.)"
+  },
+  {
+    "partNumber": 283,
+    "partName": "P.V. SHIVRAMPUR (N.)"
+  },
+  {
+    "partNumber": 284,
+    "partName": "P.V. SHIVRAMPUR (M.)"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.V. SHIVRAMPUR (S.)"
+  },
+  {
+    "partNumber": 286,
+    "partName": "COMPOSITE VIDYALAY GHODAHARA (E.)"
+  },
+  {
+    "partNumber": 287,
+    "partName": "COMPOSITE VIDYALAY GHODAHARA (M.)-1"
+  },
+  {
+    "partNumber": 288,
+    "partName": "COMPOSITE VIDYALAY GHODAHARA (M.)-2"
+  },
+  {
+    "partNumber": 289,
+    "partName": "COMPOSITE VIDYALAY GHODAHARA (W.)"
+  },
+  {
+    "partNumber": 290,
+    "partName": "KANYA P.V.SHIVPUR DIYAR NEW BASTI, ROOM-1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "KANYA P.V.SHIVPUR DIYAR NEW BASTI, ROOM-2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "KANYA P.V.SHIVPUR DIYAR NEW BASTI, ROOM-3"
+  },
+  {
+    "partNumber": 293,
+    "partName": "KANYA P.V.SHIVPUR DIYAR NEW BASTI, ROOM-4"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.V. SHIVPUR DIYAR NO-1, ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.V. SHIVPUR DIYAR NO-1, ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.V. SHIVPUR DIYAR NO-1, ROOM-3 (M.)"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.V. SHIVPUR DIYAR NO-1, ROOM-4 (W.)"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE VIDYALAY MAFI DUBAHAD"
+  },
+  {
+    "partNumber": 299,
+    "partName": "SHAHID MANGAL PANDEY INTER COLLAGE NAGWA, ROOM-1(E.)"
+  },
+  {
+    "partNumber": 300,
+    "partName": "SHAHID MANGAL PANDEY INTER COLLAGE NAGWA,  ROOM-2(M.)"
+  },
+  {
+    "partNumber": 301,
+    "partName": "SHAHID MANGAL PANDEY INTER COLLAGE NAGWA,  ROOM-3(W.)"
+  },
+  {
+    "partNumber": 302,
+    "partName": "COMPOSITE VIDYALAY NAGWA (S.)"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE VIDYALAY NAGWA (N.)"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE VIDYALAY JANARI (E.)"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE VIDYALAY JANARI (M.)"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOSITE VIDYALAY JANARI (N.)"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOSITE VIDYALAY JANARI (S.)"
+  },
+  {
+    "partNumber": 308,
+    "partName": "RAM SINHASHAN KISAN INTER COLLEGE, DUBAHAD (E.)"
+  },
+  {
+    "partNumber": 309,
+    "partName": "RAM SINHASHAN KISAN INTER COLLEGE, DUBAHAD (M.)"
+  },
+  {
+    "partNumber": 310,
+    "partName": "RAM SINHASHAN KISAN INTER COLLEGE, DUBAHAD (W.)"
+  },
+  {
+    "partNumber": 311,
+    "partName": "KAMLA DEVI BAJORIYA DEGREE COLLEGE, DUBAHAD, ROOM-1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "KAMLA DEVI BAJORIYA DEGREE COLLEGE, DUBAHAD, ROOM-2"
+  },
+  {
+    "partNumber": 313,
+    "partName": "KAMLA DEVI BAJORIYA DEGREE COLLEGE, DUBAHAD, ROOM-3"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.V. DUBAHAD (E.)"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P.V. DUBAHAD (W.)"
+  },
+  {
+    "partNumber": 316,
+    "partName": "COMPOSITE VIDYALAY SHIVPUR DIYAR NUMBARI ESTHIT DERA KESHAV SINGH (E.)"
+  },
+  {
+    "partNumber": 317,
+    "partName": "COMPOSITE VIDYALAY SHIVPUR DIYAR NUMBARI ESTHIT DERA KESHAV SINGH (M.)"
+  },
+  {
+    "partNumber": 318,
+    "partName": "COMPOSITE VIDYALAY SHIVPUR DIYAR NUMBARI ESTHIT DERA KESHAV SINGH (W.)"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P V SHIVPUR DIAR No 5 (E)"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P V SHIVPUR DIAR No 5 (W)"
+  },
+  {
+    "partNumber": 321,
+    "partName": "COMPOSITE VIDYALAY PRANPUR (SHIVPUR DIYAR SOMALI)"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.V. SHIVPUR DIYAR NO.-3 (DERA KRIPA RAI) (N.)"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.V. SHIVPUR DIYAR NO.-3 (DERA KRIPA RAI) (M.)"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.V. SHIVPUR DIYAR NO.-3 (DERA KRIPA RAI) (S.)"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P.V. SHIVPUR DIYAR NO.-4 (DERA DEVI RAI)"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE VIDYALAY OJHAWALIA (E.)"
+  },
+  {
+    "partNumber": 327,
+    "partName": "COMPOSITE VIDYALAY OJHAWALIA (W.)"
+  },
+  {
+    "partNumber": 328,
+    "partName": "P.V. KACHHUA (E.)"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.V. KACHHUA (W.)"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.V. BASARIKAPUR (E.)"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.V. BASARIKAPUR (W.)"
+  },
+  {
+    "partNumber": 332,
+    "partName": "UCHCH P. VIDYALAY SNATH PANDEY KE CHHAPARA, DUBHAR (E.)"
+  },
+  {
+    "partNumber": 333,
+    "partName": "UCHCH P. VIDYALAY SNATH PANDEY KE CHHAPARA, DUBHARA (W.)"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.V. DOPAHI AGARAULI (E.)"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.V. DOPAHI AGARAULI (W.)"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.V. NIROOPUR (E.)"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.V. NIROOPUR (M.)"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.V. NIROOPUR (W.)"
+  },
+  {
+    "partNumber": 339,
+    "partName": "U.M.V. NIROOPUR (N.)"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.M.V. NIROOPUR (S.)"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.V. REPURA, ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.V. REPURA, ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.V. REPURA, ROOM-3 (M.)"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.V. REPURA, ROOM-4 (M.)"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P.V. REPURA, ROOM-5 (W.)"
+  },
+  {
+    "partNumber": 346,
+    "partName": "COMPOSITE VIDYALAY HARIHARPUR ESTHIT GRAM REPURA"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P.V. RAJPUR (BADAKI BARI AKAUNA) (E.)"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.V. UDAWAN CHHAPARA (E.)"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.V. UDAWAN CHHAPARA (W.)"
+  },
+  {
+    "partNumber": 350,
+    "partName": "U.M.V. JAWAHI DIYAR, ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 351,
+    "partName": "U.M.V. JAWAHI DIYAR, ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 352,
+    "partName": "U.M.V. JAWAHI DIYAR, ROOM-3 (W.)"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSITE VIDYALAY BAJARAHA (N.)"
+  },
+  {
+    "partNumber": 354,
+    "partName": "COMPOSITE VIDYALAY BAJARAHA (S.)"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P.V. PARSIYA NO.-1 (SIHAKUND), ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.V. PARSIYA NO.-1 (SIHAKUND), ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.V. PARSIYA NO.-1 (SIHAKUND), ROOM-3 (W.)"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE VIDYALAY PARSIYA (E.)"
+  },
+  {
+    "partNumber": 359,
+    "partName": "COMPOSITE VIDYALAY PARSIYA (W.)"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.V. SULTANPUR (E.)"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.V. SULTANPUR (W.)"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.V. BHARSAUTA (E.)"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.V. BHARSAUTA (W.)"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P.V. NANDPUR (E.)"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.V. NANDPUR (W.)"
+  },
+  {
+    "partNumber": 366,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-1 (E.)"
+  },
+  {
+    "partNumber": 367,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-2 (M.)"
+  },
+  {
+    "partNumber": 368,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-3 (M.)"
+  },
+  {
+    "partNumber": 369,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-4 (M.)"
+  },
+  {
+    "partNumber": 370,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-5 (M.)"
+  },
+  {
+    "partNumber": 371,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-6 (M.)"
+  },
+  {
+    "partNumber": 372,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-7 (E.)"
+  },
+  {
+    "partNumber": 373,
+    "partName": "COMPOSITE VIDYALAY HALDI, ROOM-8 (W.)"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P.V. HALDI NO.-2"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.V. NEMCHHAPARA MU. HALDI (E.)"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.V. NEMCHHAPARA MU. HALDI (W.)"
+  }
+]

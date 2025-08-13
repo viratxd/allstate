@@ -1,0 +1,1598 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P. V. VISAULI (R. N. - 1)"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P. V. VISAULI (R. N. - 2)"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P. V. HUSENPUR"
+  },
+  {
+    "partNumber": 4,
+    "partName": "COMPOSIT  VIDYALAY RAVANPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "S. S. S. JANAKIPUR"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P. V. BASAHI JARMAJEPUR (R. N. - 1)"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P. V. BASAHI JARMAJEPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P. V. EKAMA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P. V. DHADHANI"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P. V. NASEERUDDINPUR (R. N. - 1)"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P. V. NASEERUDDINPUR (R. N. - 2)"
+  },
+  {
+    "partNumber": 12,
+    "partName": "S. K. AWATI"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P. V. NAIPURA (R.N.- 1)"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P. V. NAIPURA (R.N.- 2)"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOSIT VIDYALAY KHOJAPUR MADHOPATTI"
+  },
+  {
+    "partNumber": 16,
+    "partName": "JACHCHABACHCHA KENDRA MANIKPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P. V. BHORRAMAKBOOLPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P. V. BHORRAMAKBOOLPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P. V. BHORRAMAKBOOLPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 20,
+    "partName": "COMPOSIT VIDYALAY GYASPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 21,
+    "partName": "COMPOSIT VIDYALAY GYASPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 22,
+    "partName": "COMPOSIT VIDYALAY GYASPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 23,
+    "partName": "COMPOSIT VIDYALAY GYASPUR (R. N. - 4)"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P. V. GANGATIYA"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P. V. LEDUWA"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSIT VIDYALAY ARAYA"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PANCHYAT BHAWAN RAMPUR SUDI CHAKRAJA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P. V. PATHKHAULI"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.M.V. SEMARA"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P. V. LILAPUR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "COMPOSIT VIDYALAY MATAULIPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 32,
+    "partName": "COMPOSIT VIDYALAY MATAULIPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.V. KHOJAPUR CHAKDEEH"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.M.V. BUDAITHA"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P. V. CHAKENAMI (R.N.- 1)"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P. V. CHAKENAMI (R.N.- 2)"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P. V. CHAKMUNAUWAR"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSIT VIDYALAY HASAPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSIT VIDYALAY HASAPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PANCHYAT BHAWAN KISHUNDASPUR"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P. V. GODHAPUR"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P. M. V. MUJAFFARPUR"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P. V. MUJAFFARPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P. V. MUJAFFARPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P. M. V. KAMHENPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P. M. V. KAMHENPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P. V. MATANPUR"
+  },
+  {
+    "partNumber": 48,
+    "partName": "GANDHI GURUKUL I.C. BHAWARNATH (R.N.- 1)"
+  },
+  {
+    "partNumber": 49,
+    "partName": "GANDHI GURUKUL I.C. BHAWARNATH (R.N.- 2)"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P. V. HARIPUR"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P. V. HARAIYA (R.N.- 1)"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P. V. HARAIYA (R.N.- 2)"
+  },
+  {
+    "partNumber": 53,
+    "partName": "COMPOSIT VIDYALAY SARAY MANDRAJ"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PYALET WORKSHOP DEVPAR"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P. V. SEHADA (R.N.- 1)"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P. V. SEHADA (R.N.- 2)"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P. V. MADHDHUPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P. V. MADHDHUPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 59,
+    "partName": "COMPOSIT VIDYALAY KARENHUWA (R.N.- 1)"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSIT VIDYALAY KARENHUWA (R.N.- 2)"
+  },
+  {
+    "partNumber": 61,
+    "partName": "SAMUDIYAK SWASTH KENDRA KISHUNDASHPUR -2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "COMPOSIT VIDYALAY HARAKHUPUR"
+  },
+  {
+    "partNumber": 63,
+    "partName": "COMPOSIT VIDYALAY HARIHARPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSIT VIDYALAY HARIHARPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P. V. SALEMPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P. V. SALEMPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 67,
+    "partName": "ENGLISH MEDIUM P. V. LACHCHIRAMPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 68,
+    "partName": "ENGLISH MEDIUM P. V. LACHCHIRAMPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 69,
+    "partName": "KENDRIYA VIDYALAY HEERAPATTI (R.N.- 1)"
+  },
+  {
+    "partNumber": 70,
+    "partName": "KENDRIYA VIDYALAY HEERAPATTI (R.N.- 2)"
+  },
+  {
+    "partNumber": 71,
+    "partName": "KENDRIYA VIDYALAY HEERAPATTI (R.N.- 3)"
+  },
+  {
+    "partNumber": 72,
+    "partName": "KENDRIYA VIDYALAY HEERAPATTI (R.N.- 4)"
+  },
+  {
+    "partNumber": 73,
+    "partName": "COMPOSIT VIDYALAY SIKRAURA (R.N.- 1)"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSIT VIDYALAY SIKRAURA (R.N.- 2)"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P. V. NAMDARPUR"
+  },
+  {
+    "partNumber": 76,
+    "partName": "ENGLISH MEDIUM P. V. AZAMPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 77,
+    "partName": "ENGLISH MEDIUM P. V. AZAMPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 78,
+    "partName": "ENGLISH MEDIUM P. V. AZAMPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P. V. BALRAMPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P. V. BALRAMPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P. V. BALRAMPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P. V. BALRAMPUR (R.N.- 4)"
+  },
+  {
+    "partNumber": 83,
+    "partName": "J.H.S. HAFIZPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 84,
+    "partName": "J.H.S. HAFIZPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P. P. HAFIZPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P. P. HAFIZPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSIT VIDYALAY UKRAUDA (R.N.- 1)"
+  },
+  {
+    "partNumber": 88,
+    "partName": "COMPOSIT VIDYALAY UKRAUDA  (R.N.- 2)"
+  },
+  {
+    "partNumber": 89,
+    "partName": "COMPOSIT VIDYALAY UKRAUDA (R.N.- 3)"
+  },
+  {
+    "partNumber": 90,
+    "partName": "COMPOSIT VIDYALAY UKRAUDA (R.N.- 4)"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P. V. KOTHARA "
+  },
+  {
+    "partNumber": 92,
+    "partName": "P. V. KAKARHATA (R.N.- 1)"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P. V. KAKARHATA (R.N.- 2)"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P. V. KAKARHATA (R.N.- 3)"
+  },
+  {
+    "partNumber": 95,
+    "partName": "SAMUDIYAK MILAN KENDRA KOL"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSIT VIDYALAY MANCHOBHA (R.N.- 1)"
+  },
+  {
+    "partNumber": 97,
+    "partName": "COMPOSIT VIDYALAY MANCHOBHA (R.N.- 2)"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PANCHYAT BHAWAN MAMARKHAPUR  (R.N.- 1)"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PANCHYAT BHAWAN MAMARKHAPUR  (R.N.- 2)"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P. V. MOJARAPUR"
+  },
+  {
+    "partNumber": 101,
+    "partName": "AMBEDKAR P. V. CHANDAUKA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P. V. GANGAPUR"
+  },
+  {
+    "partNumber": 103,
+    "partName": "COMPOSIT VIDYALAY BADDOPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 104,
+    "partName": "COMPOSIT VIDYALAY BADDOPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 105,
+    "partName": "COMPOSIT VIDYALAY BADDOPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 106,
+    "partName": "COMPOSIT VIDYALAY BADDOPUR (R.N.- 4)"
+  },
+  {
+    "partNumber": 107,
+    "partName": "COMPOSIT VIDYALAY KAREEMUDDINPUR"
+  },
+  {
+    "partNumber": 108,
+    "partName": "ENGLISH MEDIUM P. S. SHEKHPURA (R.N.- 1)"
+  },
+  {
+    "partNumber": 109,
+    "partName": "ENGLISH MEDIUM P. S. SHEKHPURA (R.N.- 2)"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P. V. AHOPATTI (R.N.- 1)"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P. V. AHOPATTI (R.N.- 2)"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSIT VIDYALAY PATHKHAULI (R.N.- 1)"
+  },
+  {
+    "partNumber": 113,
+    "partName": "COMPOSIT VIDYALAY PATHKHAULI (R.N.- 2)"
+  },
+  {
+    "partNumber": 114,
+    "partName": "COMPOSIT VIDYALAY BRAHMASTHAN (R.N.- 1)"
+  },
+  {
+    "partNumber": 115,
+    "partName": "COMPOSIT VIDYALAY BRAHMASTHAN (R.N.- 2)"
+  },
+  {
+    "partNumber": 116,
+    "partName": "S.K.P.I.COLLEGE AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 117,
+    "partName": "S.K.P.I.COLLEGE AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 118,
+    "partName": "S.K.P.I.COLLEGE AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 119,
+    "partName": "S.K.P.I.COLLEGE AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 120,
+    "partName": "S.K.P.I.COLLEGE AZAMGARH (R.N.- 5)"
+  },
+  {
+    "partNumber": 121,
+    "partName": "SHIBLI NATIONAL I.C. AZAMGARH (R.N.-1)"
+  },
+  {
+    "partNumber": 122,
+    "partName": "SHIBLI NATIONAL I.C. AZAMGARH (R.N.-2)"
+  },
+  {
+    "partNumber": 123,
+    "partName": "SHIBLI NATIONAL I.C. AZAMGARH (R.N.-3)"
+  },
+  {
+    "partNumber": 124,
+    "partName": "SHIBLI NATIONAL I.C. AZAMGARH (R.N.-4)"
+  },
+  {
+    "partNumber": 125,
+    "partName": "SHIBLI NATIONAL I.C. AZAMGARH (R.N.-5)"
+  },
+  {
+    "partNumber": 126,
+    "partName": "SHIBLI NATIONAL DIGREE COLLEGE AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 127,
+    "partName": "SHIBLI NATIONAL DIGREE COLLEGE AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 128,
+    "partName": "SHIBLI NATIONAL DIGREE COLLEGE AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 129,
+    "partName": "SHIBLI NATIONAL DIGREE COLLEGE AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 130,
+    "partName": "SHIBLI NATIONAL DIGREE COLLEGE AZAMGARH (R.N.- 5)"
+  },
+  {
+    "partNumber": 131,
+    "partName": "GOVERNMENT POLYTECHNIC AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 132,
+    "partName": "GOVERNMENT POLYTECHNIC AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 133,
+    "partName": "GOVERNMENT POLYTECHNIC AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 134,
+    "partName": "GOVERNMENT POLYTECHNIC AZAMGARH  (R.N.- 4)"
+  },
+  {
+    "partNumber": 135,
+    "partName": "GOVERNMENT POLYTECHNIC AZAMGARH (R.N.- 5)"
+  },
+  {
+    "partNumber": 136,
+    "partName": "J.H.S. KURAISIYA (R.N.- 1)"
+  },
+  {
+    "partNumber": 137,
+    "partName": "J.H.S. KURAISIYA (R.N.- 2)"
+  },
+  {
+    "partNumber": 138,
+    "partName": "J.H.S. KURAISIYA (R.N.- 3)"
+  },
+  {
+    "partNumber": 139,
+    "partName": "J.H.S. KURAISIYA (R.N.- 4)"
+  },
+  {
+    "partNumber": 140,
+    "partName": "J.H.S. KURAISIYA (R.N.- 5)"
+  },
+  {
+    "partNumber": 141,
+    "partName": "SIBLI NATINOL GRILS H.S. AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 142,
+    "partName": "SIBLI NATINOL GRILS H.S. AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 143,
+    "partName": "SIBLI NATINOL GRILS H.S. AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 144,
+    "partName": "SIBLI NATINOL GRILS H.S. AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 145,
+    "partName": "MADARASA NISWA PAHADPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 146,
+    "partName": "MADARASA NISWA PAHADPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 147,
+    "partName": "AGRASEN DIGREE MAHAVIDYALAY AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 148,
+    "partName": "AGRASEN DIGREE MAHAVIDYALAY AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 149,
+    "partName": "AGRASEN DIGREE MAHAVIDYALAY AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 150,
+    "partName": "COMPOSIT VIDYALAY  GANGA RAI (R.N.- 1)"
+  },
+  {
+    "partNumber": 151,
+    "partName": "COMPOSIT VIDYALAY  GANGA RAI (R.N.- 2)"
+  },
+  {
+    "partNumber": 152,
+    "partName": "COMPOSIT VIDYALAY  GANGA RAI (R.N.- 3)"
+  },
+  {
+    "partNumber": 153,
+    "partName": "COMPOSIT VIDYALAY  GANGA RAI (R.N.- 4)"
+  },
+  {
+    "partNumber": 154,
+    "partName": "COMPOSIT VIDYALAY GANGA RAI (R.N.- 5)"
+  },
+  {
+    "partNumber": 155,
+    "partName": "COMPOSIT VIDYALAY GANGA RAI (R.N.- 6)"
+  },
+  {
+    "partNumber": 156,
+    "partName": "COMPOSIT VIDYALAY GANGA RAI (R.N.- 7)"
+  },
+  {
+    "partNumber": 157,
+    "partName": "COMPOSIT VIDYALAY GANGA RAI (R.N.- 8)"
+  },
+  {
+    "partNumber": 158,
+    "partName": "AGRASEN K.P. V. AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 159,
+    "partName": "AGRASEN K.P. V. AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 160,
+    "partName": "AGRASEN K.P. V. AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 161,
+    "partName": "AGRASEN K.P. V. AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 162,
+    "partName": "WESLI INTER COLLEGE AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 163,
+    "partName": "WESLI INTER COLLEGE AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 164,
+    "partName": "WESLI INTER COLLEGE AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 165,
+    "partName": "WESLI INTER COLLEGE AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSIT VIDYALAY KANYA ELVAL (R.N.- 1)"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOSIT VIDYALAY KANYA ELVAL (R.N.- 2)"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOSIT VIDYALAY KANYA ELVAL (R.N.- 3)"
+  },
+  {
+    "partNumber": 169,
+    "partName": "COMPOSIT VIDYALAY KANYA ELVAL (R.N.- 4)"
+  },
+  {
+    "partNumber": 170,
+    "partName": "COMPOSIT VIDYALAY KANYA ELVAL (R.N.- 5)"
+  },
+  {
+    "partNumber": 171,
+    "partName": "D.A.V. DIGREE COLLEGE AZAMGARH(R.N.- 1)"
+  },
+  {
+    "partNumber": 172,
+    "partName": "D.A.V. DIGREE COLLEGEAZAMGARH  (R.N.- 2)"
+  },
+  {
+    "partNumber": 173,
+    "partName": "D.A.V. DIGREE COLLEGE AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 174,
+    "partName": "D.A.V. DIGREE COLLEGE AZAMGARH (R.N.- 4)"
+  },
+  {
+    "partNumber": 175,
+    "partName": "D.A.V. DIGREE COLLEGE AZAMGARH (R.N.- 5)"
+  },
+  {
+    "partNumber": 176,
+    "partName": "D.A.V. INTER COLLEGE AZAMGARH (R.N.- 1)"
+  },
+  {
+    "partNumber": 177,
+    "partName": "D.A.V. INTER COLLEGE AZAMGARH (R.N.- 2)"
+  },
+  {
+    "partNumber": 178,
+    "partName": "D.A.V. INTER COLLEGE AZAMGARH (R.N.- 3)"
+  },
+  {
+    "partNumber": 179,
+    "partName": "COMPOSIT VIDYALAY MADAYA JAYRAM (R.N.- 1)"
+  },
+  {
+    "partNumber": 180,
+    "partName": "COMPOSIT VIDYALAY  MADAYA JAYRAM (R.N.- 2)"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSIT VIDYALAY MADAYA JAYRAM (R.N.- 3)"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.M.V. KOL PANDEY (R.N.- 1)"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.M.V. KOL PANDEY (R.N.- 2)"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P. V. KOL BAJ BAHADUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P. V. KOL BAJ BAHADUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P. V. KOL BAJ BAHADUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 187,
+    "partName": "COMPOSIT VIDYALAY BAGLAKHRANW"
+  },
+  {
+    "partNumber": 188,
+    "partName": "ENGLISH MEDIUM P. S. EKRAMPUR"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P. V. JAFARPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P. V. JAFARPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P. V. JAFARPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P. V. JAFARPUR (R.N.- 4)"
+  },
+  {
+    "partNumber": 193,
+    "partName": "SRI KRISHANA J.H.S. JAFARPUR (R.N.-1)"
+  },
+  {
+    "partNumber": 194,
+    "partName": "SRI KRISHANA J.H.S. JAFARPUR (R.N.-2)"
+  },
+  {
+    "partNumber": 195,
+    "partName": "SRI KRISHANA J.H.S. JAFARPUR (R.N.-3)"
+  },
+  {
+    "partNumber": 196,
+    "partName": "SRI KRISHANA J.H.S. JAFARPUR (R.N.-4)"
+  },
+  {
+    "partNumber": 197,
+    "partName": "COMPOSIT VIDYALAY CHAKGORAYA"
+  },
+  {
+    "partNumber": 198,
+    "partName": "DR. A.J.H.S. HARVANSHPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 199,
+    "partName": "DR. A.J.H.S. HARVANSHPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 200,
+    "partName": "DR. A.J.H.S. HARVANSHPUR (R.N.- 3)"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSIT VIDYALAY STATION"
+  },
+  {
+    "partNumber": 202,
+    "partName": "COMPOSIT VIDYALAY NARAULI (R.N.- 1)"
+  },
+  {
+    "partNumber": 203,
+    "partName": "COMPOSIT VIDYALAY NARAULI (R.N.- 2)"
+  },
+  {
+    "partNumber": 204,
+    "partName": "COMPOSIT VIDYALAY NARAULI (R.N.- 3)"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P. V. PALHANI (R.N.- 1)"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P. V. PALHANI (R.N.- 2)"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P. V. PALHANI (R.N.- 3)"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P. V. PALHANI (R.N.- 4)"
+  },
+  {
+    "partNumber": 209,
+    "partName": "S. MILAN KENDRA JAGDISHPUR (SALARPUR)"
+  },
+  {
+    "partNumber": 210,
+    "partName": "J.H.S. PALHANI (R.N.- 1)"
+  },
+  {
+    "partNumber": 211,
+    "partName": "J.H.S. PALHANI (R.N.- 2)"
+  },
+  {
+    "partNumber": 212,
+    "partName": "J.H.S. PALHANI (R.N.- 3)"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P. V. SIDHARI (R.N.- 1)"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P. V. SIDHARI (R.N.- 2)"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P. V. SIDHARI (R.N.- 3)"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P. V. SIDHARI (R.N.- 4)"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSIT VIDYALAY SIDHARI HYDEL COLONY (R.N.- 1)"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSIT VIDYALAY SIDHARI HYDEL COLONY (R.N.- 2)"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSIT VIDYALAY SIDHARI HYDEL COLONY (R.N.- 3)"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSIT VIDYALAY SIDHARI HYDEL COLONY (R.N.- 4)"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P. V. DUGDUGAWA (R.N.- 1)"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P. V. DUGDUGAWA (R.N.- 2)"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P. V. HATHIYA (R.N.- 1)"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P. V. HATHIYA (R.N.- 2)"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P. V. SAMMOPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P. V. SAMMOPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P. V. JAYRAMPUR"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P. V. HENGAPUR"
+  },
+  {
+    "partNumber": 229,
+    "partName": "COMPOSIT VIDYALAY KATGHAR SADAR (R.N.- 1)"
+  },
+  {
+    "partNumber": 230,
+    "partName": "COMPOSIT VIDYALAY KATGHAR SADAR (R.N.- 2)"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P. V. BHAGMALPUR URF DHANAKPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "J.H.S. GOPALPUR"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSIT VIDYALAY JAMALPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSIT VIDYALAY JAMALPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P. V. NIBI (R.N.- 1)"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P. V. NIBI (R.N.- 2)"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSIT VIDYALAY  SHAHKUNDANPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSIT VIDYALAY SHAHKUNDANPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P. V. MITRASENPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSIT VIDYALAY MUHAMMADALLA (R.N.- 1)"
+  },
+  {
+    "partNumber": 241,
+    "partName": "COMPOSIT VIDYALAY MUHAMMADALLA (R.N.- 2)"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P. V. GELWARA (R.N.- 1)"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P. V. GELWARA (R.N.- 2)"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P. V. BHADULI (R.N.- 1)"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P V BHADULI (R. N. - 2)"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P. V. BHADULI (R.N.- 3)"
+  },
+  {
+    "partNumber": 247,
+    "partName": "COMPOSIT VIDYALAY MAJHGANWA (R.N.- 1)"
+  },
+  {
+    "partNumber": 248,
+    "partName": "COMPOSIT VIDYALAY MAJHGANWA (R.N.- 2)"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P. V. JAMURPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P. V. JAMURPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P. V. CHADAI (R.N.- 1)"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P. V. CHADAI (R.N.- 2)"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P. V. BAKIPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P. V. BAKIPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P. V.  CHAK KOTHIYA  (R.N.- 1)"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P. V.  CHAK KOTHIYA (R.N.- 2)"
+  },
+  {
+    "partNumber": 257,
+    "partName": "COMPOSIT VIDYALAY BADAYA (R.N.- 1)"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSIT VIDYALAY BADAYA (R.N.- 2)"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSIT VIDYALAY ISHWARPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSIT VIDYALAY ISHWARPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 261,
+    "partName": "KSHETRIYA SAHKARI SAMITI MAHMOODPUR"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P. V. MALIKSHAHPUR"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P. V. CHOOHADPUR"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.B. GOPALPUR"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSIT VIDYALAY HASANPUR"
+  },
+  {
+    "partNumber": 266,
+    "partName": "RAHUL SANKRITYAYAN P. V. PANDAHA"
+  },
+  {
+    "partNumber": 267,
+    "partName": "ENGLISH MEDIUM P.M.V. RANI KI SARAI (R.N.- 1)"
+  },
+  {
+    "partNumber": 268,
+    "partName": "ENGLISH MEDIUM P.M.V. RANI KI SARAI (R.N.- 2)"
+  },
+  {
+    "partNumber": 269,
+    "partName": "ENGLISH MEDIUM P.M.V. RANI KI SARAI (R.N.- 3)"
+  },
+  {
+    "partNumber": 270,
+    "partName": "RAHUL ENGLISH MEDIUM P.S. RANI KI SARAI (R.N.- 1)"
+  },
+  {
+    "partNumber": 271,
+    "partName": "RAHUL ENGLISH MEDIUM P.S. RANI KI SARAI (R.N.- 2)"
+  },
+  {
+    "partNumber": 272,
+    "partName": "COMPOSIT VIDYALAY CHAK SETHWAL"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P. V. SARAY JAGARNATH"
+  },
+  {
+    "partNumber": 274,
+    "partName": "J.H.S. HAMEEDPUR"
+  },
+  {
+    "partNumber": 275,
+    "partName": "COMPOSIT VIDYALAY KOTAWA (R.N.- 1)"
+  },
+  {
+    "partNumber": 276,
+    "partName": "COMPOSIT VIDYALAY KOTAWA (R.N.- 2)"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P. V. SEMRAHA (R.N.- 1)"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P. V. SEMRAHA (R.N.- 2)"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P. V. KHAIRPUR JAGJEEVAN"
+  },
+  {
+    "partNumber": 280,
+    "partName": "ENGLISH MEDIUM P. V. KHAIRA (R.N.- 1)"
+  },
+  {
+    "partNumber": 281,
+    "partName": "ENGLISH MEDIUM P. V. KHAIRA (R.N.- 2)"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PANCHYAT BHAWAN GHATIPATTI"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSIT VIDYALAY KOTILA (R.N.- 1)"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSIT VIDYALAY  KOTILA (R.N.- 2)"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSIT VIDYALAY KOTILA (R.N.- 3)"
+  },
+  {
+    "partNumber": 286,
+    "partName": "AMBEDKAR P.V. KOTILA"
+  },
+  {
+    "partNumber": 287,
+    "partName": "SAMUDAYIK MILAN KENDRA MALIKHUSENPUR"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P. V. ANAURA (R.N.- 1)"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P. V. ANAURA (R.N.- 2)"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P. V. FIRADUPUR"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P. V. SONWARA (R.N.- 1)"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P. V. SONWARA (R.N.- 2)"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P. V. SONWARA (R.N.- 3)"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P. V. DAUDPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P. V. DAUDPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 296,
+    "partName": "ENGLISH MEDIUM P.S. MOMARIJPUR"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P. V. SHAHKHAJURA (R.N.- 1)"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P. V. SHAHKHAJURA (R.N.- 2)"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.M.V. TENGARPUR"
+  },
+  {
+    "partNumber": 300,
+    "partName": "J.H.S. NATTHUPUR"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P. V. SAMMOPUR AEMA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P. V. SAMMOPUR KHALSA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P. V. JALALPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P. V. JALALPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P. V. NEWRAHI"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P. V. GOHUKHOR"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PANCHYAT BHAWAN RUDARI"
+  },
+  {
+    "partNumber": 308,
+    "partName": "ENGLISH MEDIUM P.S. RUDARI (R.N.- 1)"
+  },
+  {
+    "partNumber": 309,
+    "partName": "ENGLISH MEDIUM P.S. RUDARI (R.N.- 2)"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P. V. LACHCHIRAMPUR"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P. V. TILAMAPUR"
+  },
+  {
+    "partNumber": 312,
+    "partName": "COMPOSIT VIDYALAY MOLANAPUR MAFI  (R.N.- 1)"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSIT VIDYALAY MOLANAPUR MAFI (R.N.- 2)"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSIT VIDYALAY TAMAULI (R.N.- 1)"
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSIT VIDYALAY TAMAULI (R.N.- 2)"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P. V. SAIDPUR"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P. V. MAKHDUMPUR"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P. V. SALARPUR"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P. V. JIREEKPUR"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PANCHYAT BHAWAN GIRDHARPUR"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P. V. PAKADI"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P. V. HUSENGANJ (R.N.- 1)"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P. V. HUSENGANJ (R.N.- 2)"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P. V. SARAYSADI"
+  },
+  {
+    "partNumber": 325,
+    "partName": "ENGLISH MEDIUM P. S. HAIDRABAD URF CHHATWARA (R.N.- 1)"
+  },
+  {
+    "partNumber": 326,
+    "partName": "ENGLISH MEDIUM P. S. HAIDRABAD URF CHHATWARA (R.N.- 2)"
+  },
+  {
+    "partNumber": 327,
+    "partName": "ENGLISH MEDIUM P. S. HAIDRABAD URF CHHATWARA (R.N.- 3)"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PANCHAYAT BHAWAN GAURDEEH KHALSA (R.N.- 1)"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PANCHAYAT BHAWAN GAURDEEH KHALSA (R.N.- 2)"
+  },
+  {
+    "partNumber": 330,
+    "partName": "COMPOSIT VIDYALAY BAYASI"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P. V. UNCHAGANW (R.N.- 1)"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P. V. UNCHAGANW (R.N.- 2)"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P. V. UNCHAGANW (R.N.- 3)"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P. V. UNJI JALAIPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P. V. UNJI JALAIPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.M.V. SAHIGADA"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PANCHYAT BHAWAN BHAGAHA"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P. V. KAJIBHITI"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P. V. CHAKWAL"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P. V. KHALLOPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P. V. KHALLOPUR (R.N.- 2)"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P. V. GAMBHIRWAN SECOND (R.N - 1)"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P. V. GAMBHIRWAN SECOND (R.N - 2)"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P. V. GAMBHIRWAN SECOND (R.N - 3)"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P. V. GAMBHIRWAN FIRST (R.N - 1)"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P. V.GAMBHIRRWAN FIRST (R.N. - 2)"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P. V. DEWARADEEH"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P. V. PARMESHWARPUR"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P. V.BELHATHA"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P. V.BARAMADPUR"
+  },
+  {
+    "partNumber": 351,
+    "partName": "COMPOSIT VIDYALAY CHAKLALDHAR (R.N. - 1)"
+  },
+  {
+    "partNumber": 352,
+    "partName": "COMPOSIT VIDYALAY CHAKLALDHAR (R.N. - 2)"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSIT VIDYALAY HALUWADEEH"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P. V.SHABAZPUR"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P. V.BABHNAULI ADAI"
+  },
+  {
+    "partNumber": 356,
+    "partName": "J.H.S. BABHNAULI MAFI"
+  },
+  {
+    "partNumber": 357,
+    "partName": "COMPOSIT VIDYALAY BELAGAR"
+  },
+  {
+    "partNumber": 358,
+    "partName": "S. MILAN KENDRA MAMRAKHAPUR"
+  },
+  {
+    "partNumber": 359,
+    "partName": "J.H.S.KARANPUR (R.N. - 1)"
+  },
+  {
+    "partNumber": 360,
+    "partName": "J.H.S.KARANPUR (R.N. - 2)"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P. V.KARANPUR (R.N. - 1)"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P. V.KARANPUR (R.N. - 2)"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P. V.TEUKHAR (R.N.- 1)"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P. V.TEUKHAR (R.N.- 2)"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P. V. SUMBHI (R.N. - 1)"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P. V. SUMBHI (R.N. - 2)"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P. V. SUMBHI (R.N. - 3)"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P. V. KISUNPUR (R.N. - 1)"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P. V. KISUNPUR (R.N. - 2)"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.M.V. FAIZPUR"
+  },
+  {
+    "partNumber": 371,
+    "partName": "P. V.TADI (R.N. - 1)"
+  },
+  {
+    "partNumber": 372,
+    "partName": "P. V.TADI (R.N. - 2)"
+  },
+  {
+    "partNumber": 373,
+    "partName": "P. V.KALIZPUR"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P. V.KHUDWAL"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P. V.AKBELPUR"
+  },
+  {
+    "partNumber": 376,
+    "partName": "COMPOSIT VIDYALAY MITTUPUR (R.N.- 1)"
+  },
+  {
+    "partNumber": 377,
+    "partName": "COMPOSIT VIDYALAY MITTUPUR (R.N. - 2)"
+  },
+  {
+    "partNumber": 378,
+    "partName": "COMPOSIT VIDYALAY MITTUPUR (R. N. - 3)"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSIT VIDYALAY DHARWARA (R.N. - 1)"
+  },
+  {
+    "partNumber": 380,
+    "partName": "COMPOSIT VIDYALAY DHARWARA (R.N. - 2)"
+  },
+  {
+    "partNumber": 381,
+    "partName": "COMPOSIT VIDYALAY DHARWARA (R.N. - 3)"
+  },
+  {
+    "partNumber": 382,
+    "partName": "COMPOSIT VIDYALAY DHARWARA (R.N. - 4)"
+  },
+  {
+    "partNumber": 383,
+    "partName": "COMPOSIT VIDYALAY SONAPUR (R.N.-1)"
+  },
+  {
+    "partNumber": 384,
+    "partName": "COMPOSIT VIDYALAY SONAPUR (R.N.-2)"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P. V.SEWATA"
+  },
+  {
+    "partNumber": 386,
+    "partName": "COMPOSIT VIDYALAY PATHUWA"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P. V. BADAURA KHURD"
+  },
+  {
+    "partNumber": 388,
+    "partName": "P. V.BADAURA BUJURG (R.N. - 1)"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P. V. BADAURA BUJURG (R.N.- 2)"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P. V. BADAURA BUJURG (R.N.- 3)"
+  },
+  {
+    "partNumber": 391,
+    "partName": "JACHHA BACHHA KENDRA JALALPUR"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P. V. MAHBALLIPUR"
+  },
+  {
+    "partNumber": 393,
+    "partName": "J.H.S. KANAILA KARNAHAT (R.N. - 1)"
+  },
+  {
+    "partNumber": 394,
+    "partName": "J.H.S. KANAILA KARNAHAT (R.N. - 2)"
+  },
+  {
+    "partNumber": 395,
+    "partName": "P. V. CHAKRAPANPUR"
+  },
+  {
+    "partNumber": 396,
+    "partName": "P. V. NAREHATHA (R.N. - 1)"
+  },
+  {
+    "partNumber": 397,
+    "partName": "P. V. NAREHATHA (R.N. - 2)"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P. V. ANEI TARACHHA (R.N.-1)"
+  },
+  {
+    "partNumber": 399,
+    "partName": "P. V. ANEI TARACHHA (R.N.-2)"
+  }
+]

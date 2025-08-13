@@ -1,0 +1,1642 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "CS SEEWAR NORTH"
+  },
+  {
+    "partNumber": 2,
+    "partName": "CS SEEWAR SOUTH"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PS BARAI KALA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "CS RAMNAGAR DHAURAHRA WEST"
+  },
+  {
+    "partNumber": 5,
+    "partName": "CS RAMNAGAR DHAURAHRA EAST"
+  },
+  {
+    "partNumber": 6,
+    "partName": "CS RAMNAGAR DHAURAHRA EXTRA ROOM WEST"
+  },
+  {
+    "partNumber": 7,
+    "partName": "CS RAMNAGAR DHAURAHRA EXTRA ROOM SOUTH-EAST"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PS BARAI KHURD"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PS MAHOLI"
+  },
+  {
+    "partNumber": 10,
+    "partName": "CS MOHAMMADPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PS SAIDPUR"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PS AMBARPUR EAST"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PS AMBARPUR WEST"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PS AMBARPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 15,
+    "partName": "NAYA PANCHAYT BHAWAN. HAJIPUR BARSENDI ROOM NO-1"
+  },
+  {
+    "partNumber": 16,
+    "partName": "NAYA PANCHAYT BHAWAN. HAJIPUR BARSENDI ROOM NO-2"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PS BARSENDI"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PS BISAULI EAST"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PS BISAULI WEST"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PS SARANGAPUR EAST"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PS SARANGAPUR WEST"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PS RAHIMPUR BADAULI"
+  },
+  {
+    "partNumber": 23,
+    "partName": "CS DERAMUSI ROOM NO 1"
+  },
+  {
+    "partNumber": 24,
+    "partName": "CS DERAMUSI ROOM NO 2"
+  },
+  {
+    "partNumber": 25,
+    "partName": "CS MUSTAFABAD ROOM NO 1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "CS MUSTAFABAD ROOM NO 2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "CS MUSTAFABAD ROOM NO 3"
+  },
+  {
+    "partNumber": 28,
+    "partName": "CS MUSTAFABAD ROOM NO 4"
+  },
+  {
+    "partNumber": 29,
+    "partName": "CS MUSTAFABAD ROOM NO 5"
+  },
+  {
+    "partNumber": 30,
+    "partName": "CS PIRKHAULI EAST"
+  },
+  {
+    "partNumber": 31,
+    "partName": "CS PIRKHAULI WEST"
+  },
+  {
+    "partNumber": 32,
+    "partName": "PS BEHRAYEN (PIRKHAULI)"
+  },
+  {
+    "partNumber": 33,
+    "partName": "PS SAURI NORTH ROOM"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PS BHAWANIYAPUR (PIRKHAULI)"
+  },
+  {
+    "partNumber": 35,
+    "partName": "CS KOTDEEH SARAIYA"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PS DAKSHINPARA EAST"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PS DAKSHINPARA WEST"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PS TANDWA"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PS KARERU NORTH"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PS KARERU SOUTH"
+  },
+  {
+    "partNumber": 41,
+    "partName": "CS KARERU"
+  },
+  {
+    "partNumber": 42,
+    "partName": "CS RAMPUR GRANT"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PS SIHAITA LOHANI"
+  },
+  {
+    "partNumber": 44,
+    "partName": "JHS DEORHI NORTH"
+  },
+  {
+    "partNumber": 45,
+    "partName": "JHS DEORHI MIDDLE 1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "JHS DEORHI MIDDLE 2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "JHS DEORHI SOUTH"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PS PINDAWAN"
+  },
+  {
+    "partNumber": 49,
+    "partName": "CS IBRAHIMPUR KANDAI"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PS BABHANIYAWAN EAST"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PS BABHANIYAWAN WEST"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PS DEWAI EAST"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PS DEWAI WEST"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PS ALIGANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PS ALIGANJ ROOM NO. 2"
+  },
+  {
+    "partNumber": 56,
+    "partName": "JHS ARKUNA ROOM NO. 3"
+  },
+  {
+    "partNumber": 57,
+    "partName": "JHS ARKUNA ROOM NO. 2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "NAYA PS PILKHAWAN EAST"
+  },
+  {
+    "partNumber": 59,
+    "partName": "NAYA PS PILKHAWAN WEST"
+  },
+  {
+    "partNumber": 60,
+    "partName": "NAYA PS PILKHAWAN EXTRA ROOM"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PS MUBARAKGANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PS MUBARAKGANJ ROOM NO 2"
+  },
+  {
+    "partNumber": 63,
+    "partName": "JAN SAMAJ VIDHYAPEETH INTER COLLEGE DIGAMBARPUR MIDDLE 1"
+  },
+  {
+    "partNumber": 64,
+    "partName": "JAN SAMAJ VIDHYAPEETH INTER COLLEGE DIGAMBARPUR MIDDLE 3"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PS DEWRAKOT"
+  },
+  {
+    "partNumber": 66,
+    "partName": "E.M.P.S. GODWA"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PS SARAINAMU EAST"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PS SARAINAMU WEST"
+  },
+  {
+    "partNumber": 69,
+    "partName": "JHS ISMAILNAGAR SINHORA EAST"
+  },
+  {
+    "partNumber": 70,
+    "partName": "JHS ISMAILNAGAR SINHORA WEST"
+  },
+  {
+    "partNumber": 71,
+    "partName": "CS HARIBANDHANPUR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PS KALAFARPUR"
+  },
+  {
+    "partNumber": 73,
+    "partName": "E.M.P.S. SANAHA NORTH"
+  },
+  {
+    "partNumber": 74,
+    "partName": "E.M.P.S. SANAHA SOUTH"
+  },
+  {
+    "partNumber": 75,
+    "partName": "PS DINKARPUR"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PS TAHSEENPUR ROOM NO.-1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "PS TAHSEENPUR ROOM NO.-2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "PS LAHRAPUR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PS BARVA"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PS THEONGA"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PS MISRAULI"
+  },
+  {
+    "partNumber": 82,
+    "partName": "GOVT. AYURVEDIC HOSPITAL BAIDARAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "GOVT. AYURVEDIC HOSPITAL BAIDARAPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 84,
+    "partName": "CS KAPASI ROOM NO. 1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "CS KAPASI ROOM NO. 2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PS NEWADA FRIST NORTH"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PS NEWADA FRIST SOUTH"
+  },
+  {
+    "partNumber": 88,
+    "partName": "JHS LAKHAURI EAST"
+  },
+  {
+    "partNumber": 89,
+    "partName": "JHS LAKHAURI WEST"
+  },
+  {
+    "partNumber": 90,
+    "partName": "ANGANBADI KENDRA LAKHAURI"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PS SHEKHPUR ZAFAR WEST"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PS SHEKHPUR ZAFAR EAST"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PS SHEKHPUR ZAFAR MIDDLE"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PS DHANNIPUR"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PS BENIPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PS RAUNAHI EXTRA ROOM"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PS RAUNAHI ROOM NO. 2"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PS RAUNAHI ROOM NO. 4"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PS RAUNAHI ROOM NO.3"
+  },
+  {
+    "partNumber": 100,
+    "partName": "KANYA JHS RAUNAHI NORTH"
+  },
+  {
+    "partNumber": 101,
+    "partName": "KANYA JHS RAUNAHI SOUTH"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PS SALHEPUR NIMAICHA EXTRA ROOM"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PS SALHEPUR NIMAICHA EAST"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PS SALHEPUR NIMAICHA WEST"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PS GOPINATHPUR (SOHAWAL)"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PS UCHITPUR"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PS VISHUNPUR SARA EAST"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PS VISHUNPUR SARA WEST"
+  },
+  {
+    "partNumber": 109,
+    "partName": "JHS MIRPUR KANTA (NAI BAZAR) EAST"
+  },
+  {
+    "partNumber": 110,
+    "partName": "JHS MIRPUR KANTA (NAI BAZAR) WEST"
+  },
+  {
+    "partNumber": 111,
+    "partName": "GOVT. GIRLS INTER COLLEGE MIRPUR KANTA NORTH"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PS MIRPUR SECOND"
+  },
+  {
+    "partNumber": 113,
+    "partName": "JHS SURWARI NORTH"
+  },
+  {
+    "partNumber": 114,
+    "partName": "JHS SURWARI SOUTH"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PS AGETHUWA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PS MAJNAWAN NORTH"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PS MAJNAWAN SOUTH"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PS MAJNAWAN EXTRA ROOM"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PS GAURA BRAMHNAN (SULTANNAGAR)"
+  },
+  {
+    "partNumber": 120,
+    "partName": "CS ARTHAR EAST"
+  },
+  {
+    "partNumber": 121,
+    "partName": "CS ARTHAR WEST"
+  },
+  {
+    "partNumber": 122,
+    "partName": "CS ARTHAR EXTRA ROOM"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PS BARAULI FIRST"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PS PURE DIWAN"
+  },
+  {
+    "partNumber": 125,
+    "partName": "CS SOKHAWAN EAST"
+  },
+  {
+    "partNumber": 126,
+    "partName": "CS SOKHAWAN WEST"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PS PANDITPUR"
+  },
+  {
+    "partNumber": 128,
+    "partName": "CS KHIRAUNI"
+  },
+  {
+    "partNumber": 129,
+    "partName": "KANYA PS KHIRAUNI EAST"
+  },
+  {
+    "partNumber": 130,
+    "partName": "KANYA PS KHIRAUNI WEST"
+  },
+  {
+    "partNumber": 131,
+    "partName": "KANYA PS KHIRAUNI EXTRA ROOM"
+  },
+  {
+    "partNumber": 132,
+    "partName": "CS SUCHITTAGANJ EAST"
+  },
+  {
+    "partNumber": 133,
+    "partName": "CS SUCHITTAGANJ WEST"
+  },
+  {
+    "partNumber": 134,
+    "partName": "CS SUCHITTAGANJ EXTRA ROOM"
+  },
+  {
+    "partNumber": 135,
+    "partName": "CS KOLA EAST"
+  },
+  {
+    "partNumber": 136,
+    "partName": "CS KOLA WEST"
+  },
+  {
+    "partNumber": 137,
+    "partName": "CS KATRAULI NORTH"
+  },
+  {
+    "partNumber": 138,
+    "partName": "CS KATRAULI SOUTH"
+  },
+  {
+    "partNumber": 139,
+    "partName": "JHS MAGALSI NORTH"
+  },
+  {
+    "partNumber": 140,
+    "partName": "JHS MANGALSI MIDDLE 1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JHS MANGALSI MIDDLE 2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "JHS MANGALSI SOUTH"
+  },
+  {
+    "partNumber": 143,
+    "partName": "JHS MANGALSI EXTRA BUILDING"
+  },
+  {
+    "partNumber": 144,
+    "partName": "AIT INTER COLLEGE JAGANPUR NORTH"
+  },
+  {
+    "partNumber": 145,
+    "partName": "AIT INTER COLLEGE JAGANPUR SOUTH"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PS JAGANPUR EAST"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PS JAGANPUR WEST"
+  },
+  {
+    "partNumber": 148,
+    "partName": "PS IBRAHIMPUR DIWLI NORTH"
+  },
+  {
+    "partNumber": 149,
+    "partName": "PS IBRAHIMPUR DIWLI SOUTH"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PS FIROJPUR UPARHAR"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PS CHIRRA MOHAMMADPUR EAST"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PS CHIRRA MOHAMMDPUR MIDDLE"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PS CHIRRA MOHAMMADPUR WEST"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PS RASOOLPUR SAKRAWAL"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PS BHITAURA"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PS BHIKHARIPUR"
+  },
+  {
+    "partNumber": 157,
+    "partName": "CS MOIYAKAPOORPUR NORTH"
+  },
+  {
+    "partNumber": 158,
+    "partName": "CS MOIYAKAPOORPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 159,
+    "partName": "CS MOIYAKAPOORPUR MIDDLE"
+  },
+  {
+    "partNumber": 160,
+    "partName": "CS MOIYAKAPOORPUR SOUTH"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PS HUNSEPUE ROOM NO. 1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PS HUNSEPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PS SALARPUR"
+  },
+  {
+    "partNumber": 164,
+    "partName": "JHS HARIPUR JALALABAD SOUTH"
+  },
+  {
+    "partNumber": 165,
+    "partName": "JHS HARIPUR JALALABAD MIDDLE"
+  },
+  {
+    "partNumber": 166,
+    "partName": "JHS HARIPUR JALALABAD NORTH"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PS MANAPUR EAST"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PS MANAPUR WEST"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PS RAIPUR EAST"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PS RAIPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PS RAIPUR WEST"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PS KOTSARAI EAST"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PS KOTSARAI WEST"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PS KOTSARAI EXTRA ROOM"
+  },
+  {
+    "partNumber": 175,
+    "partName": "CS FATEHPUR SARAIYA"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PS GHATAMPUR"
+  },
+  {
+    "partNumber": 177,
+    "partName": "CS MUMTAJNAGAR EAST"
+  },
+  {
+    "partNumber": 178,
+    "partName": "CS MUMTAJNAGAR WEST"
+  },
+  {
+    "partNumber": 179,
+    "partName": "CS MUMTAJNAGAR WEST ROOM"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PS HAJIPUR SINGHPUR EAST"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PS HAJIPUR SINGHPUR SOUTH"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PS MIRZAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PS MIRZAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PS BANBIRPUR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PS JAGDISHPUR"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PS BICHHIYA"
+  },
+  {
+    "partNumber": 187,
+    "partName": "KANYA JHS GOPALPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 188,
+    "partName": "KANYA JHS GOPALPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 189,
+    "partName": "CS BHIKHANPUR"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PS TAJPUR KODRA NORTH"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PS TAJPUR KODRA SOUTH"
+  },
+  {
+    "partNumber": 192,
+    "partName": "CS VALLIPUR"
+  },
+  {
+    "partNumber": 193,
+    "partName": "CS GAUHANIA EAST"
+  },
+  {
+    "partNumber": 194,
+    "partName": "CS GAUHANIA WEST"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PS MOKALPUR"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PS SIRHIR NARSINGHPUR NORTH"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PS SIRHIR NARSINGHPUR SOUTH"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PS SIRHIR NARSINGHPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PS MOHIUDDINPUR NORTH"
+  },
+  {
+    "partNumber": 200,
+    "partName": "AGANWADI KENDRA MOHIUDDINPUR"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PS BHAIPUR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PS DAULATPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PS DAULATPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PS DAULATPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 205,
+    "partName": "CS AMOUNA NORTH"
+  },
+  {
+    "partNumber": 206,
+    "partName": "CS AMOUNA SOUTH"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PS KADIPUR EAST"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PS KADIPUR WEST"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PS BANDIDASPUR"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PS USRU AMOUNA NORTH"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PS USRU AMOUNA SOUTH"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PS RANI BAZAR (SATHARI) NORTH"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PS RANI BAZAR (SATHARI) SOUTH"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PS SAKHUPARA"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PS KURAWAN"
+  },
+  {
+    "partNumber": 216,
+    "partName": "CS SARIYAWAN ROOM NO. 1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "CS SARIYAWAN ROOM NO. 2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "JHS RANI BAZAR SARIYAWAN ROOM NO. 1"
+  },
+  {
+    "partNumber": 219,
+    "partName": "JHS RANI BAZAR SARIYAWAN ROOM NO. 2"
+  },
+  {
+    "partNumber": 220,
+    "partName": "CS SARIYAWAN ROOM NO. 4"
+  },
+  {
+    "partNumber": 221,
+    "partName": "CS SARIYAWAN ROOM NO. 3"
+  },
+  {
+    "partNumber": 222,
+    "partName": "CS SARIYAWAN ROOM NO. 5"
+  },
+  {
+    "partNumber": 223,
+    "partName": "JHS SHIWALA MAU NORTH"
+  },
+  {
+    "partNumber": 224,
+    "partName": "JHS SHWALA MAU MIDDLE"
+  },
+  {
+    "partNumber": 225,
+    "partName": "JHS SHIWALA MAU SOUTH"
+  },
+  {
+    "partNumber": 226,
+    "partName": "JHS SHIWALA MAU PRINCIPAL ROOM"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PS SOPHIYAPARA"
+  },
+  {
+    "partNumber": 228,
+    "partName": "CS MAHAWAN EAST"
+  },
+  {
+    "partNumber": 229,
+    "partName": "CS MAHAWAN NORTH"
+  },
+  {
+    "partNumber": 230,
+    "partName": "CS MAHAWAN SOUTH"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PS BARWA NORTH"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PS BARWA SOUTH"
+  },
+  {
+    "partNumber": 233,
+    "partName": "CS KANDAILA EAST"
+  },
+  {
+    "partNumber": 234,
+    "partName": "CS KANDAILA WEST"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PS PORA"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PS ANTPUR"
+  },
+  {
+    "partNumber": 237,
+    "partName": "CS DASAULI"
+  },
+  {
+    "partNumber": 238,
+    "partName": "CS CHHATIRWA EAST"
+  },
+  {
+    "partNumber": 239,
+    "partName": "CS CHHATIRWA WEST"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PS CHANDPUR KAIL"
+  },
+  {
+    "partNumber": 241,
+    "partName": "CS SARAIYA NORTH"
+  },
+  {
+    "partNumber": 242,
+    "partName": "CS SARAIYA SOUTH"
+  },
+  {
+    "partNumber": 243,
+    "partName": "CS PARAKAIL"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PS KAIL KESHAVPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PS KAIL KESHAVPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PS KAIL KESHAVPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 247,
+    "partName": "CS RAJEPUR"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PS VINAYAKPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PS BABHANGAWAN"
+  },
+  {
+    "partNumber": 250,
+    "partName": "CS MIRJAPUR NIMAULI EAST"
+  },
+  {
+    "partNumber": 251,
+    "partName": "CS MIRJAPUR NIMAULI WEST"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PS PALIYA GOVA NORTH"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PS PALIYA GOVA SOUTH"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PS BARGDHIYA (MAINUDDINPUR)"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PS MADHAVPUR (PURAKALANDAR) NORTH"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PS MADHAVPUR (PURAKALANDAR) SOUTH"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PS ARUWAWAN ROOM NO 1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PS ARUWAWAN ROOM NO 2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "CS NAJIRPUR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "CS KHANPUR MASODHA EAST"
+  },
+  {
+    "partNumber": 261,
+    "partName": "CS KHANPUR MASODHA WEST"
+  },
+  {
+    "partNumber": 262,
+    "partName": "CS KHANPUR MASODHA THARD ROOM"
+  },
+  {
+    "partNumber": 263,
+    "partName": "SETH DWARIKADAS MHS MOTINAGAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "SETH DWARIKADAS MHS MOTINAGAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "CS DHARMDASPUR"
+  },
+  {
+    "partNumber": 266,
+    "partName": "CS ABANPUR SAROHA EAST"
+  },
+  {
+    "partNumber": 267,
+    "partName": "CS ABANPUR SAROHA MIDDLE"
+  },
+  {
+    "partNumber": 268,
+    "partName": "CS ABANPUR SAROHA WEST"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PS PALIYA RISALI"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PS MADHUPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PS MADHUPUR NEW BUILDING ROOM NO. 3"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PS MADHUPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PS KALYAN BHADARSA (PAGLABHARI) NORTH"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PS KALYAN BHADARSA (PAGLABHARI) SOUTH"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PANCHAYAT BHAWAN RAITHUWA (BIBIPUR)"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PS RAITHUA EAST"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PS RAITHUA WEST"
+  },
+  {
+    "partNumber": 278,
+    "partName": "SHRI BHARAT IC NANDIGRAM BHARATKUND"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PS DOSTPUR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PS NAIPURA EAST"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PS NAIPURA WEST"
+  },
+  {
+    "partNumber": 282,
+    "partName": "CS BHADARSA BAHAR (MIRA JAINA) "
+  },
+  {
+    "partNumber": 283,
+    "partName": "KANYA JHS RAJA KA PURWA (BHADARSA BHAHAR) ROOM NO. 2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PS BHADARSA TOWN NORTH"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PS BHADARSA TOWN SOUTH"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PS JIVPUR (BHADARSA TOWN) EAST"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PS JIVPUR (BHADARSA TOWN) SOUTH"
+  },
+  {
+    "partNumber": 288,
+    "partName": "JAB INTER COLLEGE BHADARSA ROOM NO. 4"
+  },
+  {
+    "partNumber": 289,
+    "partName": "JAB INTER COLLEGE BHADARSA ROOM NO. 5"
+  },
+  {
+    "partNumber": 290,
+    "partName": "JAB INTER COLLEGE BHADARSA ROOM NO. 1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "JAB INTER COLLEGE BHADARSA ROOM NO. 2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "JAB INTER COLLEGE BHADARSA ROOM NO. 3"
+  },
+  {
+    "partNumber": 293,
+    "partName": "SADHAN SAHKARI SAMITI LTD. RAJEPUR (BHADARSA) ROOM NO. 2"
+  },
+  {
+    "partNumber": 294,
+    "partName": "SADHAN SAHKARI SAMITI LTD. RAJEPUR (BHADARSA) ROOM NO. 1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "CS PIPRI EAST"
+  },
+  {
+    "partNumber": 296,
+    "partName": "CS PIPRI WEST"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PS HALLEDWARIKAPUR FIRST"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PS HALLEDWARIKAPUR SECOND"
+  },
+  {
+    "partNumber": 299,
+    "partName": "CS SHAHGANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "CS SHAHGANJ ROOM NO. 2"
+  },
+  {
+    "partNumber": 301,
+    "partName": "CS SHAHGANJ ROOM NO. 3"
+  },
+  {
+    "partNumber": 302,
+    "partName": "CS SHAHGANJ ROOM NO. 4"
+  },
+  {
+    "partNumber": 303,
+    "partName": "CS SHAHGANJ ROOM NO. 5"
+  },
+  {
+    "partNumber": 304,
+    "partName": "CS SHAHGANJ ROOM NO. 6"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PS CHANDIPUR NAGAHARA"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PS PARUA EAST"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PS PARUA WEST"
+  },
+  {
+    "partNumber": 308,
+    "partName": "CS SARAI BHANAULI EAST"
+  },
+  {
+    "partNumber": 309,
+    "partName": "CS SARAI BHANAULI WEST"
+  },
+  {
+    "partNumber": 310,
+    "partName": "CS SARAI BHANAULI NORTH"
+  },
+  {
+    "partNumber": 311,
+    "partName": "CS SARAI BHANAULI EXTRA ROOM"
+  },
+  {
+    "partNumber": 312,
+    "partName": "CS SARAI BHANAULI SOUTH"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PS PUHPI ROOM NO 1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PS PUHPI ROOM NO 2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PS KHEVLI"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PS SMILEPUR"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PS JALALPUR MAFI EAST"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PS JALALPUR MAFI WEST"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PS JALALPUR MAFI EXTRA ROOM"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PS DASRATHPUR EAST"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PS DASRATHPUR WEST"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PS JAINPUR"
+  },
+  {
+    "partNumber": 323,
+    "partName": "CS NEVADA BHAVAPUR EAST"
+  },
+  {
+    "partNumber": 324,
+    "partName": "CS NEVADA BHAVAPUR WEST"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PS JERUWA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PS BABURIHA KAUNDHA"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PS SHERPUR"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PS GUNDHOUR NEW BULIDING"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PS GUNDHOUR NORTH"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PS GUNDHOUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PS PATUPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PS PATUPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "CS PATUPUR BALLIPUR FIRST"
+  },
+  {
+    "partNumber": 334,
+    "partName": "CS PATUPUR BALLIPUR SECOND"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PS LUTFABAD BACHAULI EAST"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PS LUTFABAD BACHAULI WEST"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PS MALETHU KANAK EAST"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PS MALETHU KANAK WEST"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PS MALETHU KANAK SOUTH"
+  },
+  {
+    "partNumber": 340,
+    "partName": "JHS DHENUVAVAN"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PS KARAUNDI EAST"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PS KARAUNDI WEST"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PS RAMDASPUR MAJHAULI"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PS KHEMPUR CHANDAI NORTH"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PS KHEMPUR CHANDAI SOUTH"
+  },
+  {
+    "partNumber": 346,
+    "partName": "JHS RURUKHAS"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PS RURUKHAS EAST"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PS RURUKHAS WEST"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PS PADRI NORTH"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PS PADRI SOUTH"
+  },
+  {
+    "partNumber": 351,
+    "partName": "JHS DHEMAVASHYA ROOM NO 1"
+  },
+  {
+    "partNumber": 352,
+    "partName": "JHS DHEMAVASHYA ROOM NO 2"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PS DEVKALI MAFI"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PS NANDUPUR"
+  },
+  {
+    "partNumber": 355,
+    "partName": "PS PARVARPARA"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PS SOHVALSALONI NORTH"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PS SOHVALSALONI SOUTH"
+  },
+  {
+    "partNumber": 358,
+    "partName": "CS KUDHA"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PS DHEMA SHIVBAKSRAY"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PS SARESAR"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PS CHANVARDHAR"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PS BIKAPUR NORTH"
+  },
+  {
+    "partNumber": 363,
+    "partName": "PS BIKAPUR SOUTH"
+  },
+  {
+    "partNumber": 364,
+    "partName": "PS BIKAPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 365,
+    "partName": "BHARTI INTER COLLAGE BIKAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "BHARTI INTER COLLAGE BIKAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 367,
+    "partName": "BHARTI INTER COLLAGE BIKAPUR ROOM NO. 3"
+  },
+  {
+    "partNumber": 368,
+    "partName": "BHARTI INTER COLLAGE BIKAPUR ROOM NO. 4"
+  },
+  {
+    "partNumber": 369,
+    "partName": "GGIC TOROMAFI ROOM NO. 1"
+  },
+  {
+    "partNumber": 370,
+    "partName": "GGIC TOROMAFI ROOM NO. 2"
+  },
+  {
+    "partNumber": 371,
+    "partName": "GGIC TOROMAFI ROOM NO. 3"
+  },
+  {
+    "partNumber": 372,
+    "partName": "GGIC TOROMAFI ROOM NO. 4"
+  },
+  {
+    "partNumber": 373,
+    "partName": "GGIC TOROMAFI ROOM NO. 5"
+  },
+  {
+    "partNumber": 374,
+    "partName": "PS VASUDEVPUR"
+  },
+  {
+    "partNumber": 375,
+    "partName": "GLOBLE INTER COLLEGE SONKHARI ROOM NO. 1"
+  },
+  {
+    "partNumber": 376,
+    "partName": "GLOBLE INTER COLLEGE SONKHARI ROOM NO. 2"
+  },
+  {
+    "partNumber": 377,
+    "partName": "CS SULHEPUR"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PS PAKDI DURGADASPUR"
+  },
+  {
+    "partNumber": 379,
+    "partName": "JHS RAMPUR BHAGAN NORTH"
+  },
+  {
+    "partNumber": 380,
+    "partName": "JHS RAMPUR BHAGAN SOUTH 2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "JHS RAMPUR BHAGAN CENTER"
+  },
+  {
+    "partNumber": 382,
+    "partName": "JHS RAMPUR BHAGAN SOUTH 1"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PS SAGARPUR"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PS SATNA"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PS KODAILA EAST"
+  },
+  {
+    "partNumber": 386,
+    "partName": "PS KODAILA WEST"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PS UMARNI PIPRI"
+  },
+  {
+    "partNumber": 388,
+    "partName": "CS BHIKHISARAI"
+  },
+  {
+    "partNumber": 389,
+    "partName": "CS NANDRAULI FIRST"
+  },
+  {
+    "partNumber": 390,
+    "partName": "CS NANDRAULI SECOND"
+  },
+  {
+    "partNumber": 391,
+    "partName": "PS USRI"
+  },
+  {
+    "partNumber": 392,
+    "partName": "PS KARANPUR"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PS KHEMASARAY"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PS BACHRAMPUR"
+  },
+  {
+    "partNumber": 395,
+    "partName": "PS BILARIMAFI NORTH"
+  },
+  {
+    "partNumber": 396,
+    "partName": "PS BILARIMAFI SOUTH"
+  },
+  {
+    "partNumber": 397,
+    "partName": "CS SHERPUR PARA"
+  },
+  {
+    "partNumber": 398,
+    "partName": "PS PURELALA WEST"
+  },
+  {
+    "partNumber": 399,
+    "partName": "PS PURELALA EXTRA ROOM"
+  },
+  {
+    "partNumber": 400,
+    "partName": "PANDIT JAWAHARLAL INTER COLLAGE KHAJURAHAT ROOM NO FRIST"
+  },
+  {
+    "partNumber": 401,
+    "partName": "PANDIT JAWAHARLAL INTER COLLAGE KHAJURAHAT ROOM NO SECOND"
+  },
+  {
+    "partNumber": 402,
+    "partName": "PANDIT JAWAHARLAL INTER COLLAGE KHAJURAHAT ROOM NO THARD"
+  },
+  {
+    "partNumber": 403,
+    "partName": "PS GOVINDPUR"
+  },
+  {
+    "partNumber": 404,
+    "partName": "CS ROOPIPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 405,
+    "partName": "CS ROOPIPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 406,
+    "partName": "PS KANYA KATAARI EAST"
+  },
+  {
+    "partNumber": 407,
+    "partName": "PS KANYA KATAARI WEST"
+  },
+  {
+    "partNumber": 408,
+    "partName": "JHS MAHAVAN ROOM NO 1"
+  },
+  {
+    "partNumber": 409,
+    "partName": "JHS MAHAVAN ROOM NO 2"
+  },
+  {
+    "partNumber": 410,
+    "partName": "PS SAHAVAN"
+  }
+]

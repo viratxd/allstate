@@ -1,0 +1,1402 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.V.DHANAUTI"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.V. BARHARA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "U.P.S. MUSAILA KHURD"
+  },
+  {
+    "partNumber": 4,
+    "partName": "SARVODAY U.M.V.MUSAILA BUJURG"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.V. TILAULI URF DEHARI R.N.1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.V. TILAULI URF DEHARI R.N.2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "J.H.S.MAHANPUR BUJURG"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.V. PARSIYA BANSHI"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.V.KOLHUA"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.V. PURAINA"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.V.JAMUA NO-1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.V.PURAINI PATALAPUR"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.V.PIPRA BHANMATI"
+  },
+  {
+    "partNumber": 14,
+    "partName": "U.P.S. JAMUI R.N.1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "U.P.S. JAMUI R.N.2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.V.MANIHARI"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.V.DUMWALIYA R.N.1"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.V.DUMWALIYA R.N.2"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.V.DUMWALIYA R.N.3"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.V.MATIYARA"
+  },
+  {
+    "partNumber": 21,
+    "partName": "U.P.S.HARAIYA"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.V.BHIMPUR R.N.1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.V.BHIMPUR R.N.2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P.V.SISWA PANDEY"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PANCHAYAT BHAWAN CHAKBANDI URF BIGAHI"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.V. RAJDIHA (DHANPURWA)"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S. MADHAWAPUR R.N. 1"
+  },
+  {
+    "partNumber": 28,
+    "partName": "U.P.S. MADHAWAPUR R.N. 2"
+  },
+  {
+    "partNumber": 29,
+    "partName": "U.P.S.RAMPUR BUJURG R.N. 1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "U.P.S.RAMPUR BUJURG R.N. 2"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.V.MAJHAUWA"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.V. CHORDIHA"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.V. PARSIYA KHAP"
+  },
+  {
+    "partNumber": 34,
+    "partName": "U.P.S.DOGHARA R.N. 1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "U.P.S.DOGHARA R.N. 2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.V.KHAKHARI R.N. 1"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.V. KHAKHARI R.N.2"
+  },
+  {
+    "partNumber": 38,
+    "partName": "U.P.S. PARASIYA BHAGAUTI R.N.1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "U.P.S.PARSIYA BHAGAUTI R.N 2"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P. V. BALEPUR KALA R.N.1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P. V. BALEPUR KALA R.N.2"
+  },
+  {
+    "partNumber": 42,
+    "partName": "U.P.S.CHERO R.N. 1"
+  },
+  {
+    "partNumber": 43,
+    "partName": "U.P.S.CHERO R.N. 2"
+  },
+  {
+    "partNumber": 44,
+    "partName": "U.P.S.CHERO R.N. 3"
+  },
+  {
+    "partNumber": 45,
+    "partName": "BABA SHOBHA MANI L. M.V.BARTHI"
+  },
+  {
+    "partNumber": 46,
+    "partName": "U.P.S.CHAKRA GOSAI R.N.1"
+  },
+  {
+    "partNumber": 47,
+    "partName": "U.P.S.CHAKRA GOSAI R.N. 2"
+  },
+  {
+    "partNumber": 48,
+    "partName": "U.P.S.KARAUTA R.N.1"
+  },
+  {
+    "partNumber": 49,
+    "partName": "U.P.S.KARAUTA R.N.2"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.V.MAHATHAPAR"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.V.THAKUR GAURI R.N.1"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.V.THAKUR GAURI R.N.2"
+  },
+  {
+    "partNumber": 53,
+    "partName": "U.P.S.PADMAPAR"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.V.PARSIYA TARA"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.V. ITHUA CHANDAULI"
+  },
+  {
+    "partNumber": 56,
+    "partName": "U.P.S. PAKARI LALA"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.V. CHANDPALIYA"
+  },
+  {
+    "partNumber": 58,
+    "partName": "U.P.S.BANJARIYA R.N.1"
+  },
+  {
+    "partNumber": 59,
+    "partName": "U.P.S.BANJARIYA R.N.2"
+  },
+  {
+    "partNumber": 60,
+    "partName": "BAPU .I.C.SALEMPUR R.N.1"
+  },
+  {
+    "partNumber": 61,
+    "partName": "BAPU .I.C.SALEMPUR R.N.2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "BAPU I.C.SALEMPUR R.N.3"
+  },
+  {
+    "partNumber": 63,
+    "partName": "BAPU I.C. SALEMPUR R.N.4"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P.V.SONBARSA R.N. 1"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.V.SONBARSA R.N. 2"
+  },
+  {
+    "partNumber": 66,
+    "partName": "SRI SARWAR ADARSH SANSKRIT MAHA.V R.N.1"
+  },
+  {
+    "partNumber": 67,
+    "partName": "SRI SARWAR ADARSH SANSKRIT MAHA.V R.N.2"
+  },
+  {
+    "partNumber": 68,
+    "partName": "SRI SARWAR ADARSH SANSKRIT MAHA.V R.N.3"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.V.ICHAUNA BAJAR SALEMPUR R.N.1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P V ICHAUNA BAJAR SALEMPUR R.N.2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "MATA ASTBHUJI L.M.V. SALEMPUR R.N.1"
+  },
+  {
+    "partNumber": 72,
+    "partName": "MATA ASTBHUJI L.M.V. SALEMPUR R.N.2"
+  },
+  {
+    "partNumber": 73,
+    "partName": "MATA ASTBHUJI L.M.V. SALEMPUR R.N. 3"
+  },
+  {
+    "partNumber": 74,
+    "partName": "U.P.S.HARAIYA R.N.1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "U.P.S.HARAIYA R.N.2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "MAHAJAN L.M.V.NADAWAR R.N.1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "MAHAJAN L.M.V.NADAWAR R.N.2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.V.PRAN CHHAPRA"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.V.NADAULI"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.V.ANUAPAR"
+  },
+  {
+    "partNumber": 81,
+    "partName": "U.P.S. BARSIPAR R.N.1"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.P.S. BARSIPAR R.N. 2"
+  },
+  {
+    "partNumber": 83,
+    "partName": "U.P.S. BARSIPAR R.N. 3"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.V.CHAKRWA BAHORDAS"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.V. GUMTAHI"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.V. NADAWAR GHAT MAJHAULIRAJ R.N.1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.V. NADAWAR GHAT MAJHAULIRAJ R.N.2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.V.BHAGRA BHAWANI MAJHAULIRAJ R.N.1"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.V.BHAGRA BHAWANI MAJHAULIRAJ R.N.2"
+  },
+  {
+    "partNumber": 90,
+    "partName": "KANYA J.H.S. BHANGARA BHAWANI DHUS MAJHAULIRAJ"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.V. MATKORWA MAJHAULIRAJ R.N.1"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.V. MATKORWA MAJHAULIRAJ R.N.2"
+  },
+  {
+    "partNumber": 93,
+    "partName": "HAMIDIYA BALIKA V.MAJHAULIRAJ R.N. 1"
+  },
+  {
+    "partNumber": 94,
+    "partName": "HAMIDIYA BALIKA V.MAJHAULIRAJ R.N. 2"
+  },
+  {
+    "partNumber": 95,
+    "partName": "B.N.I.C.MAJHAULIRAJ R.N.1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "B.N.I.C.MAJHAULIRAJ R.N.2"
+  },
+  {
+    "partNumber": 97,
+    "partName": "B.N.I.C.MAJHAULIRAJ R.N.3"
+  },
+  {
+    "partNumber": 98,
+    "partName": "U.P.S. SHANKAR NAGAR MAJHAULIRAJ R.N.1"
+  },
+  {
+    "partNumber": 99,
+    "partName": "U.P.S. SHANKAR NAGAR MAJHAULIRAJ R.N. 2"
+  },
+  {
+    "partNumber": 100,
+    "partName": "U.P.S.RAHMAT NAGAR DEORIA URF SHAMPUR"
+  },
+  {
+    "partNumber": 101,
+    "partName": "MD.HUSAIN I.C.DEORIA URF SHAMPUR R.N.1"
+  },
+  {
+    "partNumber": 102,
+    "partName": "MD.HUSAIN I.C.DEORIA URF SHAMPUR R.N.2"
+  },
+  {
+    "partNumber": 103,
+    "partName": "MD.HUSAIN I.C.DEORIA URF SHAMPUR R.N.3"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P. V.  NAWALPUR"
+  },
+  {
+    "partNumber": 105,
+    "partName": "U.P.S.NIZAMABAD R.N.1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "U.P.S.NIZAMABAD R.N.2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "P.V. NADGHAT R.N. 1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P.V. NADGHAT R.N. 2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.V.KAURIYA KAJI"
+  },
+  {
+    "partNumber": 110,
+    "partName": "U.P.S.SALEMPUR KASBA R.N.1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S.SALEMPUR KASBA R.N.2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "U.P.S.SALEMPUR KASBA R.N.3"
+  },
+  {
+    "partNumber": 113,
+    "partName": "U.P.S.SALEMPUR KASBA R.N.4"
+  },
+  {
+    "partNumber": 114,
+    "partName": "U.P.S. BIRAJBHAR"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.V. THOKA BANSHI"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.V. TILAULI R.N.1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P.V.TILAULI R.N.2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "U.P.S. RAMPUR BACHHAUR R.N.1"
+  },
+  {
+    "partNumber": 119,
+    "partName": "U.P.S. RAMPUR BACHHAUR R.N. 2"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.V.GOPALPUR"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.V.LOHRAULI DHAMAUR"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.V.LOHRA BABHANAULI"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.V.DHANAUTI RAI R.N.1"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.V.DHANAUTI RAI R.N.2"
+  },
+  {
+    "partNumber": 125,
+    "partName": "GAUTAM I.C. PIPRA RAMDHAR R.N.1"
+  },
+  {
+    "partNumber": 126,
+    "partName": "GAUTAM I.C. PIPRA RAMDHAR R.N.2"
+  },
+  {
+    "partNumber": 127,
+    "partName": "J.H.S.MAROPAR"
+  },
+  {
+    "partNumber": 128,
+    "partName": "J.H.S.PARSIYA ALI"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.V.BARTHA LALA"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P.V. AKAUNA"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.V. PIPRA PATHAK"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.V. BISHAULI MAFI"
+  },
+  {
+    "partNumber": 133,
+    "partName": "U.P.S.BAGAHA R.N. 1"
+  },
+  {
+    "partNumber": 134,
+    "partName": "U.P.S. BAGAHA R.N. 2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.V.BAGAHI R.N. 1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.V.BAGAHI R.N. 2"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.V.PIPRA BANDH R.N. 1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.V.PIPRA BANDH R.N. 2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "U.P.S.BABHNIYANW R.N.1"
+  },
+  {
+    "partNumber": 140,
+    "partName": "U.P.S.BABHNIYANW R.N.2"
+  },
+  {
+    "partNumber": 141,
+    "partName": "U. P. S. PIPRA ROHINIYA R. N. 1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "U. P. S. PIPRA ROHINIYA R. N. 2"
+  },
+  {
+    "partNumber": 143,
+    "partName": "U. P. S. PIPRA ROHINIYA R. N. 3"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.V.PIPRA MISHRA"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.V.MAJHAWLIYA"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.V.DIGHARA SUMALI"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.V. DIGHARA JANUBI"
+  },
+  {
+    "partNumber": 148,
+    "partName": "U.P.S.SRINAGAR R.N. 1"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.S.SRINAGAR R.N. 2"
+  },
+  {
+    "partNumber": 150,
+    "partName": "U.P.S SOHNAG R.N.1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "U.P.S SOHNAG R.N. 2"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.V.INDAULI"
+  },
+  {
+    "partNumber": 153,
+    "partName": "U.P.S.THEGWAL DUBEY"
+  },
+  {
+    "partNumber": 154,
+    "partName": "U.P.S.DHANAUTI LALA"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.V.DHANGARA R.N.1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.V.DHANGARA R.N.2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.V. TETRI HARDO"
+  },
+  {
+    "partNumber": 158,
+    "partName": "J.H.S. BARDIHA DALPAT R.N.1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "J.H.S.BARDIHA DALPAT R.N.2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "J.H.S.BARDIHA DALPAT R.N.3"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.V.BHAISAHI"
+  },
+  {
+    "partNumber": 162,
+    "partName": "J.H.S.PANDEYPUR"
+  },
+  {
+    "partNumber": 163,
+    "partName": "MAHATMA BHARTI I C MALKAULI R.N.1"
+  },
+  {
+    "partNumber": 164,
+    "partName": "MAHATMA BHARTI I C MALKAULI R.N.2"
+  },
+  {
+    "partNumber": 165,
+    "partName": "U.P.S. AHIRAULI R.N.1"
+  },
+  {
+    "partNumber": 166,
+    "partName": "U.P.S. AHIRAULI R.N.2"
+  },
+  {
+    "partNumber": 167,
+    "partName": "U.P.S. AHIRAULI R.N.3"
+  },
+  {
+    "partNumber": 168,
+    "partName": "S.B.D.J.H.S.MALIPUR"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PURB M.V. PURA DAKHILA"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.V.URDAULI R.N.1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.V.URDAULI R.N.2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.V.SAHALA R.N. 1"
+  },
+  {
+    "partNumber": 173,
+    "partName": "J.H.S. VISHUNPURA"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.V.TATIL"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PURB M.V. ATRAULI"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.V.BHANKARPUR"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.V.BHATWA PANDEY"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.V.DOL CHHAPRA R.N.1"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.V.DOL CHHAPRA R.N.2"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.V.SAHAJAUR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.V.MAJHAWLIYA NO-2"
+  },
+  {
+    "partNumber": 182,
+    "partName": "J.H.S.MAJHAWALIYA NO-2"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.V.BAURDIH"
+  },
+  {
+    "partNumber": 184,
+    "partName": "KANYA P.S.MADHOPUR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.V.AMAUNA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.V.MATH AMAUNA"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.V.BHURSURI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "U.P.S.RAWATPAR AMETHIYA R.N.1"
+  },
+  {
+    "partNumber": 189,
+    "partName": "U.P.S.RAWATPAR AMETHIYA R.N.2"
+  },
+  {
+    "partNumber": 190,
+    "partName": "U.P.S.RAWATPAR AMETHIYA R.N. 3"
+  },
+  {
+    "partNumber": 191,
+    "partName": "COMPOSITE  VIDYALAYA RAWATPAR RAGHEN R.N.1"
+  },
+  {
+    "partNumber": 192,
+    "partName": "COMPOSITE VIDYALAYA RAWATPAR RAGHEN R.N.2"
+  },
+  {
+    "partNumber": 193,
+    "partName": "COMPOSITE VIDYALAYA RAMNAGAR R.N.1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "COMPOSITE VIDYALAYA RAMNAGAR R.N. 2"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSITE VIDYALAYA RAMNAGAR R.N.3"
+  },
+  {
+    "partNumber": 196,
+    "partName": "U.P.S MATIYARA JAGDISH R.N.1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "U.P.S MATIYARA JAGDISH R.N. 2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.V.DOGARI MISHRA"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.V.PATNEJI"
+  },
+  {
+    "partNumber": 200,
+    "partName": "U.P.S.PARASI CHAKLAL R.N.1"
+  },
+  {
+    "partNumber": 201,
+    "partName": "U.P.S.PARASI CHAKLAL R.N.2"
+  },
+  {
+    "partNumber": 202,
+    "partName": "U.P.S.ROPAN CHHAPRA R.N.1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "U.P.S.ROPAN CHHAPRA R.N.2"
+  },
+  {
+    "partNumber": 204,
+    "partName": "U.P.S.RATANPUR R.N. 1"
+  },
+  {
+    "partNumber": 205,
+    "partName": "U.P.S.RATANPUR R.N. 2"
+  },
+  {
+    "partNumber": 206,
+    "partName": "U.P.S. GAURI AMETHIYA R.N.1"
+  },
+  {
+    "partNumber": 207,
+    "partName": "U.P.S. GAURI AMETHIYA R.N. 2"
+  },
+  {
+    "partNumber": 208,
+    "partName": "U.P.S.GAURI AMETHIYA R.N. 3"
+  },
+  {
+    "partNumber": 209,
+    "partName": "U.P.S.THAKUR GAURI R.N. 1"
+  },
+  {
+    "partNumber": 210,
+    "partName": "U.P.S.THAKUR GAURI R.N. 2"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.V.  BAULI PIPRA LAR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "KANYA P.V. HARIJAN BASTI LAR R.N. 1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "KANYA P.V.  HARIJAN BASTI LAR R.N. 2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.V. BAULI  LAR R.N.1"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P.V. BAULI  LAR R.N.2"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P.V. BAULI LAR R.N.3"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.V.DHAWARIYA LAR R.N.1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.V.DHAWARIYA LAR R.N.2"
+  },
+  {
+    "partNumber": 219,
+    "partName": "CHANDRASHEKHAR GIRI BALIKA V..MATH LAR R.N.1"
+  },
+  {
+    "partNumber": 220,
+    "partName": "CHANDRASHEKHAR GIRI BALIKA V MATH LAR R.N.2"
+  },
+  {
+    "partNumber": 221,
+    "partName": "CHANDRASHEKHAR GIRI BALIKA V MATH LAR R.N.3"
+  },
+  {
+    "partNumber": 222,
+    "partName": "CHANDRASHEKHAR GIRI BALIKA V . MATH LAR R.N.4"
+  },
+  {
+    "partNumber": 223,
+    "partName": "CHANDRASHEKHAR GIRI V BALIKA V MATH LAR R.N.5"
+  },
+  {
+    "partNumber": 224,
+    "partName": "U.P.S.NEAR DAK BANGLA LAR R.N.1"
+  },
+  {
+    "partNumber": 225,
+    "partName": "U.P.S.NEAR DAK BANGLA LAR R.N.2"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.V.GAYAGIR LAR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "U.P.S. LAR POLICE CHAUKI R.N. 1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "U.P.S. LAR POLICE CHAUKI R.N. 2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "U.P.S. LAR POLICE CHAUKI R.N. 3"
+  },
+  {
+    "partNumber": 230,
+    "partName": "U.P.S. LAR POLICE CHAUKI R.N. 4"
+  },
+  {
+    "partNumber": 231,
+    "partName": "U.P.S LAR CHAUK R.N. 1"
+  },
+  {
+    "partNumber": 232,
+    "partName": "U.P.S LAR CHAUK R.N. 2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "U.P.S LAR CHAUK R.N. 3"
+  },
+  {
+    "partNumber": 234,
+    "partName": "U.P.S.BHARAULI"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.V.RUCHCHAPAR"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.U.L.M.V. BATHAYA HARDO R.N.1"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.U.L.M.V. BATHAYA HARDO R.N.2"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PANCHAYAY BHAWAN RAWATPAR PANDEY"
+  },
+  {
+    "partNumber": 239,
+    "partName": "U.P.S SATOTAR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "U.P.S. BARDIHA PARSHURAM R.N 1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "U.P.S. BARDIHA PARSHURAM R.N 2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "U.P.S. BARDIHA PARSHURAM R.N 3"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.V. CHAURIYA "
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.V. MANGRAICHA "
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.V.PADARI GAJRAJ"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.V.KARJAHAN"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.V.USRAHA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.V.ITAHURA MISHRA"
+  },
+  {
+    "partNumber": 249,
+    "partName": "U.P.S. KUNDAULI R.N.1"
+  },
+  {
+    "partNumber": 250,
+    "partName": "U.P.S. KUNDAULI R.N.2"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U.P.S. KUNDAULI R.N. 3"
+  },
+  {
+    "partNumber": 252,
+    "partName": "U.P.S. KUNDAULI R.N.4"
+  },
+  {
+    "partNumber": 253,
+    "partName": "U.P.S.KUNDAWAL HARI R.N.1"
+  },
+  {
+    "partNumber": 254,
+    "partName": "U.P.S.KUNDAWAL HARI R.N.2"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.V.KUNDAWAL TARA"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.V.HARKHAULI"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P.V.TILAULI R.N.1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.V.TILAULI R.N.2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "U.P.S.SARKARA R.N.1"
+  },
+  {
+    "partNumber": 260,
+    "partName": "U.P.S.SARKARA R.N.2"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.V. DAINI"
+  },
+  {
+    "partNumber": 262,
+    "partName": "U.P.S.KHARKATULA"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U.P.S.BABHANAULI PANDEY R.N.1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "U.P.S.BABHANAULI PANDEY R.N.2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.V.PATKHAULI"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.V.SAJANW R.N.1"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.V.SAJANW R.N.2"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.V.SAJANW R.N.3"
+  },
+  {
+    "partNumber": 269,
+    "partName": "U.P.S.JOGIYA TIWARIUR"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.V.BIRANI"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.V.BAWANPALI BASDEV"
+  },
+  {
+    "partNumber": 272,
+    "partName": "U.P.S.AJANA R.N. 1"
+  },
+  {
+    "partNumber": 273,
+    "partName": "U.P.S.AJANA R.N. 2"
+  },
+  {
+    "partNumber": 274,
+    "partName": "SHREE GANDHI ADARSH I C REWALI R.N.1"
+  },
+  {
+    "partNumber": 275,
+    "partName": "SHREE GANDHI ADRASH I C REWALI R.N.2"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.V.BHEWALI"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.V.VISHUNPURA"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.V.DHANDHAWAR"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.V.ISRAULI"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.V.RAMHAULI"
+  },
+  {
+    "partNumber": 281,
+    "partName": "K.J.H.S.DHARMER R.N.1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "K.J.H.S.DHARMER R.N.2"
+  },
+  {
+    "partNumber": 283,
+    "partName": "K.J.H.S.DHARMER R.N.3"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE VIDYALAYA  ISARU R.N.1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE VIDYALAYA ISARU R.N. 2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "COMPOSITE VIDYALAYA BALIYA UTTAR R.N.1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "COMPOSITE VIDYALAYA BALIYA UTTAR R.N.2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P. V. BALIYA DAKHIN R.N.1"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P. V. BALIYA DAKHIN R.N.2"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P.V. JIRASO R.N. 1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.V. JIRASO R.N. 2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "U.P.S. DEWKALI"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.V.DHAKPURA"
+  },
+  {
+    "partNumber": 294,
+    "partName": "U.P.S. SAHIYA R.N.1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "U.P.S. SAHIYA R.N. 2"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.V.NEMA R.N.1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.V.NEMA R.N.2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "U.P.S. DHARHARA R.N.1"
+  },
+  {
+    "partNumber": 299,
+    "partName": "U.P.S. DHARHARA R.N.2"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P.V.TAKIYA R.N. 1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P.V.TAKIYA R.N. 2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.V.KHARWANIYA R.N.1"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.V.KHARWANIYA R.N.2"
+  },
+  {
+    "partNumber": 304,
+    "partName": "U.P.S.DUMARI R.N 1"
+  },
+  {
+    "partNumber": 305,
+    "partName": "U.P.S.DUMARI R.N 2"
+  },
+  {
+    "partNumber": 306,
+    "partName": "U.P.S.BAWANPALI GOSANI"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.V. DHAMAULI"
+  },
+  {
+    "partNumber": 308,
+    "partName": "U.P.S. JAMASRA R.N.1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "U.P.S. JAMASRA R.N.2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.V. PINDI R.N.1"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.V. PINDI R.N.2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "GOVERNMENT KANYA J.H.S PINDI R.N.1"
+  },
+  {
+    "partNumber": 313,
+    "partName": "GOVERNMENT KANYA J.H.S PINDI R.N.2"
+  },
+  {
+    "partNumber": 314,
+    "partName": "U.P.S. KOHARA R.N.1"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S. KOHARA R.N.2"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.V.DHANGARA"
+  },
+  {
+    "partNumber": 317,
+    "partName": "U.P.S.CHAUMUKHA R.N.1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "U.P.S.CHAUMUKHA R.N.2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.V.BHASKARI"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.V. SUTAWAR"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.V.CHATIYA"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.V.CHORDIHA R.N.1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.V.CHORDIHA R.N.2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.V.UKINA KHAS"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P.V.PATANA R.N. 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "P.V.PATANA R.N. 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "U.P.S. MEHARAUNA R.N.1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "U.P.S. MEHARAUNA R.N.2"
+  },
+  {
+    "partNumber": 329,
+    "partName": "U.P.S. MEHARAUNA R.N.3"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.V.GADHAWA KHAS R.N.1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.V.GADHAWA KHAS R.N.2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.V.MAJHAWLIYA"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.V. MATHIL UPADHYAY"
+  },
+  {
+    "partNumber": 334,
+    "partName": "U.P.S. KHEMADEI R.N.1"
+  },
+  {
+    "partNumber": 335,
+    "partName": "U.P.S. KHEMADEI R.N.2"
+  },
+  {
+    "partNumber": 336,
+    "partName": "U.P.S. KHEMADEI R.N.3"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.V. KAUSAR R.N.1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.V.KAUSAR R.N.2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "U.P. S. NADAULI R.N. 1"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P. S. NADAULI R.N. 2"
+  },
+  {
+    "partNumber": 341,
+    "partName": "U.P. S. NADAULI R.N. 3"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.V.KARCHO"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.V.HATA R.N.1"
+  },
+  {
+    "partNumber": 344,
+    "partName": "P.V. HATA R.N.2"
+  },
+  {
+    "partNumber": 345,
+    "partName": "U. P.S CHURIYA R.N.1"
+  },
+  {
+    "partNumber": 346,
+    "partName": "U. P.S CHURIYA R.N.2"
+  },
+  {
+    "partNumber": 347,
+    "partName": "U. P.S CHURIYA R.N.3"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.V.CHURIYA BHAGAT TOLA"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE VIDYALAYA MANIKPUR"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.V. ADARSH NAGAR"
+  }
+]

@@ -1,0 +1,1562 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "UCHH PRATHMIK VIDHYALAY JANU(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "UCHH PRATHMIK VIDHYALAY JANU(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "UCHH PRATHMIK VIDHYALAY JANU(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 4,
+    "partName": "UCHH PRATHMIK VIDHYALAY DOULATPUR(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "UCHH PRATHMIK VIDHYALAY DOULATPUR(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "UCHH PRATHMIK VIDHYALAY MUDSERAS(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 7,
+    "partName": "UCHH PRATHMIK VIDHYALAY MUDSERAS(1-8)  ROOM NO 2"
+  },
+  {
+    "partNumber": 8,
+    "partName": "UCHH PRATHMIK VIDHYALAY MUDSERAS(1-8)  ROOM NO 3"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRATHMIK VIDHYALAY NAGLA AKATIYA"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRATHMIK VIDHYALAY DEVSERAS PRATHAM ROOM NO 1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRATHMIK VIDHYALAY DEVSERAS PRATHAM ROOM NO 2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "UCHH PRATHMIK VIDHYALAY DEVSERAS DIVTEEY(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 13,
+    "partName": "UCHH PRATHMIK VIDHYALAY DEVSERAS DIVTEEY(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 14,
+    "partName": "UCHH PRATHMIK VIDHYALAY DEVSERAS DIVTEEY(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 15,
+    "partName": "UCHH PRATHMIK VIDHYALAY SEEH ROOM NO 1"
+  },
+  {
+    "partNumber": 16,
+    "partName": "UCHH PRATHMIK VIDHYALAY SEEH ROOM NO 2"
+  },
+  {
+    "partNumber": 17,
+    "partName": "SHANKAR INTER COLLEGE PALSO ROOM NO 1"
+  },
+  {
+    "partNumber": 18,
+    "partName": "SHANKAR INTER COLLEGE PALSO ROOM NO 2"
+  },
+  {
+    "partNumber": 19,
+    "partName": "SHANKAR INTER COLLEGE PALSO ROOM NO 3"
+  },
+  {
+    "partNumber": 20,
+    "partName": "SHANKAR INTER COLLEGE PALSO ROOM NO 4"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRATHMIK VIDHYALAY PALSO ROOM NO 1"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRATHMIK VIDHYALAY PALSO ROOM NO 2"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRATHMIK VIDHYALAY NAGLA RAMKISHAN"
+  },
+  {
+    "partNumber": 24,
+    "partName": "PRATHMIK VIDHYALAY MAHROULI ROOM NO 1"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRATHMIK VIDHYALAY MAHROULI ROOM NO 2"
+  },
+  {
+    "partNumber": 26,
+    "partName": "UCHH PRATHMIK VIDHYALAY MAHROULI ROOM NO 1"
+  },
+  {
+    "partNumber": 27,
+    "partName": "UCHH PRATHMIK VIDHYALAY MAHROULI ROOM NO 2"
+  },
+  {
+    "partNumber": 28,
+    "partName": "PRATHMIK VIDHYALAY MADORA ROOM NO 1"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PRATHMIK VIDHYALAY MADORA ROOM NO 2"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRATHMIK VIDHYALAY BHAGOSA ROOM NO 1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRATHMIK VIDHYALAY BHAGOSA ROOM NO 2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "PRATHMIK VIDHYALAY NAGLA DHANNU"
+  },
+  {
+    "partNumber": 33,
+    "partName": "UCHH PRATHMIK VIDHYALAY PADAL"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRATHMIK VIDHYALAY NAGLA RAKOLI"
+  },
+  {
+    "partNumber": 35,
+    "partName": "UCHH PRATHMIK VIDHYALAY KUNJERA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 36,
+    "partName": "UCHH PRATHMIK VIDHYALAY KUNJERA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PRATHMIK VIDHYALAY NEEMGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PRATHMIK VIDHYALAY NEEMGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRATHMIK VIDHYALAY NEEMGAON ROOM NO 3"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRATHMIK VIDHYALAY SAKARVA ROOM NO 1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "PRATHMIK VIDHYALAY SAKARVA ROOM NO 2"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRATHMIK VIDHYALAY SAKARVA ROOM NO 3"
+  },
+  {
+    "partNumber": 43,
+    "partName": "UCHH PRATHMIK VIDHYALAY MALSARAY(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "UCHH PRATHMIK VIDHYALAY MALSARAY(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRATHMIK VIDHAYALAY SAKITRA"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRATHMIK VIDHYALAY HARIPURA ROOM NO 1"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRATHMIK VIDHYALAY HARIPURA ROOM NO 2"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SAKI"
+  },
+  {
+    "partNumber": 49,
+    "partName": "UCHH PRATHMIK VIDHYALAY GANTHOLI(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 50,
+    "partName": "UCHH PRATHMIK VIDHYALAY GANTHOLI(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 51,
+    "partName": "UCHH PRATHMIK VIDHYALAY GANTHOLI(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 52,
+    "partName": "UCHH PRATHMIK VIDHYALAY NAGLA GANTHOLI(1-8)"
+  },
+  {
+    "partNumber": 53,
+    "partName": "UCHH PRATHMIK VIDHYALAY JATIPURA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "UCHH PRATHMIK VIDHYALAY JATIPURA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "UCHH PRATHMIK VIDHYALAY JATIPURA(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRATHMIK VIDHYALAY BHEEMNAGAR ANYOUR ROOM NO 1"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRATHMIK VIDHYALAY BHEEMNAGAR ANYOUR ROOM NO 2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRATHMIK VIDHYALAY ANYOUR ROOM NO 1"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRATHMIK VIDHYALAY ANYOUR ROOM NO 2"
+  },
+  {
+    "partNumber": 60,
+    "partName": "PRATHMIK VIDHYALAY ANYOUR ROOM NO 3"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRATHMIK VIDHYALAY ANYOUR ROOM NO 4"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRATHMIK VIDHYALAY MAHMADPUR"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SEU"
+  },
+  {
+    "partNumber": 64,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 1"
+  },
+  {
+    "partNumber": 65,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 2"
+  },
+  {
+    "partNumber": 66,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 3"
+  },
+  {
+    "partNumber": 67,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 4"
+  },
+  {
+    "partNumber": 68,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 5"
+  },
+  {
+    "partNumber": 69,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 6"
+  },
+  {
+    "partNumber": 70,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 7"
+  },
+  {
+    "partNumber": 71,
+    "partName": "RASTRIY INTER COLLEGE GOVERDHAN ROOM NO 8"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRATHMIK VIDHYALAY GOVERDHAN PRATHAM ROOM NO 1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRATHMIK VIDHYALAY GOVERDHAN PRATHAM ROOM NO 2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "ADARSH KAMINI GIRLS INTER COLLEGE GOVERDHAN ROOM NO 1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "ADARSH KAMINI GIRLS INTER COLLEGE GOVERDHAN ROOM NO 2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY GOVERDHAN(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY GOVERDHAN(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY GOVERDHAN(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 79,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY GOVERDHAN(1-8) ROOM NO 4"
+  },
+  {
+    "partNumber": 80,
+    "partName": "UCHH PRATHMIK VIDHYALAY GOVERDHAN(1-8) ROOM NO 5"
+  },
+  {
+    "partNumber": 81,
+    "partName": "UCHH PRATHMIK VIDHYALAY GOVERDHAN(1-8) ROOM NO 6"
+  },
+  {
+    "partNumber": 82,
+    "partName": "UCHH PRATHMIK VIDHYALAY GOVERDHAN(1-8) ROOM NO 7"
+  },
+  {
+    "partNumber": 83,
+    "partName": "UCHH PRATHMIK VIDHYALAY GOVERDHAN(1-8) ROOM NO 8"
+  },
+  {
+    "partNumber": 84,
+    "partName": "UCHH PRATHMIK VIDHYALAY RADHAKUND PRATHAM(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "UCHH PRATHMIK VIDHYALAY RADHAKUND PRATHAM(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "UCHH PRATHMIK VIDHYALAY RADHAKUND PRATHAM(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 87,
+    "partName": "UCHH PRATHMIK VIDHYALAY RADHAKUND PRATHAM(1-8) ROOM NO 4"
+  },
+  {
+    "partNumber": 88,
+    "partName": "UCHH PRATHMIK VIDHYALAY RADHAKUND PRATHAM(1-8) ROOM NO 5"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PUNJABI RADHAKUND"
+  },
+  {
+    "partNumber": 90,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY RADHAKUND(1-8)ROOM NO 1"
+  },
+  {
+    "partNumber": 91,
+    "partName": "UCHH PRATHMIK VIDHYALAY DIVTEEY RADHAKUND(1-8)ROOM NO 2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRATHMIK VIDHYALAY KONHAI ROOM NO 1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRATHMIK VIDHYALAY KONHAI ROOM NO 2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PRATHMIK VIDHYALAY JULHENDI ROOM NO 1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PRATHMIK VIDHYALAY JULHENDI ROOM NO 2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRIMARY PATHSHALA JIKHANGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY PATHSHALA JIKHANGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PARMODARIYA"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRATHMIK VIDHYALAY BASOTI"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PHALVARIYA"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRATHMIK VIDHYALAY MUKHRAI ROOM NO 1"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRATHMIK VIDHYALAY MUKHRAI ROOM NO 2"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRATHMIK VIDHYALAY JAMUNAVTA"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRATHMIK VIDHYALAY PALIBRAHMRAAN"
+  },
+  {
+    "partNumber": 105,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 3"
+  },
+  {
+    "partNumber": 108,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 4"
+  },
+  {
+    "partNumber": 109,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 5"
+  },
+  {
+    "partNumber": 110,
+    "partName": "ADARSH JANTA INTER COLLEGE ADING ROOM NO 6"
+  },
+  {
+    "partNumber": 111,
+    "partName": "RAJKIY INTER COLLEGE ADING ROOM NO 1"
+  },
+  {
+    "partNumber": 112,
+    "partName": "RAJKIY INTER COLLEGE ADING ROOM NO 2"
+  },
+  {
+    "partNumber": 113,
+    "partName": "RAJKIY INTER COLLEGE ADING ROOM NO 3"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRATHMIK VIDHYALAY KANCHANPURA"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRAHMIK VIDHYALAY RAMPUR"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PRATHMIK VIDHYALAY BHAVANPURA ROOM NO 1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRATHMIK VIDHYALAY BHAVANPURA ROOM NO 2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "UCHH PRATHMIK VIDHYALAY PENTHA(1-8) ROOM NO 3"
+  },
+  {
+    "partNumber": 119,
+    "partName": "UCHH PRATHMIK VIDHYALAY PENTHA(1-8) ROOM NO 4"
+  },
+  {
+    "partNumber": 120,
+    "partName": "UCHH PRATHMIK VIDHYALAY PENTHA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "UCHH PRATHMIK VIDHYALAY PENTHA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 122,
+    "partName": "UCHH PRATHMIK VIDHYALAY KONTHRA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "UCHH PRATHMIK VIDHYALAY KONTHRA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "UCHH PRATHMIK VIDHYALAY SHERA SABLA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "UCHH PRATHMIK VIDHYALAY SHERA SABLA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 126,
+    "partName": "UCHH PRATHMIK VIDHYALAY NAGLA DEVIYA(1-8)"
+  },
+  {
+    "partNumber": 127,
+    "partName": "UCHH PRATHMIK VIDHYALAY BACHGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 128,
+    "partName": "UCHH PRATHMIK VIDHYALAY BACHGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 129,
+    "partName": "UCHH PRATHMIK VIDHYALAY BACHGAON ROOM NO 3"
+  },
+  {
+    "partNumber": 130,
+    "partName": "UCHH PRATHMIK VIDHYALAY BACHGAON ROOM NO 4"
+  },
+  {
+    "partNumber": 131,
+    "partName": "PRATHMIK VIDHYALAY BACHGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRATHMIK VIDHYALAY BACHGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SAWLA BHAG BACHGAON"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MADA"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRATHMIK VIDHYALAY DHANIYA"
+  },
+  {
+    "partNumber": 136,
+    "partName": "JANTA UCHHTAR MADHYAMIK VIDHYALAY NAGLA JANGALI BHAG NENUPATTI"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRATHMIK VIDHYALAY NAGLA HARJU"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRATHMIK VIDHYALAY KHUTIYA"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRATHMIK VIDHYALAY DOMPURA"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRATHMIK VIDHYALAY NENUKALA"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRATHMIK VIDHYALAY NAGLA AKKHA"
+  },
+  {
+    "partNumber": 142,
+    "partName": "UCHH PRATHMIK VIDHYALAY AHMALKALA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 143,
+    "partName": "UCHH PRATHMIK VIDHYALAY AHMALKALA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRATHMIK VIDHYALAY AHMALKHURD(NAGLA SHEESHRAM)"
+  },
+  {
+    "partNumber": 145,
+    "partName": "PRATHMIK VIDHYALAY NAGLA ADDA"
+  },
+  {
+    "partNumber": 146,
+    "partName": "KANYA BESIC SCHOOL SONKH ROOM NO 1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "KANYA BESIC SCHOOL SONKH ROOM NO 2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "KANYA BESIC SCHOOL SONKH ROOM NO 3"
+  },
+  {
+    "partNumber": 149,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 1"
+  },
+  {
+    "partNumber": 150,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 2"
+  },
+  {
+    "partNumber": 151,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 3"
+  },
+  {
+    "partNumber": 152,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 4"
+  },
+  {
+    "partNumber": 153,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 5"
+  },
+  {
+    "partNumber": 154,
+    "partName": "MAHATMA GANDHI INTER COLLEGE SONKH ROOM NO 6"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRATHMIK VIDHYALAY TASIYA"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRATHMIK VIDHYALAY NAGLA AASHA"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRATHMIK VIDHYALAY AAJAL"
+  },
+  {
+    "partNumber": 158,
+    "partName": "UCHH PRATHMIK VIDHYALAY MALHU(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "UCHH PRATHMIK VIDHYALAY MALHU(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRATHMIK VIDHYALAY BHUNDAN"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SYOBA"
+  },
+  {
+    "partNumber": 162,
+    "partName": "UCHH PRATHMIK VIDHYALAY BORPA(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 163,
+    "partName": "UCHH PRATHMIK VIDHYALAY BORPA(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRATHMIK VIDHYALAY SONSA"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PRATHMIK VIDHYALAY NAGLA UDAPURA"
+  },
+  {
+    "partNumber": 166,
+    "partName": "UCHH PRATHMIK VIDHYALAY MADHURIKUND(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 167,
+    "partName": "UCHH PRATHMIK VIDHYALAY MADHURIKUND(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRATHMIK VIDHYALAY KHAMANI ROOM NO 1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRATHMIK VIDHYALAY KHAMANI ROOM NO 2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRATHMIK VIDHYALAY KHAMANI ROOM NO 3"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRATHMIK VIDHYALAY JACHONDA ROOM NO 1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRATHMIK VIDHYALAY JACHONDA ROOM NO 2"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRATHMIK VIDHYALAY RAMNAGAR"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRATHMIK VIDHYALAY TOSH ROOM NO 1"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRATHMIK VIDHYALAY TOSH ROOM NO 2"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRATHMIK VIDHYALAY SAKNA"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MOURA ROOM NO 1"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MOURA ROOM NO 2"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRATHMIK VIDHYALAY MOURA ROOM NO 1"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRATHMIK VIDHYALAY MOURA ROOM NO 2"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PORV MADHYAMIK VIDHYALAY FENCHARI ROOM NO 1"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PORV MADHYAMIK VIDHYALAY FENCHARI ROOM NO 2"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRATHMIK VIDHYALAY ARHERA"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRATHMIK VIDHYALAY BATI ROOM NO 1"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRATHMIK VIDHYALAY BATI ROOM NO 2"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRATHMIK VIDHYALAY BATI ROOM NO 3"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRATHMIK VIDHYALAY BATI ROOM NO 4"
+  },
+  {
+    "partNumber": 188,
+    "partName": "KANYA PRATHMIK VIDHYALAY BATI ROOM NO 1"
+  },
+  {
+    "partNumber": 189,
+    "partName": "KANYA PRATHMIK VIDHYALAY BATI ROOM NO 2"
+  },
+  {
+    "partNumber": 190,
+    "partName": "MATA LEELAVATI SHRI KRISHAN VEDIC KANYA INTER COLLEGE KHUSIPURA RAAL"
+  },
+  {
+    "partNumber": 191,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 1"
+  },
+  {
+    "partNumber": 192,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 2"
+  },
+  {
+    "partNumber": 193,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 3"
+  },
+  {
+    "partNumber": 194,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 4"
+  },
+  {
+    "partNumber": 195,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 5"
+  },
+  {
+    "partNumber": 196,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 6"
+  },
+  {
+    "partNumber": 197,
+    "partName": "KISAN INTER COLLEGE RAAL ROOM NO 7"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MENDU"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRATHMIK VIDHYALAY NAGLA CHIRANJI"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MOHARSINGH"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PISAVA"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRATHMIK VIDHYALAY NAGLA DOKRI"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRATHMIK VIDHYALAY BADOTA ROOM NO 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PRATHMIK VIDHYALAY BADOTA ROOM NO 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRATHMIK VIDHYALAY NAGLA NETA"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRATHMIK VIDHYALAY NAGLA BRAHMRAAN"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRATHMIK VIDHYALAY BHADAL SUNDER ROOM NO 1"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRATHMIK VIDHYALAY BHADAL SUNDER ROOM NO 2"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRATHMIK VIDHYALAY MAGHERA ROOM NO 1"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRATHMIK VIDHYALAY MAGHERA ROOM NO 2"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRATHMIK VIDHYALAY CHATIKARA ROOM NO 1"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRATHMIK VIDHYALAY CHATIKARA ROOM NO 2"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRATHMIK VIDHYALAY CHATIKARA ROOM NO 3"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRATHMIK VIDHYALAY CHATIKARA NAGLA STATION"
+  },
+  {
+    "partNumber": 215,
+    "partName": "NAVEEN PRATHMIK VIDHYALAY JAIT ROOM NO 1"
+  },
+  {
+    "partNumber": 216,
+    "partName": "NAVEEN PRATHMIK VIDHYALAY JAIT ROOM NO 2"
+  },
+  {
+    "partNumber": 217,
+    "partName": "KANYA PORV MADHYAMIK VIDHYALAY JAIT ROOM NO 1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "KANYA PORV MADHYAMIK VIDHYALAY JAIT ROOM NO 2"
+  },
+  {
+    "partNumber": 219,
+    "partName": "KANYA PORV MADHYAMIK VIDHYALAY JAIT ROOM NO 3"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRATHMIK VIDHYALAY BADI AATAS ROOM NO 1"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRATHMIK VIDHYALAY BADI AATAS ROOM NO 2"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRATHMIK VIDHYALAY GONDA AATAS ROOM NO 1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRATHMIK VIDHYALAY GONDA AATAS ROOM NO 2"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRATHMIK VIDHYALAY DEVI AATAS"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SUMMERA"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRATHMIK VIDHYALAY NARAYNPUR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRATHMIK VIDHYALAY JONAAI"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRATHMIK VIDHYALAY SUNRAKH ROOM NO 1"
+  },
+  {
+    "partNumber": 229,
+    "partName": "PRATHMIK VIDHYALAY SUNRAKH ROOM NO 2"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRATHMIK VIDHYALAY SUNRAKH ROOM NO 3"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRATHMIK VIDHYALAY SUNRAKH ROOM NO 4"
+  },
+  {
+    "partNumber": 232,
+    "partName": "AAGANBADI KENDRA SUNRAKH"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRATHMIK VIDHYALAY GOPALGARH ROOM NO 1"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRATHMIK VIDHYALAY GOPALGARH ROOM NO 3"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRATHMIK VIDHYALAY GOPALGARH ROOM NO 2"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRATHMIK VIDHYALAY NAGLA RAMTAL"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PORV MADHYAMIK VIDHYALAY DHOURERA ROOM NO 1"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PORV MADHYAMIK VIDHYALAY DHOURERA ROOM NO 2"
+  },
+  {
+    "partNumber": 239,
+    "partName": "PRATHMIK VIDHYALAY DHOURERA ROOM NO 1"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRATHMIK VIDHYALAY DHOURERA ROOM NO 2"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRATHMIK VIDHYALAY AKRUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRATHMIK VIDHYALAY TEHRA ROOM NO 1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRATHMIK VIDHYALAY TEHRA ROOM NO 2"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PRATHMIK VIDHYALAY KOTA ROOM NO 1"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRATHMIK VIDHYALAY KOTA ROOM NO 2"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRATHMIK VIDHYALAY CHANDRANAGAR"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRATHMIK VIDHYALAY KUNJNAGAR"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRATHMIK VIDHYALAY BAJANA ROOM NO 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRATHMIK VIDHYALAY BAJANA ROOM NO 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRATHMIK VIDHYALAY BAJANA ROOM NO 3"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRATHMIK VIDHYALAY DATIYA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRATHMIK VIDHYALAY NAGLA KUMHERIYA"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRATHMIK VIDHYALAY NAGLA KASHI"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRATHMIK VIDHYALAY LALITPUR"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PORV MADHYAMIK VIDHYALAY GOVINDPUR"
+  },
+  {
+    "partNumber": 256,
+    "partName": "KANYA PRATHMIK VIDHYALAY SATOHA ASGARPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "KANYA PRATHMIK VIDHYALAY SATOHA ASGARPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PORV MADHYAMIK VIDHYALAY SATOHA ASGARPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PORV MADHYAMIK VIDHYALAY SATOHA ASGARPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PRATHMIK VIDHYALAY NAGLA BOHRA"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRATHMIK VIDHYALAY JUNSUTI ROOM NO 1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRATHMIK VIDHYALAY JUNSUTI ROOM NO 2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRATHMIK VIDHYALAY JUNSUTI ROOM NO 3"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PANCHAYAT GHAR NAGLA DHANIYA"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRATHMIK VIDHYALAY NAGLA SEETA BHAG JUNSUTI"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRATHMIK VIDHYALAY BASAI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "PRATHMIK VIDHYALAY UCHAGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PRATHMIK VIDHYALAY UCHAGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRATHMIK VIDHYALAY UCHAGAON ROOM NO 3"
+  },
+  {
+    "partNumber": 270,
+    "partName": "UCHH PRATHMIK VIDHYALAY VITHALNAGAR(1-8)"
+  },
+  {
+    "partNumber": 271,
+    "partName": "JUNIER HIGHSCHOOL SHAHPUR JATAN"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PRATHMIK VIDHYALAY SHAHPUR CHAINPUR"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRATHMIK VIDHYALAY BERUKA"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRATHMIK VIDHYALAY PALIDUNGRA NYA NIRMARD"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRATHMIK VIDHYALAY NAGLA GHARU ROOM NO 1"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRATHMIK VIDHYALAY NAGLA KHANDU BHAG FONDAR ROOM NO 1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRATHMIK VIDHYALAY NAGLA KHANDU BHAG FONDAR ROOM NO 2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRATHMIK VIDHYALAY FONDAR ROOM NO 1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRATHMIK VIDHYALAY FONDAR ROOM NO 2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "UCHH PRATHMIK VIDHYALAY NAGLA KHARI(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 281,
+    "partName": "UCHH PRATHMIK VIDHYALAY NAGLA KHARI(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 282,
+    "partName": "JUNIOR HIGHSCHOOL LORIYAPATTI ROOM NO 1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "JUNIOR HIGHSCHOOL LORIYAPATTI ROOM NO 2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "JUNIOR HIGHSCHOOL LORIYAPATTI ROOM NO 3"
+  },
+  {
+    "partNumber": 285,
+    "partName": "UCHH PRATHMIK VIDHYALAY RASULPUR(1-8) ROOM NO 1"
+  },
+  {
+    "partNumber": 286,
+    "partName": "UCHH PRATHMIK VIDHYALAY RASULPUR(1-8) ROOM NO 2"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRATHMIK VIDHYALAY GOPALPURA"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRATHMIK VIDHYALAY JHAPRA"
+  },
+  {
+    "partNumber": 289,
+    "partName": "JANTA INTER COLLEGE MAGORA ROOM NO 1"
+  },
+  {
+    "partNumber": 290,
+    "partName": "JANTA INTER COLLEGE MAGORA ROOM NO 2"
+  },
+  {
+    "partNumber": 291,
+    "partName": "JANTA INTER COLLEGE MAGORA ROOM NO 3"
+  },
+  {
+    "partNumber": 292,
+    "partName": "JANTA INTER COLLEGE MAGORA ROOM NO 4"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PRATHMIK VIDHYALAY MAGORA PRATHAM ROOM NO 1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRATHMIK VIDHYALAY MAGORA PRATHAM ROOM NO 2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PORV MADHYAMIK VIDHYALAY NAGLA CHINTA"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRATHMIK VIDHYALAY LATHAKURI"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRATHMIK VIDHYALAY BANDPURA"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRATHMIK VIDHYALAY MAKEHARA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRATHMIK VIDHYALAY NAGLA JHINGA ROOM NO 1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRATHMIK VIDHYALAY NAGLA JHINGA ROOM NO 2"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRATHMIK VIDHYALAY NAGLA CHINGA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRATHMIK VIDHYALAY BHADAR"
+  },
+  {
+    "partNumber": 303,
+    "partName": "JUNIOR HIGH SCHOOL SOAN ROOM NO 1"
+  },
+  {
+    "partNumber": 304,
+    "partName": "JUNIOR HIGH SCHOOL SOAN ROOM NO 2"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRATHMIK VIDHYALAY UMARI ROOM NO 1"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRATHMIK VIDHYALAY UMARI ROOM NO 2"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRATHMIK VIDHYALAY LALPUR"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRATHMIK VIDHYALAY NAGLA BHURIYA"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRATHMIK VIDHYALAY HAKIMPUR"
+  },
+  {
+    "partNumber": 310,
+    "partName": "RADHAKRISHAN HIGHER SECONDERY SCHOOL USFAAR ROOM NO 1"
+  },
+  {
+    "partNumber": 311,
+    "partName": "RADHAKRISHAN HIGHER SECONDERY SCHOOL USFAAR ROOM NO 2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "RADHAKRISHAN HIGHER SECONDERY SCHOOL USFAAR ROOM NO 3"
+  },
+  {
+    "partNumber": 313,
+    "partName": "RADHAKRISHAN HIGHER SECONDERY SCHOOL USFAAR ROOM NO 4"
+  },
+  {
+    "partNumber": 314,
+    "partName": "RADHAKRISHAN HIGHER SECONDERY SCHOOL USFAAR ROOM NO 5"
+  },
+  {
+    "partNumber": 315,
+    "partName": "SANT MIKHAEL VIDHYALAY ANUP NAGAR"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRATHMIK VIDHYALAY NAGLA MANA"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRATHMIK VIDHYALAY NAVEEPUR"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRATHMIK VIDHYALAY MUKANDPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRATHMIK VIDHYALAY MUKANDPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRATHMIK VIDHYALAY SALEMPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRATHMIK VIDHYALAY SALEMPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRATHMIK VIDHYALAY MASUMNAGAR"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRATHMIK VIDHYALAY TARSI ROOM NO 1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRATHMIK VIDHYALAY TARSI ROOM NO 2"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRATHMIK VIDHYALAY TARSI ROOM NO 3"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRATHMIK VIDHYALAY RAMPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRATHMIK VIDHYALAY RAMPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRATHMIK VIDHYALAY NAGARI"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRATHMIK VIDHYALAY SEHA"
+  },
+  {
+    "partNumber": 330,
+    "partName": "NAVEEN BHAVAN PRATHMIK VIDHYALAY KOSIKHURD ROOM NO 1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "NAVEEN BHAVAN PRATHMIK VIDHYALAY KOSIKHURD ROOM NO 2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "NAVEEN BHAVAN PRATHMIK VIDHYALAY KOSIKHURD ROOM NO 3"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PRANSUKH"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRATHMIK VIDHYALAY BURDAVAI"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRATHMIK VIDHYALAY CHARDGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PRATHMIK VIDHYALAY CHARDGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 337,
+    "partName": "SERSA INTER COLLEGE SERSA ROOM NO 1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "SERSA INTER COLLEGE SERSA ROOM NO 2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "SERSA INTER COLLEGE SERSA ROOM NO 3"
+  },
+  {
+    "partNumber": 340,
+    "partName": "PRATHMIK VIDHYALAY NAGLA ABUA ROOM NO 1"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRATHMIK VIDHYALAY NAGLA ABUA ROOM NO 2"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRATHMIK VIDHYALAY MAAL"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRATHMIK VIDHYALAY PURA ROOM NO 1"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRATHMIK VIDHYALAY PURA ROOM NO 2"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRATHMIK VIDHYALAY SONOTH JANUBI"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRATHMIK VIDHYALAY DHANA SHAMSHABAD ROOM NO 1"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRATHMIK VIDHYALAY DHANA SHAMSHABAD ROOM NO 2"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PRATHMIK VIDHYALAY SAMASPUR"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PRATHMIK VIDHYALAY BHUDARSU ROOM NO 1"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRATHMIK VIDHYALAY BHUDARSU ROOM NO 2"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRATHMIK VIDHYALAY KHEDIYA"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRATHMIK VIDHYALAY BAMOULI"
+  },
+  {
+    "partNumber": 353,
+    "partName": "JUNIOR HIGH SCHOOL BERI ROOM NO 1"
+  },
+  {
+    "partNumber": 354,
+    "partName": "JUNIOR HIGH SCHOOL BERI ROOM NO 2"
+  },
+  {
+    "partNumber": 355,
+    "partName": "JUNIOR HIGH SCHOOL BERI ROOM NO 3"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRATHMIK VIDHYALAY GADI BERI"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRATHMIK VIDHYALAY ANGANPURA"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRATHMIK VIDHYALAY BHAHAI ROOM NO 1"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRATHMIK VIDHYALAY BHAHAI ROOM NO 2"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRATHMIK VIDHYALAY BHAHAI ROOM NO 3"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRATHMIK VIDHYALAY BHAHAI ROOM NO 4"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PRATHMIK VIDHYALAY BHAINSA ROOM NO 1"
+  },
+  {
+    "partNumber": 363,
+    "partName": "PRATHMIK VIDHYALAY BHAINSA ROOM NO 2"
+  },
+  {
+    "partNumber": 364,
+    "partName": "MAHARANI AHILYA BAI UCHHTAR MADHYAMIK VIDHYALAY BAD ROOM NO 1"
+  },
+  {
+    "partNumber": 365,
+    "partName": "MAHARANI AHILYA BAI UCHHTAR MADHYAMIK VIDHYALAY BAD ROOM NO 2"
+  },
+  {
+    "partNumber": 366,
+    "partName": "MAHARANI AHILYA BAI UCHHTAR MADHYAMIK VIDHYALAY BAD ROOM NO 3"
+  },
+  {
+    "partNumber": 367,
+    "partName": "MAHARANI AHILYA BAI UCHHTAR MADHYAMIK VIDHYALAY BAD ROOM NO 4"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PORV MADHYAMIK VIDHYALAY DAYAT ROOM NO 1"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PORV MADHYAMIK VIDHYALAY DAYAT ROOM NO 2"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PORV MADHYAMIK VIDHYALAY DAYAT ROOM NO 3"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PORV MADHYAMIK VIDHYALAY DAYAT ROOM NO 4"
+  },
+  {
+    "partNumber": 372,
+    "partName": "KENDRIY VIDHYALAY REFINARY NAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "KENDRIY VIDHYALAY REFINARY NAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "KENDRIY VIDHYALAY REFINARY NAGAR ROOM NO 3"
+  },
+  {
+    "partNumber": 375,
+    "partName": "KENDRIY VIDHYALAY REFINARY NAGAR ROOM NO 4"
+  },
+  {
+    "partNumber": 376,
+    "partName": "PRATHMIK VIDHYALAY DAYAT BAD ROOM NO 1"
+  },
+  {
+    "partNumber": 377,
+    "partName": "PRATHMIK VIDHYALAY DAYAT BAD ROOM NO 2"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PRATHMIK VIDHYALAY DAYAT BAD ROOM NO 3"
+  },
+  {
+    "partNumber": 379,
+    "partName": "PRATHMIK VIDHYALAY DAYAT BAD ROOM NO 4"
+  },
+  {
+    "partNumber": 380,
+    "partName": "KENDRIY VIDHYALAY RAILWAY COLONY BAD"
+  },
+  {
+    "partNumber": 381,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 382,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 3"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 4"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 5"
+  },
+  {
+    "partNumber": 386,
+    "partName": "PRATHMIK VIDHYALAY RANCHIBANGAR ROOM NO 6"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PORV MADHYAMIK VIDHYALAY KOYLA ALIPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 388,
+    "partName": "PORV MADHYAMIK VIDHYALAY KOYLA  ALIPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 389,
+    "partName": "PRATHMIK VIDHYALAY KARNAVAL ROOM NO 1"
+  },
+  {
+    "partNumber": 390,
+    "partName": "PRATHMIK VIDHYALAY KARNAVAL ROOM NO 2"
+  }
+]

@@ -1,0 +1,2026 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S.RAKSEL"
+  },
+  {
+    "partNumber": 2,
+    "partName": "U.P.S. BHARWALIYA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S.MAHDEVA KURMI"
+  },
+  {
+    "partNumber": 4,
+    "partName": "U.P.S.BIRDPUR.NO1 TOLA BAHORWA"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S.BIRDPUR NO1 TOLA BANKATVA"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.S. BIRDPUR NO1 TOLA POKHARBHITVA SARDARNAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S. BIRDPUR NO1 TOLA POKHARBHITVA SARDARNAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S. BIRDPUR NO1 TOLA POKHARBHITVA SARDARNAGAR U.BHAG"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S. BIRDPUR NO1 TOLA POKHARBHITVA SARDARNAGAR D.BHAG"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S.BIRDPUR NO1 TOLA KAPILVASTU PU.BHAG"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S.BIRDPUR NO1 TOLA KAPILVASTU P.BHAG"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S.BIRDPUR NO1 TOLA KAPILVASTU U.BHAG"
+  },
+  {
+    "partNumber": 13,
+    "partName": "U.P.S. BIRDPUR NO6 TOLA RAJPUR NONHAWA"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S.BIRDPUR NO6 TOLA NONHAVA"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S.BIRDPUR NO6 TOLA MADHAVNAGAR"
+  },
+  {
+    "partNumber": 16,
+    "partName": "U.P.S. BIRDPUR NO6 TOLA MADHAVNAGAR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.S. BIRDPUR NO2 TOLA BHAGVANPUR"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PANCHAYAT BHAWAN BIRDPUR NO2 TOLA DHANGADVA"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S. BIRDPUR NO2 TOLA NARKULBAZAR"
+  },
+  {
+    "partNumber": 20,
+    "partName": "U.P.S. BIRDPUR NO 2 TOLA-NARKUL BAZAR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. BIRDPUR NO3 TOLA NAAGCHAURI PU.BHAG"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S. BIRDPUR NO3 TOLA NAAGCHAURI PN.BHAG"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.S. BIRDPUR NO3 TOLA BHAGVANIYA PU.BHAG"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P.S.BIRDPUR NO3 TOLA BHAGVANIYA PN.BHAG"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S. BIRDPUR NO4 TOLA NANDNAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.S. BIRDPUR NO4 TOLA NANDNAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S. BIRDPUR NO4 TOLA NANDNAGAR"
+  },
+  {
+    "partNumber": 28,
+    "partName": "COMPOSITE SCHOOL BIRDPUR NO5 TOLA PARSABELHARI PU.BHAG"
+  },
+  {
+    "partNumber": 29,
+    "partName": "COMPOSITE SCHOOL BIRDPUR NO5 TOLA PARSABELHARI PN.BHAG"
+  },
+  {
+    "partNumber": 30,
+    "partName": "COMPOSITE SCHOOL BIRDPUR NO5 TOLA PARSABELHARI U.BHAG"
+  },
+  {
+    "partNumber": 31,
+    "partName": "U.P.S. BIRDPUR NO5 TOLA PARSA BELHARI"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.S.BHAGWANPUR PU.BHAG"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.S.BHAGWANPUR PN.BHAG"
+  },
+  {
+    "partNumber": 34,
+    "partName": "U.P.S.BHAGWANPUR TOLA MAJHAUWA PU.BHAG"
+  },
+  {
+    "partNumber": 35,
+    "partName": "U.P.S.BHAGWANPUR TOLA MAJHAUWA PN.BHAG"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.S.RASOOLPUR U.BHAG"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S.RASOOLPUR PU.BHAG"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S.RASOOLPUR D.BHAG"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S.RASOOLPUR PN.BHAG"
+  },
+  {
+    "partNumber": 40,
+    "partName": "U.P.S. BANGAEE"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL PIPARSAN"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.S.BIRDPUR NO7 TOLA PANDITPUR PU.BHAG"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.S.BIRDPUR NO7 TOLA PANDITPUR PN.BHAG"
+  },
+  {
+    "partNumber": 44,
+    "partName": "U.P.S.BIRDPUR NO 7 TOLA SANGRAMPUR"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S.BIRDPUR NO 7 TOLA MAJGAVA PU.BHAG"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S.BIRDPUR NO7 TOLA MAJGAVA PN.BHAG"
+  },
+  {
+    "partNumber": 47,
+    "partName": "U.P.S.BIRDPUR NO7 TOLA MAJGAVA"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P.S.BIRDPUR NO8 TOLA MOHANAJOT PU.BHAG"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P.S.BIRDPUR NO8 TOLA MOHANAJOT PN.BHAG"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.S.BIRDPUR NO8 TOLA MOHANAJOT U.BHAG"
+  },
+  {
+    "partNumber": 51,
+    "partName": "U.P.S.BIRDPUR NO8 TOLA MOHANAJOT PU.BHAG"
+  },
+  {
+    "partNumber": 52,
+    "partName": "U.P.S.BIRDPUR NO8 TOLA MOHANAJOT PN.BHAG"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S.BASALATPUR BIRDPUR NO 8 SITH. TOLA BHAOPUR MAHDEIYA PU.BHAG"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S.BASALATPUR BIRDPUR NO 8 SITH. TOLA BHAOPUR MAHDEIYA PN.BHAG"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S.BASALATPUR BIRDPUR NO 8 SITH. TOLA BHAOPUR MAHDEIYA U.BHAG"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S.BIRDPUR NO9 TOLA HATHIAHAVA PU.BHAG"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S.BIRDPUR NO9 TOLA HATHIAHAVA PN.BHAG"
+  },
+  {
+    "partNumber": 58,
+    "partName": "ENGLISHMIDIYAM MODEL P.S. BIRDPUR PRATHAM"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S.BIRDPUR NO 9 TOALA GOSAIGANJ"
+  },
+  {
+    "partNumber": 60,
+    "partName": "U.P.S.BIRDPUR NO9 TOLA SONBARSA PU.BHAG"
+  },
+  {
+    "partNumber": 61,
+    "partName": "U.P.S.BIRDPUR NO9 TOLA SONBARSA PN.BHAG"
+  },
+  {
+    "partNumber": 62,
+    "partName": "U.P.S.BIRDPUR NO9 TOLA SONBARSA U.BHAG"
+  },
+  {
+    "partNumber": 63,
+    "partName": "U.P.S.BIRDPUR NO9 TOLA SONBARSA D.BHAG"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P.S.BIRDPUR NO9 TOLA BANIYABHARI"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.S.PAKDEHVA"
+  },
+  {
+    "partNumber": 66,
+    "partName": "COMPOSITE J.H.S KHALEELPUR PU.BHAG"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSITE J.H.S KHALEELPUR PN.BHAG"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE J.H.S KHALEELPUR  U.BHAG"
+  },
+  {
+    "partNumber": 69,
+    "partName": "COMPOSITE J.H.S KHALEELPUR MED.BHAG"
+  },
+  {
+    "partNumber": 70,
+    "partName": "COMPOSITE SCHOOL KHALEELPUR D.BHAG"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PANCHAYAT BHAVAN SHIVPATINAGAR TOLA GAUHANIYA"
+  },
+  {
+    "partNumber": 72,
+    "partName": "P.S.SHIVPATINAGAR TOLA SUKRAULI PU.BHAG"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.S.SHIVPATINAGAR TOLA SUKRAULI PN.BHAG"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S.SHIVPATINAGAR TOLA KANCHANPUR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "PANCHAYAT BHAVAN MADHUBANI KHAS PU.BHAG"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PANCHAYAT BHAVAN MADHUBANI KHAS PN.BHAG"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S.MADHUBANI TOLA MOHANAGANJ PU.BHAG"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.S.MADHUBANI TOLA MOHANAGANJ PN.BHAG"
+  },
+  {
+    "partNumber": 79,
+    "partName": "COMPOSITE  J.H.S. RAMPUR"
+  },
+  {
+    "partNumber": 80,
+    "partName": "COMPOSITE J.H.S. RAMPUR"
+  },
+  {
+    "partNumber": 81,
+    "partName": "U.P.S.HARDASNAGAR TOLA DAYANAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.P.S.HARDASNAGAR TOLA DAYANAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S.HARDASPUR"
+  },
+  {
+    "partNumber": 84,
+    "partName": "COMPOSITE SCHOOL BIRDPUR NO10 TOLA SURYAKUDIYA"
+  },
+  {
+    "partNumber": 85,
+    "partName": "COMPOSITE SCHOOL BIRDPUR NO10 TOLA SURYAKUDIYA"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE SCHOOL  BIRDPUR NO 10 TOLA-RAMNAGRA"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.S.BIRDPUR NO10 TOLA THAUKURAPUR U.BHAG "
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S.BIRDPUR.NO10.TOLA-THAUKURAPUR D.BHAG"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S.BIRDPUR NO10 DEORA CHAUDHARY PU.BHAG"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S.BIRDPUR NO10 DEORA CHAUDHARY PN.BHAG"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S.BIRDPUR NO11 TOLA CHUNMUNVA PU.BHAG"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S.BIRDPUR NO11 TOLA CHUNMUNVA PN.BHAG"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S.BIRDPUR NO11 TOLA CHUNMUNVA U.BHAG"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S.BIRDPUR NO11 TOLA BARGADHEE PU.BHAG"
+  },
+  {
+    "partNumber": 95,
+    "partName": "P.S.BIRDPUR NO11 TOLA BARGADHEE PN.BHAG"
+  },
+  {
+    "partNumber": 96,
+    "partName": "P.S.BIRDPUR NO11 TOLA BARGADHEE U.BHAG"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S.BIRDPUR NO11 TOLA PICHAURA"
+  },
+  {
+    "partNumber": 98,
+    "partName": "U.P.S.BIRDPUR NO11 TOLA PICHAURA"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S.BIRDPUR NO12 TOLA BAIJNATHPUR"
+  },
+  {
+    "partNumber": 100,
+    "partName": "U.P.S.BIRDPUR NO12 TOLA KASHIPUR PU.BHAG"
+  },
+  {
+    "partNumber": 101,
+    "partName": "U.P.S.BIRDPUR NO 12 TOLA KASHIPUR PN.BHAG"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S.BIRDPUR NO12 TOLA KASHIPUR PU.BHAG"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.S. BIRDPUR NO 12 TOLA KASHIPUR PN.BHAG"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.S. BADYA U.BHAG"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.S.BADYA D.BHAG"
+  },
+  {
+    "partNumber": 106,
+    "partName": "MUSLIM INTER COLLEGE BIRDPUR NO 13 TOLA MAHDEIYA"
+  },
+  {
+    "partNumber": 107,
+    "partName": "MUSLIM.INTER.COLLEGE.BIRDPUR.NO13.TOLA-MADHEIYA"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P.S.BIRDPUR NO 13 TOLA MADHUBENIYA PU.BHAG"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S.BIRDPUR NO 13 TOLA MADHUBENIYA PN.BHAG"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S.BIRDPUR NO 13 TOLA WAJIRABAD"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P.S.BIRDPUR NO13 TOLA MAHARAJGANJAAMI"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S. BIRDPUR NO13 TOLA SHIVDASPUR"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S.BIRDPUR NO 13 TOLA MOTIPUR"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S.BIRDPUR NO14 TOLA SISHANIYA PU.BHAG"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S.BIRDPUR NO 14 TOLA SISHANIYA PN.BHAG"
+  },
+  {
+    "partNumber": 116,
+    "partName": "U.P.S.BIRDPUR NO 14 MU.RAMJANNAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 117,
+    "partName": "U.P.S.BIRDPUR NO14 MU.RAMJANNAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 118,
+    "partName": "U.P.S.BIRDPUR NO14 MU.RAMJANNAGAR U.BHAG"
+  },
+  {
+    "partNumber": 119,
+    "partName": "U.P.S.BIRDPUR NO14 MU.RAMJANNAGAR D.BHAG"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.S.BIRDPUR NO14 MU.RAMPRASAD NAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.S.BIRDPUR NO14 MU.RAMPRASAD NAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.S.BIRDPUR NO 14 MU.RAMPRASAD NAGAR U.BHAG"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S.BIRDPUR NO14 MU.RAMPRASAD NAGAR D.BHAG"
+  },
+  {
+    "partNumber": 124,
+    "partName": "JAWAHARLAL NEHRU SMARAK INTER COLLEGE PU.BHAG"
+  },
+  {
+    "partNumber": 125,
+    "partName": "JAWAHARLAL NEHRU SMARAK INTER COLLEGE PN.BHAG"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S.BIRDPUR NO14 TOLA SEIKHUIYA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S.BIRDPUR NO 14 TOLA LUMTIHAVA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSITE  J.H.S  ROHUDEELA TOLA SISHANIYA PU.BHAG"
+  },
+  {
+    "partNumber": 129,
+    "partName": "COMPOSITE J.H.S ROHUDEELA TOLA SISHANIYA PN.BHAG"
+  },
+  {
+    "partNumber": 130,
+    "partName": "U.P.S.RAMGARH U.BHAG"
+  },
+  {
+    "partNumber": 131,
+    "partName": "U.P.S.RAMGARH M.BHAG"
+  },
+  {
+    "partNumber": 132,
+    "partName": "U.P.S.RAMGARH D.BHAG"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.S.PARSOHIYA"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S.BELTEEKAR PU.BHAG"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S.BELTEEKAR PN.BHAG"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.S.BELOHA"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.S.GUJRAULIYA"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S.PANERI"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P.S.SIKRI BAKHRIYA"
+  },
+  {
+    "partNumber": 140,
+    "partName": "P.S.FULVARIYA"
+  },
+  {
+    "partNumber": 141,
+    "partName": "P.S.GARMOR PU.BHAG"
+  },
+  {
+    "partNumber": 142,
+    "partName": "P.S.GARMOR PN.BHAG"
+  },
+  {
+    "partNumber": 143,
+    "partName": "SHIVAJI U.P.S.S. MURDILI"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S.MURDILI"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S.LAKDI"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S.PANANI"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S.PANANI"
+  },
+  {
+    "partNumber": 148,
+    "partName": "COMPOSITE SCHOOL MAHTHAWAL"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.S.LAKDA"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S.AMAHVA"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S.DAFALIPUR"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S.KHAIRAHAVA U.BHAG"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S.KHAIRAHAVA D.BHAG"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S.JAFARJOT"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P.S.MAHDEIYA"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S.BARGADVA"
+  },
+  {
+    "partNumber": 157,
+    "partName": "COMPOSITE SCHOOL DULHA DARMIYANI TOLA RAMJANNAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 158,
+    "partName": "COMPOSITE SCHOOL DULHA DARMIYANI TOLA RAMJANNAGAR  PN.BHAG"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P.S.DULHA KHURD U.BHAG"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S.DULHA KHURD M.BHAG"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.S.DULHA KHURD D.BHAG"
+  },
+  {
+    "partNumber": 162,
+    "partName": "U.P.S.DULHA SHUMALI TOLA KAKRAHAVA PU.BHAG"
+  },
+  {
+    "partNumber": 163,
+    "partName": "U.P.S.DULHA SHUMALI TOLA KAKRAHAVA M.BHAG"
+  },
+  {
+    "partNumber": 164,
+    "partName": "U.P.S.DULHA SHUMALI TOLA KAKRAHAVA PN.BHAG"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S.DULHA SHUMALI"
+  },
+  {
+    "partNumber": 166,
+    "partName": "KANYA U.P.S.DULHA SHUMALI TOLA KAKRAHAVA PU.BHAG"
+  },
+  {
+    "partNumber": 167,
+    "partName": "KANYA U.P.S.DULHA SHUMALI TOLA KAKRAHAVA PN.BHAG"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOSITE SCHOOL JHANGATI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S.BHUJAULI"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.S.BUDA"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S.PATILA"
+  },
+  {
+    "partNumber": 172,
+    "partName": "COMPOSITE SCHOOL TIGHRA"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S.KEVTALIYA"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S.KHAIRATI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S.BARDAHAVA"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P.S.THOTHARI"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P.S.ABHAYPUR"
+  },
+  {
+    "partNumber": 178,
+    "partName": "COMPOSITE SCHOOL  FUTUK"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S.LOHRAULI"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S.KARMAINI"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S.RASIYAVAL KALA"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE SCHOOL RASIYAVAL KHURD"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S.HARIVANSHPUR"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S.BHUSAULA ADAI"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S.BADAHARA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S.DHARMAULI"
+  },
+  {
+    "partNumber": 187,
+    "partName": "COMPOSITE SCHOOL SAPAHI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "U.P.S.AHIRAWAL PU.BHAG"
+  },
+  {
+    "partNumber": 189,
+    "partName": "U.P.S.AHIRAWAL PN.BHAG"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S.BHARMI"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S.KANVANIYA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PANCHAYAT BHAVAN BAGHELI"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.S.AMHAT"
+  },
+  {
+    "partNumber": 194,
+    "partName": "COMPOSITE SCHOOL KHIRIDEEHA U.BHAG"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSITE SCHOOL KHIRIDEEHA D.BHAG"
+  },
+  {
+    "partNumber": 196,
+    "partName": "COMPOSITE SCHOOL CHANRAIYA"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.S.AJAN"
+  },
+  {
+    "partNumber": 198,
+    "partName": "COMPOSITE SCHOOL MAHDEIYA"
+  },
+  {
+    "partNumber": 199,
+    "partName": "COMPOSITE SCHOOL VIJDEIYA"
+  },
+  {
+    "partNumber": 200,
+    "partName": "COMPOSITE SCHOOL LOTAN PU.BHAG"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSITE SCHOOL  LOTAN PN.BHAG"
+  },
+  {
+    "partNumber": 202,
+    "partName": "COMPOSITE SCHOOL LOTAN U.BHAG"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S SCHOOL TARGHAUNA"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.S.BANIYADEEH"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S.BELVA DEORAVA"
+  },
+  {
+    "partNumber": 206,
+    "partName": "COMPOSITE SCHOOL DHANDHARA"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S.KARUAVAL KALA"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE SCHOOL EKDENGVA"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE SCHOOL PATHKHAULI"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S.HARIGAV"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S.NETVAR PU.BHAG"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P.S.NETVAR PN.BHAG"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.S.KOLHUA"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.S.DHARNEEHVA"
+  },
+  {
+    "partNumber": 215,
+    "partName": "COMPOSITE SCHOOL SUSNAHA"
+  },
+  {
+    "partNumber": 216,
+    "partName": "U.P.S.KARMA KARMI"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.S.BHUSAULA MAFI"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSITE SCHOOL VISHUNPUR"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE SCHOOL RAMVAPUR"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S.SEMRA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE SCHOOL GADAHMARVA PU.BHAG"
+  },
+  {
+    "partNumber": 222,
+    "partName": "COMPOSITE SCHOOL GADAHMARVA PN.BHAG"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S.KESHARI"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S.KHAKHRA"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSITE  J.H.S. MAHDEVA BUJURG PU.BHAG"
+  },
+  {
+    "partNumber": 226,
+    "partName": "COMPOSITE J.H.S. MAHDEVA BUJURG PN.BHAG"
+  },
+  {
+    "partNumber": 227,
+    "partName": "U.P.S.KAKORI"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S.KHAJURIA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S.MASERA"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S.NAGVA"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S.MAHDEVA KHURD"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S.BAROHIYA KHALSA"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE J.H.S. GANERA"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S.MADRAHNA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.S.SOHAS SHUMALI PU.BHAG"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S.SOHAS SHUMALI PN.BHAG"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.S.SEMRI SOTIADADI"
+  },
+  {
+    "partNumber": 238,
+    "partName": "U.P.S.KARMAHA"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE SCHOOL BHITPARA PU.BHAG"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE SCHOOL BHITPARA  PN.BHAG"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S.MAHNAG U.BHAG"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S.MAHNAG"
+  },
+  {
+    "partNumber": 243,
+    "partName": "J.H.S.KAULPUR GRANT"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S.BARVA"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S.SAINUA"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S.KHAKHRA BUJURG"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S.BHAGTA PU.BHAG"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S.BHAGTA PN.BHAG"
+  },
+  {
+    "partNumber": 249,
+    "partName": "COMPOSITE SCHOOL PARSAUNA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "COMPOSITE SCHOOL PARSAUNA"
+  },
+  {
+    "partNumber": 251,
+    "partName": "COMPOSITE SCHOOL BADHARA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "COMPOSITE J.H.S. KATHAHA SITH GRAM IMILIHA U.BHAG"
+  },
+  {
+    "partNumber": 253,
+    "partName": "COMPOSITE J.H.S. KATHAHA SITH GRAM IMILIHA  D.BHAG"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.S.KHAKHRA KHURD PU.BHAG"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S.KHAKHRA KHURD PN.BHAG"
+  },
+  {
+    "partNumber": 256,
+    "partName": "COMPOSITE SCHOOL BHELAUJI BUJURG PU.BHAG"
+  },
+  {
+    "partNumber": 257,
+    "partName": "COMPOSITE SCHOOL BHELAUJI BUJURG PN.BHAG"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.S.MUDILA"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE J.H.S. PARASPUR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "U.P.S.SOHAS KHAS PU.BHAG"
+  },
+  {
+    "partNumber": 261,
+    "partName": "U.P.S.SOHAS KHAS PN.BHAG"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.S.SOHAS JANUVI"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U.P.S.UCHHARIYA"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P.S.SOHAS DARMIYANI U.BHAG"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S.SOHAS DARMIYANI M.BHAG"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S.SOHAS DARMIYANI D.BHAG"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S.JAGDISHPURGRANT PU.BHAG"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S.JAGDISHPURGRANT PN.BHAG"
+  },
+  {
+    "partNumber": 269,
+    "partName": "COMPOSITE J.H.S. KUSHBHAUNA"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P.S.DURJANPUR"
+  },
+  {
+    "partNumber": 271,
+    "partName": "SRI.DURGAJI PATESHWARI PRASAD CHAUDHARY U.P.S.PATNI JUNGLE PU.BHAG"
+  },
+  {
+    "partNumber": 272,
+    "partName": "SRI.DURGAJI PATESHWARI PRASAD CHAUDHARY U.P.S.PATNI JUNGLE M.BHAG"
+  },
+  {
+    "partNumber": 273,
+    "partName": "SRI.DURGAJI PATESHWARI PRASAD CHAUDHARY U.P.S.PATNI JUNGLE PN.BHAG"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.S.SISVA GRANT"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P.S.DHAURIKUIYA PU.BHAG"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.S.DHAURIKUIYA PN.BHAG"
+  },
+  {
+    "partNumber": 277,
+    "partName": "P.S.TETRI BAJAR MU.PU.PADAV PU.BHAG"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.S.TETRI BAJAR MU.PU.PADAV PN.BHAG"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.S.TETRI BAJAR KRISHNANAGAR PU.BHAG"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.S.TETRI BAJAR KRISHNANAGAR PN.BHAG"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S.TETRI BAJAR KRISHNANAGAR U.BHAG"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S.TETRI BAJAR KRISHNANAGAR D.BHAG"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSITE  J.H.S. TETRI BAJAR PU.BHAG"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE  J.H.S. TETRI BAJAR PN.BHAG"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE  J.H.S. TETRI BAJAR PRATHAM"
+  },
+  {
+    "partNumber": 286,
+    "partName": "SRI SINGESHWARI INTER COLLEGE TETRI BAJAR PITHNI BUJURG PU.BHAG"
+  },
+  {
+    "partNumber": 287,
+    "partName": "SRI SINGESHWARI INTER COLLEGE TETRI BAJAR PITHNI BUJURG PN.BHAG"
+  },
+  {
+    "partNumber": 288,
+    "partName": "SRI SINGESHWARI INTER COLLEGE TETRI BAJAR PITHNI BUJURG U.BHAG"
+  },
+  {
+    "partNumber": 289,
+    "partName": "BUDH VIDHYA PITH DEGREE COLLEGE NAUGAR PITHNI KHURD PU.BHAG"
+  },
+  {
+    "partNumber": 290,
+    "partName": "BUDH VIDHYA PITH DEGREE COLLEGE NAUGAR PITHNI KHURD PN.BHAG"
+  },
+  {
+    "partNumber": 291,
+    "partName": "COMPOSITE J.H.S. ROMAPAR"
+  },
+  {
+    "partNumber": 292,
+    "partName": "U.P.S.MAHRIYA PU.BHAG"
+  },
+  {
+    "partNumber": 293,
+    "partName": "U.P.S.MAHRIYA PN.BHAG"
+  },
+  {
+    "partNumber": 294,
+    "partName": "COMPOSITE J.H.S. DEOLAHAGRANT PU.BHAG"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOSITE J.H.S. DEOLAHAGRANT PN.BHAG"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S.KOLHUA PU.BHAG"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S.KOLHUA PN.BHAG"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S.SEMRA HUSSAIN BAKS"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.S.PARSASHUKURULLAH"
+  },
+  {
+    "partNumber": 300,
+    "partName": "COMPOSITE J.H.S. PAKDI PU.BHAG"
+  },
+  {
+    "partNumber": 301,
+    "partName": "COMPOSITE J.H.S. PAKDI PN.BHAG"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S.PARSAMAHAPATRA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S.DATRANGVA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.S.POKHARBHITVA PU.BHAG"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.S.POKHARBHITVA PN.BHAG"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.S.THARAULI PU.BHAG"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.S.THARAULI PN.BHAG"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P.S.THARAULI U.BHAG"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P.S.THARAULI D.BHAG"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.S.JAGDISHPUR KHURD PU.BHAG"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.S.JAGDISHPUR KHURD PN.BHAG"
+  },
+  {
+    "partNumber": 312,
+    "partName": "SIDDHARTH SHIKSHA NIKETAN INTER COLLEGE TETRI BAJAR STHIT GRAM BELSAD PU.BHAG"
+  },
+  {
+    "partNumber": 313,
+    "partName": "SIDDHARTH SHIKSHA NIKETAN INTER COLLEGE TETRI BAJAR STHIT GRAM BELSAD M.BHAG"
+  },
+  {
+    "partNumber": 314,
+    "partName": "SIDDHARTH SHIKSHA NIKETAN INTER COLLEGE TETRI BAJAR STHIT GRAM BELSAD PN.BHAG"
+  },
+  {
+    "partNumber": 315,
+    "partName": "SIDDHARTH SHIKSHA NIKETAN INTER COLLEGE TETRI BAJAR STHIT GRAM BELSAD U.BHAG"
+  },
+  {
+    "partNumber": 316,
+    "partName": "SIDDHARTH SHIKSHA NIKETAN INTER COLLEGE TETRI BAJAR STHIT GRAM BELSAD D.BHAG"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S.MUDILA PU.BHAG"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S.MUDILA PN.BHAG"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.S.BASDILIYA"
+  },
+  {
+    "partNumber": 320,
+    "partName": "COMPOSITE J.H.S. BASDILIYA MADHUKARPUR PU.BHAG"
+  },
+  {
+    "partNumber": 321,
+    "partName": "COMPOSITE J.H.S. BASDILIYA MADHUKARPUR  PN.BHAG"
+  },
+  {
+    "partNumber": 322,
+    "partName": "JAI KISHAN INTER COLLEGE SANAI SAKATPUR U.BHAG"
+  },
+  {
+    "partNumber": 323,
+    "partName": "JAI KISHAN INTER COLLEGE SANAI SAKATPUR D.BHAG"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S.PIPRA PANDEY"
+  },
+  {
+    "partNumber": 325,
+    "partName": "P.S.SANDI"
+  },
+  {
+    "partNumber": 326,
+    "partName": "U.P.S.PARSASHAHALAM"
+  },
+  {
+    "partNumber": 327,
+    "partName": "COMPOSITE J.H.S. BHEEMAPAR PN.BHAG"
+  },
+  {
+    "partNumber": 328,
+    "partName": "COMPOSITE J.H.S. BHEEMAPAR  M.BHAG"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSITE J.H.S. BHEEMAPAR D.BHAG"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S.MAHNAGA"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.S.BADGO"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S.REHRA"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S.BASAUNA"
+  },
+  {
+    "partNumber": 334,
+    "partName": "COMPOSITE J.H.S.KAPIYA MISHRA PU.BHAG"
+  },
+  {
+    "partNumber": 335,
+    "partName": "COMPOSITE J.H.S.KAPIYA MISHRA PN.BHAG"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.S.AHIRAULI"
+  },
+  {
+    "partNumber": 337,
+    "partName": "U.P.S.BACHDA BACHDI"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S.PIPRA NAYAK"
+  },
+  {
+    "partNumber": 339,
+    "partName": "COMPOSITE J.H.S. BASAUNI"
+  },
+  {
+    "partNumber": 340,
+    "partName": "COMPOSITE J.H.S. KODRA GRANT PU.BHAG"
+  },
+  {
+    "partNumber": 341,
+    "partName": "COMPOSITE J.H.S.KODRA GRANT PN.BHAG"
+  },
+  {
+    "partNumber": 342,
+    "partName": "COMPOSITE J.H.S. KODRA GRANT PU.BHAG"
+  },
+  {
+    "partNumber": 343,
+    "partName": "COMPOSITE J.H.S.KODRA GRANT M.BHAG"
+  },
+  {
+    "partNumber": 344,
+    "partName": "COMPOSITE J.H.S. KODRA GRANT PN.BHAG"
+  },
+  {
+    "partNumber": 345,
+    "partName": "COMPOSITE J.H.S. KODRA GRANT U.BHAG"
+  },
+  {
+    "partNumber": 346,
+    "partName": "COMPOSITE J.H.S. KODRA GRANT TOLA LONIADEEH"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P.S.JAGDISHPUR RAJA PU.BHAG"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S.JAGDISHPUR RAJA PN.BHAG"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S.DHENSANANKAR PU.BHAG"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S.DHENSANANKAR PN.BHAG"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S.MAHDEVANANKAR PU.BHAG"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P.S.MAHDEVANANKAR PN.BHAG"
+  },
+  {
+    "partNumber": 353,
+    "partName": "P.S.SINGIYA"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S.SISVA BUJURG"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P.S.BAKRUHA"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.S.PARANANKAR PU.BHAG"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.S.PARANANKAR PN.BHAG"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE SCHOOL KATHANA"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S.NIPNEIA"
+  },
+  {
+    "partNumber": 360,
+    "partName": "COMPOSITE SCHOOL SONAURA"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.S.NADEPAR"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S.MAJGAVA"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE SCHOOL DOHNI"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P.S.KODARTAAL"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.S.KADJAHAWA U.BHAG"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S.KADJAHAWA D.BHAG"
+  },
+  {
+    "partNumber": 367,
+    "partName": "COMPOSITE SCHOOL AHADI PU.BHAG"
+  },
+  {
+    "partNumber": 368,
+    "partName": "COMPOSITE SCHOOL  AHADI PN.BHAG"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.S.KANHEKUSUM"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.S.SHRINAGR"
+  },
+  {
+    "partNumber": 371,
+    "partName": "COMPOSITE SCHOOL HADKAULI PU.BHAG"
+  },
+  {
+    "partNumber": 372,
+    "partName": "COMPOSITE SCHOOL HADKAULI PN.BHAG"
+  },
+  {
+    "partNumber": 373,
+    "partName": "P.S.BHUTAHIYA"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P.S.KOYDA"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.S.GANGWAL"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S.KAKRAHI"
+  },
+  {
+    "partNumber": 377,
+    "partName": "U.P.S.TIKARIYA"
+  },
+  {
+    "partNumber": 378,
+    "partName": "P.S.POKHARBHITVA"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE SCHOOL PAGUA"
+  },
+  {
+    "partNumber": 380,
+    "partName": "P.S.DEORA BAZAR PU.BHAG"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P.S.DEORA BAZAR PN.BHAG"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.S.KARAUDA MASINA PU.BHAG"
+  },
+  {
+    "partNumber": 383,
+    "partName": "P.S.KARAUDA MASINA M.BHAG"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.S.KARAUDA MASINA PN.BHAG"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.S.NAGRA PU.BHAG"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S.NAGRA PN.BHAG"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S.SANAI LAGADI"
+  },
+  {
+    "partNumber": 388,
+    "partName": "P.S.SAJNAPAR"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P.S.SANAI LAGADI"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S.BINEKA PU.BHAG"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S.BINEKA PN.BHAG"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P.S.VISHUNPUR"
+  },
+  {
+    "partNumber": 393,
+    "partName": "COMPOSITE J.H.S. DUMDUMVA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S.CHAURASI"
+  },
+  {
+    "partNumber": 395,
+    "partName": "COMPOSITE SCHOOL SAJNI"
+  },
+  {
+    "partNumber": 396,
+    "partName": "COMPOSITE J.H.S. SINGHORVA"
+  },
+  {
+    "partNumber": 397,
+    "partName": "P.S.HARRAIYA PU.BHAG"
+  },
+  {
+    "partNumber": 398,
+    "partName": "P.S.HARRAIYA PN.BHAG"
+  },
+  {
+    "partNumber": 399,
+    "partName": "P.S.HARRAIYA PU.BHAG"
+  },
+  {
+    "partNumber": 400,
+    "partName": "P.S.LAKHNAPAR"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S.JOGIYA"
+  },
+  {
+    "partNumber": 402,
+    "partName": "U.P.S.UDAYPUR"
+  },
+  {
+    "partNumber": 403,
+    "partName": "P.S.MAHUA"
+  },
+  {
+    "partNumber": 404,
+    "partName": "P.S.GONHA"
+  },
+  {
+    "partNumber": 405,
+    "partName": "P.S.KAPIYA"
+  },
+  {
+    "partNumber": 406,
+    "partName": "P.S.MAROOKHARG KALA"
+  },
+  {
+    "partNumber": 407,
+    "partName": "P.S.SEMRA KALA"
+  },
+  {
+    "partNumber": 408,
+    "partName": "P.S.BANKI"
+  },
+  {
+    "partNumber": 409,
+    "partName": "COMPOSITE S.KUSMAHI"
+  },
+  {
+    "partNumber": 410,
+    "partName": "COMPOSITE S.DHOBHA"
+  },
+  {
+    "partNumber": 411,
+    "partName": "COMPOSITE S.KEVATLIYA"
+  },
+  {
+    "partNumber": 412,
+    "partName": "COMPOSITE S.BANGRA"
+  },
+  {
+    "partNumber": 413,
+    "partName": "COMPOSITE S. BANGRA"
+  },
+  {
+    "partNumber": 414,
+    "partName": "P.S.MARVATIYA"
+  },
+  {
+    "partNumber": 415,
+    "partName": "P.S.PEDARI KHURD"
+  },
+  {
+    "partNumber": 416,
+    "partName": "P.S.PATKHAULI"
+  },
+  {
+    "partNumber": 417,
+    "partName": "P.S.SANGALDEEP"
+  },
+  {
+    "partNumber": 418,
+    "partName": "P.S.AMRIYA"
+  },
+  {
+    "partNumber": 419,
+    "partName": "P.S.ITAUVA"
+  },
+  {
+    "partNumber": 420,
+    "partName": "P.S.REEVANANKAR PU.BHAG"
+  },
+  {
+    "partNumber": 421,
+    "partName": "P.S.REEVANANKAR PN.BHAG"
+  },
+  {
+    "partNumber": 422,
+    "partName": "SRI.B.SINGH CHAUHAN U.P.S.BAIRVANANKAR"
+  },
+  {
+    "partNumber": 423,
+    "partName": "COMPOSITE S.GAYGHAT PU.BHAG"
+  },
+  {
+    "partNumber": 424,
+    "partName": "COMPOSITE S. GAYGHAT PN.BHAG"
+  },
+  {
+    "partNumber": 425,
+    "partName": "P.S.HARNIBUJURG"
+  },
+  {
+    "partNumber": 426,
+    "partName": "P.S.FATTEIPUR"
+  },
+  {
+    "partNumber": 427,
+    "partName": "P.S.MAJGAVA"
+  },
+  {
+    "partNumber": 428,
+    "partName": "COMPOSITE S. TANDIYA BAZAR PU.BHAG"
+  },
+  {
+    "partNumber": 429,
+    "partName": "COMPOSITE S. TANDIYA BAZAR PN.BHAG"
+  },
+  {
+    "partNumber": 430,
+    "partName": "P.S.PURAINA"
+  },
+  {
+    "partNumber": 431,
+    "partName": "COMPOSITE J.H.S. CHITRAPAR PU.BHAG"
+  },
+  {
+    "partNumber": 432,
+    "partName": "COMPOSITE J.H.S. CHITRAPAR PN.BHAG"
+  },
+  {
+    "partNumber": 433,
+    "partName": "P.S.SIYRAPAR"
+  },
+  {
+    "partNumber": 434,
+    "partName": "P.S.CHORVAR"
+  },
+  {
+    "partNumber": 435,
+    "partName": "P.S.TIGHRA"
+  },
+  {
+    "partNumber": 436,
+    "partName": "P.S.KUAHATA"
+  },
+  {
+    "partNumber": 437,
+    "partName": "P.S.MAHDEVA BUJURG"
+  },
+  {
+    "partNumber": 438,
+    "partName": "P.S.MANJHARIA"
+  },
+  {
+    "partNumber": 439,
+    "partName": "U.P.S.CHURIHARI"
+  },
+  {
+    "partNumber": 440,
+    "partName": "P.S.MAHULANI PU.BHAG"
+  },
+  {
+    "partNumber": 441,
+    "partName": "P.S.MAHULANI PN.BHAG"
+  },
+  {
+    "partNumber": 442,
+    "partName": "P.S.MARVATIYA MAFI"
+  },
+  {
+    "partNumber": 443,
+    "partName": "P.S.MADHVAPUR"
+  },
+  {
+    "partNumber": 444,
+    "partName": "P.S.KATKI"
+  },
+  {
+    "partNumber": 445,
+    "partName": "P.S.MADANPUR PU.BHAG"
+  },
+  {
+    "partNumber": 446,
+    "partName": "P.S.MADANPUR PN.BHAG"
+  },
+  {
+    "partNumber": 447,
+    "partName": "P.S.MADANPUR PU.BHAG"
+  },
+  {
+    "partNumber": 448,
+    "partName": "P.S.BHITIA"
+  },
+  {
+    "partNumber": 449,
+    "partName": "P.S.KUDIYA"
+  },
+  {
+    "partNumber": 450,
+    "partName": "P.S.KHUTVA"
+  },
+  {
+    "partNumber": 451,
+    "partName": "P.S.CHANRAIYA"
+  },
+  {
+    "partNumber": 452,
+    "partName": "P.S.BASAVANPUR"
+  },
+  {
+    "partNumber": 453,
+    "partName": "COMPOSITE J.H.S. NAGVA PU.BHAG"
+  },
+  {
+    "partNumber": 454,
+    "partName": "COMPOSITE J.H.S. NAGVA PN.BHAG"
+  },
+  {
+    "partNumber": 455,
+    "partName": "P.S.KARCHULIYA GRANT PU.BHAG"
+  },
+  {
+    "partNumber": 456,
+    "partName": "P.S.KARCHULIYA GRANT PN.BHAG"
+  },
+  {
+    "partNumber": 457,
+    "partName": "P.S.FULVARIYA"
+  },
+  {
+    "partNumber": 458,
+    "partName": "U.P.S.GAURA"
+  },
+  {
+    "partNumber": 459,
+    "partName": "P.S.PARSA BUJURG"
+  },
+  {
+    "partNumber": 460,
+    "partName": "P.S.UDWALIYA"
+  },
+  {
+    "partNumber": 461,
+    "partName": "COMPOSITE J.H.S. PARSA KHURD"
+  },
+  {
+    "partNumber": 462,
+    "partName": "P.S.TETRI KHURD"
+  },
+  {
+    "partNumber": 463,
+    "partName": "COMPOSITE J.H.S USKA BAZAR PU.BHAG"
+  },
+  {
+    "partNumber": 464,
+    "partName": "COMPOSITE J.H.S. USKA BAZAR PN.BHAG"
+  },
+  {
+    "partNumber": 465,
+    "partName": "COMPOSITE J.H.S. USKA BAZAR MA.BHAG"
+  },
+  {
+    "partNumber": 466,
+    "partName": "P.S.SASNI"
+  },
+  {
+    "partNumber": 467,
+    "partName": "COMPOSITE J.H.S. HATHIVADTAL PU.BHAG"
+  },
+  {
+    "partNumber": 468,
+    "partName": "COMPOSITE J.H.S. HATHIVADTAL PN.BHAG"
+  },
+  {
+    "partNumber": 469,
+    "partName": "P.S.AJGARA"
+  },
+  {
+    "partNumber": 470,
+    "partName": "P.S.TALBAGHIYA"
+  },
+  {
+    "partNumber": 471,
+    "partName": "P.S.SEKHUI PU.BHAG"
+  },
+  {
+    "partNumber": 472,
+    "partName": "P.S.SEKHUI PN.BHAG"
+  },
+  {
+    "partNumber": 473,
+    "partName": "P.S.MADHURI"
+  },
+  {
+    "partNumber": 474,
+    "partName": "P.S.GHUGHULIYA"
+  },
+  {
+    "partNumber": 475,
+    "partName": "P.S.MOGLAHA PU.BHAG"
+  },
+  {
+    "partNumber": 476,
+    "partName": "P.S.MOGLAHA PN.BHAG"
+  },
+  {
+    "partNumber": 477,
+    "partName": "P.S.REHRA BAZAR PU.BHAG"
+  },
+  {
+    "partNumber": 478,
+    "partName": "P.S.REHRA BAZAR PN.BHAG"
+  },
+  {
+    "partNumber": 479,
+    "partName": "BABA HARIDAS INTER COLLEGE HANUMANGADHI USKA BAZAR PU.BHAG"
+  },
+  {
+    "partNumber": 480,
+    "partName": "BABA HARIDAS INTER COLLEGE HANUMANGADHI USKA BAZAR PN.BHAG"
+  },
+  {
+    "partNumber": 481,
+    "partName": "P.S.GANGADHARPUR"
+  },
+  {
+    "partNumber": 482,
+    "partName": "COMPOSITE J.H.S. MAHNI"
+  },
+  {
+    "partNumber": 483,
+    "partName": "P.S.BARDAHA PU.BHAG"
+  },
+  {
+    "partNumber": 484,
+    "partName": "P.S.BARDAHA PN.BHAG"
+  },
+  {
+    "partNumber": 485,
+    "partName": "U.P.S.BARDAHA"
+  },
+  {
+    "partNumber": 486,
+    "partName": "COMPOSITE J.H.S. MAINKHAI"
+  },
+  {
+    "partNumber": 487,
+    "partName": "P.S.SARAULI KOTHI TOLA SITARAMPUR"
+  },
+  {
+    "partNumber": 488,
+    "partName": "U.P.S.SARAULI KOTHI"
+  },
+  {
+    "partNumber": 489,
+    "partName": "P.S.USKA RAJA PU.BHAG"
+  },
+  {
+    "partNumber": 490,
+    "partName": "P.S.USKA RAJA PN.BHAG"
+  },
+  {
+    "partNumber": 491,
+    "partName": "U.P.S.GANGADHARPUR STHIT GRAM MEHDIYA BUJURG"
+  },
+  {
+    "partNumber": 492,
+    "partName": "P.S.USKI"
+  },
+  {
+    "partNumber": 493,
+    "partName": "PANCHYAT BHAVAN KOLHUA STHIT GRAM SARANGI"
+  },
+  {
+    "partNumber": 494,
+    "partName": "P.S.UTAPAR STHIT GRAM KHERA"
+  },
+  {
+    "partNumber": 495,
+    "partName": "COMPOSITE J.H.S. SUGAHI"
+  },
+  {
+    "partNumber": 496,
+    "partName": "COMPOSITE J.H.S. SEMRAHNA PU.BHAG"
+  },
+  {
+    "partNumber": 497,
+    "partName": "COMPOSITE J.H.S. SEMRAHNA PN.BHAG"
+  },
+  {
+    "partNumber": 498,
+    "partName": "P.S.BHATHIA STHIT GRAM BAHERAWA"
+  },
+  {
+    "partNumber": 499,
+    "partName": "P.S.UTIYA TOLA BRAHMPUR"
+  },
+  {
+    "partNumber": 500,
+    "partName": "P.S.UTIYA PU.BHAG"
+  },
+  {
+    "partNumber": 501,
+    "partName": "P.S.UTIYA PN.BHAG"
+  },
+  {
+    "partNumber": 502,
+    "partName": "COMPOSITE J.H.S. LAXANPUR"
+  },
+  {
+    "partNumber": 503,
+    "partName": "COMPOSITE J.H.S. KARMA PU.BHAG"
+  },
+  {
+    "partNumber": 504,
+    "partName": "COMPOSITE J.H.S. KARMA PN.BHAG"
+  },
+  {
+    "partNumber": 505,
+    "partName": "P.S.TALNATWA U.BHAG"
+  },
+  {
+    "partNumber": 506,
+    "partName": "P.S.TALNATWA D.BHAG"
+  }
+]

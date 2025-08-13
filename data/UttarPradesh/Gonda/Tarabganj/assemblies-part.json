@@ -1,0 +1,1550 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY PATHSHALA LAMBARDAR PURWA GORWA "
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY PATHSHALA BAKAULI PURWA GORWA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "COMPOSITE VIDYALYA PURE DAYAL"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PORV MADHYAMIK VIDHLAY THADAKKI PATTI ROOM NO 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PORV MADHYAMIK VIDHLAY THADAKKI PATTI ROOM NO 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "COMPOSITE VIDYALYA  DHANAI PATTI  ROOM NO 1"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE VIDYALYA  DHANAI PATTI ROOM NO 2"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY PATHSHALA HARKHAPUR"
+  },
+  {
+    "partNumber": 9,
+    "partName": "COMPOSITE VIDYALYA  BAGAHIYANISCHAL"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRIMARY PATHSHALA BIRSINGHPUR"
+  },
+  {
+    "partNumber": 11,
+    "partName": "COMPOSITE VIDYALYA MADHAVPUR  ROOM NO.1"
+  },
+  {
+    "partNumber": 12,
+    "partName": "COMPOSITE VIDYALYA MADHAVPUR  ROOM NO.2"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMARY PATHSHALA UMRAO PURWA ROOM NO 1"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE VIDYALYA LAVVA TEPRA ROOM NO. 1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOSITE VIDYALYA LAVVA TEPRA ROOM NO. 2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "COMPOSITE VIDYALYA DIDSIYA KALA ROOM NO.1"
+  },
+  {
+    "partNumber": 17,
+    "partName": "COMPOSITE VIDYALYA DIDSIYA KALA ROOM NO.4"
+  },
+  {
+    "partNumber": 18,
+    "partName": "COMPOSITE VIDYALYA DIDSIYA KALA ROOM NO.3"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY PATHSHALA MACHHARAHIYA"
+  },
+  {
+    "partNumber": 20,
+    "partName": "COMPOSITE VIDYALYA BADALPUR "
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMARY PATHSHALA GOPIPUR"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY PATHSHALA KURHA"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRIMARY PATHSHALA DHANVALIYA"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE VIDYALYA SINGHPUR"
+  },
+  {
+    "partNumber": 25,
+    "partName": "M.D.V.INTER COLLAGE BELSAR ROOM NO 1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "M.D.V.INTER COLLAGE BELSAR ROOM NO 2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "M.D.V.INTER COLLAGE BELSAR ROOM NO 3"
+  },
+  {
+    "partNumber": 28,
+    "partName": "M.D.V.INTER COLLAGE BELSAR ROOM NO 4"
+  },
+  {
+    "partNumber": 29,
+    "partName": "M.D.V.INTER COLLAGE BELSAR ROOM NO 5"
+  },
+  {
+    "partNumber": 30,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL BELSAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 31,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL BELSAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 32,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL BELSAR ROOM NO. 3"
+  },
+  {
+    "partNumber": 33,
+    "partName": "PRIMARY PATHSHALA PURE SARDAVAN"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY PATHSHALA BELSER DEEHA"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PRIMARY PATHSHALA CHANDPUR ROOM 1"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PRIMARY PATHSHALA CHANDPUR ROOM 2"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PRIMARY PATHSHALA BARSARA ROOM 1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PRIMARY PATHSHALA BARSARA ROOM 2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRIMARY PATHSHALA KHADAURA ROOM 1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRIMARY PATHSHALA KHADAURA ROOM 2"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE VIDYALYA SISAI ROOM NO.1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE VIDYALYA SISAI ROOM NO.2"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRIMARY PATHSHALA KHAMRAUNI ROOM 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRIMARY PATHSHALA KHAMRAUNI ROOM 2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "COMPOSITE VIDYALYA BANJRAWA"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY PATHSHALA LILOYE KHURD"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE VIDYALYA PAKWAN GAON ROOM NO. 1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE VIDYALYA PAKWAN GAON ROOM NO. 2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSITE VIDYALYA PAKWAN GAON ROOM NO. 3"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMARY PATHSHALA GONDAURA (PAKWANGAON)"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMARY PATHSHALA BAKIYAPUR ROOM1"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PRIMARY PATHSHALA BAKIYAPUR ROOM 2"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRIMARY PATHSHALA BAKIYAPUR  ROOM NO 3"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRIMARY PATHSHALA ADAMPUR KHASH ROOM NO 1"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY PATHSHALA ADAMPUR R00M NO 2"
+  },
+  {
+    "partNumber": 56,
+    "partName": "KANYA PURV MADHYAMIK SCHOOL ADAMPUR"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY PATHSHALA GANGRAULI ROOM NO1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRIMARY PATHSHALA GANGRAULI ADD ROOM NO2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY PATHSHALA DURGAGANJ"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSITE VIDYALYA LILOI KALA ROOM NO. 1"
+  },
+  {
+    "partNumber": 61,
+    "partName": "COMPOSITE VIDYALYA LILOI KALA ROOM NO. 2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "COMPOSITE VIDYALYA LILOI KALA ROOM NO. 3"
+  },
+  {
+    "partNumber": 63,
+    "partName": "COMPOSITE VIDYALYA BADLEPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE VIDYALYA BADLEPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 65,
+    "partName": "COMPOSITE VIDYALYA TELHA"
+  },
+  {
+    "partNumber": 66,
+    "partName": "JUNIOR HIGH SCHOOL BARAULI ROOM1"
+  },
+  {
+    "partNumber": 67,
+    "partName": "JUNIOR HIGH SCHOOL BARAULI ROOM 3"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRIMARY PATHSHALA BARAULI PRATHAM BARAULIDIHA ROOM NO 1"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRIMARY PATHSHALA BARAULI PRATHAM BARAULIDIHA ROOM NO2"
+  },
+  {
+    "partNumber": 70,
+    "partName": "JUNIOR HIGH SCHOOL BARAULI (KALHANS PURWA )"
+  },
+  {
+    "partNumber": 71,
+    "partName": "COMPOSITE VIDYALYA BAKHARIYA"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRIMARY PATHSHALA BARJORNAGAR"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRIMARY PATHSHALA BABAMATH BARAULI"
+  },
+  {
+    "partNumber": 74,
+    "partName": "SAMUDAYAK MILAN KENDRA MUKUNDPUR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE VIDYALYA MUKUNDPUR DEEH"
+  },
+  {
+    "partNumber": 76,
+    "partName": "SUBHAS INTER COLLAGE UMRIBEGAMGANJ ROOM NO 1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "SUBHAS INTER COLLAGE UMRIBEGAMGANJ ROOM NO 2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "SUBHAS INTER COLLAGE UMRIBEGAMGANJ ROOM NO 3"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY PATHSHALA UMRIBEGAMGANJ"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY PATHSHALA DEEHA UMRIBEGAMGAJ ROOM NO 1"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY PATHSHALA DEEHA UMRIBEGAMGAJ ROOM NO 2"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY PATHSHALA PURE CHAUHAN UMRIBEGAMGAJ"
+  },
+  {
+    "partNumber": 83,
+    "partName": "COMPOSITE VIDYALYA KODARI UMARI BEGAMGANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "COMPOSITE VIDYALYA KODARI UMARI BEGAMGANJ ROOM NO. 2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "PRIMARY PATHSHALA NAUSHAHRA UMRI BEGAMGANJ"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE VIDYALYA JAFRAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSITE VIDYALYA JAFRAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY PATHSHALA DIXIR ROOM NO 1"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY PATHSHALA DIXIR ROOM NO 2"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY PATHSHALA DIXIR  ROOM NO 3"
+  },
+  {
+    "partNumber": 91,
+    "partName": "COMPOSITE VIDYALYA BADNAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 92,
+    "partName": "COMPOSITE VIDYALYA BADNAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 93,
+    "partName": "COMPOSITE VIDYALYA AKAUNI ROOM NO. 1"
+  },
+  {
+    "partNumber": 94,
+    "partName": "COMPOSITE VIDYALYA AKAUNI ROOM NO. 2"
+  },
+  {
+    "partNumber": 95,
+    "partName": "COMPOSITE VIDYALYA PURE DAAL ROOM NO. 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE VIDYALYA PURE MIRZA"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY PATHSHALA SEMRIKALA ROOM NO1"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRIMARY PATHSHALA SEMRIKALA ROOM NO2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY PATHSHALA SEMRIKALA ROOM NO3"
+  },
+  {
+    "partNumber": 100,
+    "partName": "COMPOSITE VIDYALYA DOHRIJEET"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRIMARY PATHSHALA FEHRA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY PATHSHALA ISMAILPUR ROOM NO1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "COMPOSITE VIDYALYA SONAULI MOHAMMADPUR DEEHA ROOM NO. 1"
+  },
+  {
+    "partNumber": 104,
+    "partName": "COMPOSITE VIDYALYA SONAULI MOHAMMADPUR DEEHA ROOM NO. 2"
+  },
+  {
+    "partNumber": 105,
+    "partName": "JUNIOR HIGH SCHOOL SONAULI MOHAMMADPUR DEEHA ROOM NO 1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "JUNIOR HIGH SCHOOL SONAULI MOHAMMADPUR DEEHA ROOM NO2"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY PATHSHALA PURESANT ROOM1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "COMPOSITE VIDYALYA BACCHI MAJHA"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY PATHSHALA RAGHUNATHPUR SONAULI MOHAMMEDPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRIMARY PATHSHALA RAGHUNATHPUR SONAULI MOHAMMADAPUR  ROOM NO 2"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY PATHSHALA RAGHUNATHPUR SONAULI MOHAMMADAPUR ROOM  NO 3"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PRIMARY PATHSHALA BHIKHARIPUR KHUDR"
+  },
+  {
+    "partNumber": 113,
+    "partName": "JUNIOR HIGH SCHOOL AILI PARASAULI DEEHA"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY PATHSHAL GODIANA AILIPARSAULI ROOM NO 1"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY PATHSHAL GODIANA AILIPARSAULI ROOM NO 2"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PRIMARY PATHSHALA PURE SUKHMAN AILIPARSAULI  ROOM NO 1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRIMARY PATHSHALA PURE SUKHMAN AILIPARSAULI ROOM NO 2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY PATHSHALA PATHAKPURWA SIDHAUTI"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY PATHSHALA SINGHAUTI DEEHA Room NO 1"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY PATHSHALA SINGHAUTI DEEHA ROOM NO 2"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY PATHSHALA PUREMAAN AMDAHI"
+  },
+  {
+    "partNumber": 122,
+    "partName": "JANTA INTER COLLAGE AMDAHI ROOM NO 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "JANTA INTER COLLAGE AMDAHI ROOM NO 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRIMARY PATHSHALA  AMDAHI ROOM NO 1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "SAMUDAYAK MILAN KENDRA PURE TARA AMDAHI"
+  },
+  {
+    "partNumber": 126,
+    "partName": "COMPOSITE VIDYALYA PURE AHLAD AMDAHI ROOM NO. 1"
+  },
+  {
+    "partNumber": 127,
+    "partName": "COMPOSITE VIDYALYA PURE AHLAD AMDAHI ROOM NO. 2"
+  },
+  {
+    "partNumber": 128,
+    "partName": "JUNIOR HIGH SCHOOL PURE AHLAD AMDAHI ROOM NO 1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRIMARY PATHSHALA AMAUTHI"
+  },
+  {
+    "partNumber": 130,
+    "partName": "PRIMARY PATHSHALA GARHI ISTHIT DEEHA"
+  },
+  {
+    "partNumber": 131,
+    "partName": "PJUNIOR HIGH SCHOOL GARHI ISTHIT MAJHA"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRIMARY PATHSHALA ZABARNAGAR ROOM NO 1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY PATHSHALA ZABARNAGAR ROOM NO 2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY PATHSHALA CHIVRAHA"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY PATHSHALA( BAJPURWA) CHIVRAHA"
+  },
+  {
+    "partNumber": 136,
+    "partName": "COMPOSITE VIDYALYA PURESANGAM PARASPATTI MAJHWAR"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAGH PARASPATTI MAJHWAR ROON NO 1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHGA PARASPATTI MAJHWAR ROOM NO 2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY PATHSHALA PARASPATTI MAJHWAR (MADHYA BHAGH)"
+  },
+  {
+    "partNumber": 140,
+    "partName": "JUNIOR HIGH SCHOOL PARASPATTI PURWAR DEEHA ROOM NO 1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JUNIOR HIGH SCHOOL PARASPATTI PURWAR DEEHA ROOM NO 2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "COMPOSITE VIDYALYA PARASPATTI PURWAR"
+  },
+  {
+    "partNumber": 143,
+    "partName": "COMPOSITE VIDYALYA BAHADUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE VIDYALYA BAHADUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 145,
+    "partName": "JUNIOR HIGH SCHOOL BAHADURPUR ISTHIT MAJHA"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRIMARY PATHSHALA BANGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMARY PATHSHALA BANGAON ADD. ROOM 2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "PRIMARY PATHSHALA BANGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.V. RATANPUR BANGAON ROOM NO 1"
+  },
+  {
+    "partNumber": 150,
+    "partName": "U.P.V. RATANPUR BANGAON ROOM NO 2"
+  },
+  {
+    "partNumber": 151,
+    "partName": "COMPOSITE VIDYALYA  VYONDA MAJHA"
+  },
+  {
+    "partNumber": 152,
+    "partName": "JUNIOR HIGH SCHOOL BENODA UPRAHAR"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY PATHSHALA PALIYA CHARUTA"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY PATHSHALA GABHAURA"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY PATHSHALA KANDAURA"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY PATHSHALA DHANAULI"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY PATHSHALA ADD ROOM DHANAULI"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRIMARY PATHSHALA SARANWA ROOM NO 1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY PATHSHALA SARANWA  ROOM NO  2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRIMARY PATHSHALA SARANWA ROOM NO 3"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRIMARY PATHSHALA BHANPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRIMARY PATHSHALA BHANPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY PATHSHALA CHANDSUHA ROOM NO 1"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRIMARY PATHSHALA CHANDSUHA ROOM NO 2"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PRIMARY PATHSHALA COMPOSITE SCHOOL RANGI ROOM NO 1 "
+  },
+  {
+    "partNumber": 166,
+    "partName": "PRIMARY PATHSHALA COMPOSITE SCHOOL RANGI ROOM NO 2"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY PATHSHALA MAHRAMPUR"
+  },
+  {
+    "partNumber": 168,
+    "partName": "COMPOSITE VIDYALYA  GOPSARYA"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY PATHSHALA GHANCHABEEKAPUR ISTHIT DEEHA  ROOM NO 1"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG SHUKULPURWA GHANCHABEEKAPUR"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG SHUKULPURWA GHANCHABEEKAPUR"
+  },
+  {
+    "partNumber": 172,
+    "partName": "COMPOSITE VIDYALYA PURANI"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRIMARY PATHSHALA TAKTONA"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRAMIRAY RADHAPURWA RANIPUR KACHI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY PATHSHALA RANIPUR PAHADI"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRIMARY PATHSHALA SHISHAV ROOM NO 1"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY PATHSHALA SHISHAV ROOM NO 2"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRIMARY PATHSHALA ASARTHA ROOM NO 1"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRIMARY PATHSHALA ASARTHA ROOM NO 2"
+  },
+  {
+    "partNumber": 180,
+    "partName": "COMPOSITE VIDYALYA  KHOJANPUR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRIMARY PATHSHALA PARIYANWA"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRIMARY PATHSHALA JAMTHA"
+  },
+  {
+    "partNumber": 183,
+    "partName": "KANYA PRIMARY PATHSHALA JAMTHA ROOM NO 1"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRIMARY PATHSHALA PAKDI ROOM1"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY PATHSHALA PAKDI ADD ROOM"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY PATHSHALA GADAULI ROOM NO1"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY PATHSHALA GADAULI ROOM2"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY PATHSHALA GHAMANDPURVA ( KINDHAURA)"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRIMARY PATHSHALA DEEHA ( KINDHAURA) ROOM1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PRIMARY PATHSHALA DAURI (KINDHAURA)"
+  },
+  {
+    "partNumber": 191,
+    "partName": "COMPOSITE VIDYALYA GHISHIRAM MANHANA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG MANHANA PUREBHUWAL"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG TARADEEH"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BHAG TARADEEH"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSITE VIDYALYA  MARGOOBPUR"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG NIYAWA"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BHAG NIYAWA"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRIMARY PATHSHALA GUTHAULI (INDAR PUR)"
+  },
+  {
+    "partNumber": 199,
+    "partName": "COMPOSITE VIDYALYA KHANPUR "
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY PATHSHALA SUSELA"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY PATHSHALA SUSELA AD ROOMK"
+  },
+  {
+    "partNumber": 202,
+    "partName": "COMPOSITE VIDYALYA LAXMANPUR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "COMPOSITE VIDYALYA PATHAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "COMPOSITE VIDYALYA PATHAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSITE VIDYALYA PATHAR ROOM NO. 3"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY PATHSHALA KHAJURI"
+  },
+  {
+    "partNumber": 207,
+    "partName": "`PRIMARY PATHSHALA ADD ROOM KHAJURI"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE VIDYALYA DEVARDA ROOM NO. 1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE VIDYALYA DEVARDA ROOM NO 2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY PATHSHALA CHILDAHA"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PANCHAYAT BHAWAN DHODHEPUR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "COMPOSITE VIDYALYA DHONDHEPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "COMPOSITE VIDYALYA DHONDHEPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "COMPOSITE VIDYALYA DHONDHEPUR ROOM NO. 3"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG RETADALSINGH"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG RETADALSINGH"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY PATHSHALA BHAIRAMPUR"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSITE VIDYALYA SEJHIYA ROOM NO. 1"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE VIDYALYA SEJHIYA ROOM NO. 2"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSITE VIDYALYA SEJHIYA ROOM NO. 3"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE VIDYALYA GAUHANI ROOM NO. 1"
+  },
+  {
+    "partNumber": 222,
+    "partName": "COMPOSITE VIDYALYA GAUHANI ROOM NO. 2"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY KHETAHIYA DHAURAHA GHAT ROOM NO. 1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRIMARY KHETKIYA DHAURAHA GHAT ROOM NO. 2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PURV MADHYAMIK VIDYALAY RAMPUR TENGRAHA ROOM 1"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PURV MADHYAMIK VIDYALAY RAMPUR TENGRAHA ROOM 2"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRIMARY PATHSHALA RAMPUR TENGRAHA ROOM NO 1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRIMARY PATHSHALA RAMPUR TENGRAHA ROOM NO 2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "COMPOSITE VIDYALYA JUJHARIPUR  ROOM NO. 1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG AKBARPUR"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAGH AKBARPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG NARAYANPUR"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG NARAYANPUR"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRIMARY PATHSHALA NARAYANPUR DEEHA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "COMPOSITE VIDYALYA KAUCHIHA ROOM NO. 1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "JUNIOR HIGH SCHOOL ROOM 2 RAMAPUR"
+  },
+  {
+    "partNumber": 237,
+    "partName": "JUNIOR HIGH SCHOOL ADD ROOM RAMAPUR"
+  },
+  {
+    "partNumber": 238,
+    "partName": "JUNIOR HIGH SCHOOL ROOM 3 RAMAPUR"
+  },
+  {
+    "partNumber": 239,
+    "partName": "JUNIOR HIGH SCHOOL ROOM 4 RAMAPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE VIDYALYA GIRDHARPUR "
+  },
+  {
+    "partNumber": 241,
+    "partName": "COMPOSITE VIDYALYA JAMALKHANI"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRIMARY PATHSHALA PUREMOHAN"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG KATHA"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG KATHA"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY PATHSHALA BARSERI"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY PATHSHALA MAHADEVA"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY PATHSHALA MAHADEVA ADD ROOM"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAGPARSADA"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG PARSADA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "COMPOSITE VIDYALYA MUJED ROOM NO. 1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "COMPOSITE VIDYALYA MUJED ROOM NO. 2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRIMARY PATHSHALA NAGDAHI PURVI BHAG"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG NAGDAHI"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY PATHSHALA UMRAPUR CHAUHAN PRATHAM ROOM NO.1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRIMARY PATHSHALA UMRAPUR CHAUHAN PRATHAM ROOM NO. 1"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRIMARY PATHSHALA HILALPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG BHATPURWA"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSITE VIDYALYA DURJANPUR  ROOM NO. 1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE VIDYALYA DURJANPUR  ROOM NO. 2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSITE VIDYALYA DURJANPUR  ROOM NO. 3"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRIMARY PATHSHALA NIHALPUR"
+  },
+  {
+    "partNumber": 262,
+    "partName": "COMPOSITE VIDYALYA CHIREBASNA  ROOM NO. 1"
+  },
+  {
+    "partNumber": 263,
+    "partName": "COMPOSITE VIDYALYA CHIREBASNA  ROOM NO. 2"
+  },
+  {
+    "partNumber": 264,
+    "partName": "COMPOSITE VIDYALYA KESHAVPUR SITHT JAGDISHPUR "
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRIMARY PATHSHALA ARJUNPUR"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE VIDYALYA DUFEDIYA"
+  },
+  {
+    "partNumber": 267,
+    "partName": "COMPOSITE VIDYALYA LACCHIPUR"
+  },
+  {
+    "partNumber": 268,
+    "partName": "JUNIOR HIGH SCHOOL CHANDIPUR ROOM1"
+  },
+  {
+    "partNumber": 269,
+    "partName": "JUNIOR HIGH SCHOOL CHANDIPUR ROOM2"
+  },
+  {
+    "partNumber": 270,
+    "partName": "COMPOSITE VIDYALYA GOLHAIPUR"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY PATHSHALA GULAB HATA CHAUBEPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "JUNIOR HIGH SCHOOL RANIPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 273,
+    "partName": "COMPOSITE VIDYALYA BAHEDWA RANIPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMARY PATHSHALA KHUDEPUR"
+  },
+  {
+    "partNumber": 275,
+    "partName": "JUNIOR HIGH SCHOOL UTTRI BHAG BHIKHARIPUR KALA"
+  },
+  {
+    "partNumber": 276,
+    "partName": "JUNIOR HIGH SCHOOL DAXHIRI BAHG BHIKHARIPUR KALA"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRIMARY PATHSHALA SEMRA"
+  },
+  {
+    "partNumber": 278,
+    "partName": "COMPOSITE VIDYALYA KARNIPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSITE VIDYALYA KARNIPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY PATHSHALA SINGHABHOJ"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY PATHSHALA PURVI BHAGH VISHUNPUR"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY PATHSHALAPASHCHIMI BHAG VISHUNPUR"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRIMARY PATHSHALA UNCHEDUBRA ROOM1 SIGHACHANDA"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRIMARY PATHSHALA UNCHEDUBRA ROOM2 SIGHACHANDA"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE VIDYALYA SINGHACHANDA ROOM NO. 1"
+  },
+  {
+    "partNumber": 286,
+    "partName": "COMPOSITE VIDYALYA SINGHACHANDA ROOM NO. 2"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PURV MADHYAMIK SCHOOL PIPRI ROHUVA PURVI BHAG"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PURV MADHYAMIK SCHOOL PIPRI ROHUVA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG BOURIHA"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG BOURIHA"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY PATHSHALA JATHASI BAURIHA UTTRI BHAG"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY PATHSHALA JATHASI BAURIHA DAXHIRI BAHG"
+  },
+  {
+    "partNumber": 293,
+    "partName": "U.P.V. PURVI BHAG KASHIPUR"
+  },
+  {
+    "partNumber": 294,
+    "partName": "U.P.V. PASHCHIMI BHAG KASHIPUR"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOSITE VIDYALYA SONBARSHA"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRIMARY PATHSHALA HOLAPUR"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMARY PATHSHALA RAMPUR(JOKHAI) KHARHATA"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE VIDYALYA RAMPUR KHARTHA "
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY PATHSHALA DALLAPUR"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRIMARY PATHSHALA JAMUNAHA MAJHRETI"
+  },
+  {
+    "partNumber": 301,
+    "partName": "COMPOSITE VIDYALYA BHARHAPARA ROOM NO. 1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "COMPOSITE VIDYALYA BHARHAPARA ROOM NO. 2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE VIDYALYA BARIPARA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE VIDYALYA NAUBASTA ROOM NO. 1"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE VIDYALYA NAUBASTA ROOM NO. 2"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRIMARY PATHSHALA RAMCHERAPUR ROOM1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOSITE VIDYALYA KODAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 308,
+    "partName": "COMPOSITE VIDYALYA KODAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PURV MADHYAMIK VIDYALAY MAJHARA ROOM1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PURV MADHYAMIK VIDYALAY MAJHARA ROOM2"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY PATHSHALA MAJHARA SECOND"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY PATHSHALA LUTAIPURWA MAJHARA"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PRIMARY PATHSHALA KADIPUR"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE VIDYALYA HAJRATPUR "
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSITE VIDYALYA BHATPURWA"
+  },
+  {
+    "partNumber": 316,
+    "partName": "JUNIOR HIGH SCHOOL GULRIHA NORTH"
+  },
+  {
+    "partNumber": 317,
+    "partName": "JUNIOR HIGH SCHOOL GULRIHA SOUTH"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRIMARY PATHSHALA SHEERPURWA NORTH KALI KUN‍DA CHANDAPUR"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMARY PATHSHALA SHEERPURWA SOUTH KALI KUN‍DA CHANDAPUR"
+  },
+  {
+    "partNumber": 320,
+    "partName": "COMPOSITE VIDYALYA LAXMANPUR CHANDAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 321,
+    "partName": "COMPOSITE VIDYALYA LAXMANPUR CHANDAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY PATHSHALA HARIHARPUR R.N 1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMARY PATHSHALA HARIHARPUR R. N 2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PURV MADHYAMIK VIDYALAY SUBHAGPUR"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY PATHSHALA PRATHAM BHAG SIRSA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY PATHSHALA TATIYA BHAG SIRSA"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY PATHSHALA SHOBHAPUR"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG PARSAPUR"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG PARSAPUR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "COMPOSITE VIDYALYA ANBHULA ROOM NO. 1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "COMPOSITE VIDYALYA ANBHULA ROOM NO. 2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMARY PATHSHALA KHANPUR"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY PATHSHALA GORTHANIYA KHANPUR"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMARY PATHSHALA RAYPUR"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRIMARY PATHSHALA ROOPIPUR"
+  },
+  {
+    "partNumber": 336,
+    "partName": "COMPOSITE VIDYALYA NAYPUR "
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRIMARY PATHSHALA PAYASIPURWA GEDSER"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRIMARY PATHSHALA CHILAMPUR GEDSER"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRIMARY PATHSHALA DARSHANJHALI GEDSER"
+  },
+  {
+    "partNumber": 340,
+    "partName": "COMPOSITE VIDYALYA DURJANPUR GHAT  ROOM NO. 1"
+  },
+  {
+    "partNumber": 341,
+    "partName": "COMPOSITE VIDYALYA DURJANPUR GHAT  ROOM NO. 2"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PANCHAYAT BHAWAN PIPRI"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRIMARY PATHSHALA PUREKHEM"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG PARSIYA"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG PARSIYA"
+  },
+  {
+    "partNumber": 346,
+    "partName": "KANYA PRIMARY PATHSHALA ASHOKPUR"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMARY PATHSHALA KHEMIPUR ASHOKPUR ADD ROOM"
+  },
+  {
+    "partNumber": 348,
+    "partName": "KANYA PRIMARY PATHSHALA ASHOKPUR"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PRIMARY PATHSHALA JALALPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMARY PATHSHALA JALALPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRIMARY PATHSHALA LAUVVA UTTRI BHAG BEERPUR"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY PATHSHALA DAXHIRI BAHG LAUVVA BEERPUR"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRIMARY PATHSHALA NARAKATVA LAUVVA BEERPUR"
+  },
+  {
+    "partNumber": 354,
+    "partName": "JUNIOR HIGH SCHOOL (NEETAN PURWA) LAUVVA BEERPUR"
+  },
+  {
+    "partNumber": 355,
+    "partName": "J.B.V.PURVI BHAG BALLIPUR EAST ROOM NO 1"
+  },
+  {
+    "partNumber": 356,
+    "partName": "J.B.V.PURVI BHAG BALLIPUR EAST ROOM NO 2"
+  },
+  {
+    "partNumber": 357,
+    "partName": "COMPOSITE VIDYALYA BHOPATPUR   ROOM NO. 1"
+  },
+  {
+    "partNumber": 358,
+    "partName": "COMPOSITE VIDYALYA BHOPATPUR   ROOM NO. 2"
+  },
+  {
+    "partNumber": 359,
+    "partName": "COMPOSITE VIDYALYA DEEH BHOPATPUR "
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG KHAGUPUR"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRIMARY PATHSHALA MAUHARI"
+  },
+  {
+    "partNumber": 362,
+    "partName": "COMPOSITE VIDYALYA VISHNOHARPUR    ROOM NO. 1"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE VIDYALYA VISHNOHARPUR    ROOM NO. 2"
+  },
+  {
+    "partNumber": 364,
+    "partName": "PRIMARY PATHSHALA RAGHUNATHPUR ROOM 1"
+  },
+  {
+    "partNumber": 365,
+    "partName": "PRIMARY PATHSHALA POORV BHAG CHAUKHADIYA"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRIMARY PATHSHALA PASHCHIMI BHAG CHAUKHADIYA"
+  },
+  {
+    "partNumber": 367,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG NAKHARA"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PRIMARY PATHSHALA PURVI BHAG SEMRA SHEKHPUR"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PRIMARY PATHSHALA UTTRI BHAG SEMRA SHEKHPUR"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PRIMARY PATHSHALA INDIRPUR"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY PATHSHALA PURE AMBER"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRIMARY PATHSHALA GOKULA UTTRI BHAG"
+  },
+  {
+    "partNumber": 373,
+    "partName": "PRIMARY PATHSHALA GOKULA DAXHIRI BAHG"
+  },
+  {
+    "partNumber": 374,
+    "partName": "PRIMARY PATHSHALA DEEH DATTNAGAR"
+  },
+  {
+    "partNumber": 375,
+    "partName": "PRIMARY PATHSHALA BAISIYA ROON 1 DATTNAGAR"
+  },
+  {
+    "partNumber": 376,
+    "partName": "PRIMARY PATHSHALA BAISIYA ROON 2 DATTNAGAR"
+  },
+  {
+    "partNumber": 377,
+    "partName": "COMPOSITE VIDYALYA SAKIPUR "
+  },
+  {
+    "partNumber": 378,
+    "partName": "COMPOSITE VIDYALYA SAKIPUR  ROOM NO. 1"
+  },
+  {
+    "partNumber": 379,
+    "partName": "COMPOSITE VIDYALYA BALUA  ROOM NO. 1"
+  },
+  {
+    "partNumber": 380,
+    "partName": "COMPOSITE VIDYALYA BALUA  ROOM NO. 2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "PRIMARY PATHSHALA PURE DALI"
+  },
+  {
+    "partNumber": 382,
+    "partName": "JUNIOR HIGH SCHOOL TULSIPUR MAZHA ROOM 1"
+  },
+  {
+    "partNumber": 383,
+    "partName": "JUNIOR HIGH SCHOOL TULSIPUR MAZHA ROON 2"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PARAMHANS SCHOOL ROOM 1 TULSIPUR MAZHA"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PARAMHANS SCHOOL ROOM 2 TULSIPUR MAZHA"
+  },
+  {
+    "partNumber": 386,
+    "partName": "JUNIOR HIGH SCHOOL GURSARAN PURWA TULSIPUR MAZHA ROOM NO 1"
+  },
+  {
+    "partNumber": 387,
+    "partName": "JUNIOR HIGH SCHOOL GURSARAN PURWA TULSIPUR MAZHA ROOM NO 2"
+  }
+]

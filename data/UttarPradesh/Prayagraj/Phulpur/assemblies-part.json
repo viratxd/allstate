@@ -1,0 +1,1742 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL RAMPUR URF DAULATPUR"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY SCHOOL SARAYAGANI PURVI BHAG"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL SARAYAGANI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL HASANPUR MAY CHAK MANSUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL HASANPUR MAY CHAK MANSUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMARY SCHOOL BHAREHTA PURVI BHAG"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRIMARY SCHOOL BHAREHTA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 8,
+    "partName": "UPPER PRIMARY SCHOOL FAZILABAD URF KALUPUR PURVI BHAG -1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "UPPER PRIMARY SCHOOL  FAZILABAD URF KALUPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 10,
+    "partName": "UPPER PRIMARY SCHOOL  FAZILABAD URF KALUPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 11,
+    "partName": "UPPER PRIMARY SCHOOL  FAZILABAD URF KALUPUR PURVI  BHAG"
+  },
+  {
+    "partNumber": 12,
+    "partName": "SETH GAYADIN INTER COLLEGE MAILAHA PURVI BHAG"
+  },
+  {
+    "partNumber": 13,
+    "partName": "SETH GAYADIN INTER COLLEGEMAILAHA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRIMARY SCHOOL MIRAKPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRIMARY SCHOOL MIRAKPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL MIRAKPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 17,
+    "partName": "COMPOSITE SCHOOL RAMGARH KOTHARI PURVI BHAG"
+  },
+  {
+    "partNumber": 18,
+    "partName": "COMPOSITE SCHOOL RAMGARH KOTHARI UTTARI BHAG"
+  },
+  {
+    "partNumber": 19,
+    "partName": "COMPOSITE SCHOOL RAMGARH KOTHARI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRIMARY SCHOOL TULAPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMARY SCHOOL CHAMAILPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY SCHOOL CHAIMALPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 23,
+    "partName": "COMPOSITE SCHOOL VIRBHANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE SCHOOL VIRBHANPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRIMARY SCHOOL NARAYANPUR"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMARY SCHOOL PURANPUR"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PRIMARY SCHOOL SILOKHARA PURVI BHAG"
+  },
+  {
+    "partNumber": 28,
+    "partName": "PRIMARY SCHOOL SILOKHARA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 29,
+    "partName": "COMPOSITE SCHOOL PATULKI PURVI BHAG"
+  },
+  {
+    "partNumber": 30,
+    "partName": "COMPOSITE SCHOOL PATULKI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 31,
+    "partName": "UPPAR PRIMARY SCHOOL KANEHTI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 32,
+    "partName": "UPPER PRIMARY SCHOOL KANEHTI MADHYA BHAG"
+  },
+  {
+    "partNumber": 33,
+    "partName": "UPPER PRIMARY SCHOOL KANEHTI PURVI BHAG"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL GIRDHARPUR"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PRIMARY SCHOOL MANETHU"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PRIMARY SCHOOL SARAY ABHAYCHAND URF CHANDAUKI PURVI BHAG"
+  },
+  {
+    "partNumber": 37,
+    "partName": "COMPOSITE SCHOOL TARDIH PURVI BHAG"
+  },
+  {
+    "partNumber": 38,
+    "partName": "COMPOSITE SCHOOL TARDIH PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 39,
+    "partName": "COMPOSITE SCHOOL TARDIH PURVI BHAG 1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "COMPOSITE SCHOOL TARDIH  PASHICHMI BHAG 1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL DEWAPUR"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRIMARY SCHOOL DAYALPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRIMARY SCHOOL DAYALPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 44,
+    "partName": "UPPER PRIMARY SCHOOL GAUHANI"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL ATANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL ATANPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRIMARY SCHOOL ATANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE SCHOOL SHAIFKHANPUR MAY CHAK SALIK PURVI BHAG"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSITE SCHOOL SHAIFKHANPUR MAY CHAK SALIK PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 50,
+    "partName": "COMPOSITE SCHOOL DHOKARI PURVI BHAG"
+  },
+  {
+    "partNumber": 51,
+    "partName": "COMPOSITE SCHOOL DHOKARI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 52,
+    "partName": "UPPER PRIMARY SCHOOL KUTUBPATTI URF AHIYAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 53,
+    "partName": "UPPER PRIMARY SCHOOL KUTUBPATTI URF AHIYAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 54,
+    "partName": "COMPOSITE SCHOOL TISAURA PURVI BHAG"
+  },
+  {
+    "partNumber": 55,
+    "partName": "COMPOSITE SCHOOL TISAURA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 56,
+    "partName": "VIJAY LAKSHIMI INTER COLLEGE PHULPUR DAKSHINI MADHYA PURVI BHAG"
+  },
+  {
+    "partNumber": 57,
+    "partName": "VIJAY LAKSHIMI INTER COLLEGE PHULPUR DAKSHINI MADHYA PASHCHIMI BHAG 1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "VIJAY LAKSHIMI INTER COLLEGE PHULPUR DAKSHINI MADHYA PURVI BHAG-2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "VIJAY LAKSHIMI INTER COLLEGE PHULPUR DAKSHINI MADHYA PURVI BHAG-3"
+  },
+  {
+    "partNumber": 60,
+    "partName": "VIJAY LAKSHMI INTER COLLAGE PHULPUR DAKSHINI MADHYA BHAG"
+  },
+  {
+    "partNumber": 61,
+    "partName": "VIJAY LAKSHMI INTER COLLAGE PHULPUR PAKSHIMI BHAG"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL SHUKLANA PURVI BHAG"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRIMARY SCHOOL SHUKLANA PAKSHIMI BHAG"
+  },
+  {
+    "partNumber": 64,
+    "partName": "PRIMARY SCHOOL SARAY LILI URF KHOJAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRIMARY SCHOOL SARAY LILI URF KHOJAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 66,
+    "partName": "GOMTI INTER COLLEGE PHULPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 67,
+    "partName": "GOMTI INTER COLLEGE PHULPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 68,
+    "partName": "GOMTI INTER COLLEGE PHULPUR UTTAR MADHYA BHAG"
+  },
+  {
+    "partNumber": 69,
+    "partName": "GOMTI INTER COLLEGE PHULPUR DAKSHINI MADHYA BHAG"
+  },
+  {
+    "partNumber": 70,
+    "partName": "GOMTI INTER COLLEGE PHULPUR UTTAR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMARY SCHOOL PHULPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRIMARY SCHOOL PHULPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRIMARY SCHOOL PHULPUR PASHCHIMI BHAG 1"
+  },
+  {
+    "partNumber": 74,
+    "partName": "PRIMARY SCHOOL PHULPUR BHAG2"
+  },
+  {
+    "partNumber": 75,
+    "partName": "UPPER PRIMARY SCHOOL PHULPUR PURVI   BHAG"
+  },
+  {
+    "partNumber": 76,
+    "partName": "UPPER PRIMARY SCHOOL PHULPUR PASHCHIMI BHAG-1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "UPPER PRIMARY SCHOOL PHULPUR PAHSCHIMI BHAG 2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "KARYALAYA BLOCK SANSADHAN KENDR PHULPUR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL PARASINPUR BHAG 1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL PARASINPUR BHAG 2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL CHAK MOHAMMAD URF POORE SUDI"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY SCHOOL SARAYGHOORDAS URF MAHJUDWA PURVI BHAG"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL SARAYGHOORDAS URF MAHJUDWA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRIMARY SCHOOL SARAY MANOHAR URF BARJIBHRA"
+  },
+  {
+    "partNumber": 85,
+    "partName": "COMPOSITE SCHOOL  BAUDAI PURVI BHAG"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE SCHOOL BAUDAI PASHCHMI BHAG 1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSITE SCHOOL BAODAI PASHIMI BHAG 2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY SCHOOL VIRAKJI PURVI BHAG"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL VEERKAJI PASHCHIMI BHAG-1"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY SCHOOL VEERKAJI PASHCHIMI BHAG 2"
+  },
+  {
+    "partNumber": 91,
+    "partName": "CENTRAL BOYS SCHOOL PHULPUR IFFCO PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 92,
+    "partName": "CENTRAL BOYS SCHOOL PHULPUR IFFCO UTTARI BHAG"
+  },
+  {
+    "partNumber": 93,
+    "partName": "COMPOSITE SCHOOL SARAY ABDUL MALIK PURVI BHAG"
+  },
+  {
+    "partNumber": 94,
+    "partName": "COMPOSITE SCHOOL SARAY ABDUL MALIK PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PRIMARY SCHOOL PURE BHULAI PURVI BHAG"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRIMARY SCHOOL PURE BHULAI PSHCHIMI BHAG"
+  },
+  {
+    "partNumber": 97,
+    "partName": "COMPOSITE SCHOOL BABUGANJ UTTARI BHAG"
+  },
+  {
+    "partNumber": 98,
+    "partName": "COMPOSITE SCHOOL BABUGANJ DAKSHINI BHAG1"
+  },
+  {
+    "partNumber": 99,
+    "partName": "COMPOSITE SCHOOL BABUGANJ DAKSHINI BHAG 2"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL JHAJHARI"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRIMARY SCHOOL PALI PURVI BHAG"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY SCHOOL PALI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRIMARY SCHOOL NARAI"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL AATA"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL JAGDEVPUR URF BARETHI"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRIMARY SCHOOL BIGAHIYA "
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY SCHOOL UMARI MAY TATIHARA PURVI BHAG"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PRIMARY SCHOOL UMARI MAY TATIHARA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY SCHOOL BELAWA PURVI BHAG"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRIMARY SCHOOL BELAWA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 111,
+    "partName": "COMPOSITE SCHOOL CHILAUDA UTTARI BHAG"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE SCHOOL CHILAUDA MADHYA BHAG"
+  },
+  {
+    "partNumber": 113,
+    "partName": "COMPOSITE SCHOOL CHILAUDA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY SCHOOL RUDAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL RUDAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 116,
+    "partName": "COMPOSITE SCHOOL  KANAUJA KHURD"
+  },
+  {
+    "partNumber": 117,
+    "partName": "SHREE KRISHN  INTER COLLEGE DEWNAHARI "
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY SCHOOL THANAPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL THANAPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 120,
+    "partName": "JAWAHAR LAL INTER COLLEGE BHOPTPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 121,
+    "partName": "JAWAHAR LAL INTER COLLEGE BHOPTPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 122,
+    "partName": "PRIMARY SCHOOL JAGBANDHANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRIMARY SCHOOL JAGBANDHANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRIMARY SCHOOL BABHANKUIYAN DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL BABHANKUIYAN UTTARI BHAG"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL MANAPUR URF BAGAI KALA UTTARI BHAG"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PRIMARY SCHOOL MANAPUR URF BAGAI KALA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSITE SCHOOL  BAGAI KHURD DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 129,
+    "partName": "COMPOSITE SCHOOL  BAGAI KHURD PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 130,
+    "partName": "COMPOSITE SCHOOL  KHODAYPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 131,
+    "partName": "COMPOSITE SCHOOL  KHODAYPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 132,
+    "partName": "UPPER PRIMARY SCHOOL VIDYALAY SARAY HUSAINA"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL CHAK HUSAINA URF CHORKARIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOLCHAK HUSAINA URF CHORKARIYA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 135,
+    "partName": "COMPOSITE SCHOOL BARO"
+  },
+  {
+    "partNumber": 136,
+    "partName": "COMPOSITE SCHOOL BARO"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL EKDALA PURVI BHAG"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL EKDALA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL PARWEJABAD"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PANCHAYAT BHAWAN RASULPUR"
+  },
+  {
+    "partNumber": 141,
+    "partName": "COMPOSITE SCHOOL CHIKHADI"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL CHANDAUHA PURVI BHAG"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL CHANDAUHA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PANCHAYAT BHAWAN CHANDAUHA"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE SCHOOL KAUDARU PURVI BHAG"
+  },
+  {
+    "partNumber": 146,
+    "partName": "COMPOSITE SCHOOL KAUDARU PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMARY SCHOOL DEWARIYA"
+  },
+  {
+    "partNumber": 148,
+    "partName": "NAVNIRMIT SANSADHAN KENDRA DEWARIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 149,
+    "partName": "NAVNIRMIT SANSADHAN KENDRA DEWARIYA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PRIMARY SCHOOL YARNA"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRIMARY SCHOOL CHAKIYA GHARAHARA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRIMARY SCHOOL CHAKIYA GHARAHARA PURVI BHAG"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY SCHOOL CHAKIYA GHARAHARA PURVI MADHYA BHAG"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY SCHOOL SEMARA PURVI BHAG"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY SCHOOL SEMARA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL MUSTAFABAD"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY SCHOOL UMARI "
+  },
+  {
+    "partNumber": 158,
+    "partName": "PANCHAYAT BHAWAN (BIKAPUR) BADARUDDINPUR"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY SCHOOL JUNEDPUR"
+  },
+  {
+    "partNumber": 160,
+    "partName": "COMPOSITE SCHOOL MOTINAGAR SARAY RAHIYA"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PANCHAYAT BHAWAN BANI PURVI BHAG"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PANCHAYAT BHAWAN BANI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY SCHOOL WARI UTTARI BHAG"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRIMARY SCHOOL WARI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 165,
+    "partName": "COMPOSITE SCHOOL GOTAWA UTTARI BHAG"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSITE SCHOOL GOTAWA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL MAHARAUDA"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL MANIKAPUR"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY SCHOOL SINGARAMAU UTTARI BHAG"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL SINGARAMAU DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 171,
+    "partName": "UPPER PRIMARY SCHOOL DAMODARPUR URF TIWARIPUR"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRIMARY SCHOOL CHANDARPUR URF BASMAHUA PURVI BHAG"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRIMARY SCHOOL CHANDARPUR URF BASMAHUA PASHCHIMI MADHYA BHAG"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRIMARY SCHOOL CHANDARPUR URF BASMAHUA PASHCHIMI  BHAG"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL KANDI UTTARI BHAG"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRIMARY SCHOOL KANDI MADHY BHAG"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY SCHOOL RAMNAGAR"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRIMARY SCHOOL BERUI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRIMARY SCHOOL BERUI PURVI BHAG"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRIMARY SCHOOL PRATAPPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRIMARY SCHOOL PRATAPPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PANCHAYAT BHAWAN KANDIPUR"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRIMARY SCHOOL SUPERAWARI"
+  },
+  {
+    "partNumber": 184,
+    "partName": "UPPER PRIMARY SCHOOL MEDUA UTTARI BHAG"
+  },
+  {
+    "partNumber": 185,
+    "partName": "UPPER PRIMARY SCHOOL MEDUA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY SCHOOL DARIYAPUR URF GULALPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL DARIYAPUR URF GULALPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 188,
+    "partName": "SHIVAJI INTER COLLEGE SAHSO DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 189,
+    "partName": "SHIVAJI INTER COLLEGE SAHSO UTTARI BHAG"
+  },
+  {
+    "partNumber": 190,
+    "partName": "SHIVAJI INTER COLLEGE SAHSO UTTARI MADHYA BHAG"
+  },
+  {
+    "partNumber": 191,
+    "partName": "SHIVAJI INTER COLLEGE SAHSO MADHYA PURVI BHAG"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PANCHAYAT BHAWAN MEERAPUR"
+  },
+  {
+    "partNumber": 193,
+    "partName": "UPPER PRIMARY SCHOOL KASERUA KHURD DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 194,
+    "partName": "UPPER PRIMARY SCHOOL KASERUA KHURD UTTARI BHAG"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL KASERUAA KALA UTTARI BHAG"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL KASERUAA KALA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRIMARY SCHOOL HETAPATTI PURVI BHAG"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRIMARY SCHOOL HETAPATTI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRIMARY SCHOOL HETAPATTI PURVI BHAG 1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PANCHAYAT BHAWAN BAHADURPUR TA0 IBRAHIMPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PANCHAYAT BHAWAN BAHADURPUR TA0 IBRAHIMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL MADARPUR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL PAIGAMBARPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PRIMARY SCHOOL PAIGAMBARPUR PASHSHIMI BHAG"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRIMARY SCHOOL PAIGAMBARPUR UTTARI  BHAG"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY SCHOOL DHARAMPUR URF GHURAWA UTTARI BHAG"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRIMARY SCHOOL DHARAMPUR URF GHRAVA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 208,
+    "partName": "UPPAR PRIMARY SCHOOL SAKARA"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRIMARY SCHOOL NARAYANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY SCHOOL NARAYANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRIMARY SCHOOL FAIZULLAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRIMARY SCHOOL KOTARI PURVI BHAG"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRIMARY SCHOOL KOTARI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 214,
+    "partName": "UPPER PRIMARY SCHOOL VIDYALAY FIROZPUR TA0 IBRAHIMPUR"
+  },
+  {
+    "partNumber": 215,
+    "partName": "COMPOSITE SCHOOL IBRAHIMPUR UPARHAR GAZIYA KA PURA"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL MALAWA BUJURG PURVI BHAG"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY SCHOOL MALAWA BUJURG PURVI MADHYA BHAG"
+  },
+  {
+    "partNumber": 218,
+    "partName": "PRIMARY SCHOOL MALAWA BUJURG PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PRIMARY SCHOOL MALAWA BUJURG DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRIMARY SCHOOL (LALGANJ) SARAYSHANKAR PURVI BHAG"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRIMARY SCHOOL AMARSAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL AMARSAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY SCHOOL AMARSAPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRIMARY SCHOOL MALAWA KHURD PURVI BHAG"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRIMARY SCHOOL MALAWA KHURD PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRIMARY SCHOOL MALAWA KHURD UTTARI BHAG"
+  },
+  {
+    "partNumber": 227,
+    "partName": " GANDHI INTER COLLEGE SHERDIH PURVI BHAG"
+  },
+  {
+    "partNumber": 228,
+    "partName": " GANDHI INTER COLLEGE SHERDIH PURVI MADHY BHAG"
+  },
+  {
+    "partNumber": 229,
+    "partName": " GANDHI INTER COLLEGE SHERDIH PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY SCHOOL RAHIMAPUR"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRIMARY SCHOOL MAHESHPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRIMARY SCHOOL BADARA"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRIMARY SCHOOL BADRA UTTARI BHAG"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRIMARY SCHOOL SONAUTI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRIMARY SCHOOL JHUNSHI PURVI BHAG"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRIMARY SCHOOL JHUNSHI MADHYA BHAG"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PRIMARY SCHOOL JHUNSHI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PRIMARY SCHOOLJHUNSHI PSHCHIMI BHAG"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE SCHOOL PURE SURDAS PURVI BHAG"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE SCHOOL PURE SURDAS PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 241,
+    "partName": "LALA MANMOHANDAS INTER COLLEGE JHUNSI PASHCHIMI BHAG 1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "LALA MANMOHANDAS INTER COLLEGE JHUNSHI UTTARI BHAG"
+  },
+  {
+    "partNumber": 243,
+    "partName": "LALA MANMOHANDAS INTER COLLEGE JHUNSHI PURVI BHAG"
+  },
+  {
+    "partNumber": 244,
+    "partName": "LALA MANMOHANDAS INTER COLLEGE JHUNSI PASHCHIMI BHAG 2"
+  },
+  {
+    "partNumber": 245,
+    "partName": "LALA MANMOHANDAS INTER COLLEGE JHUNSHI"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL TULAPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY SCHOOL TULAPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRIMARY SCHOOL KATKA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY SCHOOL KATKA MADHYA BHAG"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL KATKA PURVI MADHYA BHAG"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL ( PRATISTHANPURI) JHUNSHI KOHNA UTTARI BHAG"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRIMARY SCHOOL(PRATISTHANPURI JHUNSHI KOHNA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRIMARY SCHOOL ( PRATISTHANPURI) JHUNSHI KOHNA UTTARI BHAG 2"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL (PRATISTHANPURI) JHUNSHI KOHNA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 255,
+    "partName": "NAVNIRMIT PURV MADHYAMIK VIDYALAY JHUNSHI KOHNA UTTARI BHAG"
+  },
+  {
+    "partNumber": 256,
+    "partName": "NAVNIRMIT PURV MADHYAMIK VIDYALAY JHUNSHI KOHNA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 257,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 3"
+  },
+  {
+    "partNumber": 260,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 4"
+  },
+  {
+    "partNumber": 261,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 5"
+  },
+  {
+    "partNumber": 262,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHUNSI KAMARA N0. 6"
+  },
+  {
+    "partNumber": 263,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHNSHI KAMARA N0. 7"
+  },
+  {
+    "partNumber": 264,
+    "partName": "CENTRAL AKADAMI AWAS VIKAS KALONI JHNSHI KAMARA N0. 8"
+  },
+  {
+    "partNumber": 265,
+    "partName": "GOVIND BALLABHPANT SANSTHAN JHUNSHI KOHNA KAMARA N. 4"
+  },
+  {
+    "partNumber": 266,
+    "partName": "GOVIND BALLABHPANT SANSTHAN JHUNSHI KOHNA KAMARA N. 5"
+  },
+  {
+    "partNumber": 267,
+    "partName": "GOVIND BALLABHPANT SANSTHAN JHUNSHI KOHNA KAMARA N. 9"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PANCHAYAT BHAWAN JHUNSHI KOHNA PURVI BHAG"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PANCHAYAT BHAWAN JHUNSHI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 270,
+    "partName": "UPPER PRIMARY SCHOOL HAWELIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 271,
+    "partName": "UPPER PRIMARY SCHOOL HAWELIYA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 272,
+    "partName": "UPPER PRIMARY SCHOOL HAWELIYA PASHCHIMI MADHYA BHAG"
+  },
+  {
+    "partNumber": 273,
+    "partName": "SANKUL BHAWAN HAWELIYA"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMARY SCHOOL HAWELIYA PSHCHIMI BHAG"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRIMARY SCHOOL HAWELIYA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRIMARY SCHOOL HAWELIYA MADHYA  BHAG"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRIMARY SCHOOL (MAHIN) CHAK HARIHARWAN DAKSHINI PURVI BHAG 1"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRIMARY SCHOOL( MAHIN)  CHAK HARIHARWAN DAKSHINI PURVI BHAG 2"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOLCHAK HARIHARWAN DAKSHINI PSHCHIMI BHAG 3"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL CHAK HARIHARWAN DAKSHINI PSHCHIMI BHAG 4"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL CHAK HARIHARWAN DAKSHINI PSHCHIMI BHAG 5"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY SCHOOLCHAK HARIHARWAN DAKSHINI PSHCHIMI BHAG 6"
+  },
+  {
+    "partNumber": 283,
+    "partName": "T.P. MEMORIYAL SCHOOL SARAYATAKI PURVI BHAG"
+  },
+  {
+    "partNumber": 284,
+    "partName": "T.P. MEMORIYAL SCHOOL SARAYATAKI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMARY SCHOOL NAIKA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMARY SCHOOL NAIKA UTTARI BHAG 1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMARY SCHOOL NAIKA UTTARI BHAG 2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "UPPER PRIMARY SCHOOL NAIKA UTTARI BHAG"
+  },
+  {
+    "partNumber": 289,
+    "partName": "UPPER PRIMARY SCHOOL NAIKA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMARY SCHOOL JIRATMATAN URF NARAYANDAS KA PURA PURVI BHAG"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL JIRATMATAN URF NARAYANDAS KA PUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY SCHOOL USTAPUR MAHMOODABAD UTTARI BHAG"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PRIMARY SCHOOL USTAPUR MAHMOODABAD ,ADHYA BHAG"
+  },
+  {
+    "partNumber": 294,
+    "partName": "M P BIRLA SHIKSHA BHAVAN AND COLLEGE CHHATNAG CHHATNAG KAMARA N. 1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "M P BIRLA SHIKSHA BHAVAN AND COLLEGE CHHATNAG KAMARA N. 2"
+  },
+  {
+    "partNumber": 296,
+    "partName": "M P BIRLA SHIKSHA BHAVAN AND COLLEGE  CHHATNAG UPARHAR BHAG 1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "M P BIRLA SHIKSHA BHAVAN AND COLLEGE CHHATNAG UPARHAR BHAG 2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMARY SCHOOL NIVI KALA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY SCHOOL NIVI KALA MADHY BHAG"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRIMARY SCHOOL NIVI KALA UTTARI BHAG"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL BHADKAR UPARHAR"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRIMARY SCHOOL BHADKAR UPARHAR MALLAHI TOLA PURVI BHAG"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRIMARY SCHOOL BHADKAR UPARHAR MALLAHI TOLA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRIMARY SCHOOL BAJAHA UTTARI BHAG"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL BAJAHA DAKSHINI BHAG 1"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRIMARY SCHOOL BAJAHA DAKSHINI BHAG 2"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRIMARY SCHOOL CHAK HINAUTA"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRIMARY SCHOOL KANIHAR MADHYA BHAG"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRIMARY SCHOOL KANIHAR UTTARI BHAG"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRIMARY SCHOOL KANIHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL KANIHAR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL KANIHAR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE SCHOOL(CHAKCHUDAMANI) CHAK CHURAWAN TA0 KANIHAR"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE SCHOOL (CHAKCHUDAMANI) CHAK CHURAWAN TA0 KANIHAR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PRIMARY SCHOOL DUDUHI DAKSINI BHAG"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL DUDUHI UTTARI BHAG"
+  },
+  {
+    "partNumber": 317,
+    "partName": "COMPOSITE SCHOOL ANDAVA PURVI BHAG"
+  },
+  {
+    "partNumber": 318,
+    "partName": "COMPOSITE SCHOOL  ANDAVA MADHYA BHAG"
+  },
+  {
+    "partNumber": 319,
+    "partName": "COMPOSITE SCHOOL  ANDAWA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL DURJANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL DURJANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL BANDHAWA TAHIRPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMARY SCHOOL BANDHAWA TAHIRPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRIMARY SCHOOL KUNVADIH PURVI BHAG"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL KUNVADIH PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL KUNVADIH UTTARI BHAG"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL NASIRAPUR"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL BHAGIPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL BHAGIPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL RAMAPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL RAMAPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 332,
+    "partName": "KAMALESH DIGRI COLLEGE HABIBPUR"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY SCHOOL WARIYARI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMARY SCHOOL WARIYARI PURVI BHAG"
+  },
+  {
+    "partNumber": 335,
+    "partName": "KISAN UCHCHTAR MADHYAMIK VIDYALAY SHARFUDDINPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 336,
+    "partName": "KISAN UCHCHTAR MADHYAMIK VIDYALAY SHARFUDDINPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 337,
+    "partName": "COMPOSITE SCHOOL TENDUI UTTARI BHAG"
+  },
+  {
+    "partNumber": 338,
+    "partName": "COMPOSITE SCHOOL TENDUI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 339,
+    "partName": "COMPOSITE SCHOOL TENDUI PURVI BHAG"
+  },
+  {
+    "partNumber": 340,
+    "partName": "PRIMARY SCHOOL BAHADURPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRIMARY SCHOOL BAHADURPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRIMARY SCHOOL DODAPUR"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRIMARY SCHOOL RAMNATHPUR"
+  },
+  {
+    "partNumber": 344,
+    "partName": "UPPAR PRIMARY SCHOOL SONI"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRIMARY SCHOOL SIHIPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRIMARY SCHOOL SIHIPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMARY SCHOOL DHAMOIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PRIMARY SCHOOL DHAMOIYA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE SCHOOL RAMAIPUR"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMARY SCHOOL KARANPUR "
+  },
+  {
+    "partNumber": 351,
+    "partName": "COMPOSITE SCHOOL DALAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 352,
+    "partName": "COMPOSITE SCHOOL DALAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSITE SCHOOL  RITHAIYA UTTARI BHAG"
+  },
+  {
+    "partNumber": 354,
+    "partName": "COMPOSITE SCHOOL RITHAIYA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 355,
+    "partName": "SADHAN SAHKARI SAMITI CHAKIYA HINAUTA"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL SARAYNURUDDINPUR"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRIMARY SCHOOL RATAURA"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRIMARY SCHOOL CHAKIYA KATIYARI"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRIMARY SCHOOL CHHIBAIYA UPARHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRIMARY SCHOOL CHHIBAIYA UPARHAR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRIMARY SCHOOL CHHIBAIYA UPARHAR PASHCHIMI MADHY BHAG"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PRIMARY SCHOOL SUDANIPUR KHURD PURVI BHAG"
+  },
+  {
+    "partNumber": 363,
+    "partName": "PRIMARY SCHOOL SUDANIPUR KHURD PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 364,
+    "partName": "PRIMARY SCHOOL MURARPATTI PURVI BHAG"
+  },
+  {
+    "partNumber": 365,
+    "partName": "PRIMARY SCHOOL MURARPATII PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRIMARY SCHOOL PALIKARANAPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 367,
+    "partName": "PRIMARY SCHOOL PALIKARANAPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 368,
+    "partName": "COMPOSITE SCHOOL PATTI BAIRISHAL"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PRIMARY SCHOOL KAKARA"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PRIMARY SCHOOL KAKARA DUBAWAL PURVI BHAG"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY SCHOOL KAKARA DUBAWAL PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 372,
+    "partName": "COMPOSITE SCHOOL DUBAWAL UPARHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 373,
+    "partName": "COMPOSITE SCHOOL DUBAWAL UPARHAR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 374,
+    "partName": "MAHARSHI DURWASHA INTER COLLEGE DUBAWAL PURVI MADHYA BHAG"
+  },
+  {
+    "partNumber": 375,
+    "partName": "MAHARSHI DURWASHA INTER COLLEGE DUBAWAL UTTARI BHAG"
+  },
+  {
+    "partNumber": 376,
+    "partName": "MAHARSHI DURWASHA INTER COLLEGE DUBAWAL PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 377,
+    "partName": "MAHARSHI DURWASHA INTER COLLEGE DUBAWAL DAKSHINI MADHY BHAG"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PRIMARY SCHOOL JAMUNIPUR "
+  },
+  {
+    "partNumber": 379,
+    "partName": "UPPER PRIMARY SCHOOL JAMUNIPUR "
+  },
+  {
+    "partNumber": 380,
+    "partName": "PRIMARY SCHOOL JIRAT KAKARA BELWAR"
+  },
+  {
+    "partNumber": 381,
+    "partName": "PANCHAYAT BHAWAN KOTAWA PURVI BHAG"
+  },
+  {
+    "partNumber": 382,
+    "partName": "PANCHAYAT BHAWAN KOTAWA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 383,
+    "partName": "PRIMARY SCHOOL KOTAWA MADHY DWITIY PURVI BHAG 1"
+  },
+  {
+    "partNumber": 384,
+    "partName": "PRIMARY SCHOOL KOTAWA MADHYA DWITIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 385,
+    "partName": "PRIMARY SCHOOL KOTAWA MADHYA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 386,
+    "partName": "NAVNIRMIT SHANKUL BHAWAN KOTAWA PURVI BHAG"
+  },
+  {
+    "partNumber": 387,
+    "partName": "TILAK INTER COLLEGE KOTAWA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 388,
+    "partName": "TILAK INTER COLLEGE KOTAWA MADHYA BHAG"
+  },
+  {
+    "partNumber": 389,
+    "partName": "PRIMARY SCHOOL BARAIPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 390,
+    "partName": "PRIMARY SCHOOL BARAIPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 391,
+    "partName": "UPPER PRIMARY SCHOOL LILAPUR KALA PURVI BHAG"
+  },
+  {
+    "partNumber": 392,
+    "partName": "UPPER PRIMARY SCHOOL LILAPUR KALA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PRIMARY SCHOOL LILAPUR KALA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PRIMARY SCHOOL LILAPUR KHURD NAYA BHAWAN"
+  },
+  {
+    "partNumber": 395,
+    "partName": "PRIMARY SCHOOL DHANAICHA ATARSUIYA MALKHANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 396,
+    "partName": "PRIMARY SCHOOL DHANAICHA ATARSUIYA MALKHANPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 397,
+    "partName": "PRIMARY SCHOOL DHANAICHA ATARSUIYA MALKHANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 398,
+    "partName": "PRIMARY SCHOOL KATAWAROOPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 399,
+    "partName": "PRIMARY SCHOOL KATAWARUPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 400,
+    "partName": "PRIMARY SCHOOL KATAWAROOPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 401,
+    "partName": "PRIMARY SCHOOL KATAWARUPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 402,
+    "partName": "PRIMARY SCHOOL SUDANIPUR KALA UTTARI BHAG"
+  },
+  {
+    "partNumber": 403,
+    "partName": "PRIMARY SCHOOL SUDANIPUR KALA PURVI BHAG"
+  },
+  {
+    "partNumber": 404,
+    "partName": "PRIMARY SCHOOL SUDANIPUR KALA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 405,
+    "partName": "PRIMARY SCHOOL DEWAKLI PURVI BHAG"
+  },
+  {
+    "partNumber": 406,
+    "partName": "PRIMARY SCHOOL DEWKALI PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 407,
+    "partName": "PRIMARY SCHOOL JAITPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 408,
+    "partName": "PRIMARY SCHOOL JAITPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 409,
+    "partName": "COMPOSITE SCHOOL HANUMANGANJ PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 410,
+    "partName": "COMPOSITE SCHOOL HANUMANGANJ MADHYA BHAG"
+  },
+  {
+    "partNumber": 411,
+    "partName": "COMPOSITE SCHOOL HANUMANGANJ UTTARI BHAG"
+  },
+  {
+    "partNumber": 412,
+    "partName": "COMPOSITE SCHOOL HANUMANGANJ UTTARI BHAG 1"
+  },
+  {
+    "partNumber": 413,
+    "partName": "PRIMARY SCHOOL LODHAWA PURVI BHAG"
+  },
+  {
+    "partNumber": 414,
+    "partName": "PRIMARY SCHOOL LODHAWA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 415,
+    "partName": "PANCHAYAT BHAWAN JUNEDPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 416,
+    "partName": "PANCHAYAT BHAWAN JUNEDPUR PAHCHIMI BHAG"
+  },
+  {
+    "partNumber": 417,
+    "partName": "PRIMARY SCHOOL BIKAPUR"
+  },
+  {
+    "partNumber": 418,
+    "partName": "PRIMARY SCHOOL JAGATPUR  RAMPUR URF RUDAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 419,
+    "partName": "COMPOSITE SCHOOL BIRGAPUR PURVI BHAG\t"
+  },
+  {
+    "partNumber": 420,
+    "partName": "COMPOSITE SCHOOL BIRGAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 421,
+    "partName": "COMPOSITE SCHOOL BIRGAPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 422,
+    "partName": "PRIMARY SCHOOL KAITHAWAL PURVI BHAG"
+  },
+  {
+    "partNumber": 423,
+    "partName": "PRIMARY SCHOOL KAITHAWAL PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 424,
+    "partName": "PRIMARY SCHOOL MANDAUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 425,
+    "partName": "PRIMARY SCHOOL MANDAUR UTTARI MADHYA BHAG"
+  },
+  {
+    "partNumber": 426,
+    "partName": "COMPOSITE SCHOOL BALARAMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 427,
+    "partName": "COMPOSITE SCHOOL BALARAMPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 428,
+    "partName": "COMPOSITE SCHOOL PAHADPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 429,
+    "partName": "COMPOSITE SCHOOL PAHADPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 430,
+    "partName": "PRIMARY SCHOOL GOPALPUR"
+  },
+  {
+    "partNumber": 431,
+    "partName": "PRIMARY SCHOOL DHOKARI UPARHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 432,
+    "partName": "PRIMARY SCHOOL DHOKARI UPARHAR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 433,
+    "partName": "PRIMARY SCHOOL DHOKARI UPARHAR MADHY BHAG"
+  },
+  {
+    "partNumber": 434,
+    "partName": "UPPER PRIMARY SCHOOL VIDYALAY DHOKARI UPARHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 435,
+    "partName": "UPPER PRIMARY SCHOOL VIDYALAY DHOKARI UPARHAR PASHCHIMI BHAG"
+  }
+]

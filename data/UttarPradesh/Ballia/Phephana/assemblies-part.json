@@ -1,0 +1,1350 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "UCHCH PRATHMIK VIDYALAY BAHADURPURKARI,EAST"
+  },
+  {
+    "partNumber": 2,
+    "partName": "UCHCH PRATHMIK VIDYALAY BAHADURPURKARI,MIDDLE"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.VIDYALAY ABHAIPUR EAST"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.VIDYALAY ABHAIPUR WEST"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRATHMIK VIDYALAY AMADARIYA NORTH"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRATHMIK VIDYALAY AMADARIYA SOUTH"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRATHMIK VIDYALAY CHHATAWA"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.VIDHYALAY.JIGANI MU.RATASAD"
+  },
+  {
+    "partNumber": 9,
+    "partName": "COMPOSITE VIDYALAY JIGANAHARA"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRATHMIK VIDYALAY MATHAMAIN"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRATHMIK VIDYALAY CHAVARI"
+  },
+  {
+    "partNumber": 12,
+    "partName": "UCHH PRATHMIK VIDYALAY CHAWARI"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRATHMIK VIDYALAY PIPARAKALA NORTH"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRATHMIK VIDYALAY PIPARAKALA SOUTH"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRATHMIK VIDYALAY ARAJI PATAPAR"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRATHMIK VIDYALAY PRANPUR EAST"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRATHMIK VIDYALAY PRANPUR WEST"
+  },
+  {
+    "partNumber": 18,
+    "partName": "SAMPURNANAND I.C.RATASAD KALAN,MIDDLE"
+  },
+  {
+    "partNumber": 19,
+    "partName": "SAMPURNANAND I.C.RATASAD KALAN,SOUTH"
+  },
+  {
+    "partNumber": 20,
+    "partName": "RATSAR INTER COLLEGE RATSAR ROOM NO-1"
+  },
+  {
+    "partNumber": 21,
+    "partName": "RATSAR INTER COLLEGE RATSAR ROOM NO-2"
+  },
+  {
+    "partNumber": 22,
+    "partName": "RATSAR INTER COLLEGE RATSAR ROOM NO-3"
+  },
+  {
+    "partNumber": 23,
+    "partName": "RATSAR INTER COLLEGE RATSAR ROOM NO-4"
+  },
+  {
+    "partNumber": 24,
+    "partName": "RATSAR INTER COLLEGE RATSAR ROOM NO-5"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.V. VIKABHAGAT KE POKHARA,NORTH"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.V. VIKABHAGAT KE POKHARA,SOUTH"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P.V. RATSAD KALA (BARYA) EAST"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.V. RATSAD KALA (BARYA) WEST"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.V. TOWN RATASAD,EAST"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.V. TOWN RATASAD,WEST"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.V.PACHAKHORAKALAN EAST"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.V.PACHAKHORAKALAN,WEST"
+  },
+  {
+    "partNumber": 33,
+    "partName": "J.H.S PACHKHORA KHURD EAST"
+  },
+  {
+    "partNumber": 34,
+    "partName": "J.H.S PACHKHORA KHURD WEST"
+  },
+  {
+    "partNumber": 35,
+    "partName": "P.V.DHANAUTIDHURA,NORTH"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.V.DHANAUTIDHURA,SOUTH"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.V.DHANAUTI SLEM"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.V.KACHABACHIA KALAN"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.V.SHERWAKALA"
+  },
+  {
+    "partNumber": 40,
+    "partName": "COMPOSIT VIDYALAY KURTHIA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.V.ASAN STHIT PARSIYAKHURD,NORTH"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.V.ASAN  STHIT  PARSIYAKHURD,SOUTH"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.V.ASAN  STHIT  PARSIYAKHURD,EAST"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.V.NAKAHARA"
+  },
+  {
+    "partNumber": 45,
+    "partName": "COMPOSITE VIDYALAY .NOORPUR,NORTH"
+  },
+  {
+    "partNumber": 46,
+    "partName": "COMPOSITE VIDYALAY.NOORPUR,SOUTH"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE VIDYALAY TAPANI EAST"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE VIDYALAY .TAPANI WEST"
+  },
+  {
+    "partNumber": 49,
+    "partName": "COMPOSITE VIDYALAY.JANAUPUR EAST"
+  },
+  {
+    "partNumber": 50,
+    "partName": "COMPOSITE VIDYALAY.JANAUPUR WEST"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.V.JAGDEPUR"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.V.ARAIPUR"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.V.SIKTAUTI"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.V. NADAULI"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.V.BADANPURA,WEST"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.V.BADANPURA,EAST"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.V.PADWAR"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.V.RAMPURBHOJ"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.V.BARABANDH,SOUTH"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.V.BARABANDH,NORTH"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.V.SHAHPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P.V.KOTWA EAST"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRATHMIK VIDYALAY SONBARSA EAST"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE VIDYALAY THUMHA UTTAM"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.V.RAKOPUR"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PRATHMIK VIDYALAY BHALUI NORTH"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRATHMIK VIDYALAY BHALUI SOUTH"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRATHMIK VIDYALAY KHARHATAR EAST"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRATHMIK VIDYALAY KHARHATAR WEST"
+  },
+  {
+    "partNumber": 70,
+    "partName": "U.M.V.KHADICHA"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRATHMIK VIDYALAY GHOSWATI,NORTH"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRATHMIK VIDYALAY GHOSWATI,SOUTH"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.V.TRIKALPUR,NORTH"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.V.TRIKALPUR,SOUTH"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE VIDYALAY DAMODARPUR"
+  },
+  {
+    "partNumber": 76,
+    "partName": "GOVT. KANYA P.P.GADWAR EAST"
+  },
+  {
+    "partNumber": 77,
+    "partName": "GOVT. KANYA P.P.GADWAR WEST"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P.V.GADWAR,NORTH"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.V.GADWAR,SOUTH"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.V.GADWAR,EAST"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.V.GADWAR,WEST"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.M.V.GADWAR BABHANAULI"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRATHMIK VIDYALAY .JIGANI,NORTH"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRATHMIK VIDYALAY JIGANI,SOUTH"
+  },
+  {
+    "partNumber": 85,
+    "partName": "PRATHMIK VIDYALAY JIGANI,EAST"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE VIDYALAY.NAWADA EAST"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSITE VIDYALAY NAWADA WEST"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRATHMIK VIDYALAY  MANIYAR,EAST"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRATHMIK VIDYALAY MANIYAR,WEST"
+  },
+  {
+    "partNumber": 90,
+    "partName": "COMPOSITE VIDHYALAY SARYA EAST"
+  },
+  {
+    "partNumber": 91,
+    "partName": "COMPOSITE VIDHYALAY SARYA WEST"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.V.CHANDPUR"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRATHMIK VIDYALAY NARAYANPALI  WEST"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PRATHMIK VIDYALAY PARSIA KHURD"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PRATHMIK VIDYALAY BISUKIA SOUTH"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRATHMIK VIDYALAY  BISUKIA NORTH"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRATHMIK VIDYALAY BARAWAN,WEST"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRATHMIK VIDYALAY  BARAWAN,MIDDLE"
+  },
+  {
+    "partNumber": 99,
+    "partName": "COMPOSITE VIDYALAY CHANDUKI"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRATHMIK VIDYALAY BAGHEWA"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRATHMIK VIDYALAY BODIYA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.V. KARANAI,EAST"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.V. KARANAI,WEST"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.V. KARANAI,NORTH"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.V. KARANAI,SOUTH"
+  },
+  {
+    "partNumber": 106,
+    "partName": "JR H S KARANAI,EAST"
+  },
+  {
+    "partNumber": 107,
+    "partName": "JR H S KARANAI,WEST"
+  },
+  {
+    "partNumber": 108,
+    "partName": "JR.H.S.KARANAI,NORTH"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.V.GURUWAN,NORTH"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.V.GURUWAN,SOUTH"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRATHMIK VIDYALAY ALAWALPUR"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE VIDYALAY BANARAHI"
+  },
+  {
+    "partNumber": 113,
+    "partName": "COMPOSITE VIDYALAY MIDDHA,NORTH"
+  },
+  {
+    "partNumber": 114,
+    "partName": "COMPOSITE VIDYALAY MIDDHA,MIDDLE"
+  },
+  {
+    "partNumber": 115,
+    "partName": "COMPOSITE VIDYALAY MIDDHA,EAST"
+  },
+  {
+    "partNumber": 116,
+    "partName": "COMPOSITE VIDYALAY MIDDHA,WEST"
+  },
+  {
+    "partNumber": 117,
+    "partName": "SAMVILIAN VIDYALAY.BHIKHAMPUR EAST"
+  },
+  {
+    "partNumber": 118,
+    "partName": "SAMVILIAN VIDYALAY.BHIKHAMPUR WEST"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P.V.AKAWARI,NORTH"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.V.AKAWARI,SOUTH"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.V.AKAWARI MATHIYA EAST"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.V.PAKARI WEST"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.V.KATARIA"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.V.KANAILA,EAST"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P.V.KANAILA,WEST"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.V.MAHAKARPUR"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.V. MITHWAR NO-1 EAST"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.V.MITHAWAR NO-1 WEST"
+  },
+  {
+    "partNumber": 129,
+    "partName": "AMABEDAKAR V.BALEJI"
+  },
+  {
+    "partNumber": 130,
+    "partName": "UCHH PRATHMIK VIDYALAY KARCHI NARAYANPUR EAST"
+  },
+  {
+    "partNumber": 131,
+    "partName": "UCHH PRATHMIK VIDYALAY KARCHI NARAYANPUR WEST"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.V.KAMPUR"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.V.PARIWA"
+  },
+  {
+    "partNumber": 134,
+    "partName": "COMPOSITE VIDYALAY.SAWARUPUR"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.V.PIYARIA,NORTH"
+  },
+  {
+    "partNumber": 136,
+    "partName": "P.V.PIYARIA,SOUTH"
+  },
+  {
+    "partNumber": 137,
+    "partName": "COMPOSITE VIDYALAY SINGHACHAWAR KALA,EAST"
+  },
+  {
+    "partNumber": 138,
+    "partName": "COMPOSITE VIDYALAY.SINGHACHAWAR KALA,WEST"
+  },
+  {
+    "partNumber": 139,
+    "partName": "COMPOSITE VIDYALAY.SINGHACHAWAR KALA,NORTH"
+  },
+  {
+    "partNumber": 140,
+    "partName": "COMPOSITE VIDYALAY.SINGHACHAWAR KALA,SOUTH"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JANTA PURV MADHYAMIK V. SINGHPUR,EAST"
+  },
+  {
+    "partNumber": 142,
+    "partName": "JANTA PURV MADHYAMIK V. SINGHPUR,WEST"
+  },
+  {
+    "partNumber": 143,
+    "partName": "JANTA PURV MADHYAMIK V. SINGHPUR NORTH"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE VIDYALAY JAGADISHPUR EAST"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE VIDYALAY JAGADISHPUR WEST"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRATHMIK VIDYALAY KOPAWA EAST"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRATHMIK VIDYALAY KOPAWA WEST"
+  },
+  {
+    "partNumber": 148,
+    "partName": "PRATHMIK VIDYALAY BAHADURPUR EAST"
+  },
+  {
+    "partNumber": 149,
+    "partName": "UCHH PRATHMIK VIDYALAY BAHADURPUR"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PRATHMIK VIDYALAY BAIKUNTHPUR"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRATHMIK VIDYALAY .SULTANPUR"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRATHMIK VIDYALAY PAKKAKOT"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRATHMIK VIDYALAY AKAUNI,NORTH"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRATHMIK VIDYALAY AKAUNI,SOUTH"
+  },
+  {
+    "partNumber": 155,
+    "partName": "JR.H.S.PHEPHNA ROOM NO-1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "JR.H.S.PHEPHNA ROOM NO-2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "JR.H.S.PHEPHNA ROOM NO-3"
+  },
+  {
+    "partNumber": 158,
+    "partName": "JR.H.S.PHEPHNA ROOM NO-4"
+  },
+  {
+    "partNumber": 159,
+    "partName": "JR.H.S.PHEPHNA ROOM NO-5"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.V.RAUSINGHPUR"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRATHMIK VIDYALAY .KAPURI NO.1 (NORTH)"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRATHMIK VIDYALAY KAPURI NO.1 (SOUTH)"
+  },
+  {
+    "partNumber": 163,
+    "partName": "COMPOSITE VIDYALAY DUMDUMA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "JR.H.S CHAUBEPUR EAST"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PRATHMIK VIDYALAY BAJAHAN"
+  },
+  {
+    "partNumber": 166,
+    "partName": "COMPOSITE VIDYALAY VAINA EAST"
+  },
+  {
+    "partNumber": 167,
+    "partName": "COMPOSITE VIDYALAY VAINA WEST"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRATHMIK VIDYALAY SAGARPALI NO-1, EAST"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRATHMIK VIDYALAY SAGARPALI NO-1, WEST"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRATHMIK VIDYALAY SAGARPALI NO-1,NORTH"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRATHMIK VIDYALAY SAGARPALI NO-1, SOUTH"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.V.SAGARPALI NO.2 EAST"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.V.SAGARPALI NO.2 WEST"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRATHMIK VIDYALAY BAGHEJI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRATHMIK VIDYALAY GANGAHARA,NO.1,EAST"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRATHMIK VIDYALAY GANGAHARA,NO.1,WEST"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRATHMIK VIDYALAY .BAIRIA"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRATHMIK VIDYALAY THAMHANPURA  EAST"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRATHMIK VIDYALAY THAMHANPURA NORTH"
+  },
+  {
+    "partNumber": 180,
+    "partName": "SRI RAM NAGINA SINGH INTER COLLEGE INDARPUR EAST"
+  },
+  {
+    "partNumber": 181,
+    "partName": "SRI RAM NAGINA SINGH INTER COLLEGE.INDARPUR WEST"
+  },
+  {
+    "partNumber": 182,
+    "partName": "DURIADAI JR.H.S.CHEURUIYA EAST"
+  },
+  {
+    "partNumber": 183,
+    "partName": "DURIADAI JR.H.S.CHEURUIYA WEST"
+  },
+  {
+    "partNumber": 184,
+    "partName": "DURIADAI JR.H.S.CHEURUIYA NORTH"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.V.AJORPUR, ROOM NO-1"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.V.AJORPUR,ROOM NO-2"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.V.MAJHARIYA,ROOM NO-1"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.V.MAJHARIYA,ROOM NO-2"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.V.MAJHARIYA,ROOM NO-3"
+  },
+  {
+    "partNumber": 190,
+    "partName": "UCHCH P.V.RAMPURCHIT,EAST"
+  },
+  {
+    "partNumber": 191,
+    "partName": "UCHCH P.V.RAMPURCHIT,WEST"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.V.RAMPURCHIT, NORTH"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.V..RAMPURCHIT, SOUTH"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.V..RAMPURCHIT, MIDDLE"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.V.MARCHIKHURD"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.V.KHAMIRPUR"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.V.MAHAREI"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P.V.MAHAREW EAST"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.V.MAHAREW WEST"
+  },
+  {
+    "partNumber": 200,
+    "partName": "COMPOSITE VIDYALAY.ASHAPUR,EAST"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSITE VIDYALAY ASHAPUR,WEST"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.V.USARAULLI"
+  },
+  {
+    "partNumber": 203,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON ROOM NO-1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON ROOM NO-2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON ROOM NO-3"
+  },
+  {
+    "partNumber": 206,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON ROOM NO-4"
+  },
+  {
+    "partNumber": 207,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON ROOM NO-5"
+  },
+  {
+    "partNumber": 208,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON EAST.ROOM NO-6"
+  },
+  {
+    "partNumber": 209,
+    "partName": "GOVERNMENT GIRL I.C CHITBARAGAON WEST.ROOM NO-7"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.V.CHITABARAGAON (SADAR) EAST"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.V.CHITABARAGAON (SADAR) WEST"
+  },
+  {
+    "partNumber": 212,
+    "partName": "COMPOSITE VIDYALAY CHITABARAGAON ROOM NO-1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "COMPOSITE VIDYALAY CHITABARAGAON ROOM NO-2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "COMPOSITE VIDYALAY CHITABARAGAON ROOM NO-3"
+  },
+  {
+    "partNumber": 215,
+    "partName": "COMPOSITE VIDYALAY CHITABARAGAON ROOM NO-4"
+  },
+  {
+    "partNumber": 216,
+    "partName": "COMPOSITE VIDYALAY CHITABARAGAON ROOM NO-5"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.V.HARIJAN CHITABARAGAON,NEW BUILDING,NORTH"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.V. HARIJAN CHITABARAGAON,NEW BUILDING,SOUTH"
+  },
+  {
+    "partNumber": 219,
+    "partName": "MARCHENT I.C.CHITABARAGAON,EAST"
+  },
+  {
+    "partNumber": 220,
+    "partName": "MARCHENT I.C.CHITABARAGAON,WEST"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE VIDYALAY AKHTIYARPUR EAST"
+  },
+  {
+    "partNumber": 222,
+    "partName": "COMPOSITE VIDYALAY AKHTIYARPUR WEST"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.V.NAGAWAGAI EAST"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.V.NAGAWAGAI WEST"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P.V.NASIRPURKALA"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.V.PALIGARAKALA"
+  },
+  {
+    "partNumber": 227,
+    "partName": "JR.H.S.HARDARPUR BADHWALIYA"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.V.BIBIPUR"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.V.BADHAWALIA"
+  },
+  {
+    "partNumber": 230,
+    "partName": "COMPOSITE VIDYALAY.DHARMAPUR"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.V.SHAHAPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.V.SUJAYAT,EAST"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.V.SUJAYAT,WEST"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.V.SINGARPUR"
+  },
+  {
+    "partNumber": 235,
+    "partName": "P.V.BASUDEVA,EAST"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.V.BASUDEVA,WEST"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSITE VIDYALAY KARO EAST"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSITE VIDYALAY KARO WEST"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE VIDYALAY KARO NORTH"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.V.BANKATA"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRATHMIK VIDYALAY SAHABUDDINPUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "COMPOSITE VIDYALAY DAULATPUR,EAST"
+  },
+  {
+    "partNumber": 243,
+    "partName": "COMPOSITE VIDYALAY DAULATPUR WEST"
+  },
+  {
+    "partNumber": 244,
+    "partName": "SHRI SANT RAM RAJ GOSWAMI INTERMEDIATE COLLAGE DAULATPUR"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRATHMIK VIDYALAY KAITHAWALI  EAST"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRATHMIK VIDYALAY KAITHAWALI WEST"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.V.LADDUPUR"
+  },
+  {
+    "partNumber": 248,
+    "partName": "COMPOSITE VIDYALAY FIROJPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PATHMIK VIDYALAY, KATHARIA,NO.1 EAST"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PATHMIK VIDYALAY, KATHARIA,NO.1 NORTH"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PANCHAYAT BHAWAN KATHARIA"
+  },
+  {
+    "partNumber": 252,
+    "partName": "COMPOSITE VIDYALAY.ITAHI"
+  },
+  {
+    "partNumber": 253,
+    "partName": "ANNU RAI INTER COLLAGE CHAURA-BALLIA EAST"
+  },
+  {
+    "partNumber": 254,
+    "partName": "ANNU RAI INTER COLLAGE CHAURA-BALLIA WEST"
+  },
+  {
+    "partNumber": 255,
+    "partName": "ANNU RAI INTER COLLAGE CHAURA-BALLIA  NORTH"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRATHMIK VIDYALAY .SLEMPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "COMPOSITE VIDYALAY DARIAPUR"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRATHMIK VIDYALAY .KAREJA"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.V.SOBANTHA"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.V.NARAHI NO.1 STHIT VILLAGE (KHAMIRPUR) EAST"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.V.NARAHI NO.1 STHIT VILLAGE (KHAMIRPUR) WEST"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.V.NARAHI NO.1 STHIT VILLAGE (KHAMIRPUR),NORTH"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.V.NARAHI NO.1 STHIT VILLAGE (KHAMIRPUR) SOUTH"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PURV MADHYAMIK VIDHYALAY (NARAHI) EAST"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PURV MADHYAMIK VIDHYALAY (NARAHI) WEST"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE VIDYALAY NARAHI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "ADARSH INTER COLLAGE KHAMIRPUR"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PRATHMIK VIDYALAY BAIRIA"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRATHMIK VIDYALAY ICHCHA CHAUBEY KA PURA,EAST"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRATHMIK VIDYALAY ICHCHA CHAUBEY KA PURA,WEST"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRATHMIK VIDYALAY ICHCHA CHAUBEY KA PURA NORTH"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PRATHMIK VIDYALAY RAIYAKHADI"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRATHMIK VIDYALAY SHAHPUR KHAS"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRATHMIK VIDYALAY PALIAKHAS,EAST"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRATHMIK VIDYALAY PALIAKHAS,WEST"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRATHMIK VIDYALAY PALIAKHAS NORTH"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE VIDYALAY.BILARIA"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRATHMIK VIDYALAY LAKSHMANPUR"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRATHMIK VIDYALAY TETARPUR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "KANYA JR.H.S.PIPARAKALA,NORTH"
+  },
+  {
+    "partNumber": 281,
+    "partName": "KANYA JR.H.S.PIPARAKALA,SOUTH"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRATHMIK VIDYALAY NO.1 PIPARAKALA,EAST"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRATHMIK VIDYALAY NO.1 PIPARAKALA,WEST"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRATHMIK VIDYALAY SENDURIA"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRATHMIK VIDYALAY AMAWN, EAST"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRATHMIK VIDYALAY AMAWN, WEST"
+  },
+  {
+    "partNumber": 287,
+    "partName": "COMPOSITE VIDYALAY TUTUWARI,EAST"
+  },
+  {
+    "partNumber": 288,
+    "partName": "COMPOSITE VIDYALAY TUTUWARI,WEST"
+  },
+  {
+    "partNumber": 289,
+    "partName": "JR.H.S.MEDWARAKALA"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRATHMIK VIDYALAY DULARPUR"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRATHMIK VIDYALAY AKAUNI"
+  },
+  {
+    "partNumber": 292,
+    "partName": "JR.H.S.NASIRPUR MU.TUTUWARI"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P. V. VISHESHWARPUR"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRATHMIK VIDYALAY, BAGHAUNAKALA EAST"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRATHMIK VIDYALAY, BAGHAUNAKALA WEST"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOSITE VIDYALAY.SURAHI,NORTH"
+  },
+  {
+    "partNumber": 297,
+    "partName": "COMPOSITE VIDYALAY.SURAHI,MIDDLE"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRATHMIK VIDYALAY, BASANTPUR"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRATHMIK VIDYALAY, BELSIPAH"
+  },
+  {
+    "partNumber": 300,
+    "partName": "JR.H.S.SOHAWN"
+  },
+  {
+    "partNumber": 301,
+    "partName": "SEWA SANGH I.C.SOHAWN,EAST"
+  },
+  {
+    "partNumber": 302,
+    "partName": "SEWA SANGH I.C.SOHAWN,WEST"
+  },
+  {
+    "partNumber": 303,
+    "partName": "SEWA SANGH I.C.SOHAWN,NORTH"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRATHMIK VIDYALAY, RAMAPUR"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE VIDYALAY.KORANTADIH ROOM NO-1"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOSITE VIDYALAY.KORANTADIH ROOM NO-2"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOSITE VIDYALAY.KORANTADIH ROOM NO-3"
+  },
+  {
+    "partNumber": 308,
+    "partName": "COMPOSITE VIDYALAY.KORANTADIH ROOM NO-4"
+  },
+  {
+    "partNumber": 309,
+    "partName": "COMPOSITE VIDYALAY.KORANTADIH ROOM NO-5"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PANCHAYAT BHAWAN UJIYAR"
+  },
+  {
+    "partNumber": 311,
+    "partName": "SACHIW AWAS UJIYAR"
+  },
+  {
+    "partNumber": 312,
+    "partName": "AGAN BANDI KENDRA UJIYAR"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PRATHMIK VIDYALAY UJIYAR(KUMKUMPATTI)"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE VIDYALAY.RAMGARH"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P.V.NASIRPUR MATH MU.RAMGARH,EAST"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.V.NASIRPUR MATH MU.RAMGARH WEST"
+  },
+  {
+    "partNumber": 317,
+    "partName": "COMPOSITE VIDYALAY.NARAINPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "COMPOSITE VIDYALAY.NARAINPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "COMPOSITE VIDYALAY.NARAINPUR ROOM NO-3"
+  },
+  {
+    "partNumber": 320,
+    "partName": "COMPOSITE VIDYALAY NARAINPUR ROOM NO-4"
+  },
+  {
+    "partNumber": 321,
+    "partName": "COMPOSITE VIDYALAY NARAINPUR ROOM NO-5"
+  },
+  {
+    "partNumber": 322,
+    "partName": "COMPOSITE VIDYALAY NARAINPUR ROOM NO-6"
+  },
+  {
+    "partNumber": 323,
+    "partName": "COMPOSITE VIDYALAY NARAINPUR ROOM NO-7"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRIMARY SCHOOL KOTWA NARAYANPUR NO-1 SOUTH"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL KOTWA NARAYANPUR NO-1 EAST"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL KOTWA NARAYANPUR NO-1 WEST"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PATHMIK VIDYALAY SIKANDARPUR, WEST"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRATHMIK VIDYALAY SIKANDARPUR, NORTH"
+  },
+  {
+    "partNumber": 329,
+    "partName": "COMPOSITE VIDYALAY BHARAULI ROOM NO-1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "COMPOSITE VIDYALAY.BHARAULI ROOM NO-2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "COMPOSITE VIDYALAY.BHARAULI ROOM NO-3"
+  },
+  {
+    "partNumber": 332,
+    "partName": "COMPOSITE VIDYALAY.BHARAULI ROOM NO-4"
+  },
+  {
+    "partNumber": 333,
+    "partName": "COMPOSITE VIDYALAY.BHARAULI ROOM NO-5"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRATHMIK VIDYALAY .GOVINDPUR, EAST"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRATHMIK VIDYALAY GOVINDPUR, WEST"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.V.UMARPUR DIAR PALIYA KHAS"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRATHMIK VIDYALAY KULHADIYA (UMARPU DIYAR) "
+  }
+]

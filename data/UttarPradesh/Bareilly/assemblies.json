@@ -1,0 +1,47 @@
+[
+  {
+    "acNumber": 126,
+    "asmblyName": "Aonla",
+    "asmblyNameL1": "आंवला"
+  },
+  {
+    "acNumber": 118,
+    "asmblyName": "Baheri",
+    "asmblyNameL1": "बहेड़ी"
+  },
+  {
+    "acNumber": 124,
+    "asmblyName": "Bareilly",
+    "asmblyNameL1": "बरेली"
+  },
+  {
+    "acNumber": 125,
+    "asmblyName": "Bareilly Cantt.",
+    "asmblyNameL1": "बरेली कैन्टोनमेंट"
+  },
+  {
+    "acNumber": 120,
+    "asmblyName": "Bhojipura",
+    "asmblyNameL1": "भोजीपुरा"
+  },
+  {
+    "acNumber": 123,
+    "asmblyName": "Bithari Chainpur",
+    "asmblyNameL1": "बिथरी चैनपुर"
+  },
+  {
+    "acNumber": 122,
+    "asmblyName": "Faridpur",
+    "asmblyNameL1": "फरीदपुर"
+  },
+  {
+    "acNumber": 119,
+    "asmblyName": "Meerganj",
+    "asmblyNameL1": "मीरगंज"
+  },
+  {
+    "acNumber": 121,
+    "asmblyName": "Nawabganj",
+    "asmblyNameL1": "नवाबगंज"
+  }
+]

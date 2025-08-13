@@ -1,0 +1,1482 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL GAHARPUR R.NO.1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY SCHOOL GAHARPUR R.NO.2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL MAHARAJPUR R.NO.1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL JAGATIPUR"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL RASULAHA R.NO.1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMARY SCHOOL RASULAHA R.NO 2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRIMARY SCHOOL KAPSETHI R.NO 1"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY SCHOOL KAPSETHI R.NO.2"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRIMARY SCHOOL HITTAPUR"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRIMARY SCHOOL BANAULI R.NO.1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRIMARY SCHOOL BANAULI R.NO.2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRIMARY SCHOOL ISWARWAR"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMARY SCHOOL MAJHIYAR"
+  },
+  {
+    "partNumber": 14,
+    "partName": "PRIMARY SCHOOLBARADEEH R.NO.1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "PRIMARY SCHOOLBARADEEH R. NO.2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL KALIKA DHAM SECOND"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL BAJARDIHA R.NO. 1"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMARY SCHOOL BAJARDIHA R.NO.2"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY SCHOOL ODARHA"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRIMARY SCHOOL DOMAILA R.NO.1"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMARY SCHOOL DOMAILA R.NO.2"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRIMARY SCHOOL CHHATERIMANAPUR R.NO.1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRIMARY SCHOOL CHHATERIMANAPUR R.NO.2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "PRIMARY SCHOOL CHHATERIMANAPUR R.NO.3"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE SCHOOL CHITRAASENPUR R.NO 1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSITE SCHOOL CHITRASENPUR R. NO.2"
+  },
+  {
+    "partNumber": 27,
+    "partName": "COMPOSITE SCHOOL CHITRASENPUR R. NO.3"
+  },
+  {
+    "partNumber": 28,
+    "partName": "COMPOSITE SCHOOL CHITRASENPUR R. NO.4"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PRE SECONDARY SCHOOL THATHARA R.NO.1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRE SECONDARY SCHOOL THATHARA R.NO.2"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRE SECONDARY SCHOOL THATHARA R.NO.3"
+  },
+  {
+    "partNumber": 32,
+    "partName": "PRE SECONDARY SCHOOL THATHARA R.NO.4"
+  },
+  {
+    "partNumber": 33,
+    "partName": "RAJKIYA HIGH SCHOOL THATHARA R.NO.1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "RAJKIYA HIGH SCHOOL THATHARA R.NO.2"
+  },
+  {
+    "partNumber": 35,
+    "partName": "RAJKIYA HIGH SCHOOL THATHARA R.NO.3"
+  },
+  {
+    "partNumber": 36,
+    "partName": "RAJKIYA HIGH SCHOOL THATHARA R.NO.4"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PRE SECONDARY SCHOOL BIHARHA R.NO.1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PRE SECONDARY SCHOOL BIHARHA R.NO.2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRE SECONDARY SCHOOL BIHARHA R.NO.3"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRE SECONDARY SCHOOL BIHARHA R.NO.4"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL GUDIYA R.NO 1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE SCHOOL GUDIYA R.NO 2"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRE SECONDARY SCHOOL LALPUR R.NO 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRE SECONDARY SCHOOL LALPUR R.NO.2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRE SECONDARY SCHOOL LALPUR R.NO 3"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL KANSRAIPUR"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRIMARY SCHOOL MANKAIYA R.NO.1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRIMARY SCHOOL MANKAIYA R.NO.2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL MANKAIYA R.NO.3"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMARY SCHOOL NEVADIYA R.NO.1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMARY SCHOOL NEVADIYA R.NO.2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PANCHYAT BHAWAN JOGAPUR R.NO1"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRIMARY SCHOOL JOGIYAPUR R.NO.1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRIMARY SCHOOL KHALISPUR R.NO.1"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY SCHOOL KHALISPUR R.NO .2"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL KHALISPUR R.NO.3"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL ADAMAPUR R.NO.1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRIMARY SCHOOL ADAMAPUR R.NO.2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY SCHOOL AMINI R.NO.1"
+  },
+  {
+    "partNumber": 60,
+    "partName": "PRIMARY SCHOOL AMINI R.NO.2"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRIMARY SCHOOL AMINI R.NO.3"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL AMINI R.NO.4"
+  },
+  {
+    "partNumber": 63,
+    "partName": "JUNIOR HIGH SCHOOL NAHWANIPUR R.NO.1"
+  },
+  {
+    "partNumber": 64,
+    "partName": "JUNIOR HIGH SCHOOL NAHWANIPUR R.NO.2"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRIMARY SCHOOL NAHWANIPUR R.NO.1"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PRIMARY SCHOOL NAHWANIPUR R.NO.2"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRIMARY SCHOOL KAMALHA PRATHAM R.NO.1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRIMARY SCHOOL KAMALHA PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 69,
+    "partName": "COMPOSITE SCHOOL PURENANDA R.NO.1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "COMPOSITE SCHOOL PURENANDA R.NO.2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMARY SCHOOL SIKHADI R.NO.1"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRE SECONDARY SCHOOL SIKHADI (KHANDHAK)"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRIMARY SCHOOL MILKIPUR R.NO.1"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSITE SCHOOL BARKI R.NO.1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE SCHOOL BARKI R.NO.2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSITE SCHOOL BARKI R.NO.3"
+  },
+  {
+    "partNumber": 77,
+    "partName": "PRIMARY SCHOOL RAMPUR SECOND R.NO.1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "PRIMARY SCHOOL RAMPUR SECOND R.NO.2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL RAMPUR PRATHAM"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL SAKALPUR R.NO.1"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL SAKALPUR R.NO.2"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY SCHOOL SUILARA"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL LOHARADIH R.NO.1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRIMARY SCHOOL LOHARADIH R.NO.2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "PANCHAYAT BHAWAN BARSATA"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PANCHAYAT BHAWAN BHARHARIYA R.NO.1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PANCHAYAT BHAWAN BHARHARIYA R.NO.2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "ANARKALI BALIKA SCHOOL PURASHIV R.NO.1"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL BHISHAMPUR PRATHAM R.NO.1"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY SCHOOL BHISHAMPUR PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRIMARY SCHOOL BHISHAMPUR PRATHAM R.NO.3"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRIMARY SCHOOL ARJUNPUR"
+  },
+  {
+    "partNumber": 93,
+    "partName": "AGANBADI KENDA ARJUNPUR"
+  },
+  {
+    "partNumber": 94,
+    "partName": "PRIMARY SCHOOL DILAVALPUR R.NO1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "PRIMARY SCHOOL DILAVALPUR R.NO.2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRIMARY SCHOOL MATUKA R.NO.1"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY SCHOOL MATUKA R.NO.2"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRIMARY SCHOOL MATUKA R.NO.3"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL RAMDIH"
+  },
+  {
+    "partNumber": 100,
+    "partName": "COMPOJIT SCHOOL SIRIHARA R.NO.1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "COMPOJIT SCHOOL SIRIHARA R.NO.2"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY SCHOOL GAJEPUR R.NO.1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRIMARY SCHOOL GAJEPUR R.NO.2"
+  },
+  {
+    "partNumber": 104,
+    "partName": "SAMUDAYIK MILAN KENDRA NEWADA"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL NEWADA"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRIMARY SCHOOL RAGHUNATHPUR R. N0.1"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY SCHOOL RAGHUNATHPUR R. N0.2"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PRE SECONDARY SCHOOL DAULATIYA R. N0.1"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRE SECONDARY SCHOOL DAULATIYA R.NO.2"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRE SECONDARY SCHOOL DAULATIYA R.NO.3"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY SCHOOL GAJAPUR"
+  },
+  {
+    "partNumber": 112,
+    "partName": "SARVODAYA INTER COLLAGE LAKHANSENPUR R.NO 1"
+  },
+  {
+    "partNumber": 113,
+    "partName": "SARVODAYA INTER COLLAGE LAKHANSENPUR R.NO.2"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY SCHOOL BANKAT R.NO.1"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL BANKAT R.NO.2"
+  },
+  {
+    "partNumber": 116,
+    "partName": "COMPOSITE SCHOOL UPARWAR R.NO.1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "COMPOSITE SCHOOL UPARWAR R.NO.2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY SCHOOL GHOSILA PRATHAM R.NO 1"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRE SECONDARY SCHOOL GHOSILA R.NOO 1"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL BHITKURI R.NO.1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY SCHOOL BHITKURI R.NO.2"
+  },
+  {
+    "partNumber": 122,
+    "partName": "COMPOSITE SCHOOL BESAHUPUR R.NO.1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "COMPOSITE SCHOOL BESAHUPUR R.NO.2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "COMPOSITE SCHOOL BESAHUPUR R.NO.3"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL PACHWAR R.NO1"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL PACHWAR R.NO.2"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PRIMARY SCHOOL SONBARSA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "PRIMARY SCHOOL SHAMBHUPUR"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRIMARY SCHOOL BARANI  PRATHAM R.NO.1"
+  },
+  {
+    "partNumber": 130,
+    "partName": "PRIMARY SCHOOL BARANI PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 131,
+    "partName": "PRE SECONDARY SCHOOL KHARGUPUR R.NO.1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRE SECONDARY SCHOOL KHARGUPUR R.NO.2"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL KHARGUPUR -2 (KAMAPUR)"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOL DEIPUR R.NO.1"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY SCHOOL DEIPUR R.NO.2"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMARY SCHOOL DEIPUR R.NO.3"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL SARANGPUR"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL HEERAPUR R.NO.1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL HEERAPUR R.NO.2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRIMARY SCHOOL HEERAPUR R.NO.3"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRIMARY SCHOOL NONKHARA R.NO.1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL PURANDARPUR R. NO.1"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL PURANDARPUR R. NO.2"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSIT  SCHOOL KHEMAPUR R. NO.1"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSIT SCHOOL KHEMAPUR R. NO.2"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRIMARY SCHOOL GORAI R. NO.1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMARY SCHOOL GORAI R. NO.2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "COMPOSITE SCHOOL KARDHANA R.NO.1"
+  },
+  {
+    "partNumber": 149,
+    "partName": "COMPOSITE SCHOOL KARDHANA R.NO.2"
+  },
+  {
+    "partNumber": 150,
+    "partName": "COMPOSITE SCHOOL KARDHANA R.NO.3"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.1"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.2"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.3"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.4"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.5"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL PRATAPPUR (KARDHANA) R.NO.6"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY SCHOOL JALALPUR R. NO.1"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRIMARY SCHOOL JALALPUR R. NO.2"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY SCHOOL JALALPUR R. NO.3"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRE SECONDARY KANYA SCHOOL JANSA R. NO.1"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRE SECONDARY KANYA SCHOOL JANSA R. NO.2"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRE SECONDARY KANYA SCHOOL JANSA R. NO.3"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRIMARY SCHOOL BASANTPUR"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRIMARY SCHOOL KAMALPUR"
+  },
+  {
+    "partNumber": 165,
+    "partName": "PANCHAYAT BHAWAN KURUSATO R. NO.1"
+  },
+  {
+    "partNumber": 166,
+    "partName": "PANCHAYAT BHAWAN KURUSATO R. NO.2"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL RAISIRAMPUR R. NO.1"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL SATTANPUR R.NO.1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY SCHOOL SATTANPUR R.NO.2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "SHRI NEHARU INTER COLLAGE KHAMAUNA"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY SCHOOL MAHANGIPUR R.NO.1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRIMARY SCHOOL MAHANGIPUR R.NO.2"
+  },
+  {
+    "partNumber": 173,
+    "partName": "COMPOSITE SCHOOL RAKHI NEWADA R.NO.1"
+  },
+  {
+    "partNumber": 174,
+    "partName": "COMPOSITE SCHOOL RAKHI NEWADA R.NO.2"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL GADDOPUR"
+  },
+  {
+    "partNumber": 176,
+    "partName": "COMPOSITE  SCHOOL TENDUEE R. N0. 1"
+  },
+  {
+    "partNumber": 177,
+    "partName": "COMPOSIT SCHOOL TENDUEE R. N0. 2"
+  },
+  {
+    "partNumber": 178,
+    "partName": "COMPOSIT SCHOOL TENDUEE R. N0. 3"
+  },
+  {
+    "partNumber": 179,
+    "partName": "COMPOSIT SCHOOL TENDUEE R. N0. 4"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PANCHAYAT BHAWAN CHAUKHANDI R. N0. 1"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRIMARY SCHOOLCHAUKHANDI R. N0. 1"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRIMARY SCHOOLCHAUKHANDI R. N0. 2"
+  },
+  {
+    "partNumber": 183,
+    "partName": "BABU JAGAN PRASAD BAIJNATH SANSKRIT MAHAVIDYALAYA HARIHARPUR"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRIMARY SCHOOL SATO"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY SCHOOL KHADAURA R. NO.1"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY SCHOOL KHADAURA R. NO.2"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL HATHI PRATHAM R. NO .1"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY SCHOOL HATHI PRATHAM R. NO .2"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRIMARY SCHOOL HATHI PRATHAM R. NO .3"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PRIMARY SCHOOL HATHI PRATHAM R. NO .4"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PRIMARY SCHOOL MANIYARIPUR"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PANCHYAT BHAWAN HARIHARPUR( AMARIPUR)"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRIMARY SCHOOL.KUNDARIYA R.NO.1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY SCHOOL KUNDARIYA R.NO.2"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL KURAUNA R.NO.1"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL KURAUNA R.NO.2"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PANCHAYAT BHAWAN PARMANDAPUR R.NO.1"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRIMARY SCHOOL PARMANDAPUR R.NO1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRIMARY SCHOOL PARMANDAPUR R.NO2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY SCHOOL DEENDASPUR R.NO.1"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY SCHOOL DEENDASPUR R.NO.2"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL DEENDASPUR R.NO.3"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL DEENDASPUR R.NO.4"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PRIMARY SCHOOL MAHMADPUR R.NO.1"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRIMARY SCHOOL MAHMADPUR R.NO.2"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY SCHOOL BERUKA"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRIMARY SCHOOL BENIPUR PRATHAM NO.1"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRIMARY SCHOOL BENIPUR PRATHAM R.NO.2"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRIMARY SCHOOL BENIPUR PRATHAM R.NO.3"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.3"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.4"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.5"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL BENIPUR DITIY R.NO.6"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL PRATAPPUR R. NO.1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY SCHOOL PRATAPPUR R. NO.2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "PRIMARY SCHOOL PRATAPPUR R. NO.3"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE SCHOOL MIRZAMURAD"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRIMARY SCHOOLCHAKRPANPUR R. NO.1"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRIMARY SCHOOLCHAKRPANPUR R. NO.2"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL BHUWALPUR"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PANCHAYAT BHAWAN KHAJURI R. NO. 1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PANCHAYAT BHAWAN KHAJURI R.NO.2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRIMARY SCHOOL KHAJURI R.NO.1"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRIMARY SCHOOL KHAJURI R. NO. 2"
+  },
+  {
+    "partNumber": 227,
+    "partName": "KISAN INTER COLLAGE MIRZAMURAD GAUR R.NO.1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "KISAN INTER COLLAGE MIRZAMURAD GAUR R.NO.2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "KISAN INTER COLLAGE MIRZAMURAD GAUR R.NO.3"
+  },
+  {
+    "partNumber": 230,
+    "partName": "KISAN INTER COLLAGE MIRZAMURAD GAUR R.NO.4"
+  },
+  {
+    "partNumber": 231,
+    "partName": "KISAN INTER COLLAGE MIRZAMURAD GAUR R.NO.5"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRE SECONDARY SCHOOL MIRZAMURAD R.NO.4"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRE SECONDARY SCHOOL MIRZAMURAD R.NO.2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRE SECONDARY SCHOOL MIRZAMURAD R.NO.3"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRIMARY SCHOOL PURE R. NO.1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRIMARY SCHOOL PURE R.NO-2"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PRIMARY SCHOOL PURE R.NO-3"
+  },
+  {
+    "partNumber": 238,
+    "partName": "PRIMARY SCHOOL PURE R.NO-4"
+  },
+  {
+    "partNumber": 239,
+    "partName": "PRE SCHOOL LACHCHHAPUR R.NO-1"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRE SCHOOL LACHCHHAPUR R.NO-2"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRIMARY SCHOOL WADIPUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PANCHAYAT BHAWAN GURUDASPUR R.NO-1"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRIMARY SCHOOL JADDUPUR"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PRIMARY SCHOOL PILORI R.NO.1"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY SCHOOL PILORI R.NO.2"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL ASHADH"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY SCHOOL RAJPUR"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRIMARY SCHOOL BANSHIPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY SCHOOL BAHERHWA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL KALLIPUR R.NO-1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL KALLIPUR R.NO.-2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRIMARY SCHOOL KALLIPUR R.NO-3"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRIMARY SCHOOL KALLIPUR R.NO-4"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL KALLIPUR R.NO-5"
+  },
+  {
+    "partNumber": 255,
+    "partName": "BHARTIY SIKSHA NIKETAN HIGH SCHOOL MUBARAKPUR R.NO-1"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRIMARY SCHOOL GANESHPUR R.NO-1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRE SECONDARY SCHOOL MEHADIGANJ R. NO.-1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRE SECONDARY SCHOOL MEHADIGANJ NO.-2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PRE SECONDARY SCHOOL MEHADIGANJ NO.-3"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PRIMARY SCHOOL MEHADIGANJ R.NO-1"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRIMARY SCHOOL MEHADIGANJ R.NO-2"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRIMARY SCHOOL MEHADIGANJ R.NO-3"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRIMARY SCHOOL NAGEPUR R.NO-1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRIMARY SCHOOL NAGEPUR R.NO-2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "JANTA INTER COLLAGE KHOCHAWA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMARY SCHOOL KHOCHAWA R.NO-1"
+  },
+  {
+    "partNumber": 267,
+    "partName": "PRIMARY SCHOOL KHOCHAWA R.NO-2"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PRIMARY SCHOOL BHERHAHA (KATAIYA)"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRIMARY SCHOOL RAMSINGHPUR R. NO-1"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRIMARY SCHOOL RAMSINGHPUR R. NO-2"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY SCHOOL BIRBALPUR"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PRIMARY SCHOOL MOGALAVEER R. NO-1"
+  },
+  {
+    "partNumber": 273,
+    "partName": "S.V.P INTER COLLAGE DANGHARIYA"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMARY SCHOOL RUPAPUR R. NO-1"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRIMARY SCHOOL RUPAPUR R. NO-2"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRIMARY SCHOOL MADHUKARSHAHPUR R. NO-1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRIMARY SCHOOL MADHUKARSHAHPUR R. NO-2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRIMARY SCHOOL DANGHARIYA R. NO-1"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOL DANGHARIYA R. NO-2"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL NAYAPUR R. NO-1"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL NAYAPUR R. NO-2"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY SCHOOL KHAGRAMPUR R. NO-1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRIMARY SCHOOL KHAGRAMPUR R. NO-2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRIMARY SCHOOL RAKHAUNA R.NO-1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMARY SCHOOL RAKHAUNA R.NO-2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMARY SCHOOL RAKHAUNA R.NO-3"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMARY SCHOOL BHIKHARIPUR R.NO-1"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRIMARY SCHOOL BHIKHARIPUR R.NO-2"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY SCHOOL BANGALIPUR"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMARY SCHOOL BIRBHANPUR R.NO-1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL BIRBHANPUR R.NO-2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY SCHOOL BIRBHANPUR R.NO-3"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PRIMARY SCHOOL BIRBHANPUR R.NO-4"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRIMARY SCHOOL BIRBHANPUR R.NO-5"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOJIT  SCHOOL HARSOS R. NO-1"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOJIT SCHOOL HARSOS R. NO-2"
+  },
+  {
+    "partNumber": 297,
+    "partName": "COMPOJIT SCHOOL HARSOS R. NO-3"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOJIT SCHOOL HARSOS R. NO-4"
+  },
+  {
+    "partNumber": 299,
+    "partName": "COMPOJIT SCHOOL HARSOS R. NO-5"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PANCHAYAT BHAWAN HARSOS R.NO.1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PANCHAYAT BHAWAN HARSOS R.NO.2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRIMARY SCHOOL GANJARI NO.-1"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRIMARY SCHOOL GANJARI R.NO-2"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRIMARY SCHOOL GANJARI R.NO-3"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL GANJARI R.NO-4"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOJIT SCHOOL DHADHORPUR R.NO.1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOJIT SCHOOL DHADHORPUR R.NO.2"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRIMARY SCHOOL KRISHNDATTAPUR R. NO-1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRIMARY SCHOOL KRISHNDATTAPUR R. NO-2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRIMARY SCHOOL MUNGWAR"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL GAJAPUR NO. 1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL GAJAPUR R.N-2"
+  },
+  {
+    "partNumber": 313,
+    "partName": "PRIMARY SCHOOL BELAUDI"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PANCHYAT BHAWAN MEERAWAN BELAUDI"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PRIMARY SCHOOL NARSADA R. NO-1"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL NARSADA R. NO-2"
+  },
+  {
+    "partNumber": 317,
+    "partName": "CHAMELA DEVI BALIKA SCHOOL VEERSINGHPUR R.NO-1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "SARVAGNIK BAL VIDHYA MANDIR MILKIPUR DHADHORPUR"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMARY SCHOOL MARUI R.NO-1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL MARUI R.NO-2"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL MARUI R.NO-3"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL MARUI R.NO-4"
+  },
+  {
+    "partNumber": 323,
+    "partName": "RISHI NARAYAN JUNIYAR HIGH SCHOOL JAMUNIPUR"
+  },
+  {
+    "partNumber": 324,
+    "partName": "INTER COLLAGE JAKKHINI R.NO-1"
+  },
+  {
+    "partNumber": 325,
+    "partName": "INTER COLLAGE JAKKHINI R.NO-2"
+  },
+  {
+    "partNumber": 326,
+    "partName": "INTER COLLAGE JAKKHINI R.NO-3"
+  },
+  {
+    "partNumber": 327,
+    "partName": "INTER COLLAGE JAKKHINI R.NO-4"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL PACHAI"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL SIHORAWA R.NO-1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL SIHORAWA R.NO-2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO .1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO .2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO .3"
+  },
+  {
+    "partNumber": 334,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO .4"
+  },
+  {
+    "partNumber": 335,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO .5"
+  },
+  {
+    "partNumber": 336,
+    "partName": "COMPOSITE VIDHAYALAY SHAHANSHAHPUR R.NO-6"
+  },
+  {
+    "partNumber": 337,
+    "partName": "MODEL ENGLISH SCHOOL PANIYARA R.NO .1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "MODEL ENGLISH SCHOOL PANIYARA R.NO .2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "MODEL ENGLISH SCHOOL PANIYARA R.NO .3"
+  },
+  {
+    "partNumber": 340,
+    "partName": "MODEL ENGLISH SCHOOL PANIYARA R.NO .4"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRIMARY SCHOOL SINGHAHI R.NO .1"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRIMARY SCHOOL CHANDAPUR R.NO-1"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRIMARY SCHOOL CHANDAPUR R. NO-2"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRIMARY SCHOOL CHANDAPUR R.NO-3"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRIMARY SCHOOL CHANDAPUR R. NO-4"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRIMARY SCHOOL JAYAPUR R. NO-1"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMARY SCHOOL JAYAPUR R. NO-2"
+  },
+  {
+    "partNumber": 348,
+    "partName": "PRIMARY SCHOOL JAYAPUR R. NO-3"
+  },
+  {
+    "partNumber": 349,
+    "partName": "PRIMARY SCHOOL KACHAHARIYA"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMARY SCHOOL HARINAMPUR"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRIMARY SCHOOL MAHAGAON R.NO.1"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY SCHOOL MAHAGAON R.NO.2"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRIMARY SCHOOL MAHAGAON R. NO-3"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PRIMARY SCHOOL MAHAGAON R. NO-4"
+  },
+  {
+    "partNumber": 355,
+    "partName": "PRIMARY SCHOOL KANAKPUR"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL BHEEMCHANDI R.NO-1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRIMARY SCHOOL BHEEMCHANDI R.NO-2"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRIMARY SCHOOL DEEPAPUR R.NO-1"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRIMARY SCHOOL DEEPAPUR R.NO-2"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRIMARY SCHOOL BUDHAPUR R.NO-1"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRIMARY SCHOOL HARPUR.NO.2"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PRIMARY SCHOOL HARPUR.NO.2"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE SCHOOL ASWARI R. NO-1"
+  },
+  {
+    "partNumber": 364,
+    "partName": "COMPOSITE SCHOOL ASWARI R.NO-2"
+  },
+  {
+    "partNumber": 365,
+    "partName": "COMPOSITE SCHOOL ASWARI R. NO-3"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PANCHYAT BHAWAN RANIBAZAR R. NO-1"
+  },
+  {
+    "partNumber": 367,
+    "partName": "ADARSH PRIMARY SCHOOL KACHANAR R.NO.1"
+  },
+  {
+    "partNumber": 368,
+    "partName": "ADARSH PRIMARY SCHOOL KACHANAR R.NO.2"
+  },
+  {
+    "partNumber": 369,
+    "partName": "ADARSH PRIMARY SCHOOL KACHANAR R. NO.3"
+  },
+  {
+    "partNumber": 370,
+    "partName": "ADARSH PRIMARY SCHOOL KACHANAR R. NO.4"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "acNumber": 19,
+    "asmblyName": "Barhapur",
+    "asmblyNameL1": "बढ़ापुर"
+  },
+  {
+    "acNumber": 22,
+    "asmblyName": "Bijnor",
+    "asmblyNameL1": "बिजनौर"
+  },
+  {
+    "acNumber": 23,
+    "asmblyName": "Chandpur",
+    "asmblyNameL1": "चाँदपुर"
+  },
+  {
+    "acNumber": 20,
+    "asmblyName": "Dhampur",
+    "asmblyNameL1": "धामपुर"
+  },
+  {
+    "acNumber": 18,
+    "asmblyName": "Nagina ",
+    "asmblyNameL1": "नगीना"
+  },
+  {
+    "acNumber": 17,
+    "asmblyName": "Najibabad",
+    "asmblyNameL1": "नज़ीबाबाद"
+  },
+  {
+    "acNumber": 21,
+    "asmblyName": "Nehtaur",
+    "asmblyNameL1": "नहटौर"
+  },
+  {
+    "acNumber": 24,
+    "asmblyName": "Noorpur",
+    "asmblyNameL1": "नूरपुर"
+  }
+]

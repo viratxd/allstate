@@ -1,0 +1,1334 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL GHOSIPURA ROOM NO-1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRIMARY SCHOOL GHOSIPURA ROOM NO-2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL ALIGANJ PATTIKALA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL MILAK NOKHARID ROOM NO-1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL MILAK NOKHARID ROOM NO-2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMARY SCHOOL KAREEMPUR"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRIMARY SCHOOL HASANPUR UTTARI"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY SCHOOL SHEKHUPURA"
+  },
+  {
+    "partNumber": 9,
+    "partName": "JUNIOR HIGH SCHOOL LADPUR SEMRA ROOM NO-1"
+  },
+  {
+    "partNumber": 10,
+    "partName": "JUNIOR HIGH SCHOOL LADPUR SEMRA ROOM NO-2"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRIMARY SCHOOL KISHANPUR MOLAGAD"
+  },
+  {
+    "partNumber": 12,
+    "partName": "COMPOSITE SCHOOL DHARAMPUR UTTARI"
+  },
+  {
+    "partNumber": 13,
+    "partName": "COMPOSITE SCHOOL MANPUR UTTARI ROOM NO-1"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE SCHOOL MANPUR UTTARI ROOM NO-2"
+  },
+  {
+    "partNumber": 15,
+    "partName": "JUNIOR HIGH SCHOOL KHUSHALPUR"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL MAJHRA KHUSHALPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL RAHMATGANJ ROOM NO-1"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMARY SCHOOL RAHMATGANJ ROOM NO-2"
+  },
+  {
+    "partNumber": 19,
+    "partName": "COMPOSITE SCHOOL CHAUPURA FIRST ROOM NO-1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "COMPOSITE SCHOOL CHAUPURA FIRST ROOM NO-2"
+  },
+  {
+    "partNumber": 21,
+    "partName": "JUNIOR HIGH SCHOOL CHAUPURA MASWASI ROOM NO-1"
+  },
+  {
+    "partNumber": 22,
+    "partName": "JUNIOR HIGH SCHOOL CHAUPURA MASWASI ROOM NO-2"
+  },
+  {
+    "partNumber": 23,
+    "partName": "JUNIOR HIGH SCHOOL CHAUPURA MASWASI ROOM NO-3"
+  },
+  {
+    "partNumber": 24,
+    "partName": "SARVHITKARI INTER COLLEGE MASWASI ROOM NO-1"
+  },
+  {
+    "partNumber": 25,
+    "partName": "SARVHITKARI INTER COLLEGE MASWASI ROOM NO-2"
+  },
+  {
+    "partNumber": 26,
+    "partName": "SARVHITKARI INTER COLLEGE MASWASI ROOM NO-3"
+  },
+  {
+    "partNumber": 27,
+    "partName": "SARVHITKARI INTER COLLEGE MASWASI ROOM NO-4"
+  },
+  {
+    "partNumber": 28,
+    "partName": "SARVHITKARI INTER COLLEGE MASWASI ROOM NO-5"
+  },
+  {
+    "partNumber": 29,
+    "partName": "COMPOSITE SCHOOL BHUBRA ROOM NO-1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "COMPOSITE SCHOOL BHUBRA ROOM NO-2"
+  },
+  {
+    "partNumber": 31,
+    "partName": "COMPOSITE SCHOOL BHUBRA ROOM NO-3"
+  },
+  {
+    "partNumber": 32,
+    "partName": "COMPOSITE SCHOOL BHUBRA ROOM NO-4"
+  },
+  {
+    "partNumber": 33,
+    "partName": "PRIMARY SCHOOL KISHANPUR R.P ROOM NO-1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL KISHANPUR R.P ROOM NO-2"
+  },
+  {
+    "partNumber": 35,
+    "partName": "JUNIOR HIGH SCHOOL SITARAMPUR"
+  },
+  {
+    "partNumber": 36,
+    "partName": "COMPOSITE SCHOOL MOTIPURA KHOD ROOM NO-1"
+  },
+  {
+    "partNumber": 37,
+    "partName": "COMPOSITE SCHOOL MOTIPURA KHOD ROOM NO-2"
+  },
+  {
+    "partNumber": 38,
+    "partName": "SAMBILIYAN SCHOOL MOTIPURA KHOD ROOM NO-3"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRIMARY SCHOOL BIJARKHATA UTTARI SECOND ROOM NO-1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRIMARY SCHOOL BIJARKHATA UTTARI SECOND ROOM NO-2"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE SCHOOL BIJARKHATA UTTARI ROOM NO-1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE SCHOOL BIJARKHATA UTTARI ROOM NO-2"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE SCHOOL BIJARKHATA UTTARI ROOM NO-3"
+  },
+  {
+    "partNumber": 44,
+    "partName": "COMPOSITE SCHOOL BIJARKHATA UTTARI ROOM NO-4"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL SHIVNAGAR LOHARI"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL LOHARA"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE SCHOOL SHIKARPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "COMPOSITE SCHOOL SHIKARPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL NANHE KA MAJRA"
+  },
+  {
+    "partNumber": 50,
+    "partName": "COMPOSITE SCHOOL MAJHRA HASSAN ROOM NO-1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "COMPOSITE SCHOOL MAJHRA HASSAN ROOM NO-2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "GIRLS PRIMARY SCHOOL AARSAL PARSAL"
+  },
+  {
+    "partNumber": 53,
+    "partName": "PRIMARY SCHOOL NOORPUR"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PANCHAYAT GHAR FAJALPUR"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY SCHOOL PUSWADA ROOM NO-1"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL PUSWADA ROOM NO-2"
+  },
+  {
+    "partNumber": 57,
+    "partName": "COMPOSITE SCHOOL NANKAR RANI ROOM NO-1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "COMPOSITE SCHOOL NANKAR RANI ROOM NO-2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "COMPOSITE SCHOOL NANKAR RANI ROOM NO-3"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSITE SCHOOL NANKAR RANI ROOM NO-4"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRIMARY SCHOOL KHANPUR UTTARI ROOM NO-1"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL KHANPUR UTTARI ROOM NO-2"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRIMARY SCHOOL GAGAN NAGLI"
+  },
+  {
+    "partNumber": 64,
+    "partName": "COMPOSITE SCHOOL HUSAINGANJ"
+  },
+  {
+    "partNumber": 65,
+    "partName": "JUNIOR HIGH SCHOOL GULADPIPALSANA ROOM NO-1"
+  },
+  {
+    "partNumber": 66,
+    "partName": "JUNIOR HIGH SCHOOL GULADPIPALSANA ROOM NO-2"
+  },
+  {
+    "partNumber": 67,
+    "partName": "COMPOSITE SCHOOL NARPATNAGAR ROOM NO-1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "COMPOSITE SCHOOL NARPATNAGAR ROOM NO-2"
+  },
+  {
+    "partNumber": 69,
+    "partName": "COMPOSITE SCHOOL NARPATNAGAR ROOM NO-3"
+  },
+  {
+    "partNumber": 70,
+    "partName": "GOVT.KANYA INTER COLLGE NARPATNAGAR ROOM NO-1"
+  },
+  {
+    "partNumber": 71,
+    "partName": "GOVT.KANYA INTER COLLGE NARPATNAGAR ROOM NO-2"
+  },
+  {
+    "partNumber": 72,
+    "partName": "GOVT.KANYA INTER COLLGE NARPATNAGAR ROOM NO-3"
+  },
+  {
+    "partNumber": 73,
+    "partName": "AGANWADI CENTER NARPATNAGAR KAMRA NO FIRST"
+  },
+  {
+    "partNumber": 74,
+    "partName": "AGANWADI CENTER NARPATNAGAR KAMRA NO SECOND"
+  },
+  {
+    "partNumber": 75,
+    "partName": "COMPOSITE SCHOOL MUNSHIGANJ ROOM NO-1"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSITE SCHOOL MUNSHIGANJ ROOM NO-2"
+  },
+  {
+    "partNumber": 77,
+    "partName": "AGANBADI CENTAR SHEKHUPURA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "AGANWADI CENTER DUNDAWALA ROOM NO-1"
+  },
+  {
+    "partNumber": 79,
+    "partName": "AGANWADI CENTER DUNDAWALA ROOM NO-2"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL DUNDAWALA ROOM NO-1"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL DUNDAWALA ROOM NO-2"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY SCHOOL BUDI DARIYAL ROOM NO-1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL BUDI DARIYAL ROOM NO-2"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRIMARY SCHOOL JAMINGANJ"
+  },
+  {
+    "partNumber": 85,
+    "partName": "JUNIOR HIGH SCHOOL NAWABNAGAR"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE SCHOOL GADDINAGLI ROOM NO-1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "COMPOSITE SCHOOL GADDINAGLI ROOM NO-2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY SCHOOL KESHONAGLI"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL BHAGWANT NAGAR"
+  },
+  {
+    "partNumber": 90,
+    "partName": "JUNIOR HIGH SCHOOL MEHANDINAGAR"
+  },
+  {
+    "partNumber": 91,
+    "partName": "COMPOSITE SCHOOL MACHIYAGAD"
+  },
+  {
+    "partNumber": 92,
+    "partName": "JUNIOR HIGH SCHOOL RAIPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "JUNIOR HIGH SCHOOL RAIPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "JUNIOR HIGH SCHOOL RAIPUR ROOM NO-3"
+  },
+  {
+    "partNumber": 95,
+    "partName": "JUNIOR HIGH SCHOOL GOVINDPURA NIKAT RAIPUR"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE SCHOOL RUSTAMNAGAR NEAR RAIPUR"
+  },
+  {
+    "partNumber": 97,
+    "partName": "COMPOSITE SCHOOL RATANPURA ROOM NO-1"
+  },
+  {
+    "partNumber": 98,
+    "partName": "COMPOSITE SCHOOL RATANPURA ROOM NO-2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL MILAK DUNDI"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL JAHANGIRPUR"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PANCHAYAT GHAR MIRJAPUR NEAR SUAR"
+  },
+  {
+    "partNumber": 102,
+    "partName": "COMPOSITE SCHOOL ALINAGAR UTTARI ROOM NO-1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "COMPOSITE SCHOOL ALINAGAR UTTARI ROOM NO-2"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL ALINAGAR JAGIRROOM NO-1"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL ALINAGAR JAGIRROOM NO-2"
+  },
+  {
+    "partNumber": 106,
+    "partName": "JUNIOR HIGH SCHOOL JALAFNAGLA ROOM NO-1"
+  },
+  {
+    "partNumber": 107,
+    "partName": "JUNIOR HIGH SCHOOL JALAFNAGLA ROOM NO-2"
+  },
+  {
+    "partNumber": 108,
+    "partName": "PRIMARY SCHOOL SWAR FIRST ROOM NO-1"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY SCHOOL SWAR FIRST ROOM NO-2"
+  },
+  {
+    "partNumber": 110,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL SWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL SWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "JUNIOR HIGH SCHOOL SWAR WARD NO-4 ROOM NO-1"
+  },
+  {
+    "partNumber": 113,
+    "partName": "JUNIOR HIGH SCHOOL SWAR WARD NO-4 ROOM NO-2"
+  },
+  {
+    "partNumber": 114,
+    "partName": "JUNIOR HIGH SCHOOL SWAR WARD NO-4 ROOM NO-3"
+  },
+  {
+    "partNumber": 115,
+    "partName": "GOVT INTER COLLGE SWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 116,
+    "partName": "GOVT INTER COLLGE SWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 117,
+    "partName": "GOVT INTER COLLGE SWAR ROOM NO-3"
+  },
+  {
+    "partNumber": 118,
+    "partName": "GOVT INTER COLLGE SWAR ROOM NO-4"
+  },
+  {
+    "partNumber": 119,
+    "partName": "GOVT INTER COLLGE SWAR ROOM NO-5"
+  },
+  {
+    "partNumber": 120,
+    "partName": "JUNIOR HIGH SCHOOL SWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "JUNIOR HIGH SCHOOL SWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 122,
+    "partName": "JUNIOR HIGH SCHOOL SWAR ROOM NO-3"
+  },
+  {
+    "partNumber": 123,
+    "partName": "KHAND VIKASH OFFICE MITEENG HAL SWAR"
+  },
+  {
+    "partNumber": 124,
+    "partName": "JUNIOR HIGH SCHOOL WARD NO-3 SWAR"
+  },
+  {
+    "partNumber": 125,
+    "partName": "KARYALAY UP SAMBHAGIYA KRISHI PRSAR SWAR"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL NAUGAJA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "JUNIOR HIGH SCHOOL AGLAGA SWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 128,
+    "partName": "JUNIOR HIGH SCHOOL AGLAGA SWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 129,
+    "partName": "GOVT.KANYA INTER COLLGE SWAR ROOM NO-1"
+  },
+  {
+    "partNumber": 130,
+    "partName": "GOVT.KANYA INTER COLLIGE SWAR ROOM NO-2"
+  },
+  {
+    "partNumber": 131,
+    "partName": "PRIMARY SCHOOL KALINAGAR"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRIMARY SCHOOL MAJRA KHEMWALA"
+  },
+  {
+    "partNumber": 133,
+    "partName": "COMPOSITE SCHOOL DHANORI ROOM NO-1"
+  },
+  {
+    "partNumber": 134,
+    "partName": "COMPOSITE SCHOOL DHANORI ROOM NO-2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRIMARY SCHOOL DHANORA"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMARY SCHOOL MUKRAMPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL MUKRAMPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "JUNIOR HIGH SCHOOL SHIVNAGAR NIKAT ASALATPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "JUNIOR HIGH SCHOOL SHIVNAGAR NIKAT ASALATPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRIMARY SCHOOL LADPUR NIKAT BATHUAKHEDA"
+  },
+  {
+    "partNumber": 141,
+    "partName": "JUNIOR HIGH SCHOOL LAKHIMPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "JUNIOR HIGH SCHOOL LAKHIMPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL CHHAPPRA ROOM NO-1"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRIMARY SCHOOL CHHAPPRA ROOM NO-2"
+  },
+  {
+    "partNumber": 145,
+    "partName": "JUNIOR HIGH SCHOOL MADHUPURA ROOM NO-1"
+  },
+  {
+    "partNumber": 146,
+    "partName": "JUNIOR HIGH SCHOOL MADHUPURA ROOM NO-2"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMARY SCHOOL RUSTAMNAGAR NEAR CHHAPRRA"
+  },
+  {
+    "partNumber": 148,
+    "partName": "JUNIOR HIGH SCHOOL IMRATPUR"
+  },
+  {
+    "partNumber": 149,
+    "partName": "COMPOSITE SCHOOL BATHUAKHEDA"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PRIMARY SCHOOL KHARDIYA"
+  },
+  {
+    "partNumber": 151,
+    "partName": "COMPOSITE SCHOOL SAMODIYA ROOM NO-1"
+  },
+  {
+    "partNumber": 152,
+    "partName": "COMPOSITE SCHOOL SAMODIYA ROOM NO-2"
+  },
+  {
+    "partNumber": 153,
+    "partName": "AGANDWADI CENTER DHANPUR NIKAT SHAHDARA"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY SCHOOL MILAK KAJI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY SCHOOL SONAKPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL SONAKPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "COMPOSITE SCHOOL AZEEMNAGAR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "COMPOSITE SCHOOL RASOOLPUR FARIDPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "COMPOSITE SCHOOL RASOOLPUR FARIDPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "COMPOSITE SCHOOL RASOOLPUR FARIDPUR ROOM NO-3"
+  },
+  {
+    "partNumber": 161,
+    "partName": "JUNIOR HIGH SCHOOL KHEMPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "JUNIOR HIGH SCHOOL KHEMPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "JUNIOR HIGH SCHOOL PASIYAPURA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "COMPOSITE SCHOOL CHAUKHANDI ROOM -1"
+  },
+  {
+    "partNumber": 165,
+    "partName": "COMPOSITE SCHOOL CHAUKHANDI ROOM -2"
+  },
+  {
+    "partNumber": 166,
+    "partName": "PRIMARY SCHOOL SURAJ PUR ROOM -1"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL AKBARABAD ROOM NO -1"
+  },
+  {
+    "partNumber": 168,
+    "partName": "JUNIOR HIGH SCHOOL AKBARABAD ROOM NO -1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "JUNIOR HIGH SCHOOL AKBARABAD ROOM NO -2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL RAMPUR DHAMMAN EXTRA ROOM -1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "COMPOSITE SCHOOL PARVAT PUR ROOM -1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "COMPOSITE SCHOOL PARVAT PUR ROOM -2"
+  },
+  {
+    "partNumber": 173,
+    "partName": "COMPOSITE SCHOOL KUNDESRA ROOM -1"
+  },
+  {
+    "partNumber": 174,
+    "partName": "COMPOSITE SCHOOL KUNDESRA ROOM -2"
+  },
+  {
+    "partNumber": 175,
+    "partName": "JUNIOR HIGH SCHOOL MEVLA KALAN"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRIMARY SCHOOL MEVLA FARM"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY SCHOOL MEVLA DHAROO"
+  },
+  {
+    "partNumber": 178,
+    "partName": "COMPOSITE SCHOOL BHAUPURA ROOM -1"
+  },
+  {
+    "partNumber": 179,
+    "partName": "COMPOSITE SCHOOL BHAUPURA ROOM -2"
+  },
+  {
+    "partNumber": 180,
+    "partName": "COMPOSITE SCHOOL MUNDIYA RASOOLPUR ROOM -1"
+  },
+  {
+    "partNumber": 181,
+    "partName": "COMPOSITE SCHOOL MUNDIYA RASOOLPUR ROOM -2"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRIMARY SCHOOL KISHANPUR DOOLA NAGLA"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRIMARY SCHOOL ALLAPUR"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRIMARY SCHOOL BHOLA NAGLA"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY SCHOOL NAGALIYA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "COMPOSITE SCHOOL LADPUR BIBI SMART CLASS ROOM"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL CHAK LADPUR"
+  },
+  {
+    "partNumber": 188,
+    "partName": "COMPOSITE SCHOOL KHANPUR GARVI"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRIMARY SCHOOL CHAK KHARDIYA"
+  },
+  {
+    "partNumber": 190,
+    "partName": "PRIMARY SCHOOL RUPA PUR"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PRIMARY SCHOOL NEW BHABAN SEERKA PATTI RUPA PUR EXTRA ROOM -2"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PRIMARY SCHOOL LODHIPUR NAYAK ROOM NO -1"
+  },
+  {
+    "partNumber": 193,
+    "partName": "JUNIOR SCHOOL LODHIPUR NAYAK ROOM NO - 1"
+  },
+  {
+    "partNumber": 194,
+    "partName": "COMPOSITE SCHOOL DARIYAL AEHATMALI ROOM NO -1"
+  },
+  {
+    "partNumber": 195,
+    "partName": "COMPOSITE SCHOOL DARIYAL AEHATMALI ROOM NO -2"
+  },
+  {
+    "partNumber": 196,
+    "partName": "GANDHI INTER COLLEGE DARIYAL AEHATMALI EAST SIDE ROOM NO 1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "GANDHI INTER COLLEGE DARIYAL AEHATMALI EAST SIDE ROOM NO 2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "GANDHI INTER COLLEGE DARIYAL AEHATMALI MIDDLE SIDE ROOM NO 1"
+  },
+  {
+    "partNumber": 199,
+    "partName": "GANDHI INTER COLLEGE DARIYAL AEHATMALI MIDDLE SIDE ROOM NO 2"
+  },
+  {
+    "partNumber": 200,
+    "partName": "GANDHI INTER COLLEGE DARIYAL AEHATMALI MIDDLE SIDE ROOM NO 3"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSITE SCHOOL DARIYAL AEHATMALI ROOM NO -3"
+  },
+  {
+    "partNumber": 202,
+    "partName": "COMPOSITE SCHOOL DARIYAL AEHATMALI ROOM NO -4"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRIMARY SCHOOL BHARATPUR ROOM NO -1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PRIMARY SCHOOL DARIYAL MUSTEHKAM EXTRA ROOM -1"
+  },
+  {
+    "partNumber": 205,
+    "partName": "TRAINING CENTRE SIKSHA MITRA DARIYAL MUSTEHKAM ROOM NO -1"
+  },
+  {
+    "partNumber": 206,
+    "partName": "TRAINING CENTRE SIKSHA MITRA DARIYAL MUSTEHKAM ROOM NO -2"
+  },
+  {
+    "partNumber": 207,
+    "partName": "KISAN SEVA SEHKARI SAMITI DARIYAL MUSTEHKAM  ROOM  -1"
+  },
+  {
+    "partNumber": 208,
+    "partName": "KISAN SEVA SEHKARI SAMITI DARIYAL MUSTEHKAM  ROOM  -2"
+  },
+  {
+    "partNumber": 209,
+    "partName": "PRIMARY SCHOOL DARIYAL MUSTEHKAM ROOM NO -1"
+  },
+  {
+    "partNumber": 210,
+    "partName": "COMPOSITE SCHOOL JATPURA"
+  },
+  {
+    "partNumber": 211,
+    "partName": "COMPOSITE SCHOOL NARAYAN PUR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "JANTA INTER COLLEGE PIPLI NAYAK ROOM NO -3"
+  },
+  {
+    "partNumber": 213,
+    "partName": "JANTA INTER COLLEGE PIPLI NAYAK ROOM NO -4"
+  },
+  {
+    "partNumber": 214,
+    "partName": "JANTA INTER COLLEGE PIPLI NAYAK ROOM NO -5"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL FIRST PIPLI NAYAK ROOM NO -1"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL PARSHUPURA ROOM -1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY SCHOOL MILAK MUGLA URF MUGAL PURA EXTRA ROOM-1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "PRIMARY SCHOOL KHERA GAJROOLA ROOM -1"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PRIMARY SCHOOL GAJROOLA"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSITE SCHOOL SARAKTHAL"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE SCHOOL CHAK GAJROOLA"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL RAFAT PUR"
+  },
+  {
+    "partNumber": 223,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR LATEEFPUR ROOM NO -1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR LATEEFPUR ROOM NO -2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "COMPOSITE SCHOOL RAMNAGAR LATEEFPUR ROOM NO -3"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRIMARY SCHOOL DEVIPURA"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRIMARY SCHOOL RAINKA NAGLA"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRIMARY SCHOOL KASIYA KUNDA ROOM NO 1"
+  },
+  {
+    "partNumber": 229,
+    "partName": "PRIMARY SCHOOL KASIYA KUNDA ROOM NO 2"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY SCHOOL KARKHERI"
+  },
+  {
+    "partNumber": 231,
+    "partName": "JUNIOR HIGH SCHOOL KARKHERA ROOM NO -1"
+  },
+  {
+    "partNumber": 232,
+    "partName": "JUNIOR HIGH SCHOOL KARKHERA ROOM NO -2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRIMARY SCHOOL LAKHMAN NAGLA EXTRA ROOM , ROOM NO -2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "PRIMARY SCHOOL KHAJUA KHERA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-2"
+  },
+  {
+    "partNumber": 237,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-3"
+  },
+  {
+    "partNumber": 238,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-4"
+  },
+  {
+    "partNumber": 239,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-5"
+  },
+  {
+    "partNumber": 240,
+    "partName": "MODEL INTER COLLEGE BALAK TANDA ROOM NO-6"
+  },
+  {
+    "partNumber": 241,
+    "partName": "JUNIOR HIGH SCHOOL TANDA WARD NO -7 ROOM NO -1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "JUNIOR HIGH SCHOOL TANDA WARD NO -7 ROOM NO -2"
+  },
+  {
+    "partNumber": 243,
+    "partName": "GOVT. INTER COLLEGE TANDA ROOM-1"
+  },
+  {
+    "partNumber": 244,
+    "partName": "GOVT. INTER COLLEGE TANDA ROOM-2"
+  },
+  {
+    "partNumber": 245,
+    "partName": "GOVT. INTER COLLEGE TANDA ROOM-3"
+  },
+  {
+    "partNumber": 246,
+    "partName": "GOVT. INTER COLLEGE TANDA ROOM-4"
+  },
+  {
+    "partNumber": 247,
+    "partName": "GOVT. INTER COLLEGE TANDA ROOM-5"
+  },
+  {
+    "partNumber": 248,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -3"
+  },
+  {
+    "partNumber": 251,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -4"
+  },
+  {
+    "partNumber": 252,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -5"
+  },
+  {
+    "partNumber": 253,
+    "partName": "GOVT. INTER COLLEGE TANDA NEW BHABAN ROOM -6"
+  },
+  {
+    "partNumber": 254,
+    "partName": "CHANDRA MUKHI GIRLS INTER COLLEGE TANDA ROOM -1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "CHANDRA MUKHI GIRLS INTER COLLEGE TANDA ROOM -2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "CHANDRA MUKHI GIRLS INTER COLLEGE TANDA ROOM -3"
+  },
+  {
+    "partNumber": 257,
+    "partName": "CHANDRA MUKHI GIRLS INTER COLLEGE TANDA ROOM -4"
+  },
+  {
+    "partNumber": 258,
+    "partName": "SARASWATI SHISHU VIDHYA MANDIR TANDA BADLI ROOM- 1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "SARASWATI SHISHU VIDHYA MANDIR TANDA BADLI ROOM- 2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "SARASWATI SHISHU VIDHYA MANDIR TANDA BADLI ROOM- 3"
+  },
+  {
+    "partNumber": 261,
+    "partName": "SARASWATI VIDHYA MANDIR HIGHER SECONDRY SCHOOL TANDA BADLI ROOM -1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "SARASWATI VIDHYA MANDIR HIGHER SECONDRY SCHOOL TANDA BADLI ROOM -2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "SARASWATI VIDHYA MANDIR HIGHER SECONDRY SCHOOL TANDA BADLI ROOM -3"
+  },
+  {
+    "partNumber": 264,
+    "partName": "COMPOSITE KANYA TANDA ROOM -1"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSITE KANYA TANDA ROOM -2"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE KANYA TANDA ROOM -3"
+  },
+  {
+    "partNumber": 267,
+    "partName": "COMPOSITE KANYA TANDA ROOM -4"
+  },
+  {
+    "partNumber": 268,
+    "partName": "COMPOSITE KANYA TANDA ROOM -5"
+  },
+  {
+    "partNumber": 269,
+    "partName": "COMPOSITE KANYA TANDA ROOM -6"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRIMARY SCHOOL MARGHATI TANDA ROOM -1"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMAY SCHOOL MARGHATI TANDA ROOM 2"
+  },
+  {
+    "partNumber": 272,
+    "partName": "COMPOSITE SCHOOL KAISHO NAGLI TANDA"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRIMARY SCHOOL BHADUR KA MAJHRA EXTRA ROOM"
+  },
+  {
+    "partNumber": 274,
+    "partName": "JUNIOR HIGH SCHOOL BADLI ROOM -1"
+  },
+  {
+    "partNumber": 275,
+    "partName": "JUNIOR HIGH SCHOOL BADLI ROOM -2"
+  },
+  {
+    "partNumber": 276,
+    "partName": "JUNIOR HIGH SCHOOL BADLI ROOM -3"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRIMARY SCHOOL SENDU KA MAJHRA ROOM -1"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRIMARY SCHOOL SENDU KA MAJHRA ROOM -2"
+  },
+  {
+    "partNumber": 279,
+    "partName": "JUNIOR HIGH SCHOOL JALPUR ROOM -1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "JUNIOR HIGH SCHOOL JALPUR ROOM -2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL DAYAWALA ROOM NO-1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY SCHOOL DHEERAJ NAGAR EXTRA ROOM"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRIMARY SCHOOL DAYAWALA  ROOM NO-2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE SCHOOL SIKANDRABAD ROOM NO -1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE SCHOOL SIKANDRABAD ROOM NO -2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMARY SCHOOL ABBASNAGAR TANDA"
+  },
+  {
+    "partNumber": 287,
+    "partName": "ANGANWADI CENTRE SEHARIYA JAWAHAR"
+  },
+  {
+    "partNumber": 288,
+    "partName": "JUNIOR HIGH SCHOOL ABBASPUR"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY SCHOOL DHAKKA NAGALIYA EXTRA ROOM NO-1"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMARY SCHOOL DHAKKA NAGALIYA EXTRA ROOM -2"
+  },
+  {
+    "partNumber": 291,
+    "partName": "JUNIOR HIGH SCHOOL SENTA KHERA ROOM NO -1"
+  },
+  {
+    "partNumber": 292,
+    "partName": "JUNIOR HIGH SCHOOL SENTA KHERA ROOM NO -2"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PANCHAYAT  GHAR SENTA KHERA ROOM -1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PANCHAYAT  GHAR SENTA KHERA ROOM -2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRIMARY SCHOOL SENTA KHERA ROOM NO-1"
+  },
+  {
+    "partNumber": 296,
+    "partName": "PRIMARY SCHOOL SENTA KHERA ROOM NO -2"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMARY SCHOOL RATUA NAGLA ROOM NO -1"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMARY SCHOOL RATUA NAGLA EXTRA ROOM NO -2"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY SCHOOL RATUA NAGLA MAJHRA MOHANPURA ROOM NO -1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRIMARY SCHOOL SECOND CHANDUPURA SHIKAMPUR ROOM -1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL SECOND CHANDUPURA SHIKAMPUR ROOM -2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "COMPOSITE SCHOOL CHANDUPURA SHIKAMPUR ROOM NO -1"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE SCHOOL CHANDUPURA SHIKAMPUR ROOM NO -2"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRIMARY SCHOOL CHANDUPURI"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL LALPUR"
+  },
+  {
+    "partNumber": 306,
+    "partName": "COMPOSITE SCHOOL MUVANA ROOM NO-1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "COMPOSITE SCHOOL MUVANA ROOM NO-2"
+  },
+  {
+    "partNumber": 308,
+    "partName": "JUNIOR HIGH SCHOOL MAHUAKHERA TANDA ROOM -1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "JUNIOR HIGH SCHOOL MAHUAKHERA TANDA ROOM -2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "ANGANWADI CENTRE DHIMAR KHERA"
+  },
+  {
+    "partNumber": 311,
+    "partName": "COMPOSITE SCHOOL MUKUTPUR"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL TODIPURA"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE SCHOOL LAMBAKHERA ROOM NO -1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE SCHOOL LAMBAKHERA ROOM NO -2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSITE SCHOOL LAMBAKHERA ROOM NO -3"
+  },
+  {
+    "partNumber": 316,
+    "partName": "COMPOSITE SCHOOL LAMBAKHERA ROOM NO -4"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRIMARY SCHOOL FAIZULLA NAGAR ROOM NO -1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "PRIMARY SCHOOL FAIZULLA NAGAR ROOM NO -2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMAY SCHOOL MANDWA ROOM-1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "OFFICE PRIMARY SCHOOL MANDWA"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMAY  SCHOOL MANDWA ROOM-2"
+  },
+  {
+    "partNumber": 322,
+    "partName": "JUNIOR HIGH SCHOOL SHAHPURA ROOM NO -1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "JUNIOR HIGH SCHOOL SHAHPURA ROOM NO -2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "JUNIOR HIGH SCHOOL SHAHPURA ROOM NO -3"
+  },
+  {
+    "partNumber": 325,
+    "partName": "COMPOSITE  SCHOOL DHANUPURA ROOM -1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE SCHOOL DHANUPURA ROOM -2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "SADHAN SAHKARI SAMITI DHANUPURA ROOM-1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL CHHITARIYA JAGEER  EXTRA ROOM SECOND"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL CHHITARIYA JAGEER EXTRA ROOM FIRST"
+  },
+  {
+    "partNumber": 330,
+    "partName": "JUNIOR HIGH SCHOOL CHHITARIYA JAGEER ROOM NO -1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "JUNIOR HIGH SCHOOL CHITARIYA JAGIR ROOM NO-2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMARY SCHOOL SEHRIYA LAKKHA"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY SCHOOL SIHORA"
+  }
+]

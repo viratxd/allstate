@@ -1,0 +1,1362 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRATHAMIK VIDHYALAYA NARAMAUROOM NO.1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRATHAMIK VIDHYALAYA NARAMAUROOM NO.2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.2"
+  },
+  {
+    "partNumber": 5,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.3"
+  },
+  {
+    "partNumber": 6,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.4"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.5"
+  },
+  {
+    "partNumber": 8,
+    "partName": "COMPOSITE VIDHYALAYA NANKARI ROOM NO.6"
+  },
+  {
+    "partNumber": 9,
+    "partName": "I.I.T. CAMPUS SCHOOL ROOM NO.1"
+  },
+  {
+    "partNumber": 10,
+    "partName": "I.I.T. CAMPUS SCHOOL ROOM NO.2"
+  },
+  {
+    "partNumber": 11,
+    "partName": "I.I.T. CAMPUS SCHOOL ROOM NO.3"
+  },
+  {
+    "partNumber": 12,
+    "partName": "SANSTHAN CLUB I.I.T ROOM NO.1"
+  },
+  {
+    "partNumber": 13,
+    "partName": "SANSTHAN CLUB I.I.T ROOM NO.2"
+  },
+  {
+    "partNumber": 14,
+    "partName": "SANSTHAN CLUB I.I.T ROOM NO.3"
+  },
+  {
+    "partNumber": 15,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 16,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 17,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 18,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 19,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 20,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 21,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.7"
+  },
+  {
+    "partNumber": 22,
+    "partName": "GURU NANAK MODERN SCHOOL BITHOOR ROAD KALYANPUR ROOM NO.8"
+  },
+  {
+    "partNumber": 23,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 24,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 25,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 26,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 27,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.5"
+  },
+  {
+    "partNumber": 28,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.6"
+  },
+  {
+    "partNumber": 29,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.7"
+  },
+  {
+    "partNumber": 30,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.8"
+  },
+  {
+    "partNumber": 31,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.9"
+  },
+  {
+    "partNumber": 32,
+    "partName": "S.G.M. INTERNATIONAL SCHOOL INDRA NAGAR ROOM NO.10"
+  },
+  {
+    "partNumber": 33,
+    "partName": "ALLEN KIDS SCHOOL RATAN ORBIT COMPOUND   ROOM NO.1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRATHAMIK VIDHYALAYA BAIRI AKBARPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PRATHAMIK VIDHYALAYA BAIRI AKBARPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "PRATHAMIK VIDHYALAYA BAIRI AKBARPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 37,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE PURANA SHIVALI ROAD KALYANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE PURANA SHIVALI ROAD KALYANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE  PURANA SHIVALI ROAD KALYANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 40,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE PURANA SHIVALI ROAD KALYANPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 41,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE PURANA SHIVALI ROAD KALYANPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 42,
+    "partName": "SHATRUGHAN SINGH INTER COLLEGE PURANA SHIVALI ROAD KALYANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 43,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 46,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 47,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 48,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 49,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 50,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 51,
+    "partName": "JAWAHAR LAL NEHRU INTER COLLEGE KALYANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 52,
+    "partName": "LAXMI BAI SARASWATI VIDHYA MANDIR J.H. SCHOOL PANKI ROAD KALYANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 53,
+    "partName": "LAXMI BAI SARASWATI VIDHYA MANDIR J.H. SCHOOL PANKI ROAD KALYANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 54,
+    "partName": "LAXMI BAI SARASWATI VIDHYA MANDIR J.H. SCHOOL PANKI ROAD KALYANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 55,
+    "partName": "SIDDHARTHA PUBLIC SCHOOL GOOVA GARDEN KALYANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 56,
+    "partName": "SIDDHARTHA PUBLIC SCHOOL GOOVA GARDEN KALYANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 57,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.3"
+  },
+  {
+    "partNumber": 60,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.4"
+  },
+  {
+    "partNumber": 61,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.5"
+  },
+  {
+    "partNumber": 62,
+    "partName": "CHANDRAWATI SARASWATI VIDYA NIKETAN INTER COLLEGE NEW SHIVLI ROAD ROOM NO.6"
+  },
+  {
+    "partNumber": 63,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 64,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 65,
+    "partName": "DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 66,
+    "partName": " DR. NARENDRA SARASWATI VIDYA NIKETAN INTER COLLEGE PURANA SHIVLI ROAD KALYANPUR ROOM NO.7"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRATHAMIK VIDHYALAYA BARASIROHI ROOM NO.1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRATHAMIK VIDHYALAYA BARASIROHI ROOM NO.2"
+  },
+  {
+    "partNumber": 69,
+    "partName": "OXFORD SCHOOL OF GRAMMAR,BARASIROHI ROOM NO.1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "OXFORD SCHOOL OF GRAMMAR,BARASIROHI ROOM NO.2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "OXFORD SCHOOL OF GRAMMAR,BARASIROHI ROOM NO.3"
+  },
+  {
+    "partNumber": 72,
+    "partName": "OXFORD SCHOOL OF GRAMMAR,BARASIROHI ROOM NO.4"
+  },
+  {
+    "partNumber": 73,
+    "partName": "S.L.EDUCATION CENTER BARASIROHI ROOM NO.1"
+  },
+  {
+    "partNumber": 74,
+    "partName": "S.L.EDUCATION CENTER BARASIROHI ROOM NO.2"
+  },
+  {
+    "partNumber": 75,
+    "partName": "S.L.EDUCATION CENTER BARASIROHI ROOM NO.3"
+  },
+  {
+    "partNumber": 76,
+    "partName": "S.L.EDUCATION CENTER BARASIROHI ROOM NO.4"
+  },
+  {
+    "partNumber": 77,
+    "partName": "SARDAR PATEL ACADEMY PUBLIC SCHOOL RATANPUR PANKI ROOM NO 1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "SARDAR PATEL ACADEMY PUBLIC SCHOOL RATANPUR PANKI ROOM NO 2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-3"
+  },
+  {
+    "partNumber": 82,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-4"
+  },
+  {
+    "partNumber": 83,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-5"
+  },
+  {
+    "partNumber": 84,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-6"
+  },
+  {
+    "partNumber": 85,
+    "partName": "SHAHEED CHANDRASHEKHAR AZAD VIDHYALAYA RATANPUR COLONY PANKI ROOM NO.-7"
+  },
+  {
+    "partNumber": 86,
+    "partName": "MAA. SARASWATI VIDHYALAYA SAINIK SCHOOL RATANPUR COLONY PANKI ROOM.NO.1"
+  },
+  {
+    "partNumber": 87,
+    "partName": "MAA. SARASWATI VIDHYALAYA SAINIK SCHOOL RATANPUR COLONY PANKI ROOM.NO.2"
+  },
+  {
+    "partNumber": 88,
+    "partName": "MAA. SARASWATI VIDHYALAYA SAINIK SCHOOL RATANPUR COLONY PANKI ROOM.NO.3"
+  },
+  {
+    "partNumber": 89,
+    "partName": "MAA. SARASWATI VIDHYALAYA SAINIK SCHOOL RATANPUR COLONY PANKI ROOM.NO.4"
+  },
+  {
+    "partNumber": 90,
+    "partName": "KAILASH DEVI PRAGATISHEEL U0 MADHYAMIK VIDHYALAYA RATANPUR PANKI ROOM NO.1"
+  },
+  {
+    "partNumber": 91,
+    "partName": "KAILASH DEVI PRAGATISHEEL U0 MADHYAMIK VIDHYALAYA RATANPUR PANKI ROOM NO.2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "KAILASH DEVI PRAGATISHEEL U0 MADHYAMIK VIDHYALAYA RATANPUR PANKI ROOM NO.3"
+  },
+  {
+    "partNumber": 93,
+    "partName": "KAILASH DEVI PRAGATISHEEL U0 MADHYAMIK VIDHYALAYA RATANPUR PANKI ROOM NO.4"
+  },
+  {
+    "partNumber": 94,
+    "partName": "COMPOSITE VIDHYALAYA RAMKRISHNA  NAGAR GAMBHIRPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "COMPOSITE VIDHYALAYA PANKI KATRA ROOM NO.1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "CHAUDHARI MANBAHAL SIKSHA NIKETAN KAPILI ROOM NO.1"
+  },
+  {
+    "partNumber": 97,
+    "partName": "CHAUDHARI MANBAHAL SIKSHA NIKETAN KAPILI ROOM NO.2"
+  },
+  {
+    "partNumber": 98,
+    "partName": "COMPOSITE VIDHYALAYA PANKI KATRA ROOM NO.2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "COMPOSITE VIDHYALAYA PANKI KATRA ROOM NO.3"
+  },
+  {
+    "partNumber": 100,
+    "partName": "COMPOSITE VIDHYALAYA PANKI KATRA ROOM NO.4"
+  },
+  {
+    "partNumber": 101,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.1"
+  },
+  {
+    "partNumber": 102,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.2"
+  },
+  {
+    "partNumber": 103,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.3"
+  },
+  {
+    "partNumber": 104,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.4"
+  },
+  {
+    "partNumber": 105,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.5"
+  },
+  {
+    "partNumber": 106,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.6"
+  },
+  {
+    "partNumber": 107,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.7"
+  },
+  {
+    "partNumber": 108,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.8"
+  },
+  {
+    "partNumber": 109,
+    "partName": "VIJAY SINGH YADAV SMARAK PUBLIC INTER COLLEGE GANGAGANJ PANKI R.NO.9"
+  },
+  {
+    "partNumber": 110,
+    "partName": "COMPOSITE VIDHYALAYA  GANGAGANJ PANKI ROOM NO.-1"
+  },
+  {
+    "partNumber": 111,
+    "partName": "COMPOSITE VIDHYALAYA  GANGAGANJ PANKI ROOM NO.-2"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE VIDHYALAYA  GANGAGANJ PANKI ROOM NO.-3"
+  },
+  {
+    "partNumber": 113,
+    "partName": "SHRI GAJANAN SARASWATI INTER COLLEGE ,INDRA PARK AWAS VIKAS-3 KALYANPUR KANPUR NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 114,
+    "partName": "SHRI GAJANAN SARASWATI INTER COLLEGE ,INDRA PARK AWAS VIKAS-3 KALYANPUR KANPUR NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 115,
+    "partName": "SHRI GAJANAN SARASWATI INTER COLLEGE ,INDRA PARK AWAS VIKAS-3 KALYANPUR KANPUR NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 116,
+    "partName": "SHRI GAJANAN SARASWATI INTER COLLEGE ,INDRA PARK AWAS VIKAS-3 KALYANPUR KANPUR NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 117,
+    "partName": "KANPUR EDUCATION CENTER JR. H. SCHOOL AWAS VIKAS -3 ROOM NO. 1"
+  },
+  {
+    "partNumber": 118,
+    "partName": "KANPUR EDUCATION CENTER JR. H. SCHOOL AWAS VIKAS -3 ROOM NO. 2"
+  },
+  {
+    "partNumber": 119,
+    "partName": "KANPUR EDUCATION CENTER JR. H. SCHOOL,AWAS VIKAS -3 ROOM NO. 3  "
+  },
+  {
+    "partNumber": 120,
+    "partName": "CARVER PUBLIC SCHOOL AMBEDKARPURAM AWAS VIKAS PANKI ROAD KALYANPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "CARVER PUBLIC SCHOOL AMBEDKARPURAM AWAS VIKAS PANKI ROAD KALYANPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 122,
+    "partName": "CARVER PUBLIC SCHOOL AMBEDKARPURAM AWAS VIKAS PANKI ROAD KALYANPUR ROOM NO 3"
+  },
+  {
+    "partNumber": 123,
+    "partName": "CARVER PUBLIC SCHOOL AMBEDKARPURAM AWAS VIKAS PANKI ROAD KALYANPUR ROOM NO 4"
+  },
+  {
+    "partNumber": 124,
+    "partName": "CARVER PUBLIC SCHOOL AMBEDKARPURAM AWAS VIKAS PANKI ROAD KALYANPUR ROOM NO 5"
+  },
+  {
+    "partNumber": 125,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.1"
+  },
+  {
+    "partNumber": 126,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.2"
+  },
+  {
+    "partNumber": 127,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.3"
+  },
+  {
+    "partNumber": 128,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.4"
+  },
+  {
+    "partNumber": 129,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.5"
+  },
+  {
+    "partNumber": 130,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.6"
+  },
+  {
+    "partNumber": 131,
+    "partName": "MOHANI B. MANWANI GIRLS DEGREE COLLEGE A.V. 3 R.NO.7"
+  },
+  {
+    "partNumber": 132,
+    "partName": "COMPOSITE VIDHYALAYA KANYA KALYANPUR KHURD R.NO.1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "COMPOSITE VIDHYALAYA KANYA KALYANPUR KHURD R.NO.2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "COMPOSITE VIDHYALAYA KANYA KALYANPUR KHURD R.NO.3"
+  },
+  {
+    "partNumber": 135,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.2"
+  },
+  {
+    "partNumber": 137,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.3"
+  },
+  {
+    "partNumber": 138,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.4"
+  },
+  {
+    "partNumber": 139,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.5"
+  },
+  {
+    "partNumber": 140,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.6"
+  },
+  {
+    "partNumber": 141,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.7"
+  },
+  {
+    "partNumber": 142,
+    "partName": "KAILASH SARASWATI INTER COLLEGE KAILASH VIHAR KALYANPUR R.NO.8"
+  },
+  {
+    "partNumber": 143,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 144,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 145,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 3"
+  },
+  {
+    "partNumber": 146,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 4"
+  },
+  {
+    "partNumber": 147,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 5"
+  },
+  {
+    "partNumber": 148,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 6"
+  },
+  {
+    "partNumber": 149,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 7"
+  },
+  {
+    "partNumber": 150,
+    "partName": "ESCORT WORLD SCHOOL KESHAVPURAM AWAS VIKAS-1 KALYANPUR ROOM NO 8"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.1"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.2"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.3"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.4"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.5"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.6"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.7"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.8"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRATAP INTERNATIONAL SCHOOL SATYAM VIHAR ROOM NO.9"
+  },
+  {
+    "partNumber": 160,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 161,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 162,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 163,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 164,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 165,
+    "partName": "MAHARANA PRATAP EDUCATION CENTER INDRAPURI VINAYAKPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 166,
+    "partName": "CHILDREN CARE H.SECONDARY SCHOOL INDRAPURI VINAYAKPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 167,
+    "partName": "CHILDREN CARE H.SECONDARY SCHOOL INDRAPURI VINAYAKPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 168,
+    "partName": "CHILDREN CARE H.SECONDARY SCHOOL INDRAPURI VINAYAKPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 169,
+    "partName": "CHILDREN CARE H.SECONDARY SCHOOL INDRAPURI VINAYAKPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 170,
+    "partName": "SAINT FRANCIS ASHISHI. SCHOOL N. BLOCK TULSI NAGAR KAKADEV ROOM.NO.1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "SAINT FRANCIS ASHISHI. SCHOOL N. BLOCK TULSI NAGAR KAKADEV ROOM.NO.2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "SAINT FRANCIS ASHISHI. SCHOOL N. BLOCK TULSI NAGAR KAKADEV ROOM.NO.3"
+  },
+  {
+    "partNumber": 173,
+    "partName": "SAINT FRANCIS ASHISHI. SCHOOL N. BLOCK TULSI NAGAR KAKADEV ROOM.NO.4"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRABHAT S. S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPUR ROOM NO. 1 "
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRABHAT S.S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPUR ROOM NO. 2 "
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRABHAT S.S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRABHAT S.S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPUR ROOM NO. 4"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRABHAT S.S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPURROOM NO.5"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRABHAT S.S. PUBLIC SCHOOL , R.S.PURAM SARVODAYA NAGAR KANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 180,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 181,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 182,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 183,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 184,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 185,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 186,
+    "partName": "NAGAR NIGAM BALIKA INTER COLLEGE ,SARVODAYA NAGAR KANPUR ROOM NO.7"
+  },
+  {
+    "partNumber": 187,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.1"
+  },
+  {
+    "partNumber": 188,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.2"
+  },
+  {
+    "partNumber": 189,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.3"
+  },
+  {
+    "partNumber": 190,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.4"
+  },
+  {
+    "partNumber": 191,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.5"
+  },
+  {
+    "partNumber": 192,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.6"
+  },
+  {
+    "partNumber": 193,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.7"
+  },
+  {
+    "partNumber": 194,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.8"
+  },
+  {
+    "partNumber": 195,
+    "partName": "DR. VIRENDRA SWAROOP EDUCTION CENTER SHARDA NAGAR VINAYAKPUR R.NO.9"
+  },
+  {
+    "partNumber": 196,
+    "partName": "\\BHAGWANTI EDUCATION CENTER SHARDA NAGAR KANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "BHAGWANTI EDUCATION CENTER SHARDA NAGAR KANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "BHAGWANTI EDUCATION CENTER SHARDA NAGAR KANPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 199,
+    "partName": "G.D. MEMORIAL JU.HA.SCHOOL O BLOCK GEETA NAGAR ROOM.NO.1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "G.D. MEMORIAL JU.HA.SCHOOL O BLOCK GEETA NAGAR ROOM.NO.2"
+  },
+  {
+    "partNumber": 201,
+    "partName": "G.D. MEMORIAL JU.HA.SCHOOL O BLOCK GEETA NAGAR ROOM.NO.3"
+  },
+  {
+    "partNumber": 202,
+    "partName": "MOUNT CARMEL  INTERMEDIATE COLLEGE SHARDA NAGAR KANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "MOUNT CARMEL INTERMEDIATE COLLEGE SHARDA NAGAR KANPUR ROOM NO.2 "
+  },
+  {
+    "partNumber": 204,
+    "partName": "MOUNT CARMEL  INTERMEDIATE COLLEGE SHARDA NAGAR KANPUR ROOM NO.3 "
+  },
+  {
+    "partNumber": 205,
+    "partName": "MOUNT CARMEL  INTERMEDIATE COLLEGE SHARDA NAGAR KANPUR ROOM NO. 4  "
+  },
+  {
+    "partNumber": 206,
+    "partName": "MOUNT CARMEL  INTERMEDIATE COLLEGE SHARDA NAGAR KANPUR ROOM NO. 5  "
+  },
+  {
+    "partNumber": 207,
+    "partName": "A.M.P. HIGHER SECONDARY SCHOOL GEETA NAGAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 208,
+    "partName": "A.M.P. HIGHER SECONDARY SCHOOL GEETA NAGAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 209,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 210,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 211,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.3"
+  },
+  {
+    "partNumber": 212,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.4"
+  },
+  {
+    "partNumber": 213,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.5"
+  },
+  {
+    "partNumber": 214,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.6"
+  },
+  {
+    "partNumber": 215,
+    "partName": "JIGYASU INTER COLLEGE ,BARSAITPUR ROOM NO.7"
+  },
+  {
+    "partNumber": 216,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 217,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 3"
+  },
+  {
+    "partNumber": 219,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 4"
+  },
+  {
+    "partNumber": 220,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 5"
+  },
+  {
+    "partNumber": 221,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 6"
+  },
+  {
+    "partNumber": 222,
+    "partName": "JAI NARAYAN VIDYA MANDIR INTER COLLEGE  VIKAS NAGAR KANPUR ROOM NO. 7"
+  },
+  {
+    "partNumber": 223,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.1"
+  },
+  {
+    "partNumber": 224,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.2"
+  },
+  {
+    "partNumber": 225,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.3"
+  },
+  {
+    "partNumber": 226,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.4"
+  },
+  {
+    "partNumber": 227,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.5"
+  },
+  {
+    "partNumber": 228,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.6"
+  },
+  {
+    "partNumber": 229,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.7"
+  },
+  {
+    "partNumber": 230,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.8"
+  },
+  {
+    "partNumber": 231,
+    "partName": "JUGALDEVI SARASWATI VIDYA MANDIR I. COLLEGE DEENDAYAL NAGAR R.NO.9"
+  },
+  {
+    "partNumber": 232,
+    "partName": "AVINASHI BHOLE BABA VIDYA MANDIR KHYORA BANGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 233,
+    "partName": "AVINASHI BHOLE BABA VIDYA MANDIR KHYORA BANGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "AVINASHI BHOLE BABA VIDYA MANDIR KHYORA BANGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 235,
+    "partName": "AVINASHI BHOLE BABA VIDYA MANDIR KHYORA BANGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 236,
+    "partName": "SETH M.R JAIPURIYA SCHOOL AZAD NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 237,
+    "partName": "SETH M.R JAIPURIYA SCHOOL AZAD NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 238,
+    "partName": "SETH M.R JAIPURIYA SCHOOL AZAD NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 239,
+    "partName": "SETH M.R JAIPURIYA SCHOOL AZAD NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 240,
+    "partName": "SETH M.R JAIPURIYA SCHOOL AZAD NAGAR ROOM NO.5"
+  },
+  {
+    "partNumber": 241,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.2"
+  },
+  {
+    "partNumber": 243,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.3"
+  },
+  {
+    "partNumber": 244,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.4"
+  },
+  {
+    "partNumber": 245,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.5"
+  },
+  {
+    "partNumber": 246,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.6"
+  },
+  {
+    "partNumber": 247,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.7"
+  },
+  {
+    "partNumber": 248,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.8"
+  },
+  {
+    "partNumber": 249,
+    "partName": "V.S.S.D. COLLEGE NAWABGANJ MUKHAYA BHAVAN ROOM. NO.9"
+  },
+  {
+    "partNumber": 250,
+    "partName": "SETH MOTILAL KHEDIA SANATAN DHARM INTER COLLEGE NAWABGANJ ROOM.NO.1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "SETH MOTILAL KHEDIA SANATAN DHARM INTER COLLEGE NAWABGANJ ROOM.NO.2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "SETH MOTILAL KHEDIA SANATAN DHARM INTER COLLEGE NAWABGANJ ROOM.NO.3"
+  },
+  {
+    "partNumber": 253,
+    "partName": "R.B.R.D. INTER COLLEGE NWABGANJ ROOM NO.1"
+  },
+  {
+    "partNumber": 254,
+    "partName": "R.B.R.D. INTER COLLEGE NWABGANJ ROOM NO.2"
+  },
+  {
+    "partNumber": 255,
+    "partName": "R.B.R.D. INTER COLLEGE NWABGANJ ROOM NO.3"
+  },
+  {
+    "partNumber": 256,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 257,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 2"
+  },
+  {
+    "partNumber": 258,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 3"
+  },
+  {
+    "partNumber": 259,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 4"
+  },
+  {
+    "partNumber": 260,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 5"
+  },
+  {
+    "partNumber": 261,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 6"
+  },
+  {
+    "partNumber": 262,
+    "partName": "D.P.S. NAGAR NIGAM INTER COLLEGE NAWAB GANJ ROOM NO. 7"
+  },
+  {
+    "partNumber": 263,
+    "partName": "SARASWATI GYAN MANDIR INTER COLLEGE ,AZAD NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "SARASWATI GYAN MANDIR INTER COLLEGE ,AZAD NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "CH.AA.KRI.VI.VI. NAWABGANJ MUKHYA BHAVAN ROOM NO.1"
+  },
+  {
+    "partNumber": 266,
+    "partName": "CH.AA.KRI.VI.VI. NAWABGANJ MUKHYA BHAVAN ROOM NO.2"
+  },
+  {
+    "partNumber": 267,
+    "partName": "CH.AA.KRI.VI.VI. NAWABGANJ MUKHYA BHAVAN ROOM NO.3"
+  },
+  {
+    "partNumber": 268,
+    "partName": "CH.AA.KRI.VI.VI. NAWABGANJ MUKHYA BHAVAN ROOM NO.4"
+  },
+  {
+    "partNumber": 269,
+    "partName": "CH.AA.KRI.VI.VI.KAILASH BHAVAN KE PARISAR ME BANE BHAVAN ROOM NO.1"
+  },
+  {
+    "partNumber": 270,
+    "partName": "CH.AA.KRI.VI.VI.KAILASH BHAVAN KE PARISAR ME BANE BHAVAN ROOM NO.2"
+  },
+  {
+    "partNumber": 271,
+    "partName": "CH.AA.KRI.VI.VI.KAILASH BHAVAN KE PARISAR ME BANE BHAVAN ROOM NO.3"
+  },
+  {
+    "partNumber": 272,
+    "partName": "CH.AA.KRI.VI.VI.KAILASH BHAVAN KE PARISAR ME BANE BHAVAN ROOM NO.4"
+  },
+  {
+    "partNumber": 273,
+    "partName": "SHRI KASTOORBA VIDHYALAYA HA. SE. SCHOOLVISHNUPURI ROOM NO.1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "SHRI KASTOORBA VIDHYALAYA HA. SE. SCHOOLVISHNUPURI ROOM NO.2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "SHRI KASTOORBA VIDHYALAYA HA. SE. SCHOOLVISHNUPURI ROOM NO.3"
+  },
+  {
+    "partNumber": 276,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-3"
+  },
+  {
+    "partNumber": 279,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-4"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-5"
+  },
+  {
+    "partNumber": 281,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-6"
+  },
+  {
+    "partNumber": 282,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-7"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-8"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-9"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE VIDHYALAYA KANYA PURANA KANPUR ROOM NO.-10"
+  },
+  {
+    "partNumber": 286,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 289,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 290,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.5"
+  },
+  {
+    "partNumber": 291,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.6"
+  },
+  {
+    "partNumber": 292,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.7"
+  },
+  {
+    "partNumber": 293,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.8"
+  },
+  {
+    "partNumber": 294,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.9"
+  },
+  {
+    "partNumber": 295,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.10"
+  },
+  {
+    "partNumber": 296,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.11"
+  },
+  {
+    "partNumber": 297,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.12"
+  },
+  {
+    "partNumber": 298,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.13"
+  },
+  {
+    "partNumber": 299,
+    "partName": "NAGAR NIGAM MAHILA INTER COLLEGE TILAK NAGAR ROOM NO.14"
+  },
+  {
+    "partNumber": 300,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN KHALASI LINE R.NO.1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN KHALASI LINE R.NO.2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN KHALASI LINE R.NO.3"
+  },
+  {
+    "partNumber": 303,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN KHALASI LINE R.NO.4"
+  },
+  {
+    "partNumber": 304,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN HAAL POORVI R.NO.5"
+  },
+  {
+    "partNumber": 305,
+    "partName": "LOK SEWAK MONDAL U.M.V.. HARIHAR NATH SHASTRI SMARAK BHAVAN HAAL PASCHMI R.NO.6"
+  },
+  {
+    "partNumber": 306,
+    "partName": "THE MODEL INTER COLLEGE KHALASI LINE ROOM NO.1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "THE MODEL INTER COLLEGE KHALASI LINE ROOM NO.2"
+  },
+  {
+    "partNumber": 308,
+    "partName": "THE MODEL INTER COLLEGE KHALASI LINE ROOM NO.3"
+  },
+  {
+    "partNumber": 309,
+    "partName": "THE MODEL INTER COLLEGE KHALASI LINE ROOM NO.4"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRATHAMIK VIDHYALAYA MEDICAL COLLEGEROOM NO.1"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRATHAMIK VIDHYALAYA MEDICAL COLLEGEROOM NO.2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRATHAMIK VIDHYALAYA MEDICAL COLLEGEROOM NO.3"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-3"
+  },
+  {
+    "partNumber": 316,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-4"
+  },
+  {
+    "partNumber": 317,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-5"
+  },
+  {
+    "partNumber": 318,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-6"
+  },
+  {
+    "partNumber": 319,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-7"
+  },
+  {
+    "partNumber": 320,
+    "partName": "COMPOSITE VIDHYALAYA BENAJHABAR ROOM NO.-8"
+  },
+  {
+    "partNumber": 321,
+    "partName": "ARYA NAGAR DHARMSHALA ARYA NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 322,
+    "partName": "ARYA NAGAR DHARMSHALA ARYA NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 323,
+    "partName": "ARYA NAGAR DHARMSHALA ARYA NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 324,
+    "partName": "ARYA NAGAR DHARMSHALA ARYA NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 325,
+    "partName": "KANPUR VIDHYA MANDIR INTER COLLEGE SWAROOP NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "KANPUR VIDHYA MANDIR INTER COLLEGE SWAROOP NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "KANPUR VIDHYA MANDIR INTER COLLEGE SWAROOP NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 328,
+    "partName": "KANPUR VIDHYA MANDIR INTER COLLEGE SWAROOP NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 329,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 332,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 333,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.5"
+  },
+  {
+    "partNumber": 334,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.6"
+  },
+  {
+    "partNumber": 335,
+    "partName": "KU. UDYAN BALIKA INTER COLLEGE FATIMA CONVENT ASHOK NAGAR ROOM NO.7"
+  },
+  {
+    "partNumber": 336,
+    "partName": "SAINT FRANCIS XAVIER'S INTER COLLEGE  ASHOK NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 337,
+    "partName": "SAINT FRANCIS XAVIER'S INTER COLLEGE  ASHOK NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 338,
+    "partName": "SAINT FRANCIS XAVIER'S INTER COLLEGE ASHOK NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 339,
+    "partName": "RAM KRISHNA MISSION H.S. SCHOOL RAMKRISHNA NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 340,
+    "partName": "RAM KRISHNA MISSION H.S. SCHOOL RAMKRISHNA NAGAR ROOM NO.2"
+  }
+]

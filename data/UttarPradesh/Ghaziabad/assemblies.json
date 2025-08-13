@@ -1,0 +1,27 @@
+[
+  {
+    "acNumber": 56,
+    "asmblyName": "Ghaziabad",
+    "asmblyNameL1": "गाजियाबाद"
+  },
+  {
+    "acNumber": 53,
+    "asmblyName": "Loni",
+    "asmblyNameL1": "लोनी"
+  },
+  {
+    "acNumber": 57,
+    "asmblyName": "Modi Nagar",
+    "asmblyNameL1": "मोदी नगर"
+  },
+  {
+    "acNumber": 54,
+    "asmblyName": "Muradnagar",
+    "asmblyNameL1": "मुरादनगर"
+  },
+  {
+    "acNumber": 55,
+    "asmblyName": "Sahibabad",
+    "asmblyNameL1": "साहिबाबाद"
+  }
+]

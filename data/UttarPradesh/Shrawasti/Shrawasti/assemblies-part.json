@@ -1,0 +1,1786 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "U.P.S.(1-8) RAJAPUR PURAINA PURVI BHAG"
+  },
+  {
+    "partNumber": 2,
+    "partName": "U.P.S.(1-8) RAJAPUR PURAINA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 3,
+    "partName": "U.P.S.(1-8) TIWARIGAVN PURVI BHAG"
+  },
+  {
+    "partNumber": 4,
+    "partName": "U.P.S.(1-8) TIWARIGAVN PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 5,
+    "partName": "U.P.S.(1-8) KUMBHIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "U.P.S.(1-8) KUMBHIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "U.P.S.(1-8) KUMBHIYA EX.ROOM"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S. BEGUMPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S. BEGUMPUR EX.ROOM"
+  },
+  {
+    "partNumber": 10,
+    "partName": "U.P.S.(1-8) HARVANSHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "U.P.S.(1-8) HARVANSHPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S. JABDI"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.M.V. TRILOKPUR"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S. RAHMATUGANV"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S. CHAURIKOTIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S. CHAURIKOTIYA EX.ROOM"
+  },
+  {
+    "partNumber": 17,
+    "partName": "U.P.S.(1-8) BANKATWA MAHOLI"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S. RANIPUR"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S. MANWARIYA BHOJA UTTARI BHAG"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.S. MANWARIYA BHOJA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. DODIPURWA"
+  },
+  {
+    "partNumber": 22,
+    "partName": "U.P.S.(1-8) DEVRA"
+  },
+  {
+    "partNumber": 23,
+    "partName": "U.P.S.(1-8) ALAGANV ROOM NO.1"
+  },
+  {
+    "partNumber": 24,
+    "partName": "U.P.S.(1-8) ALAGANV EX.ROOM"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S. CHAMARPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.S. CHAMARPURWA EX.ROOM"
+  },
+  {
+    "partNumber": 27,
+    "partName": "U.P.S.(1-8) BELBHARIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 28,
+    "partName": "U.P.S.(1-8) BELBHARIYA EX.ROOM"
+  },
+  {
+    "partNumber": 29,
+    "partName": "U.P.S.(1-8) BADHANI ROOM NO.1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "U.P.S.(1-8) BADHANI EX.ROOM"
+  },
+  {
+    "partNumber": 31,
+    "partName": "U.P.S.(1-8) MANWARIYA DEEVAN ROOM NO.1"
+  },
+  {
+    "partNumber": 32,
+    "partName": "U.P.S.(1-8) MANWARIYA DEEVAN ROOM NO.2"
+  },
+  {
+    "partNumber": 33,
+    "partName": "U.P.S.(1-8) MANWARIYA DEEVAN EX.ROOM"
+  },
+  {
+    "partNumber": 34,
+    "partName": "U.P.S.(1-8) IMALIYA KARANPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "U.P.S.(1-8) IMALIYA KARANPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "U.P.S.(1-8) IMALIYA KARANPUR EX.ROOM"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S. MIRZAPUR PATPARGANJ ROOM NO.1"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S. MIRZAPUR PATPARGANJ ROOM NO.2"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S. MIRZAPUR PATPARGANJ EX.ROOM"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S. MAHADEVA SALARPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.S. MAHADEVA SALARPUR EX.ROOM"
+  },
+  {
+    "partNumber": 42,
+    "partName": "U.P.S.(1-8) DANDEKUINYA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "U.P.S.(1-8) GAYADUTTPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "U.P.S.(1-8) GAYADUTTPURWA ROOM NO.2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "U.P.S. NAWWAPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "U.P.S. NAWWAPURWA ROOM NO.2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "U.P.S.(1-8) HARDUTTNAGAR GIRANT ROOM NO.1"
+  },
+  {
+    "partNumber": 48,
+    "partName": "U.P.S.(1-8) HARDUTTNAGAR GIRANT ROOM NO.2"
+  },
+  {
+    "partNumber": 49,
+    "partName": "U.P.S.(1-8) HARDUTTNAGAR GIRANT ROOM NO.3"
+  },
+  {
+    "partNumber": 50,
+    "partName": "U.P.S.(1-8) HARDUTTNAGAR GIRANT ROOM NO.4"
+  },
+  {
+    "partNumber": 51,
+    "partName": "U.P.S.(1-8) BABHANPURWA"
+  },
+  {
+    "partNumber": 52,
+    "partName": "U.P.S.(1-8) LALPUR HARIDEEH ROOM NO.1"
+  },
+  {
+    "partNumber": 53,
+    "partName": "U.P.S.(1-8) LALPUR HARIDEEH EX.ROOM"
+  },
+  {
+    "partNumber": 54,
+    "partName": "U.P.S.(1-8) CHAUBEDEEH"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S. BAIJNATHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S. BAIJNATHPUR EX.ROOM"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. BAHORAVA ROOM NO.1"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. BAHORVA ROOM NO.2"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S. UDLAHWA ROOM NO.1"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S. UDLAHWA ROOM NO.2"
+  },
+  {
+    "partNumber": 61,
+    "partName": "J.H.S. CHIRAIYYA RANISEER ROOM NO.1"
+  },
+  {
+    "partNumber": 62,
+    "partName": "J.H.S. CHIRAIYYA RANISEER ROOM NO.2"
+  },
+  {
+    "partNumber": 63,
+    "partName": "JANTA U.M.V. NASIRGANJ ROOM NO.1"
+  },
+  {
+    "partNumber": 64,
+    "partName": "JANTA U.M.V. NASIRGANJ ROOM NO.3"
+  },
+  {
+    "partNumber": 65,
+    "partName": "JANTA U.M.V. NASIRGANJ ROOM NO.4"
+  },
+  {
+    "partNumber": 66,
+    "partName": "U.P.S.(1-8) CHANDANKOTIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 67,
+    "partName": "U.P.S.(1-8) CHANDANKOTIYA EX.ROOM"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P.S. KHAJURI ROOM NO.1"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.S. KHAJURI EX.ROOM"
+  },
+  {
+    "partNumber": 70,
+    "partName": "U.P.S.(1-8) DHOOMBOJHI DURGA ROOM NO.1"
+  },
+  {
+    "partNumber": 71,
+    "partName": "U.P.S.(1-8) DHOOMBOJHI DURGA ROOM NO.2"
+  },
+  {
+    "partNumber": 72,
+    "partName": "U.P.S.(1-8) DAMUPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "U.P.S.(1-8) DAMUPURWA ROOM NO.2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "U.P.S.(1-8) KHALIFATPUR"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S. SATRAHI"
+  },
+  {
+    "partNumber": 76,
+    "partName": "U.P.S.(1-8) CHAUGOI ROOM NO.1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "U.P.S.(1-8) CHAUGOI EX.ROOM"
+  },
+  {
+    "partNumber": 78,
+    "partName": "U.P.S.(1-8) GAUSPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 79,
+    "partName": "U.P.S.(1-8) GAUSPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.S. GOPALASARAY"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.S. ASNI"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.P.S.(1-8) ACHRAURA SHAHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "U.P.S.(1-8) ACHRAURA SHAHPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 84,
+    "partName": "U.P.S.(1-8) MAHRU MURTIHA ROOM NO.1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "U.P.S.(1-8) MAHRU MURTIHA ROOM NO.2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "U.P.S.(1-8) MAHRU MURTIHA ROOM NO.3"
+  },
+  {
+    "partNumber": 87,
+    "partName": "U.P.S.(1-8) MAHRU MURTIHA ROOM NO.4"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S. UMMEDPURWA TENDUA BARAV"
+  },
+  {
+    "partNumber": 89,
+    "partName": "U.P.S.(1-8) DADAURA ROOM NO.1"
+  },
+  {
+    "partNumber": 90,
+    "partName": "U.P.S.(1-8) DADAURA EX.ROOM"
+  },
+  {
+    "partNumber": 91,
+    "partName": "U.P.S.(1-8) DADAURA ROOM NO. 2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "U.P.S.(1-8) DADAURA EX.ROOM 2"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S. FULWARIYA SHAHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S. FULWARIYA SHAHPUR EX.ROOM"
+  },
+  {
+    "partNumber": 95,
+    "partName": "U.P.S.(1-8) SITKAHNA ROOM NO.1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "U.P.S.(1-8) SITKAHNA EX.ROOM"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S. RAMPUR BASTI ROOM NO.1"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S. RAMPUR BASTI ROOM NO.2"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S. RAMPUR BASTI EX.ROOM 1"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S. RAMPUR BASTI EX.ROOM 2"
+  },
+  {
+    "partNumber": 101,
+    "partName": "U.P.S.(1-8) NEVADA JAMADAR"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S. BARGADAHI ROOM NO.1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P.S. BARGADAHI EX.ROOM"
+  },
+  {
+    "partNumber": 104,
+    "partName": "P.S. DEVRANIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 105,
+    "partName": "P.S. DEVRANIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 106,
+    "partName": "P.S. DEVRANIYA EX.ROOM"
+  },
+  {
+    "partNumber": 107,
+    "partName": "U.P.S. DEVRANIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "U.P.S. DEVRANIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S. DHUSVA"
+  },
+  {
+    "partNumber": 110,
+    "partName": "U.P.S.(1-8) BHITHIYA CHICHDI"
+  },
+  {
+    "partNumber": 111,
+    "partName": "U.P.S.CHANDRAKHA BUJURG"
+  },
+  {
+    "partNumber": 112,
+    "partName": "U.P.S. CHANDRAKHA BUJURG ROOM NO.2"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S. CHANDRAKHA BUJURG ROOM NO.1"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S. CHANDRAKHA BUJURG ROOM NO.2"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S. PIPRI"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S. ADRAI"
+  },
+  {
+    "partNumber": 117,
+    "partName": "U.P.S.(1-8) TULSIPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 118,
+    "partName": "U.P.S.(1-8) TULSIPUR EX.ROOM"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P.S. MANIHARTARA"
+  },
+  {
+    "partNumber": 120,
+    "partName": "U.P.S.(1-8) UTTMAPUR"
+  },
+  {
+    "partNumber": 121,
+    "partName": "U.P.S.(1-8) DIKAULI ROOM NO.1"
+  },
+  {
+    "partNumber": 122,
+    "partName": "U.P.S.(1-8) DIKAULI ROOM NO.2"
+  },
+  {
+    "partNumber": 123,
+    "partName": "U.P.S.(1-8) DIKAULI EX.ROOM"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S. LOHRASPUR NIRHA"
+  },
+  {
+    "partNumber": 125,
+    "partName": "U.P.S.(1-8) GUJARWARA"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S. MALBHAUKHARA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S. MOHARNIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.S. MOHARNIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 129,
+    "partName": "U.P.S.(1-8) KAKANDHU ROOM NO.1"
+  },
+  {
+    "partNumber": 130,
+    "partName": "U.P.S.(1-8) KAKANDHU EX.ROOM"
+  },
+  {
+    "partNumber": 131,
+    "partName": "U.P.S.(1-8) BARDEHRA ROOM NO.1"
+  },
+  {
+    "partNumber": 132,
+    "partName": "U.P.S.(1-8) BARDEHRA EX.ROOM"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.S. LALKAINDUA"
+  },
+  {
+    "partNumber": 134,
+    "partName": "U.P.S.(1-8) AKARA"
+  },
+  {
+    "partNumber": 135,
+    "partName": "U.P.S.(1-8) NEWARIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "U.P.S.(1-8) NEWARIYA EX. ROOM"
+  },
+  {
+    "partNumber": 137,
+    "partName": "U.P.S.(1-8) NEWARIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S. RAGHUNATHPUR"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P.M.V. LAKHAHI KHAS"
+  },
+  {
+    "partNumber": 140,
+    "partName": "KISAN INTER COLLEGE LAXMANNAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "KISAN INTER COLLEGE INTER COLLEGE LAXMANNAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "KISAN INTER COLLEGE LAXMANNAGAR ROOM NO. 3"
+  },
+  {
+    "partNumber": 143,
+    "partName": "KISAN INTER COLLEGE LAXMANAGAR ROOM NO.4"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S. NEEBABHARI"
+  },
+  {
+    "partNumber": 145,
+    "partName": "U.P.S.(1-8) BHAVANI NAGAR"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S. KISHUNPUR CHANDANBHARI ROOM NO.1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S. KISHUNPUR CHANDANBHARI EX. ROOM"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S. BAIRAGIPURWA"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.S.(1-8) NAKAHA DHARMNAGAR"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S. IMALIYA NARAYAN ROOM NO.1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S. IMALIYA NARAYAN EX. ROOM"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S. SHAHPUR KATHAUTIYA"
+  },
+  {
+    "partNumber": 153,
+    "partName": "U.P.S.(1-8) RATNAPUR"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. BARAVAN HARGUN"
+  },
+  {
+    "partNumber": 155,
+    "partName": "U.P.S.(1-8) RAMPUR KODRI"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S. HUSAINPUR KHURUHURI ROOM NO.1"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S. HUSAINPUR KHURUHURI ROOM NO.2"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. SONVA"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P.S. NARAYANPUR"
+  },
+  {
+    "partNumber": 160,
+    "partName": "U.P.S.(1-8) BAIDAURA"
+  },
+  {
+    "partNumber": 161,
+    "partName": "U.P.S.(1-8) KASIYAPUR"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.S. PAKADIYA RAMNAGRA ROOM NO.1"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.S. PAKADIYA RAMNAGRA EX.ROOM"
+  },
+  {
+    "partNumber": 164,
+    "partName": "U.P.S.(1-8) KALYANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 165,
+    "partName": "U.P.S.(1-8) KALYANPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 166,
+    "partName": "U.P.S.(1-8) BISHUNAPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S. PRAHLADA ROOM NO.1"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.S. PRAHLADA ROOM NO.2"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S. DOOBKALA UTTARI BHAG"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.S. DOOBKALA EX.ROOM"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S. KHAIRAKALA ROOM NO.1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S. KHAIRAKALA EX.ROOM"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S. AHIRAGHASI"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S. GHORMA PARSIYA UTTARI BHAG"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S. GHORMA PARSIYA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 176,
+    "partName": "U.P.S.(1-8) PACHDEVRIMAFI ROOM NO.1"
+  },
+  {
+    "partNumber": 177,
+    "partName": "U.P.S.(1-8) PACHDEVRIMAFI EX.ROOM"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P.S. LENGDI GOOLAR"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S. MANIKAPUR KHURD ROOM NO.1"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. MANIKAPUR KHURD EX.ROOM"
+  },
+  {
+    "partNumber": 181,
+    "partName": "U.P.S.(1-8) GUTUHURU ROOM NO.1"
+  },
+  {
+    "partNumber": 182,
+    "partName": "U.P.S.(1-8) GUTUHURU EX.ROOM"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S. DHAISARA"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S. HARIHARPUR"
+  },
+  {
+    "partNumber": 185,
+    "partName": "U.P.S.(1-8) TURAHNI BALRAM"
+  },
+  {
+    "partNumber": 186,
+    "partName": "U.P.S.(1-8) AURAIYA TIKAI ROOM NO.1"
+  },
+  {
+    "partNumber": 187,
+    "partName": "U.P.S.(1-8) AURAIYA TIKAI ROOM NO.2"
+  },
+  {
+    "partNumber": 188,
+    "partName": "U.P.S.(1-8) EKDAGVA ROOM NO.1"
+  },
+  {
+    "partNumber": 189,
+    "partName": "U.P.S.(1-8) EKDAGVA ROOM NO.2"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S. BHARAUDA"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S. MEERAMAU"
+  },
+  {
+    "partNumber": 192,
+    "partName": "U.P.S.(1-8) BHAUSAVAN ROOM NO.1"
+  },
+  {
+    "partNumber": 193,
+    "partName": "U.P.S.(1-8) BHAUSAVAN EX.ROOM"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.S. CHANDANPUR BADHAITARA"
+  },
+  {
+    "partNumber": 195,
+    "partName": "U.P.S.(1-8) KESHWAPUR PAZAWA ROOM NO.1"
+  },
+  {
+    "partNumber": 196,
+    "partName": "U.P.S.(1-8) KESHWAPUR PAZAWA EX.ROOM"
+  },
+  {
+    "partNumber": 197,
+    "partName": "U.P.S.(1-8) GILAULI ROOM NO.1"
+  },
+  {
+    "partNumber": 198,
+    "partName": "U.P.S.(1-8) GILAULI EX.ROOM"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.S. BELWA KHATEEB ROOM NO.1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.S. BELWA KHATEEB EX.ROOM"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. KURBENI"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. VIJAYPUR SISAVA ROOM NO.1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. VIJAYPUR SISAVA EX.ROOM"
+  },
+  {
+    "partNumber": 204,
+    "partName": "U.P.S.(1-8) PAREVPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 205,
+    "partName": "U.P.S.(1-8) PAREVPUR EX.ROOM"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. MAHORI BAGVANI ROOM NO.1"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S. MAHORI BAGVANI EX.ROOM"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P.S. MANOHARAPUR"
+  },
+  {
+    "partNumber": 209,
+    "partName": "P.S. AGARDEEHA"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S. VANTWARA"
+  },
+  {
+    "partNumber": 211,
+    "partName": "U.P.S.(1-8) BHIKHARIPUR MASRHI ROOM NO.1"
+  },
+  {
+    "partNumber": 212,
+    "partName": "U.P.S.(1-8) BHIKHARIPUR MASRHI EX.ROOM"
+  },
+  {
+    "partNumber": 213,
+    "partName": "U.P.S.(1-8) DANDAULI ROOM NO.1"
+  },
+  {
+    "partNumber": 214,
+    "partName": "U.P.S.(1-8) DANDAULI EX.ROOM"
+  },
+  {
+    "partNumber": 215,
+    "partName": "GAURI SHANKAR TANDAN NEHRU SMARAK INTER COLLEGE GILAULA ROOM NO.1"
+  },
+  {
+    "partNumber": 216,
+    "partName": "GAURI SHANKAR TANDAN NEHRU SMARAK INTER COLLEGE GILAULA ROOM NO.4"
+  },
+  {
+    "partNumber": 217,
+    "partName": "GAURI SHANKAR TANDAN NEHRU SMARAK INTER COLLEGE GILAULA ROOM NO.2"
+  },
+  {
+    "partNumber": 218,
+    "partName": "GAURI SHANKAR TANDAN NEHRU SMARAK INTER COLLEGE GILAULA ROOM NO.3"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P.S. CHANDRAVA"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S. TILAKPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. TILAKPUR EX.ROOM"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S. AURAIYA NIDHAN"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S. BHITHAURA RAM SAHAY"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S. KATAHA ROOM NO.1"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P.S. KATAHA ROOM NO.2"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.S. DAMAMA"
+  },
+  {
+    "partNumber": 227,
+    "partName": "U.P.S.(1-8) GOPALPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 228,
+    "partName": "U.P.S.(1-8) GOPALPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S. NAGRAURA"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. CHETIYA MURAR ROOM NO.1"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P S LOHARI"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S. CHETIYA MURAR ROOM NO.2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.S. KASHIPUR MOOSA"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S. SINGHANJOT DIGAULI"
+  },
+  {
+    "partNumber": 235,
+    "partName": "U.P.S.(1-8) LAKHANA"
+  },
+  {
+    "partNumber": 236,
+    "partName": "U.P.S.(1-8) DIKARA"
+  },
+  {
+    "partNumber": 237,
+    "partName": "U.P.S.(1-8) KATAR ROOM NO.1"
+  },
+  {
+    "partNumber": 238,
+    "partName": "U.P.S.(1-8) KATAR ROOM NO.2"
+  },
+  {
+    "partNumber": 239,
+    "partName": "U.P.S.(1-8) RAYPUR BILELA ROOM NO.1"
+  },
+  {
+    "partNumber": 240,
+    "partName": "U.P.S. RAYPUR BILELA ROOM NO.2"
+  },
+  {
+    "partNumber": 241,
+    "partName": "U.P.S.(1-8) KALYANPUR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S. RAYPUR PIYARE"
+  },
+  {
+    "partNumber": 243,
+    "partName": "U.P.S.(1-8) HARBANSHPUR"
+  },
+  {
+    "partNumber": 244,
+    "partName": "U.P.S.(1-8) RAMNAGAR KERWANIYA"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S. RAMGARHI"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S. SEHANIYA"
+  },
+  {
+    "partNumber": 247,
+    "partName": "U.P.S.(1-8) GAUHANIYA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S. MADHYANAGAR HARIHARPUR"
+  },
+  {
+    "partNumber": 249,
+    "partName": "U.P.S.(1-8) MANKAURA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.S. SHAHPUR BARA"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.M.V. SUVIKHA ROOM NO.1"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P.M.V. SUVIKHA ROOM NO.2"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S. MANSUKHA"
+  },
+  {
+    "partNumber": 254,
+    "partName": "U.P.S.(1-8) PIPRA"
+  },
+  {
+    "partNumber": 255,
+    "partName": "U.P.S.(1-8) EKGHARVA ROOM NO.1"
+  },
+  {
+    "partNumber": 256,
+    "partName": "U.P.S.(1-8) EKGHARVA ROOM NO.2"
+  },
+  {
+    "partNumber": 257,
+    "partName": "U.P.S.(1-8) RAMPUR PAIDA ROOM NO.1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "U.P.S.(1-8) RAMPUR PAIDA ROOM NO.2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. GODARI ROOM NO.1"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.S. GODARI EX.ROOM"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.S. KHADAILA KAMLABHARI ROOM NO.1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.S. KHADAILA KAMLABHARI ROOM NO.2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.S. MOHAMMDAPUR"
+  },
+  {
+    "partNumber": 264,
+    "partName": "U.P.S.(1-8) REDGAVA RANIPUR QAZI"
+  },
+  {
+    "partNumber": 265,
+    "partName": "U.P.S.(1-8) BALGARSINGH PURWA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "U.P.S.(1-8) KOTMUBARAKPUR"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. RAJAPUR KHURD"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.S. KEWTANPURWA BAGNAHA ROOM NO.1"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.S. KEWTANPURWA BAGNAHA EX.ROOM"
+  },
+  {
+    "partNumber": 270,
+    "partName": "U.P.S.(1-8) PURUSHOTTAMPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 271,
+    "partName": "U.P.S.(1-8) PURUSHOTTAMPUR EX.ROOM"
+  },
+  {
+    "partNumber": 272,
+    "partName": "U.P.S.(1-8) BHARTHAPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 273,
+    "partName": "U.P.S.(1-8) BHARTHAPUR EX.ROOM"
+  },
+  {
+    "partNumber": 274,
+    "partName": "U.P.S.(1-8) PATKHAULI KALA ROOM NO.1"
+  },
+  {
+    "partNumber": 275,
+    "partName": "U.P.S.(1-8) PATKHAULI KALA EX.ROOM"
+  },
+  {
+    "partNumber": 276,
+    "partName": "U.P.S.(1-8) JAYCHANDPUR KATGHARA ROOM NO.1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "U.P.S.(1-8) JAYCHANDPUR KATGHARA ROOM NO.2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "U.P.S.(1-8) JAYCHANDPUR KATGHARA EX.ROOM"
+  },
+  {
+    "partNumber": 279,
+    "partName": "U.P.S.(1-8) SAURUPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "U.P.S.(1-8) SAURUPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S. SHUKULPURWA"
+  },
+  {
+    "partNumber": 282,
+    "partName": "U.P.S.(1-8) MAHADEV JAGDISH"
+  },
+  {
+    "partNumber": 283,
+    "partName": "U.P.S.(1-8) BASBHARIYA PURAINA ROOM NO.1"
+  },
+  {
+    "partNumber": 284,
+    "partName": "U.P.S.(1-8) BASBHARIYA PURAINA EX.ROOM"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S. LAKHIBHARI"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P.S. AKHTAR NAGAR"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.S. JANKI NAGAR KHURD"
+  },
+  {
+    "partNumber": 288,
+    "partName": "P.S. CHAUKIDARPURWA SEMGRHA ROOM NO.1"
+  },
+  {
+    "partNumber": 289,
+    "partName": "P.S. CHAUKIDARPURWA SEMGRHA EX.ROOM"
+  },
+  {
+    "partNumber": 290,
+    "partName": "KANYA P.S. SEMGRHA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 291,
+    "partName": "KANYA P.S. SEMGRHA EX.ROOM"
+  },
+  {
+    "partNumber": 292,
+    "partName": "KANYA P.S. SEMGRHA MADHYA BHAG"
+  },
+  {
+    "partNumber": 293,
+    "partName": "U.P.S.(1-8) KOLABHAR HARIJAN"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S. KOLABHAR MAJGAWAN"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.S. RAMPUR KATEL"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S. LALPUR KHADRA ROOM NO1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S. LALPUR KHADRA ROOM NO.2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S. LALPUR KHADRA ROOM NO.3"
+  },
+  {
+    "partNumber": 299,
+    "partName": "P.S. KUMHARGARHI ROOM NO.1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "P.S. KUMHARGARHI EX.ROOM"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P.S. RANIKUNDA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S. BARAIPUR"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S. ITAUNJHA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.S. BHAMEPARA INTWARIYA UTTARI BHAG"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.S. BHAMEPARA INTWARIYA EX.ROOM"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.S. CHICHDI ROOM NO.1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.S. CHICHDI EX.ROOM"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P.S. CHICHDI ROOM NO.2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "U.P.S.(1-8) KAILASHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "U.P.S.(1-8) KAILASHPUR EX.ROOM"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.S. BHAGWANPUR BANKAT ROOM NO.1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P.S. BHAGWANPUR BANKAT ROOM NO.2"
+  },
+  {
+    "partNumber": 313,
+    "partName": "U.P.S.(1-8) RAMPUR BANKAT ROOM NO.1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "U.P.S.(1-8) RAMPUR BANKAT EX.ROOM"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S. SEETADWAR ROOM NO.1"
+  },
+  {
+    "partNumber": 316,
+    "partName": "U.P.S. SEETADWAR ROOM NO.2"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S. BADHAIYYA"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S. PARSAURA MAFI"
+  },
+  {
+    "partNumber": 319,
+    "partName": "U.P.S.(1-8) SONRAI ROOM NO.1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "U.P.S.(1-8) SONRAI EX.ROOM"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.S. MADARA"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.S. JAMUNHA MOHNIPUR"
+  },
+  {
+    "partNumber": 323,
+    "partName": "U.P.S.(1-8) MASJIDIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "U.P.S.(1-8) MASJIDIYA EX.ROOM"
+  },
+  {
+    "partNumber": 325,
+    "partName": "U.P.S.(1-8) KANYA IKAUNA ROOM NO.1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "U.P.S.(1-8) KANYA IKAUNA EX.ROOM"
+  },
+  {
+    "partNumber": 327,
+    "partName": "U.P.S.(1-8) KANYA IKAUNA ROOM NO.2"
+  },
+  {
+    "partNumber": 328,
+    "partName": "U.P.S.(1-8) KANYA IKAUNA ROOM NO.3"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.S. NATTHAPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S. NATTHAPURWA ROOM NO.2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "JAGATJEET INTER COLLEGE IKAUNA NEW BUILDING ROOM NO.1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "JAGATJEET INTER COLLEGE IKAUNA NEW BUILDING ROOM NO.2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "JAGATJEET INTER COLLEGE IKAUNA NEW BUILDING ROOM NO.3"
+  },
+  {
+    "partNumber": 334,
+    "partName": "U.P.S.(1-8) PATEL NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 335,
+    "partName": "U.P.S.(1-8) PATEL NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 336,
+    "partName": "U.P.S.(1-8) PATEL NAGAR ROOM NO.3"
+  },
+  {
+    "partNumber": 337,
+    "partName": "VIKAS KHAND KARYALAY POORVI BHAG"
+  },
+  {
+    "partNumber": 338,
+    "partName": "VIKAS KHAND KARYALAY IKAUNA PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.S. AMBEDKAR NAGAR ROOM NO.1"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P.S. AMBEDKAR NAGAR ROOM NO.2"
+  },
+  {
+    "partNumber": 341,
+    "partName": "KENDRIYA P.S. IKAUNA ROOM NO.1"
+  },
+  {
+    "partNumber": 342,
+    "partName": "KENDRIYA P.S.IKAUNA ROOM NO.2"
+  },
+  {
+    "partNumber": 343,
+    "partName": "KENDRIYA P.S. IKAUNA ROOM NO.3"
+  },
+  {
+    "partNumber": 344,
+    "partName": "KENDRIYA P.S. IKAUNA EX.ROOM"
+  },
+  {
+    "partNumber": 345,
+    "partName": "U.P.S.(1-8) MAJHWWA SUMAL ROOM NO.1"
+  },
+  {
+    "partNumber": 346,
+    "partName": "U.P.S.(1-8) MAJHWWA SUMAL ROOM NO.2"
+  },
+  {
+    "partNumber": 347,
+    "partName": "U.P.S.(1-8) MOHAMMADPUR RAJA ROOM NO.1"
+  },
+  {
+    "partNumber": 348,
+    "partName": "U.P.S.(1-8) MOHAMMADPUR RAJA EX.ROOM"
+  },
+  {
+    "partNumber": 349,
+    "partName": "U.P.S.(1-8) RAMPURWA MANKAURA KODRI"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S. ANDHARPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S. ANDHARPURWA EX.ROOM"
+  },
+  {
+    "partNumber": 352,
+    "partName": "P.S. IMALIYA"
+  },
+  {
+    "partNumber": 353,
+    "partName": "U.P.S.(1-8) MAHRAULI"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S. KOTVA"
+  },
+  {
+    "partNumber": 355,
+    "partName": "U.P.S.(1-8) DAHAWARKALA ROOM NO.1"
+  },
+  {
+    "partNumber": 356,
+    "partName": "U.P.S.(1-8) DAHAWARKALA ROOM NO.2"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.S. SHIVAJOT"
+  },
+  {
+    "partNumber": 358,
+    "partName": "U.P.S.(1-8) BHOJPUR"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S. AHIRANPURWA BELKAR ROOM NO.1"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S. AHIRANPURWA BELKAR EX.ROOM"
+  },
+  {
+    "partNumber": 361,
+    "partName": "U.P.S.(1-8) MUJAHANIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 362,
+    "partName": "U.P.S.(1-8) DHRAMPUR"
+  },
+  {
+    "partNumber": 363,
+    "partName": "U.P.S.(1-8) LAXMANPUR GODPURWA"
+  },
+  {
+    "partNumber": 364,
+    "partName": "U.P.S.(1-8) GANESHPUR"
+  },
+  {
+    "partNumber": 365,
+    "partName": "U.P.S.(1-8) SEMRI TARHAR ROOM NO.1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "U.P.S.(1-8) SEMRITARHAR EX.ROOM"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S. GANESHIJOT"
+  },
+  {
+    "partNumber": 368,
+    "partName": "U.P.S.(1-8) MANOHARAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 369,
+    "partName": "U.P.S.(1-8) MANOHARAPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 370,
+    "partName": "U.P.S.(1-8) MANOHARAPUR HALL ROOM"
+  },
+  {
+    "partNumber": 371,
+    "partName": "U.P.S.(1-8) MANOHARAPUR EX.ROOM"
+  },
+  {
+    "partNumber": 372,
+    "partName": "U.P.S.(1-8) NARAYANJOT ROOM NO.1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "U.P.S.(1-8) NARAYANJOT ROOM NO.2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "U.P.S.(1-8) KIDHIYAUNA ROOM NO.1"
+  },
+  {
+    "partNumber": 375,
+    "partName": "U.P.S.(1-8) KIDHIYAUNA EX.ROOM"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S. BHUTAHA"
+  },
+  {
+    "partNumber": 377,
+    "partName": "U.P.S.(1-8) MALAUNA KHASIYARI ROOM NO.1"
+  },
+  {
+    "partNumber": 378,
+    "partName": "U.P.S.(1-8) MALAUNA KHASIYARI ROOM NO.2"
+  },
+  {
+    "partNumber": 379,
+    "partName": "P.M.V. FATTUPUR TANAZA"
+  },
+  {
+    "partNumber": 380,
+    "partName": "U.P.S.(1-8) DINGURAJOT"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P.S. RAJGARH GULARIHA ROOM NO.1"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.S. RAJGARH GULARIHA ROOM NO.2"
+  },
+  {
+    "partNumber": 383,
+    "partName": "U.P.S.(1-8) MUSHKABAD"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.S. KHARGAURA BASTI"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.S. RAGHUVEERPURWA ROOM NO.1"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S. RAGHUVEERPURWA EX.ROOM"
+  },
+  {
+    "partNumber": 387,
+    "partName": "P.S. AKBARPUR"
+  },
+  {
+    "partNumber": 388,
+    "partName": "P.S. KHARCHVIRAN"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P.S. MADHYANAGAR MANOHARPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S. MADHYANAGAR MANOHARPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S. KANJADWA ROOM NO.1"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P.S. KANJADWA ROOM NO.2"
+  },
+  {
+    "partNumber": 393,
+    "partName": "P.S. DEENNAMGARH PURVI BHAG"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S. DEENNAMGARH PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 395,
+    "partName": "U.P.S.(1-8) BAIDAURA MASHRIK ROOM NO.1"
+  },
+  {
+    "partNumber": 396,
+    "partName": "U.P.S.(1-8) BAIDAURA MASHRIK ROOM NO.2"
+  },
+  {
+    "partNumber": 397,
+    "partName": "U.P.S.(1-8) GOPALPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 398,
+    "partName": "U.P.S.(1-8) GOPALPUR PASHCHIMI BHAG"
+  },
+  {
+    "partNumber": 399,
+    "partName": "P.S. TENDUA PANDIT"
+  },
+  {
+    "partNumber": 400,
+    "partName": "P.S. LAKHAHI"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S. KALYANPUR"
+  },
+  {
+    "partNumber": 402,
+    "partName": "P.S. AMAREBHARIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 403,
+    "partName": "P.S. AMAREBHARIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 404,
+    "partName": "P.S. BHATPURWA KHURD"
+  },
+  {
+    "partNumber": 405,
+    "partName": "U.P.S.(1-8) KATRAGULARIHA UTTARI BHAG"
+  },
+  {
+    "partNumber": 406,
+    "partName": "U.P.S.(1-8) KATRAGULARIHA EX.ROOM NO.1"
+  },
+  {
+    "partNumber": 407,
+    "partName": "U.P.S.(1-8) KATRAGULARIHA EX.ROOM NO.2"
+  },
+  {
+    "partNumber": 408,
+    "partName": "U.P.S.(1-8) KATRAGULARIHA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 409,
+    "partName": "P.S. CHAKRABHANDAR"
+  },
+  {
+    "partNumber": 410,
+    "partName": "U.P.S.(1-8) BIDUHANI ROOM NO.1"
+  },
+  {
+    "partNumber": 411,
+    "partName": "U.P.S.(1-8) BIDUHANI EX.ROOM"
+  },
+  {
+    "partNumber": 412,
+    "partName": "P.S. KHARGUPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 413,
+    "partName": "P.S. KHARGUPUR EX.ROOM"
+  },
+  {
+    "partNumber": 414,
+    "partName": "P.S. KATAHI BAGAHI"
+  },
+  {
+    "partNumber": 415,
+    "partName": "P.S. MAHDEIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 416,
+    "partName": "P.S. MAHDEIYA EX.ROOM"
+  },
+  {
+    "partNumber": 417,
+    "partName": "U.P.S.(1-8) PATKHAULI KHURD"
+  },
+  {
+    "partNumber": 418,
+    "partName": "U.P.S.(1-8) BELAHA RAGHAV ROOM NO.1"
+  },
+  {
+    "partNumber": 419,
+    "partName": "U.P.S.(1-8) BELAHA RAGHAV EX.ROOM"
+  },
+  {
+    "partNumber": 420,
+    "partName": "U.P.S.(1-8) DASIYAPUR"
+  },
+  {
+    "partNumber": 421,
+    "partName": "P.S. RAMWAPUR DAKAHI"
+  },
+  {
+    "partNumber": 422,
+    "partName": "U.P.S.(1-8) VISHUNAPUR ROOM NO1"
+  },
+  {
+    "partNumber": 423,
+    "partName": "U.P.S.(1-8) VISHUNAPUR EX.ROOM"
+  },
+  {
+    "partNumber": 424,
+    "partName": "U.P.S.(1-8) VISHUNAPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 425,
+    "partName": "P.S. PUREMANSHA RAM ROOM NO.1"
+  },
+  {
+    "partNumber": 426,
+    "partName": "P.S. PUREMANSHA RAM EX.ROOM"
+  },
+  {
+    "partNumber": 427,
+    "partName": "PARIVAR KALYAN UPKENDRA KHAIRHANIYA VEERPUR"
+  },
+  {
+    "partNumber": 428,
+    "partName": "P.S. NARPATPUR"
+  },
+  {
+    "partNumber": 429,
+    "partName": "PANCHAYAT BHAWAN NARPATPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 430,
+    "partName": "PANCHAYAT BHAWAN NARPATPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 431,
+    "partName": "U.P.S.(1-8) SHIVPURBANKAT ROOM NO.1"
+  },
+  {
+    "partNumber": 432,
+    "partName": "U.P.S.(1-8) SHIVPURBANKAT EX.ROOM"
+  },
+  {
+    "partNumber": 433,
+    "partName": "P.S. PARSHURAMPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 434,
+    "partName": "P.S. PARSHURAMPUR EX.ROOM"
+  },
+  {
+    "partNumber": 435,
+    "partName": "U.P.S.(1-8) TILAKPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 436,
+    "partName": "U.P.S.(1-8) TILAKPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 437,
+    "partName": "P.S. MISHRAULIYA ROOM NO.1"
+  },
+  {
+    "partNumber": 438,
+    "partName": "P.S. MISHRAULIYA ROOM NO.2"
+  },
+  {
+    "partNumber": 439,
+    "partName": "P.S. CHAINPUR VIRAN ROOM NO.1"
+  },
+  {
+    "partNumber": 440,
+    "partName": "P.S. CHAINPUR VIRAN EX.ROOM"
+  },
+  {
+    "partNumber": 441,
+    "partName": "U.P.S.(1-8) JORDEEH ROOM NO.1"
+  },
+  {
+    "partNumber": 442,
+    "partName": "U.P.S.(1-8) JORDEEH ROOM NO.2"
+  },
+  {
+    "partNumber": 443,
+    "partName": "U.P.S.(1-8) LALBOJHI ROOM NO.1"
+  },
+  {
+    "partNumber": 444,
+    "partName": "U.P.S.(1-8) LALBOJHI EX.ROOM"
+  },
+  {
+    "partNumber": 445,
+    "partName": "P.S. RAMWAPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 446,
+    "partName": "P.S. RAMWAPUR EX.ROOM"
+  }
+]

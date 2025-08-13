@@ -1,0 +1,182 @@
+[
+  {
+    "stateCd": "U01",
+    "stateName": "Andaman & Nicobar Islands",
+    "stateNameHindi": "अंडमान और निकोबार द्वीप"
+  },
+  {
+    "stateCd": "S01",
+    "stateName": "Andhra Pradesh",
+    "stateNameHindi": "आंध्र प्रदेश"
+  },
+  {
+    "stateCd": "S02",
+    "stateName": "Arunachal Pradesh",
+    "stateNameHindi": "अरुणाचल प्रदेश"
+  },
+  {
+    "stateCd": "S03",
+    "stateName": "Assam",
+    "stateNameHindi": "असम"
+  },
+  {
+    "stateCd": "S04",
+    "stateName": "Bihar",
+    "stateNameHindi": "बिहार"
+  },
+  {
+    "stateCd": "U02",
+    "stateName": "Chandigarh",
+    "stateNameHindi": "चंडीगढ"
+  },
+  {
+    "stateCd": "S26",
+    "stateName": "Chattisgarh",
+    "stateNameHindi": "छत्तीसगढ"
+  },
+  {
+    "stateCd": "U03",
+    "stateName": "Dadra & Nagar Haveli and Daman & Diu",
+    "stateNameHindi": "दादरा और नगर हवेली एवं दमन और दीव"
+  },
+  {
+    "stateCd": "S05",
+    "stateName": "Goa",
+    "stateNameHindi": "गोवा"
+  },
+  {
+    "stateCd": "S06",
+    "stateName": "Gujarat",
+    "stateNameHindi": "गुजरात"
+  },
+  {
+    "stateCd": "S07",
+    "stateName": "Haryana",
+    "stateNameHindi": "हरियाणा"
+  },
+  {
+    "stateCd": "S08",
+    "stateName": "Himachal Pradesh",
+    "stateNameHindi": "हिमाचल प्रदेश"
+  },
+  {
+    "stateCd": "U08",
+    "stateName": "Jammu and Kashmir",
+    "stateNameHindi": "जम्मू और कश्मीर"
+  },
+  {
+    "stateCd": "S27",
+    "stateName": "Jharkhand",
+    "stateNameHindi": "झारखंड"
+  },
+  {
+    "stateCd": "S10",
+    "stateName": "Karnataka",
+    "stateNameHindi": "कर्नाटक"
+  },
+  {
+    "stateCd": "S11",
+    "stateName": "Kerala",
+    "stateNameHindi": "केरल"
+  },
+  {
+    "stateCd": "U09",
+    "stateName": "Ladakh",
+    "stateNameHindi": "लद्दाख़"
+  },
+  {
+    "stateCd": "U06",
+    "stateName": "Lakshadweep",
+    "stateNameHindi": "लक्षद्वीप"
+  },
+  {
+    "stateCd": "S12",
+    "stateName": "Madhya Pradesh",
+    "stateNameHindi": "मध्य प्रदेश"
+  },
+  {
+    "stateCd": "S13",
+    "stateName": "Maharashtra",
+    "stateNameHindi": "महाराष्ट्र"
+  },
+  {
+    "stateCd": "S14",
+    "stateName": "Manipur",
+    "stateNameHindi": "मणिपुर"
+  },
+  {
+    "stateCd": "S15",
+    "stateName": "Meghalaya",
+    "stateNameHindi": "मेघालय"
+  },
+  {
+    "stateCd": "S16",
+    "stateName": "Mizoram",
+    "stateNameHindi": "मिजोरम"
+  },
+  {
+    "stateCd": "S17",
+    "stateName": "Nagaland",
+    "stateNameHindi": "नगालैंड"
+  },
+  {
+    "stateCd": "U05",
+    "stateName": "NCT OF Delhi",
+    "stateNameHindi": "राष्ट्रीय राजधानी क्षेत्र दिल्ली"
+  },
+  {
+    "stateCd": "S18",
+    "stateName": "Odisha",
+    "stateNameHindi": "ओडिशा"
+  },
+  {
+    "stateCd": "U07",
+    "stateName": "Puducherry",
+    "stateNameHindi": "पुड्डुचेरी"
+  },
+  {
+    "stateCd": "S19",
+    "stateName": "Punjab",
+    "stateNameHindi": "पंजाब"
+  },
+  {
+    "stateCd": "S20",
+    "stateName": "Rajasthan",
+    "stateNameHindi": "राजस्थान"
+  },
+  {
+    "stateCd": "S21",
+    "stateName": "Sikkim",
+    "stateNameHindi": "सिक्किम"
+  },
+  {
+    "stateCd": "S22",
+    "stateName": "Tamil Nadu",
+    "stateNameHindi": "तमिलनाडु"
+  },
+  {
+    "stateCd": "S29",
+    "stateName": "Telangana",
+    "stateNameHindi": "तेलंगना"
+  },
+  {
+    "stateCd": "S23",
+    "stateName": "Tripura",
+    "stateNameHindi": "त्रिपुरा"
+  },
+  {
+    "stateCd": "S24",
+    "stateName": "Uttar Pradesh",
+    "stateNameHindi": "उत्तर प्रदेश"
+  },
+  {
+    "stateCd": "S28",
+    "stateName": "Uttarakhand",
+    "stateNameHindi": "उत्तराखंड"
+  },
+  {
+    "stateCd": "S25",
+    "stateName": "West Bengal",
+    "stateNameHindi": "पश्चिम बंगाल"
+  }
+]

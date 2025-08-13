@@ -1,0 +1,1602 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "COMPOSITE VIDHYALAY NAGLA GAHIYAR ROOM NO 1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "COMPOSITE VIDHYALAY NAGLA GAHIYAR ROOM NO 2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.P. KACHHPURA ROOM NO 1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.P. KACHHPURA ROOM NO 2"
+  },
+  {
+    "partNumber": 5,
+    "partName": "U.P.V. KACHHPURA"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.P. SHIVSINGHPUR"
+  },
+  {
+    "partNumber": 7,
+    "partName": "COMPOSITE VIDHYALAY AMBARPUR"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.P. HAVILIYA SINGHPUR"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.P. RAJALPUR"
+  },
+  {
+    "partNumber": 10,
+    "partName": "COMPOSITE VIDHYALAY MANCHHANA"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.P. NAGLA SOTI"
+  },
+  {
+    "partNumber": 12,
+    "partName": "K.P.P. MANCHHANA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.P. GADIYA"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P. P. DALPURA"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.P. KISHORPUR"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P. P. MAKRANDPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P. P. KUVERPUR"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.P. BHANWAT"
+  },
+  {
+    "partNumber": 19,
+    "partName": "COMPOSITE V. BHOPATIPUR"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P. P. MANGALPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "NAVEEN P. P. SAGAMAI"
+  },
+  {
+    "partNumber": 22,
+    "partName": "CHU.SURAJSINGH J.P.I.C. JAGEER ROOM NO-1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "CHAU.SURAJSINGH J.P.I.C. JAGEER ROOM NO-2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE V. MEDEPUR ROOM NO-1"
+  },
+  {
+    "partNumber": 25,
+    "partName": "COMPOSITE V. MEDEPUR ROOM NO-2"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.P. CHAUHANPUR (MAIDEPUR)"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P. V. PARVATPUR"
+  },
+  {
+    "partNumber": 28,
+    "partName": "SARSVATI I.C. AJEETGANJ ROOM NO-1"
+  },
+  {
+    "partNumber": 29,
+    "partName": "SARSVATI I.C. AJEETGANJ ROOM N-2"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P. V. VEERAMPUR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "COMPOSITE V. NAKHATPUR"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.P. FAREEDPUR"
+  },
+  {
+    "partNumber": 33,
+    "partName": "J.H.S. RATANPUR BARA ROOM N-1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "J.H.S. RATANPUR BARA ROOM N-2"
+  },
+  {
+    "partNumber": 35,
+    "partName": "COMPOSITE V. CHAUHANPUR"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.P. TIKSURI"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.P.USMANPUR"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.P.ITAURA ROOM N0-1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P. P. ITAURA ROOM NO-2"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P. P. MERAPUR GUJRATI"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P. P. SIVAI"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P. P. BHADAURA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P. P. VYOTIKHURD ROOM N0- 1"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P. P. VYOTIKHURD ROOM N0-2"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P. V. DIVANPUR CHAUDHRI ROOM N0-1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P V DIVANPUR CHAUDHRI ROOM NO 2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "COMPOSITE V. NAGLA BALU"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P. P. ELAU"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P. P. MADHUPURI"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P. P. GADAIPUR"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P. P. JAGATPUR ( ELAU)"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P. M. V. ELAU"
+  },
+  {
+    "partNumber": 53,
+    "partName": "MAHARANI DEVI J.H.S. NAVEEN BHAVAN TARAPUR (HATHPAU)"
+  },
+  {
+    "partNumber": 54,
+    "partName": "J. H. SCHOOL KHAJURIYA (HATHPAU)"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P. M. V. GOPALPUR (HATHPAU)"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P. P. GUJARPUR (HATHPAU)"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P. P. NAGLA. ARHAN (HATHPAU)"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P. P. HUSAINPUR (HATHPAU)"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P. P. PADAURA"
+  },
+  {
+    "partNumber": 60,
+    "partName": "COMPOSITE V. NAVADA"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P. P. NAGLA MOTI (SUGANV)"
+  },
+  {
+    "partNumber": 62,
+    "partName": "P. P. BAGHIRUA ROOM N0-1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "P. P. BAGHIRUA ROOM N0- 2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "P. M. V. KURARI"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P. V. RAMPICHHA"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P.M.V. BHARATPUR"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P. V. NAGLA PANCHI"
+  },
+  {
+    "partNumber": 68,
+    "partName": "J. H. S. PARIGAVAN"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P. P. CHADHRAUA ROOM NO-1"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P. P. CHADHRAUA ROOM-2"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P. P. MERAPUR KHIJARPUR"
+  },
+  {
+    "partNumber": 72,
+    "partName": "COMPOSITE V. MAINBOJH"
+  },
+  {
+    "partNumber": 73,
+    "partName": "COMPOSITE V. KUSMAKHEDA ROOM N0- 1"
+  },
+  {
+    "partNumber": 74,
+    "partName": "COMPOSITE V. KUSMAKHEDA ROOM N0- 2"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P. P. DHUAUNSI"
+  },
+  {
+    "partNumber": 76,
+    "partName": "COMPOSITE V. BASAVANPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P. P. SUGAUNV ROOM N0-1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "P. P. SUGAUNV ROOM N0-2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "J.H. SCHOOL PUDRI"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P. P. SANJAPUR"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P. V. PUDARI"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P. V. MANPUR PUDARI"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P. P. BHARAPUR"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P. V. DIWALPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P. V. DIWALPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 86,
+    "partName": "COMPOSITE V. DHAKPURA"
+  },
+  {
+    "partNumber": 87,
+    "partName": "K. P. P. AUNG"
+  },
+  {
+    "partNumber": 88,
+    "partName": "COMPOSITE V. NAGLA DHURA"
+  },
+  {
+    "partNumber": 89,
+    "partName": "COMPOSITE V. ARJUNPURGADHI"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P. P. DEVIDASPUR"
+  },
+  {
+    "partNumber": 91,
+    "partName": "COMPOSITE V. MALIKHANPUR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P. P. VEERPUR KALA ROOM N-1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.P. VEERPURKALAN ROOM N0- 2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P. P. LUKHRIYA"
+  },
+  {
+    "partNumber": 95,
+    "partName": "P. V. KASADD"
+  },
+  {
+    "partNumber": 96,
+    "partName": "COMPOSITE V. GADIVAR"
+  },
+  {
+    "partNumber": 97,
+    "partName": "J. H. S. LEKHRAJPUR"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.V. RAJPURKALAN"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P. V. ROPANPUR"
+  },
+  {
+    "partNumber": 100,
+    "partName": "COMPOSITE V. DWARIKAPUR"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P. P. NAINPUR"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P. V. CHANDARPUR ROOM-1"
+  },
+  {
+    "partNumber": 103,
+    "partName": "P. V. CHANDARPUR ROOM- 2"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRATHMIK VIDHYALAY KAMALPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRATHMIK VIDHYALAY KAMALPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 106,
+    "partName": "COMPOSITE V. ILAHABANS ROOM NO-1"
+  },
+  {
+    "partNumber": 107,
+    "partName": "COMPOSITE V. ILAHABANS ROOM N0-2"
+  },
+  {
+    "partNumber": 108,
+    "partName": "COMPOSITE V. ILAHABANS ROOM N0-3"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P. P. JAKHA"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P. P. NAGALA GADHU"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P.P. PALAUDI"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE V. PARSHURAMPUR"
+  },
+  {
+    "partNumber": 113,
+    "partName": "COMPOSITE V. VIRTIYA ROOM N0- 1"
+  },
+  {
+    "partNumber": 114,
+    "partName": "COMPOSITE V. VIRTIYA ROOM N0-2"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P. P. ATIYA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "COMPOSITE V. BAKHATPUR"
+  },
+  {
+    "partNumber": 117,
+    "partName": "COMPOSITE V. NAGLA  AHIR"
+  },
+  {
+    "partNumber": 118,
+    "partName": "P. P. BASANTPUR"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P. P. AADAMPUR"
+  },
+  {
+    "partNumber": 120,
+    "partName": "COMPOSITE V. SAKRA"
+  },
+  {
+    "partNumber": 121,
+    "partName": "GAUTAM BUDDH M.V. NARAYANPUR"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P. P. MAHIGANVA ROOM N0- 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P. P. MAHIGANVA ROOM N0- 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.M.V. MAHIGANVA (BHARATPUR)"
+  },
+  {
+    "partNumber": 125,
+    "partName": "P. P. LALPUR"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRATHMIK VIDHYALAY DEVPURA  (MUDAUSI)"
+  },
+  {
+    "partNumber": 127,
+    "partName": "J.H.S. MUDAUSI"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P. P. DHEERPUR"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P. P. SIGANI"
+  },
+  {
+    "partNumber": 130,
+    "partName": "P. P. NANDPUR"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P. P. NAGLA KONDAR"
+  },
+  {
+    "partNumber": 132,
+    "partName": "COMPOSITE V. MANIGAONV ROOM N0- 1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "COMPOSITE V. MANIGAONV ROOM N0- 2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P. P. ARSARA"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P. P. KHARAGPUR"
+  },
+  {
+    "partNumber": 136,
+    "partName": "COMPOSITEV.IDHYALAY GOKULPUR"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P. P. DHADHAUS ROOM N0- 1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P. P. DHDHAUS ROOM N0-2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P.P. HINDUPUR"
+  },
+  {
+    "partNumber": 140,
+    "partName": "P. P. DAUDPUR"
+  },
+  {
+    "partNumber": 141,
+    "partName": "P. P. ANTPURI"
+  },
+  {
+    "partNumber": 142,
+    "partName": "P. P. NAGLA KHUNNI"
+  },
+  {
+    "partNumber": 143,
+    "partName": "COMPOSITE V. KUSMARA ROOM N0- 1"
+  },
+  {
+    "partNumber": 144,
+    "partName": "COMPOSITE V. KUSMARA ROOM N0- 2"
+  },
+  {
+    "partNumber": 145,
+    "partName": "COMPOSITE V. KUSMARA ROOMN0-3"
+  },
+  {
+    "partNumber": 146,
+    "partName": "MAHAKAVIDEV I.C.KUSMARA ROOM N0-1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "MAHAKAVI DEV I.C.KUSMARA ROOM N0- 2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "MAHAKAVI DEV I.C.KUSMARA ROOM N0- 3"
+  },
+  {
+    "partNumber": 149,
+    "partName": "MAHAKAVI DEV I.C. KUSHMARA ROOM NO-4"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P. P. HUSAINPUR"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.M.V. DHARMAGADPUR"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P. P. NUNARI"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P. P. NAGLA TARA"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P. P. KUNDI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "P. P. AHINKARIPUR"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P. P. BARA"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P. P. PADAMNER"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P. P. DHARAMNER"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PANCHAYATGHAR KAMALNER (PALNAGAR)"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P. P. KAMALNER"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P. P. MADHAKARPUR"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P. P. AANNADPUR"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P. P. RAHUPURA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P. P. HEERAPUR"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P. P. GAJIYANPUR"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P. P. JAVAPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P. P. N. BHAJJ"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P. P. BUDHAULI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.P. HAVILIYA"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P. P. BAGHAUNI"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P. P. KUDARA"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P. P. KATTRA"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P. P. BARUA"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.V. NAGALA BAKHTI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P. P. KHADDRA"
+  },
+  {
+    "partNumber": 176,
+    "partName": "P. P. NAGLA DINI"
+  },
+  {
+    "partNumber": 177,
+    "partName": "P. P. BANSARMAU"
+  },
+  {
+    "partNumber": 178,
+    "partName": "P. P. TEJGANJ"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P. P. BHARAPUR"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P. P. HINDUPUR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P. P. DEWRANIYA"
+  },
+  {
+    "partNumber": 182,
+    "partName": "COMPOSITE VIDHYALAY MOHKAMPUR"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P. P. NAGLA KANJ"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P. P. NAGTHARA"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P. P. ALAVALPUR"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P. P. ALIPUR"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P. P. KESHAUPUR"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.M.V. BHADEI"
+  },
+  {
+    "partNumber": 189,
+    "partName": "AMITA NAMITA SMARTI SHIKSHA SADAN NAGLA GOKUL"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P. P. NAGLA MAIK"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P. P. NAGLA JHABRA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P. P. ARJUNPUR"
+  },
+  {
+    "partNumber": 193,
+    "partName": "ANGANWADI KENDRA NAGLA BEEL"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P. P. INDRAPUR SUJANPUR"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.M.V. CHATURIPUR"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P. P. KAITHAULI ROOM NO-1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P. P. KAITHOLI ROOM N0-2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "P. P. HARIPUR RATANPUR"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P. V. MADNAPUR GAPCHARIYA ROOM N0-1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P V MADNAPUR GAPCHARIYA ROOM NO 2"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P. P. LUKATPUR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P. P. RANGPUR"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P. P. UNCHA ISLAMABAD ROOM N0- 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.P.UNCHA ISLAMABAD ROOM N0- 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P. P. KUNDANPUR"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.P. NAGLA DEVI"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P. P. SAIDPUR"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P. P. GULARIYAPUR"
+  },
+  {
+    "partNumber": 209,
+    "partName": "J.H.S. GULRIYAPUR"
+  },
+  {
+    "partNumber": 210,
+    "partName": "ADARSH V.M. RAMNAGAR ROOM N0-1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "ADARSH V.M. RAMNAGAR ROOM N0- 2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "P. P. MANPURA"
+  },
+  {
+    "partNumber": 213,
+    "partName": "P.P. SANTPUR"
+  },
+  {
+    "partNumber": 214,
+    "partName": "P.P. TARIHA"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P.P. HAVELI (NAGLA PULANDAR)"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P. P. KISHANPUR"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSITE VIDHYALAY SABHAPUR"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P. P. MAHMADPUR"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE VIDHYALAY SATHIGAVAN"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.P.KUDRIYA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P. P. DHAKROI"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P. P. NAGLA KARNAI"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P. P. NAGLA AHIR"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P. P. BARIHA"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P. P. KHVAJAPUR"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.P. BADANPUR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PANCHAYAT GHAR NAGARIYA"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.P. CHITAYAN ROOM N0- 1"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.P. CHITAYAN ROOM N0- 2"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P. P. NAGLA RAY"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P. P. UDDAITPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "COMPOSITE V. NAIGVAN ROOM N0- 1"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE V. NAIGAVAN ROOM N0- 2"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P. P. BARUA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "NEHRU SMARK I.C.SAMAN ROOM N0- 1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "NEHARU SMARAK I.K. SAMAN ROOM N0-2"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P. P. SAMAN"
+  },
+  {
+    "partNumber": 238,
+    "partName": "P. P. BARIHAR"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P. P. RAIPURA ROOM N0- 1"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P. P. RAIPURA ROOM N0- 2"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P. P. NAGLA DANDEHAR"
+  },
+  {
+    "partNumber": 242,
+    "partName": "K.J.H.S. SAMAN"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P. P. BALLAMPUR"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P. P. PAHADPUR"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.P.BAMNIPUR"
+  },
+  {
+    "partNumber": 246,
+    "partName": "ANGANBADI KENDRA SAMAN"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.M.V. RAICHANDA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.P. BUDAKHEDA"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P.P.CHAURAIPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.P. CHAURAIPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P. P. MAKRANDPUR"
+  },
+  {
+    "partNumber": 252,
+    "partName": "P .P. KRIPALPUR"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.M.V. SAUNASI ROOM N0- 1"
+  },
+  {
+    "partNumber": 254,
+    "partName": "P.M.V. SAUNASI ROOM N0- 2"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P. P. SULTANPUR"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P. P. MADHUPURI"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P. P. KUMHAUL"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P. P. LATHONGAR"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P. P. UMRAHAR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PANCHAYAT GHAR KUMHAUL ROOM N0- 1"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PANCHAYAT GHAR KUMHAUL ROOM N0- 2"
+  },
+  {
+    "partNumber": 262,
+    "partName": "P.P. JAGDISHPUR"
+  },
+  {
+    "partNumber": 263,
+    "partName": "P.P. PARATAPUR"
+  },
+  {
+    "partNumber": 264,
+    "partName": "P. P. DUMHAR"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P. P. NAGLA KHIRIYA"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE VIDHYALAY LAIGAON"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P. P. BADHEPUR"
+  },
+  {
+    "partNumber": 268,
+    "partName": "P.P. NAGLA JAKHA"
+  },
+  {
+    "partNumber": 269,
+    "partName": "P.P. KANHUPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 270,
+    "partName": "P. P. KANHUPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 271,
+    "partName": "P.M.V. KUTUPUR"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.P.KAITHPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.P.KAITHPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 274,
+    "partName": "P.P.NAGLA GAVE"
+  },
+  {
+    "partNumber": 275,
+    "partName": "P. P. KURSANDA"
+  },
+  {
+    "partNumber": 276,
+    "partName": "P.P. NAGLA KALE"
+  },
+  {
+    "partNumber": 277,
+    "partName": "COMPOSITE VIDHYALAY DIWANPUR SAHANI"
+  },
+  {
+    "partNumber": 278,
+    "partName": "P.P. SEENGPUR"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.V. SAMADHPUR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "COMPOSITE VIDHYALAY RATHEH ROOM NO 1"
+  },
+  {
+    "partNumber": 281,
+    "partName": "COMPOSITE VIDHYALAY RATHEH ROOM N0- 2"
+  },
+  {
+    "partNumber": 282,
+    "partName": "COMPOSITE VIDHYALAY RATHEH ROOM N0- 3"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSITE VIDHYALAY RATHEH ROOM N0- 4"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE V. MAHAULI ROOM N0- 1"
+  },
+  {
+    "partNumber": 285,
+    "partName": "COMPOSITE V. MAHAULI ROOM N0- 2"
+  },
+  {
+    "partNumber": 286,
+    "partName": "P. P. GAPKAPUR"
+  },
+  {
+    "partNumber": 287,
+    "partName": "P.P. NAGLA BANE"
+  },
+  {
+    "partNumber": 288,
+    "partName": "COMPOSITE VIDHYALAY MAHAULI SHAMSHERGANJ ROOM N0- 1"
+  },
+  {
+    "partNumber": 289,
+    "partName": "COMPOSITE VIDHYALAY MAHOLI SHAMSHERGANJ ROOM N0-2"
+  },
+  {
+    "partNumber": 290,
+    "partName": "COMPOSITE VIDHYALAY MAHOLI SHAMSHERGANJ ROOM N0-3"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.P. KASVA KACHHPURA"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.P. MACHVAR"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.P. BARHA"
+  },
+  {
+    "partNumber": 294,
+    "partName": "COMPOSITE VIDHYALAY CHANDARPUR"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.P. HARRJAPURKALAN"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.V. BAIRAGPUR"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.V. KHARAGPUR"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSITE VIDHYALAY BASAIT ROOM N0- 1"
+  },
+  {
+    "partNumber": 299,
+    "partName": "COMPOSITE VIDHYALAY BASAIT ROOM NO. 2"
+  },
+  {
+    "partNumber": 300,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-3"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-4"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-5"
+  },
+  {
+    "partNumber": 305,
+    "partName": "COMPOSITE VIDHYALAY KISHNI ROOM N0-6"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.V. JIJAI"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.P. HARISINGHPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 308,
+    "partName": "P.P. HARISINGHPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 309,
+    "partName": "P.P. JATPURA ROOM N0- 1"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.P. JATPURA ROOM N0- 2"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P. P. JATPURA ROOM N0- 3"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P.P. HARCHANDRAPUR KHARAGPUR"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE VIDHYALAY AJIJPUR"
+  },
+  {
+    "partNumber": 314,
+    "partName": "P.V. CHATURIPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 315,
+    "partName": "P V CHATURIPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 316,
+    "partName": "P.M.V. FARAINJI ROOM N0-1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.M.V. FARAINJI ROOM N0-2"
+  },
+  {
+    "partNumber": 318,
+    "partName": "ANGANWADI KENDRA FARAINJI"
+  },
+  {
+    "partNumber": 319,
+    "partName": "KANYA P.P. FARAINJI"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.V. HIMMATPUR"
+  },
+  {
+    "partNumber": 321,
+    "partName": "P.P. KHIJARPUR"
+  },
+  {
+    "partNumber": 322,
+    "partName": "P.P. DEVPURA"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.P. TIMRAKH"
+  },
+  {
+    "partNumber": 324,
+    "partName": "COMPOSITE VIDHYALAY PALIYA ROOM N0-1"
+  },
+  {
+    "partNumber": 325,
+    "partName": "COMPOSITE VIDHYALAY PALIYA ROOM NO 2"
+  },
+  {
+    "partNumber": 326,
+    "partName": "P. P. KHURTANIYA"
+  },
+  {
+    "partNumber": 327,
+    "partName": "COMPOSITE VIDHYALAY GADANPUR ROOM N0-1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "COMPOSITE VIDHYALAY GADANPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.P. HAJIPUR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.P. DHAKPURA"
+  },
+  {
+    "partNumber": 331,
+    "partName": "MULAYAM SINGH YADAV I.C. SAUJ"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRATHMIK VIDHYALAY NAGALA DAULE"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRATHMIK VIDHYALAY MAIKHEDA"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRATHMIK VIDHYALAY SEHAKHURD"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRATHMIK VIDHYALAY BHONDA"
+  },
+  {
+    "partNumber": 336,
+    "partName": "UCHCH PRATHMIK SCHOOL KISHANPUR"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRATHMIK VIDHYALAY DUNDPUR PATARA"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRATHMIK VIDHYALAY PATARA ROOM N0- 1"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRATHMIK VIDHYALAY PATARA ROOM N0- 2"
+  },
+  {
+    "partNumber": 340,
+    "partName": "UCHCH PRATHMIK SCHOOL AMBARPUR"
+  },
+  {
+    "partNumber": 341,
+    "partName": "PRATHMIK VIDHYALAY MAKIYANI"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRATHMIK VIDHYALAY FAJILPUR"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRATHMIK VIDHYALAY MANPUR"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRATHMIK VIDHYALAY SULTANPUR"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRATHMIK VIDHYALAY  SIKANDARPUR"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRATHMIK VIDHYALAY RANIPUR"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRATHMIK VIDHYALAY NASEERPUR"
+  },
+  {
+    "partNumber": 348,
+    "partName": "COMPOSITE VIDHYALAY SHANKARPUR"
+  },
+  {
+    "partNumber": 349,
+    "partName": "COMPOSITE VIDHYALAY RAMPURA ROOM N0-1"
+  },
+  {
+    "partNumber": 350,
+    "partName": "COMPOSITE VIDHYALAY RAMPURA ROON N0-2"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRATHMIK VIDHYALAY KURRA"
+  },
+  {
+    "partNumber": 352,
+    "partName": "KANYA PRATHMIK VIDHYALAY KURRA"
+  },
+  {
+    "partNumber": 353,
+    "partName": "PRATHMIK VIDHYALAY SUKHCHAINPUR"
+  },
+  {
+    "partNumber": 354,
+    "partName": "PRATHMIK VIDHYALAY NAGLA PONDLA"
+  },
+  {
+    "partNumber": 355,
+    "partName": "UCHCH PRATHMIK SCHOOL  NAGLA KHURDAN"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRATHMIK VIDHYALAY KACHHPURA"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRATHMIK VIDHYALAY VIRSINGHPUR"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRATHMIK VIDHYALAY NAGLA TEJ"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRATHMIK VIDHYALAY TARAULIYA"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRATHMIK VIDHYALAY NAGLA TULA"
+  },
+  {
+    "partNumber": 361,
+    "partName": "PRATHMIK VIDHYALAY TIKRAHAR"
+  },
+  {
+    "partNumber": 362,
+    "partName": "PRATHMIK VIDHYALAY GHUSUPUR"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE VIDHYALAY SAHAN ROOM N0- 1"
+  },
+  {
+    "partNumber": 364,
+    "partName": "COMPOSITE VIDHYALAY SAHAN ROOM NO- 2"
+  },
+  {
+    "partNumber": 365,
+    "partName": "PRATHMIK VIDHYALAY PADARI"
+  },
+  {
+    "partNumber": 366,
+    "partName": "PRATHMIK VIDHYALAY PAY"
+  },
+  {
+    "partNumber": 367,
+    "partName": "PRATHMIK VIDHYALAY LAXMIPUR"
+  },
+  {
+    "partNumber": 368,
+    "partName": "PRATHMIK VIDHYALAY SEHAR"
+  },
+  {
+    "partNumber": 369,
+    "partName": "COMPOSITE VIDHYALAY DUDVA"
+  },
+  {
+    "partNumber": 370,
+    "partName": "COMPOSITE VIDHYALAY UDANADANDA"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRATHMIK VIDHYALAY KURSARA"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRATHMIK VIDHYALAY VINAYAKPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "PRATHMIK VIDHYALAY VINAYAKPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "P M SHRI COMPOSITE VIDHYALAY BHAVANIPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P M SHRI COMPOSITE VIDHYALAY BHAVANIPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 376,
+    "partName": "PRATHMIK VIDHYALAY BHOGPUR"
+  },
+  {
+    "partNumber": 377,
+    "partName": "PRATHMIK VIDHYALAY TIKRAI"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PRATHMIK VIDHYALAY DEVKALI"
+  },
+  {
+    "partNumber": 379,
+    "partName": "PRATHMIK VIDHYALAY ONHA ROOM N0-1"
+  },
+  {
+    "partNumber": 380,
+    "partName": "PRATHMIK VIDHYALAY ONHA ROOM N0- 2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "COMPOSITE VIDHYALAY ANUPPUR"
+  },
+  {
+    "partNumber": 382,
+    "partName": "KANYA PRATHMIK VIDHYALAY DILHA"
+  },
+  {
+    "partNumber": 383,
+    "partName": "COMPOSITE VIDHYALAY GUNAIYA"
+  },
+  {
+    "partNumber": 384,
+    "partName": "COMPOSITE VIDHYALAY TAKHRAU ROOM N0- 1"
+  },
+  {
+    "partNumber": 385,
+    "partName": "COMPOSITE VIDHYALAY TAKHARAU ROON N0-2"
+  },
+  {
+    "partNumber": 386,
+    "partName": "PRATHMIK VIDHYALAY  BHANTI"
+  },
+  {
+    "partNumber": 387,
+    "partName": "PRATHMIK VIDHYALAY JHAULIYAI"
+  },
+  {
+    "partNumber": 388,
+    "partName": "PRATHMIK VIDHYALAY NAGLA TARA"
+  },
+  {
+    "partNumber": 389,
+    "partName": "SHRI CHHADAMI MUNNALAL J.H.S. NAGRIYA BHANTI"
+  },
+  {
+    "partNumber": 390,
+    "partName": "PRATHMIK VIDHYALAY  NAGLA MACHE"
+  },
+  {
+    "partNumber": 391,
+    "partName": "PRATHMIK VIDHYALAY KHEDA"
+  },
+  {
+    "partNumber": 392,
+    "partName": "PRATHMIK VIDHYALAY SAD"
+  },
+  {
+    "partNumber": 393,
+    "partName": "PRATHMIK VIDHYALAY RARUA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "PRATHMIK VIDHYALAY  MUHBBTPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 395,
+    "partName": "PRATHMIK VIDHYALAY MUHBBTPUR ROOM N0- 2"
+  },
+  {
+    "partNumber": 396,
+    "partName": "PRATHMIK VIDHYALAY PASHUPUR"
+  },
+  {
+    "partNumber": 397,
+    "partName": "PRATHMIK VIDHYALAY PADURA"
+  },
+  {
+    "partNumber": 398,
+    "partName": "PRATHMIK VIDHYALAY KHIRAUNGI"
+  },
+  {
+    "partNumber": 399,
+    "partName": "PRATHMIK VIDHYALAY ALLIPUR ROOM N0- 1"
+  },
+  {
+    "partNumber": 400,
+    "partName": "PRATHMIK VIDHYALAY ALLIPUR ROOM N0- 2"
+  }
+]

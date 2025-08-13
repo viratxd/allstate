@@ -1,0 +1,1818 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S. BARAULA"
+  },
+  {
+    "partNumber": 2,
+    "partName": "U.P.S. KHERWA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S. UNO UTTARI BHAG"
+  },
+  {
+    "partNumber": 4,
+    "partName": "P.S. UNO DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 5,
+    "partName": "P.S. UNO MADHYA BHAG"
+  },
+  {
+    "partNumber": 6,
+    "partName": "U.P.S. BABHANPURWA"
+  },
+  {
+    "partNumber": 7,
+    "partName": "U.P.S. UMARA"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S. DEVARA FIRST UTTARI BHAG"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S. DEVARA FIRST DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S. CHAK THAMBHA UTTARI BHAG"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S. CHAK THAMBHA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S. THAMBHA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S. NAYAPURWA"
+  },
+  {
+    "partNumber": 14,
+    "partName": "U.P.S. TENSHAHALAMABAD UTTARI BHAG"
+  },
+  {
+    "partNumber": 15,
+    "partName": "U.P.S. TENSHAHALAMABAD DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S. ARJALIPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "P.S. BHADDURPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 18,
+    "partName": "P.S. BHADDURPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S. MADUKI"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.S. GAUSPUR TIKARI PURVI BHAG"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S. GAUSPUR TIKARI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 22,
+    "partName": "U.P.S. BHELKHA PURVI BHAG"
+  },
+  {
+    "partNumber": 23,
+    "partName": "U.P.S. BHELKHA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 24,
+    "partName": "U.P.S. BHELKHA MADHYA BHAG"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S. PATA PURVI BHAG"
+  },
+  {
+    "partNumber": 26,
+    "partName": "P.S. PATA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 27,
+    "partName": "P.S. MAHUAKHADA"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.S. MANJHANPUR FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.S. MANJHANPUR FIRST DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S. MANJHANPUR FIRST MADHYA BHAG"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.S. MANJHANPUR FIRST PASCHIMI MADHYA BHAG"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.S. HAZRATGANJ"
+  },
+  {
+    "partNumber": 33,
+    "partName": "SRI DURGA DEVI INTER COLLEGE OSA UTTARI BHAG"
+  },
+  {
+    "partNumber": 34,
+    "partName": "SRI DURGA DEVI INTER COLLEGE OSA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 35,
+    "partName": "U.P.S. KHORA"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.S. CHAKNAGAR FIRST MANJHANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 37,
+    "partName": "U.P.S. MANJHANPUR"
+  },
+  {
+    "partNumber": 38,
+    "partName": "KASTOORBA GANDHI AWASIYA BALIKA VIDYALAYA MANJHANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 39,
+    "partName": "KASTOORBA GANDHI AWASIYA BALIKA VIDYALAYA MANJHANPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 40,
+    "partName": "KASTOORBA GANDHI AWASIYA BALIKA VIDYALAYA MANJHANPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 41,
+    "partName": "P.S. GANDHINAGAR MANJHANPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 42,
+    "partName": "P.S. GANDHINAGAR MANJHANPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 43,
+    "partName": "P.S. GANDHINAGAR MANJHANPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 44,
+    "partName": "P.S. MANJHANPUR FIRST UTTARI BHAG"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S. CHAKNAGAR FIRST MANJHANPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S. SAMADA PURVI BHAG"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P.S. SAMADA MADHYA BHAG"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P.S. SAMADA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P.S. CHHOGARIYAN KA POORA"
+  },
+  {
+    "partNumber": 50,
+    "partName": "U.P.S. CHAK SAHANPUR"
+  },
+  {
+    "partNumber": 51,
+    "partName": "U.P.S. GOBAR SAHAI"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.S. BANDHAWA RAJWAR PURVI BHAG"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S. BANDHAWA RAJWAR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 54,
+    "partName": "U.P.S. AMBAWAN PASCHIM"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S. AMBAWAN POORAB"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S. KADIRABAD PURVI BHAG"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S. KADIRABAD PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S. BHAILA MAKDOOMPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S. BHAILA MAKDOOMPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S. BHAILA MAKDOOMPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.S. MIRJAPUR URF KHOJWAPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "U.P.S. NEWARI UTTARI BHAG"
+  },
+  {
+    "partNumber": 63,
+    "partName": "U.P.S. NEWARI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 64,
+    "partName": "U.P.S. DARIYAPUR"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.S. GUWARA TAYYABPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 66,
+    "partName": "P.S. GUWARA TAYYABPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.S. SAINBASA"
+  },
+  {
+    "partNumber": 68,
+    "partName": "U.P.S. AMURA UTTARI BHAG"
+  },
+  {
+    "partNumber": 69,
+    "partName": "U.P.S. AMURA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 70,
+    "partName": "U.P.S. PIPARKUNDI PURVI BHAG"
+  },
+  {
+    "partNumber": 71,
+    "partName": "U.P.S. PIPARKUNDI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 72,
+    "partName": "P.S. ADAHARA PURVI BHAG"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.S. ADAHARA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S. PAVAIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S. PAVAIYA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 76,
+    "partName": "U.P.S. DHANPARA"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S. MALIPUR URF MAHARAJGANJ"
+  },
+  {
+    "partNumber": 78,
+    "partName": "U.P.S. BARAI BANDHAWA UTTARI BHAG"
+  },
+  {
+    "partNumber": 79,
+    "partName": "U.P.S. BARAI BANDHAWA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 80,
+    "partName": "U.P.S. ARKA FATEHPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 81,
+    "partName": "U.P.S. ARKA FATEHPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 82,
+    "partName": "U.P.S. ARKA MAHAVEERPUR"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S. MOHSINI"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.S. SACHWARA PURVI BHAG"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S. SACHWARA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 86,
+    "partName": "U.P.S. BANDHURI RASOOLIPUR"
+  },
+  {
+    "partNumber": 87,
+    "partName": "U.P.S. BANDHWA KALYAN"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S. MYOHAR UTTARI BHAG"
+  },
+  {
+    "partNumber": 89,
+    "partName": "P.S. MYOHAR MADHYA BHAG"
+  },
+  {
+    "partNumber": 90,
+    "partName": "U.P.S. MYOHAR UTTARI BHAG"
+  },
+  {
+    "partNumber": 91,
+    "partName": "U.P.S. MYOHAR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 92,
+    "partName": "U.P.S. MYOHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 93,
+    "partName": "U.P.S. MYOHAR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S. MYOHAR PURVI BHAG"
+  },
+  {
+    "partNumber": 95,
+    "partName": "U.P.S. NAUBASTA"
+  },
+  {
+    "partNumber": 96,
+    "partName": "P.S. CHAK AHAMADIPUR"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S. MYOHARIYA"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S. TIKARI MUJAFFARPUR"
+  },
+  {
+    "partNumber": 99,
+    "partName": "U.P.S. RASOOLPUR SHUKWARA UTTARI BHAG"
+  },
+  {
+    "partNumber": 100,
+    "partName": "U.P.S. RASOOLPUR SHUKWARA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 101,
+    "partName": "U.P.S. SADAWA SARAINYA"
+  },
+  {
+    "partNumber": 102,
+    "partName": "U.P.S. MOHIUDDINPUR DEVCHHAR"
+  },
+  {
+    "partNumber": 103,
+    "partName": "U.P.S. PADARIYA SHUKWARA"
+  },
+  {
+    "partNumber": 104,
+    "partName": "U.P.S. RAKSWARA PURVI BHAG"
+  },
+  {
+    "partNumber": 105,
+    "partName": "U.P.S. RAKSWARA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 106,
+    "partName": "U.P.S. RAKSWARA UTTARI BHAG"
+  },
+  {
+    "partNumber": 107,
+    "partName": "U.P.S. RAKSWARA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 108,
+    "partName": "U.P.S. BATBANDHURI PURVI BHAG"
+  },
+  {
+    "partNumber": 109,
+    "partName": "U.P.S. BATBANDHURI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S. GHAMSIRA"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P.S. PINDARA SAHABANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S. PINDARA SAHABANPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S. PINDARA SAHABANPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 114,
+    "partName": "P.S. SAHABANPUR"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S. PANWARA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S. BABHANPOORA"
+  },
+  {
+    "partNumber": 117,
+    "partName": "U.P.S. MEERAPUR"
+  },
+  {
+    "partNumber": 118,
+    "partName": "P.S. IBRAHIMPUR"
+  },
+  {
+    "partNumber": 119,
+    "partName": "U.P.S. SHUKLAN KA POORA"
+  },
+  {
+    "partNumber": 120,
+    "partName": "U.P.S. LAHANA UTTARI BHAG"
+  },
+  {
+    "partNumber": 121,
+    "partName": "U.P.S. LAHANA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.S. MAHENDRA PURVI BHAG"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. MAHENDRA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S. TIYARA JAMALPUR"
+  },
+  {
+    "partNumber": 125,
+    "partName": "U.P.S. MUKEEMPUR"
+  },
+  {
+    "partNumber": 126,
+    "partName": "P.S. KARARI FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 127,
+    "partName": "P.S. KARARI FIRST UTTARI BHAG"
+  },
+  {
+    "partNumber": 128,
+    "partName": "P.S. KARARI FIRST PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 129,
+    "partName": "P.S. KARARI FIRST DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 130,
+    "partName": "U.P.S. KARARI UTTARI BHAG"
+  },
+  {
+    "partNumber": 131,
+    "partName": "U.P.S. KARARI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.S. CHAKHINGUI KAMRA NO.-1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.S. CHAKHINGUI KAMRA NO.-3"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S. CHAKHINGUI KAMRA NO.-2"
+  },
+  {
+    "partNumber": 135,
+    "partName": "INTER COLLEGE KARARI (WHITE BUILDING) KAMRA NO. 1"
+  },
+  {
+    "partNumber": 136,
+    "partName": "INTER COLLEGE KARARI (WHITE BUILDING) KAMRA NO. 2"
+  },
+  {
+    "partNumber": 137,
+    "partName": "INTER COLLEGE KARARI (WHITE BUILDING) KAMRA NO. 3"
+  },
+  {
+    "partNumber": 138,
+    "partName": "INTER COLLEGE KARARI (WHITE BUILDING) KAMRA NO. 4"
+  },
+  {
+    "partNumber": 139,
+    "partName": "INTER COLLEGE KARARI (WHITE BUILDING) KAMRA NO. 5"
+  },
+  {
+    "partNumber": 140,
+    "partName": "INTER COLLEGE KARARI (RED BUILDING) KAMRA NO. 1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "INTER COLLEGE KARARI (RED BUILDING) KAMRA NO. 2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "INTER COLLEGE KARARI (RED BUILDING) KAMRA NO. 3"
+  },
+  {
+    "partNumber": 143,
+    "partName": "P.S. MOAJJAMPUR"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S. UKHAIYAKHAS"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S. RAHIMPUR MOLANI"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S. BARLAHA"
+  },
+  {
+    "partNumber": 147,
+    "partName": "U.P.S. AGIYOUNA UTTARI BHAG"
+  },
+  {
+    "partNumber": 148,
+    "partName": "U.P.S. AGIYOUNA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 149,
+    "partName": "U.P.S. AGIYOUNA MADHYA BHAG"
+  },
+  {
+    "partNumber": 150,
+    "partName": "U.P.S. TURTIPUR"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S. PACHAMBHA"
+  },
+  {
+    "partNumber": 152,
+    "partName": "U.P.S. KOTARI PASCHIM UTTARI BHAG"
+  },
+  {
+    "partNumber": 153,
+    "partName": "U.P.S. KOTARI PASCHIM DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S. DEEWAR"
+  },
+  {
+    "partNumber": 155,
+    "partName": "U.P.S. SAIDANPUR"
+  },
+  {
+    "partNumber": 156,
+    "partName": "P.S. AIDILPUR"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S. OSA FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 158,
+    "partName": "P.S. OSA SECOND PURVI BHAG"
+  },
+  {
+    "partNumber": 159,
+    "partName": "P.S. OSA FIRST PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 160,
+    "partName": "P.S. OSA SECOND PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 161,
+    "partName": "P.S. YOUSUFPUR RARA"
+  },
+  {
+    "partNumber": 162,
+    "partName": "P.S. KONDAR"
+  },
+  {
+    "partNumber": 163,
+    "partName": "U.P.S. BAHADURPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 164,
+    "partName": "U.P.S. BAHADURPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S. NIJAMPUR HANDIYA"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S. SHAREEFPUR"
+  },
+  {
+    "partNumber": 167,
+    "partName": "U.P.S. JAJAULI"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.S. TEWAN FIRST UTTARI BHAG"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.S. TEWAN FIRST MADHYA BHAG"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.S. TEWAN FIRST DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S. TEWAN FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S. DEVI DAYAL KA POORA"
+  },
+  {
+    "partNumber": 173,
+    "partName": "U.P.S. BHARSAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 174,
+    "partName": "U.P.S. BHARSAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S. GARAULI"
+  },
+  {
+    "partNumber": 176,
+    "partName": "U.P.S. SARSAWAN UTTARI BHAG"
+  },
+  {
+    "partNumber": 177,
+    "partName": "U.P.S. SARSAWAN MADHYA BHAG 1"
+  },
+  {
+    "partNumber": 178,
+    "partName": "U.P.S. SARSAWAN MADHYA BHAG 2"
+  },
+  {
+    "partNumber": 179,
+    "partName": "U.P.S. SARSAWAN DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 180,
+    "partName": "U.P.S. AILAI URF BAKSHIPAR PURVI BHAG"
+  },
+  {
+    "partNumber": 181,
+    "partName": "U.P.S. AILAI URF BAKSHIPAR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 182,
+    "partName": "U.P.S. LAUDHANA"
+  },
+  {
+    "partNumber": 183,
+    "partName": "U.P.S. LAUGAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 184,
+    "partName": "U.P.S. LAUGAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S. ADHAULI PURVI BHAG"
+  },
+  {
+    "partNumber": 186,
+    "partName": "P.S. ADHAULI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S. AJARAULI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S. KUMHIYAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 189,
+    "partName": "P.S. KUMHIYAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 190,
+    "partName": "U.P.S. POORAB SARAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 191,
+    "partName": "U.P.S. POORAB SARAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.S. SHIVARA"
+  },
+  {
+    "partNumber": 193,
+    "partName": "U.P.S. BARAISA PURVI BHAG"
+  },
+  {
+    "partNumber": 194,
+    "partName": "U.P.S. BARAISA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 195,
+    "partName": "U.P.S. NAGREHA KALA"
+  },
+  {
+    "partNumber": 196,
+    "partName": "U.P.S. PUNWAR UTTARI BHAG"
+  },
+  {
+    "partNumber": 197,
+    "partName": "U.P.S. PUNWAR MADHYA BHAG"
+  },
+  {
+    "partNumber": 198,
+    "partName": "U.P.S. PUNWAR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 199,
+    "partName": "U.P.S. KUWANDEEH"
+  },
+  {
+    "partNumber": 200,
+    "partName": "P.S. JAFARPUR MAHAWAN UTTARI BHAG"
+  },
+  {
+    "partNumber": 201,
+    "partName": "P.S. JAFARPUR MAHAWAN DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S. JAFARPUR MAHAWAN UTTARI MADHYA BHAG"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. DANPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.S. DANPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 205,
+    "partName": "P.S. LODHAURA URF KAYAMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 206,
+    "partName": "P.S. LODHAURA URF KAYAMPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S. PARASIYA"
+  },
+  {
+    "partNumber": 208,
+    "partName": "P.S. CHHIMIRICHHA PURVI BHAG"
+  },
+  {
+    "partNumber": 209,
+    "partName": "P.S. CHHIMIRICHHA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 210,
+    "partName": "P.S. FAIJIPUR"
+  },
+  {
+    "partNumber": 211,
+    "partName": "P.S. NASRULLAPUR"
+  },
+  {
+    "partNumber": 212,
+    "partName": "U.P.S. ASHADHA PURVI BHAG"
+  },
+  {
+    "partNumber": 213,
+    "partName": "U.P.S. ASHADHA PURVI MADHYA BHAG"
+  },
+  {
+    "partNumber": 214,
+    "partName": "U.P.S. ASHADHA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 215,
+    "partName": "U.P.S. PATHARA KALA"
+  },
+  {
+    "partNumber": 216,
+    "partName": "U.P.S. JAMDUVA PURVI BHAG"
+  },
+  {
+    "partNumber": 217,
+    "partName": "U.P.S. JAMDUVA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 218,
+    "partName": "U.P.S. HISAMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 219,
+    "partName": "U.P.S. HISAMPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 220,
+    "partName": "U.P.S. NAUBASTA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S. SHAHPUR TIKARI"
+  },
+  {
+    "partNumber": 222,
+    "partName": "U.P.S. PARA HASANPUR"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S. GULAMIPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S. GULAMIPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P.S. SESA"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.S. TAYYABPUR MANGAURA PURVI BHAG"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.S. TAYYABPUR MANGAURA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 228,
+    "partName": "U.P.S. THAMBHA ALAWALPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 229,
+    "partName": "U.P.S. THAMBHA ALAWALPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S. SADIKPUR SEMRAHA"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S. TAHIRPUR"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S. FAREEDPUR SANVARO"
+  },
+  {
+    "partNumber": 233,
+    "partName": "U.P.S. AMEENPUR SANVARO PUVI BHAG"
+  },
+  {
+    "partNumber": 234,
+    "partName": "U.P.S. AMEENPUR SANVARO PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 235,
+    "partName": "U.P.S. RASOOLPUR SONI PURVI BHAG"
+  },
+  {
+    "partNumber": 236,
+    "partName": "U.P.S. RASOOLPUR SONI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 237,
+    "partName": "U.P.S. FAREEDANPUR"
+  },
+  {
+    "partNumber": 238,
+    "partName": "U.P.S. BAJAHA KHURRAMPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 239,
+    "partName": "U.P.S. BAJAHA KHURRAMPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 240,
+    "partName": "U.P.S. MALAKIYA"
+  },
+  {
+    "partNumber": 241,
+    "partName": "U.P.S. SONDHIYA PURVI BHAG"
+  },
+  {
+    "partNumber": 242,
+    "partName": "U.P.S. SONDHIYA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.S. KAYAMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S. KAYAMPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S. KORAWANKHAS"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S. GOPAL MISHRA KA POORA"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S. MOHIUDDINPUR KORAWAN"
+  },
+  {
+    "partNumber": 248,
+    "partName": "U.P.S. JATHI PURVI BHAG"
+  },
+  {
+    "partNumber": 249,
+    "partName": "U.P.S. JATHI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 250,
+    "partName": "U.P.S. JATHI MADHYA BHAG"
+  },
+  {
+    "partNumber": 251,
+    "partName": "U.P.S. BERUI PURVI BHAG"
+  },
+  {
+    "partNumber": 252,
+    "partName": "U.P.S. BERUI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S. NAGREHA"
+  },
+  {
+    "partNumber": 254,
+    "partName": "U.P.S. RAKSRAI PURVI BHAG"
+  },
+  {
+    "partNumber": 255,
+    "partName": "U.P.S. RAKSRAI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 256,
+    "partName": "U.P.S. CHAUPURWA PURVI BHAG"
+  },
+  {
+    "partNumber": 257,
+    "partName": "U.P.S. CHAUPURWA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 258,
+    "partName": "U.P.S. NANDAULI"
+  },
+  {
+    "partNumber": 259,
+    "partName": "P.S. BAKODHA"
+  },
+  {
+    "partNumber": 260,
+    "partName": "U.P.S. ATARSUIYA UTTARI BHAG"
+  },
+  {
+    "partNumber": 261,
+    "partName": "U.P.S. ATARSUIYA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 262,
+    "partName": "TILAK INTER COLLEGE KANAILI UTTARI BHAG"
+  },
+  {
+    "partNumber": 263,
+    "partName": "TILAK INTER COLLEGE KANAILI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 264,
+    "partName": "TILAK INTER COLLEGE KANAILI MADHYA BHAG"
+  },
+  {
+    "partNumber": 265,
+    "partName": "P.S. MAWAI"
+  },
+  {
+    "partNumber": 266,
+    "partName": "P.S. DANDI MAJRA KANAILI"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S. MAHANGUPUR"
+  },
+  {
+    "partNumber": 268,
+    "partName": "U.P.S. FAIJULLAPUR"
+  },
+  {
+    "partNumber": 269,
+    "partName": "U.P.S. URAI ASHARAFPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 270,
+    "partName": "U.P.S. URAI ASHARAFPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 271,
+    "partName": "U.P.S. URAI ASHARAFPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S. MADHI"
+  },
+  {
+    "partNumber": 273,
+    "partName": "P.S. NARENDRA BARA"
+  },
+  {
+    "partNumber": 274,
+    "partName": "U.P.S. BARA"
+  },
+  {
+    "partNumber": 275,
+    "partName": "U.P.S. RASOOLPUR BADGAON PURVI BHAG"
+  },
+  {
+    "partNumber": 276,
+    "partName": "U.P.S. RASOOLPUR BADGAON PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 277,
+    "partName": "U.P.S. CHAK SATARGANJ"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PANCHAYAT BHAWAN MAJHIYARI CHAK AILAI ROSHAN"
+  },
+  {
+    "partNumber": 279,
+    "partName": "P.S. BAIGAWAN FATEHPUR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "U.P.S. AWANA ALAMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 281,
+    "partName": "U.P.S. AWANA ALAMPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 282,
+    "partName": "P.S. HAKEEMPUR"
+  },
+  {
+    "partNumber": 283,
+    "partName": "U.P.S. BHATWARIYA"
+  },
+  {
+    "partNumber": 284,
+    "partName": "U.P.S. BIDAWAN UTTARI BHAG"
+  },
+  {
+    "partNumber": 285,
+    "partName": "U.P.S. BIDAWAN MADHYA BHAG"
+  },
+  {
+    "partNumber": 286,
+    "partName": "U.P.S. BIDAWAN DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 287,
+    "partName": "U.P.S. SANDAWA MAJRA BIDAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 288,
+    "partName": "U.P.S. SANDAWA MAJRA BIDAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 289,
+    "partName": "U.P.S. BARAULI PURVI BAHG"
+  },
+  {
+    "partNumber": 290,
+    "partName": "U.P.S. BARAULI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.S. SONAULI UMARPUR"
+  },
+  {
+    "partNumber": 292,
+    "partName": "U.P.S. CHAK GURAINI"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.S. BAISHKANTI FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S. BAISHKANTI FIRST PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 295,
+    "partName": "P.S. BHAWANI KA POORA MAJRA BAISHKANTI SECOND"
+  },
+  {
+    "partNumber": 296,
+    "partName": "P.S. PARAI UGRASENPUR"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S. DUGAULI"
+  },
+  {
+    "partNumber": 298,
+    "partName": "U.P.S. DAHRAI"
+  },
+  {
+    "partNumber": 299,
+    "partName": "U.P.S. KHARAUNA"
+  },
+  {
+    "partNumber": 300,
+    "partName": "U.P.S. DEWANA"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P.S. SARPATAHI MAJRA POORAB SHARIRA PURVI BHAG"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S. SARPATAHI MAJRA POORAB SHARIRA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 303,
+    "partName": "P.S. POORAB SHARIRA FIRST PURVI BHAG"
+  },
+  {
+    "partNumber": 304,
+    "partName": "P.S. POORAB SHARIRA FIRST PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 305,
+    "partName": "U.P.S. POORAB SHARIRA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 306,
+    "partName": "U.P.S. POORAB SHARIRA PURVI BHAG"
+  },
+  {
+    "partNumber": 307,
+    "partName": "U.P.S. POORAB SHARIRA MADHYA BHAG"
+  },
+  {
+    "partNumber": 308,
+    "partName": "U.P.S. POORAB SHARIRA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 309,
+    "partName": "U.P.S.POORAB SHARIRA UTTARI BHAG"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.S. NAGCHAURI KA POORA MAJRA POORAB SHARIRA PURVI BHAG"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.S. NAGCHAURI KA POORA MAJRA POORAB SHARIRA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 312,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA UTTARI BHAG 1"
+  },
+  {
+    "partNumber": 313,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA UTTARI BHAG 2"
+  },
+  {
+    "partNumber": 314,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA DAKSHINI BHAG 1"
+  },
+  {
+    "partNumber": 315,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA DAKSHINI BHAG 2"
+  },
+  {
+    "partNumber": 316,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA PURVI BHAG 1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "JILA PANCHAYAT I.M. COLLEGE PASCHIM SHARIRA PURVI BHAG 2"
+  },
+  {
+    "partNumber": 318,
+    "partName": "U.P.S. LODHAN KA POORA MAJRA PASCHIM SHARIRA PURVI BHAG"
+  },
+  {
+    "partNumber": 319,
+    "partName": "U.P.S. LODHAN KA POORA MAJRA PASCHIM SHARIRA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 320,
+    "partName": "U.P.S. CHANDERAI UTTARI BHAG"
+  },
+  {
+    "partNumber": 321,
+    "partName": "U.P.S. CHANDERAI DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 322,
+    "partName": "U.P.S. BARUA UTTARI BHAG"
+  },
+  {
+    "partNumber": 323,
+    "partName": "U.P.S. BARUA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 324,
+    "partName": "U.P.S. PALARA PURVI BHAG"
+  },
+  {
+    "partNumber": 325,
+    "partName": "U.P.S. PALARA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 326,
+    "partName": "P.S. TIKARI NAGI"
+  },
+  {
+    "partNumber": 327,
+    "partName": "U.P.S. RAKSAULI PURVI BHAG"
+  },
+  {
+    "partNumber": 328,
+    "partName": "U.P.S. RAKSAULI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.S. GADHI BAZAR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "U.P.S. MANKAPUR"
+  },
+  {
+    "partNumber": 331,
+    "partName": "U.P.S. ANDHAWAN UTTARI BHAG"
+  },
+  {
+    "partNumber": 332,
+    "partName": "U.P.S. ANDHAWAN MADHYA BHAG"
+  },
+  {
+    "partNumber": 333,
+    "partName": "U.P.S. ANDHAWAN DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 334,
+    "partName": "SHANKUL BHAWAN ANDHAWAN PURVI BHAG"
+  },
+  {
+    "partNumber": 335,
+    "partName": "SHANKUL BHAWAN ANDHAWAN PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.S. MIRDAHAN KA POORA MAJRA ANDHAWAN"
+  },
+  {
+    "partNumber": 337,
+    "partName": "P.S. KORIPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 338,
+    "partName": "P.S. KORIPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 339,
+    "partName": "U.P.S. NIKHODA"
+  },
+  {
+    "partNumber": 340,
+    "partName": "U.P.S. DAKSHARIRA"
+  },
+  {
+    "partNumber": 341,
+    "partName": "U.P.S. PAURKASHIRAMPUR"
+  },
+  {
+    "partNumber": 342,
+    "partName": "U.P.S. HINAUTA PURVI BHAG"
+  },
+  {
+    "partNumber": 343,
+    "partName": "U.P.S. HINAUTA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 344,
+    "partName": "U.P.S. GAURATAFAREEK"
+  },
+  {
+    "partNumber": 345,
+    "partName": "P.S. DHERAHA"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P.S. TIKARA"
+  },
+  {
+    "partNumber": 347,
+    "partName": "P.S. NIGAHA"
+  },
+  {
+    "partNumber": 348,
+    "partName": "P.S. MAWAI"
+  },
+  {
+    "partNumber": 349,
+    "partName": "U.P.S. DALELAGANJ PURVI BHAG"
+  },
+  {
+    "partNumber": 350,
+    "partName": "U.P.S. DALELAGANJ PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 351,
+    "partName": "U.P.S. JAMUNAPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 352,
+    "partName": "U.P.S. JAMUNAPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 353,
+    "partName": "U.P.S. MAHEWAGHAT"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S. POOREGHOGH PURVI BHAG"
+  },
+  {
+    "partNumber": 355,
+    "partName": "P.S. POOREGHOGH PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 356,
+    "partName": "P.S. POOREGHOGH MADHYA BHAG"
+  },
+  {
+    "partNumber": 357,
+    "partName": "U.P.S. UMRAWAN"
+  },
+  {
+    "partNumber": 358,
+    "partName": "U.P.S. NAUBASTA"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S. SHAHPUR UTTARI BHAG"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S. SHAHPUR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.S. MUBARAKPUR"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S. HATAWA ABBASPUR"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.S. BHAWANSURI"
+  },
+  {
+    "partNumber": 364,
+    "partName": "U.P.S. ALWARA PURVI BHAG"
+  },
+  {
+    "partNumber": 365,
+    "partName": "U.P.S. ALWARA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 366,
+    "partName": "U.P.S. ALWARA MADHYA BHAG"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S. BAIRAMPUR"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. KOLHUVA"
+  },
+  {
+    "partNumber": 369,
+    "partName": "U.P.S. SENGRAHA"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.S. DUNDIPAR MAJRA SENGRAHA"
+  },
+  {
+    "partNumber": 371,
+    "partName": "U.P.S. RANIPUR"
+  },
+  {
+    "partNumber": 372,
+    "partName": "U.P.S. RAIPUR"
+  },
+  {
+    "partNumber": 373,
+    "partName": "U.P.S. KATARI PURVI BHAG"
+  },
+  {
+    "partNumber": 374,
+    "partName": "U.P.S. KATARI PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 375,
+    "partName": "P.S. GANESHPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 376,
+    "partName": "P.S. GANESHPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 377,
+    "partName": "P.S. BHAGWATPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 378,
+    "partName": "P.S. BHAGWATPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 379,
+    "partName": "U.P.S. GHASIPUR"
+  },
+  {
+    "partNumber": 380,
+    "partName": "P.S. DEDHAWAL PURVI BHAG"
+  },
+  {
+    "partNumber": 381,
+    "partName": "P.S. DEDHAWAL PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 382,
+    "partName": "P.S. DEVARI"
+  },
+  {
+    "partNumber": 383,
+    "partName": "U.P.S. BADAHARI"
+  },
+  {
+    "partNumber": 384,
+    "partName": "P.S. GORAJU UTTARI BHAG"
+  },
+  {
+    "partNumber": 385,
+    "partName": "P.S. GORAJU DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 386,
+    "partName": "P.S. GORAJU MADHYA BHAG"
+  },
+  {
+    "partNumber": 387,
+    "partName": "DILEEP SINGH INTER COLLEGE BAKARGANJ UTTARI BHAG"
+  },
+  {
+    "partNumber": 388,
+    "partName": "DILEEP SINGH INTER COLLEGE BAKARGANJ DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 389,
+    "partName": "P.S. DHAWADA PURVI BHAG"
+  },
+  {
+    "partNumber": 390,
+    "partName": "P.S. DHAWADA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 391,
+    "partName": "P.S. AMEENA PURVI BHAG"
+  },
+  {
+    "partNumber": 392,
+    "partName": "P.S. AMEENA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 393,
+    "partName": "U.P.S. PABHOSHA"
+  },
+  {
+    "partNumber": 394,
+    "partName": "P.S. BAKSHI KA POORA"
+  },
+  {
+    "partNumber": 395,
+    "partName": "P.S. KEVTARA"
+  },
+  {
+    "partNumber": 396,
+    "partName": "U.P.S. SINGHWAL"
+  },
+  {
+    "partNumber": 397,
+    "partName": "U.P.S. SINGHWAL KA PURA"
+  },
+  {
+    "partNumber": 398,
+    "partName": "U.P.S. JAYANTIPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 399,
+    "partName": "U.P.S. JAYANTIPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 400,
+    "partName": "U.P.S. BANIKHAS"
+  },
+  {
+    "partNumber": 401,
+    "partName": "P.S. MUSTAFABAD"
+  },
+  {
+    "partNumber": 402,
+    "partName": "P.S. NARAGIPAR"
+  },
+  {
+    "partNumber": 403,
+    "partName": "U.P.S. GOHARAMAROOFPUR"
+  },
+  {
+    "partNumber": 404,
+    "partName": "P.S. ITAILA"
+  },
+  {
+    "partNumber": 405,
+    "partName": "P.S. SALEMPUR MAJRA KOSAM INAM"
+  },
+  {
+    "partNumber": 406,
+    "partName": "P.S. AMBA KUWAN MAJRA KOSAM INAM"
+  },
+  {
+    "partNumber": 407,
+    "partName": "P.S. PALI"
+  },
+  {
+    "partNumber": 408,
+    "partName": "P.S. JAGANNATHPUR"
+  },
+  {
+    "partNumber": 409,
+    "partName": "P.S. CHAK GULAM ALAM PURVI BHAG"
+  },
+  {
+    "partNumber": 410,
+    "partName": "P.S. CHAK GULAM ALAM PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 411,
+    "partName": "P.S. BADA GADHAWA MAJRA KOSAM INAM PURVI BHAG"
+  },
+  {
+    "partNumber": 412,
+    "partName": "P.S. BADA GADHAWA MAJRA KOSAM INAM PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 413,
+    "partName": "P.S. HASANPUR"
+  },
+  {
+    "partNumber": 414,
+    "partName": "P.S. HISAMBAD PURVI BHAG"
+  },
+  {
+    "partNumber": 415,
+    "partName": "P.S. HISAMBAD PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 416,
+    "partName": "U.P.S. JOGAPUR MAJRA KOSAM KHIRAJ"
+  },
+  {
+    "partNumber": 417,
+    "partName": "P.S. CHHOTKA GADHAWA MAJRA KOSAM KHIRAJ PURVI BHAG"
+  },
+  {
+    "partNumber": 418,
+    "partName": "P.S. CHHOTKA GADHAWA MAJRA KOSAM KHIRAJ PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 419,
+    "partName": "U.P.S. MAKDOOMPUR DHOKSAHA UTTARI BHAG"
+  },
+  {
+    "partNumber": 420,
+    "partName": "U.P.S. MAKDOOMPUR DHOKSAHA DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 421,
+    "partName": "P.S. DHEKHAI"
+  },
+  {
+    "partNumber": 422,
+    "partName": "P.S. MEDRAHA"
+  },
+  {
+    "partNumber": 423,
+    "partName": "P.S. CHAK SIRASI"
+  },
+  {
+    "partNumber": 424,
+    "partName": "P.S. GOINTHA PURVI BHAG"
+  },
+  {
+    "partNumber": 425,
+    "partName": "P.S. GOINTHA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 426,
+    "partName": "U.P.S. GOPSAHSA"
+  },
+  {
+    "partNumber": 427,
+    "partName": "P.S. GOPSAHSA STHIT GRAM GAURAYE"
+  },
+  {
+    "partNumber": 428,
+    "partName": "P.S. BERAUNCHA FIRST"
+  },
+  {
+    "partNumber": 429,
+    "partName": "P.S. BERAUNCHA SECOND"
+  },
+  {
+    "partNumber": 430,
+    "partName": "P.S. DAI KA POORA MAJRA BERAUNCHA"
+  },
+  {
+    "partNumber": 431,
+    "partName": "U.P.S. GURAULI"
+  },
+  {
+    "partNumber": 432,
+    "partName": "P.S. JHADIYA KA PURA MAJRA BERAUNCHA"
+  },
+  {
+    "partNumber": 433,
+    "partName": "P.S. SONWARA"
+  },
+  {
+    "partNumber": 434,
+    "partName": "U.P.S. MAHILA PURVI BHAG"
+  },
+  {
+    "partNumber": 435,
+    "partName": "U.P.S. MAHILA PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 436,
+    "partName": "P.S. DHANA"
+  },
+  {
+    "partNumber": 437,
+    "partName": "U.P.S. CHHEKAWA"
+  },
+  {
+    "partNumber": 438,
+    "partName": "P.S. LALA KA PURA MAJRA CHHEKAWA"
+  },
+  {
+    "partNumber": 439,
+    "partName": "U.P.S. AIGAWAN"
+  },
+  {
+    "partNumber": 440,
+    "partName": "P.S. CHUNNI KA PURA MAJRA AIGWAN"
+  },
+  {
+    "partNumber": 441,
+    "partName": "U.P.S. JUGRAJPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 442,
+    "partName": "U.P.S. JUGRAJPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 443,
+    "partName": "U.P.S. JUGRAJPUR MADHYA BHAG"
+  },
+  {
+    "partNumber": 444,
+    "partName": "U.P.S. MEDUVA SALEMPUR PURVI BHAG"
+  },
+  {
+    "partNumber": 445,
+    "partName": "U.P.S. MEDUVA SALEMPUR PASCHIMI BHAG"
+  },
+  {
+    "partNumber": 446,
+    "partName": "U.P.S. MULAYAMPUR"
+  },
+  {
+    "partNumber": 447,
+    "partName": "U.P.S. DIYA UPARHAR UTTARI BHAG"
+  },
+  {
+    "partNumber": 448,
+    "partName": "U.P.S. DIYA UPARHAR DAKSHINI BHAG"
+  },
+  {
+    "partNumber": 449,
+    "partName": "P.S. PANNA KA PURA MAJRA DIYA"
+  },
+  {
+    "partNumber": 450,
+    "partName": "P.S. DHARAMPUR"
+  },
+  {
+    "partNumber": 451,
+    "partName": "P.S. KUTIPAR MAJRA DHARAMPUR"
+  },
+  {
+    "partNumber": 452,
+    "partName": "U.P.S. BHAKHANDA UTTARI BHAG"
+  },
+  {
+    "partNumber": 453,
+    "partName": "U.P.S. BHAKHANDA MADHYA BHAG"
+  },
+  {
+    "partNumber": 454,
+    "partName": "U.P.S. BHAKHANDA DAKSHINI BHAG"
+  }
+]

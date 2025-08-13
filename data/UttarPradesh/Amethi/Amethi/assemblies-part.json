@@ -1,0 +1,1502 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "P.S KANAKSINGHPUR ROOM NO.1"
+  },
+  {
+    "partNumber": 2,
+    "partName": "P.S KANAKSINGHPUR ROOM NO.2"
+  },
+  {
+    "partNumber": 3,
+    "partName": "P.S TULSIPUR"
+  },
+  {
+    "partNumber": 4,
+    "partName": "GANDHI I.C KORARI LACHCHHAN SHAH ROOM NO. 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "GANDHI I.C KORARI LACHCHHAN SHAH ROOM NO. 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "P.S KORARI HEERSHAH RO.1"
+  },
+  {
+    "partNumber": 7,
+    "partName": "P.S KORARI HEERSHAH RO.2"
+  },
+  {
+    "partNumber": 8,
+    "partName": "P.S SEMRA RO. NO.1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "P.S SEMRA RO. NO.2"
+  },
+  {
+    "partNumber": 10,
+    "partName": "P.S MADERIKA RO. NO. 1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "P.S MADERIKA RO. NO. 2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "P.S SARUWAWAN FIRST RO.NO 1"
+  },
+  {
+    "partNumber": 13,
+    "partName": "P.S SARUWAWAN FIRST RO.NO 2"
+  },
+  {
+    "partNumber": 14,
+    "partName": "P.S SARUWAWAN FIRST RO.NO 3"
+  },
+  {
+    "partNumber": 15,
+    "partName": "P.S SARUWAWAN FIRST RO.NO 4"
+  },
+  {
+    "partNumber": 16,
+    "partName": "P.S DALSHAHPUR"
+  },
+  {
+    "partNumber": 17,
+    "partName": "COMPOSITE SCHOOL PASHCHIMDWARA"
+  },
+  {
+    "partNumber": 18,
+    "partName": "COMPOSITE VIDHYALAY GOVARDHANPUR"
+  },
+  {
+    "partNumber": 19,
+    "partName": "P.S GHATAMPUR RO. NO.1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "P.S GHATAMPUR RO. NO.2"
+  },
+  {
+    "partNumber": 21,
+    "partName": "P.S SULTANPUR"
+  },
+  {
+    "partNumber": 22,
+    "partName": "P.S BHUSIYAWAN RO.NO 1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "P.S BHUSIYAWAN RO.NO 2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "P.S BHUSIYAWAN RO.NO 3"
+  },
+  {
+    "partNumber": 25,
+    "partName": "P.S NARSINGHBHANPUR"
+  },
+  {
+    "partNumber": 26,
+    "partName": "COMPOSITE SCHOOL SHARDAN RO.NO.1"
+  },
+  {
+    "partNumber": 27,
+    "partName": "COMPOSITE SCHOOL SHARDAN RO.NO.2"
+  },
+  {
+    "partNumber": 28,
+    "partName": "P.S KUDWA RO.NO 1"
+  },
+  {
+    "partNumber": 29,
+    "partName": "P.S KUDWA RO.NO 2"
+  },
+  {
+    "partNumber": 30,
+    "partName": "P.S KUDWA RO.NO 3"
+  },
+  {
+    "partNumber": 31,
+    "partName": "P.S THAURA RO.NO 1"
+  },
+  {
+    "partNumber": 32,
+    "partName": "P.S THAURA RO.NO 2"
+  },
+  {
+    "partNumber": 33,
+    "partName": "P.S MATIYAR BAGHAURA"
+  },
+  {
+    "partNumber": 34,
+    "partName": "P.S KATRAMAHRANI"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PANCHYAT BHAWAN TERI"
+  },
+  {
+    "partNumber": 36,
+    "partName": "P.S DUBEYPUR  RO.NO 1"
+  },
+  {
+    "partNumber": 37,
+    "partName": "P.S DUBEYPUR  RO.NO 2"
+  },
+  {
+    "partNumber": 38,
+    "partName": "P.S BAHANPUR"
+  },
+  {
+    "partNumber": 39,
+    "partName": "P.S RAMDAIPUR RO.NO 1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "P.S RAMDAIPUR RO.NO 2"
+  },
+  {
+    "partNumber": 41,
+    "partName": "COMPOSITE VIDHYALAY RANVEERNAGAR RO.NO. 1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "COMPOSITE VIDHYALAY RANVEERNAGAR RO.NO. 2"
+  },
+  {
+    "partNumber": 43,
+    "partName": "COMPOSITE VIDHYALAY RANVEERNAGAR RO.NO. 3"
+  },
+  {
+    "partNumber": 44,
+    "partName": "COMPOSITE VIDHYALAY RANVEERNAGAR RO.NO.4"
+  },
+  {
+    "partNumber": 45,
+    "partName": "P.S RAMNAGAR FIRST RO.NO.1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "P.S RAMNAGAR  FIRST RO.NO 2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "P.S RAMNAGAR FIRST RO.NO 3"
+  },
+  {
+    "partNumber": 48,
+    "partName": "P.S RAMNAGAR FIRST RO.NO 4"
+  },
+  {
+    "partNumber": 49,
+    "partName": "P.S RAMNATHPUR  RO.NO 1"
+  },
+  {
+    "partNumber": 50,
+    "partName": "P.S RAMNATHPUR  RO.NO 2"
+  },
+  {
+    "partNumber": 51,
+    "partName": "P.S RAMNATHPUR  RO.NO 3"
+  },
+  {
+    "partNumber": 52,
+    "partName": "P.S SARAYKHEMA RO.NO 1"
+  },
+  {
+    "partNumber": 53,
+    "partName": "P.S SARAYKHEMA RO.NO 2"
+  },
+  {
+    "partNumber": 54,
+    "partName": "P.S SARAYKHEMA RO.NO 3"
+  },
+  {
+    "partNumber": 55,
+    "partName": "P.S SARAYKHEMA RO.NO 4"
+  },
+  {
+    "partNumber": 56,
+    "partName": "P.S BENIPUR RO.NO 1"
+  },
+  {
+    "partNumber": 57,
+    "partName": "P.S BENIPUR RO.NO 2"
+  },
+  {
+    "partNumber": 58,
+    "partName": "P.S DEVIPATAN-1 RO. NO 1"
+  },
+  {
+    "partNumber": 59,
+    "partName": "P.S DEVIPATAN-1 RO.NO 2"
+  },
+  {
+    "partNumber": 60,
+    "partName": "P.S DEVIPATAN SECOND RO.NO 1"
+  },
+  {
+    "partNumber": 61,
+    "partName": "P.S DEVIPATAN SECOND RO.NO 2"
+  },
+  {
+    "partNumber": 62,
+    "partName": "SHREE DEVIPATAN VIDHYALAY AMETHI RO.NO 1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "SHREE DEVIPATAN VIDHYALAY AMETHI RO.NO 2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "SHREE DEVIPATAN VIDHYALAY AMETHI RO.NO 3"
+  },
+  {
+    "partNumber": 65,
+    "partName": "P.S KUSHITALI"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PANCHYAT GHAR KATRA HULASI"
+  },
+  {
+    "partNumber": 67,
+    "partName": "P.S UMAPUR GANAPATTI RO.NO 1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "P.S UMAPUR GANAPATTI RO.NO 2"
+  },
+  {
+    "partNumber": 69,
+    "partName": "P.S JANGAL TIKARI"
+  },
+  {
+    "partNumber": 70,
+    "partName": "P.S BHAGANPUR"
+  },
+  {
+    "partNumber": 71,
+    "partName": "P.S TALA FIRST RO.NO 1"
+  },
+  {
+    "partNumber": 72,
+    "partName": "P.S TALA FIRST RO.NO 2"
+  },
+  {
+    "partNumber": 73,
+    "partName": "P.S  LOHARTA"
+  },
+  {
+    "partNumber": 74,
+    "partName": "P.S  DARKHA RO.NO 1"
+  },
+  {
+    "partNumber": 75,
+    "partName": "P.S  DARKHA RO.NO 2"
+  },
+  {
+    "partNumber": 76,
+    "partName": "P.S  SUNDERPUR"
+  },
+  {
+    "partNumber": 77,
+    "partName": "P.S  MOCHWA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "COMPOSITE VIDHYALAY AGHAR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "P.S  CHATURBHUJPUR RO.NO 1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "P.S  CHATURBHUJPUR RO.NO 2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "P.S  MAHRAJPUR"
+  },
+  {
+    "partNumber": 82,
+    "partName": "P.S  BIYASIYA"
+  },
+  {
+    "partNumber": 83,
+    "partName": "P.S. KAKWA RO.NO.1"
+  },
+  {
+    "partNumber": 84,
+    "partName": "P.S. KAKWA RO.NO. 2"
+  },
+  {
+    "partNumber": 85,
+    "partName": "P.S. KAKWA RO.NO-3"
+  },
+  {
+    "partNumber": 86,
+    "partName": "P.S  SAIDPUR"
+  },
+  {
+    "partNumber": 87,
+    "partName": "P.S  KOHRA RO.NO 1"
+  },
+  {
+    "partNumber": 88,
+    "partName": "P.S  KOHRA RO.NO 2"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PANCHYAT GHAR KOHRA"
+  },
+  {
+    "partNumber": 90,
+    "partName": "P.S. MAHAMADPUR FIRST RO.NO 1"
+  },
+  {
+    "partNumber": 91,
+    "partName": "P.S. MAHAMADPUR  FIRST RO.NO 2"
+  },
+  {
+    "partNumber": 92,
+    "partName": "P.S MAHAMADPUR FIRST RO.NO 3"
+  },
+  {
+    "partNumber": 93,
+    "partName": "P.S PURE LALA RAMPRASAD  RO.NO. 1"
+  },
+  {
+    "partNumber": 94,
+    "partName": "P.S PURE LALA RAMPRASAD  RO.NO.2"
+  },
+  {
+    "partNumber": 95,
+    "partName": "P.S  NARAINI RO.NO 1"
+  },
+  {
+    "partNumber": 96,
+    "partName": "P.S  NARAINI RO.NO 2"
+  },
+  {
+    "partNumber": 97,
+    "partName": "P.S  NARAINI RO.NO 3"
+  },
+  {
+    "partNumber": 98,
+    "partName": "P.S NARAINI RO.NO 4"
+  },
+  {
+    "partNumber": 99,
+    "partName": "P.S  POORABGANV"
+  },
+  {
+    "partNumber": 100,
+    "partName": "P.S DHANAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "P.S DHANAPUR RO.NO 2"
+  },
+  {
+    "partNumber": 102,
+    "partName": "P.S PITHIPUR"
+  },
+  {
+    "partNumber": 103,
+    "partName": "COMPOSITE VIDHYALAY GADERI RO.NO 1"
+  },
+  {
+    "partNumber": 104,
+    "partName": "COMPOSITE VIDHYALAY GADERI RO.NO 2"
+  },
+  {
+    "partNumber": 105,
+    "partName": "U.P.S GOSAIGANJ"
+  },
+  {
+    "partNumber": 106,
+    "partName": "COMPOSITE VIDHYALAY NUWAWAN RO.NO 1"
+  },
+  {
+    "partNumber": 107,
+    "partName": "COMPOSITE VIDHYALAY NUWAWAN RO.NO 2"
+  },
+  {
+    "partNumber": 108,
+    "partName": "P.S KORARI GIRDHAR SHAH FIRST RO.NO 1"
+  },
+  {
+    "partNumber": 109,
+    "partName": "P.S KORARI GIRDHAR SHAH FIRST RO.NO 2"
+  },
+  {
+    "partNumber": 110,
+    "partName": "P.S GHAGHUGHAR"
+  },
+  {
+    "partNumber": 111,
+    "partName": "P.S BARIYAPUR"
+  },
+  {
+    "partNumber": 112,
+    "partName": "P.S KATRA RAJA HIMMAT SINGH RO.NO 1"
+  },
+  {
+    "partNumber": 113,
+    "partName": "P.S KATRA RAJA HIMMAT SINGH RO.NO 2"
+  },
+  {
+    "partNumber": 114,
+    "partName": "J.H.S CHACHAKAPUR"
+  },
+  {
+    "partNumber": 115,
+    "partName": "P.S RAIDAYPUR"
+  },
+  {
+    "partNumber": 116,
+    "partName": "P.S LONIYAPUR RO. NO. 1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "P.S  LONIYAPUR RO. NO. 2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "P.S AMHA  RO.NO 1"
+  },
+  {
+    "partNumber": 119,
+    "partName": "P.S AMHA  RO.NO 2"
+  },
+  {
+    "partNumber": 120,
+    "partName": "P.S REBHA"
+  },
+  {
+    "partNumber": 121,
+    "partName": "P.S MAHSHO"
+  },
+  {
+    "partNumber": 122,
+    "partName": "P.S JAYRAMPUR"
+  },
+  {
+    "partNumber": 123,
+    "partName": "P.S. KHERAUNA RO.NO 1"
+  },
+  {
+    "partNumber": 124,
+    "partName": "P.S KHERAUNA RO.NO 2"
+  },
+  {
+    "partNumber": 125,
+    "partName": "COMPOSITE VIDHYALAY AMETHI RO.NO 1"
+  },
+  {
+    "partNumber": 126,
+    "partName": "CCOMPOSITE VIDHYALAY AMETHI RO.NO 2"
+  },
+  {
+    "partNumber": 127,
+    "partName": "COMPOSITE VIDHYALAY AMETHI  RO.NO. - 3"
+  },
+  {
+    "partNumber": 128,
+    "partName": "COMPOSITE VIDHYALAY AMETHI RO. NO.- 4"
+  },
+  {
+    "partNumber": 129,
+    "partName": "COMPOSITE VIDHYALAY AMETHI  RO. NO.-5"
+  },
+  {
+    "partNumber": 130,
+    "partName": "COMPOSITE VIDHYALAY  AMETHI RO. NO.- 6"
+  },
+  {
+    "partNumber": 131,
+    "partName": "P.S PARSAULI"
+  },
+  {
+    "partNumber": 132,
+    "partName": "P.S PARSAWAN RO.NO. 1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "P.S PARSAWAN RO.NO. 2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "P.S KATRA RANI PHOOLKUNVER RO.NO 1"
+  },
+  {
+    "partNumber": 135,
+    "partName": "P.S KATRA RANI PHOOLKUNVER RO.NO 2"
+  },
+  {
+    "partNumber": 136,
+    "partName": "COMPOSITE VIDHYALAY HATKILA"
+  },
+  {
+    "partNumber": 137,
+    "partName": "P.S DEDHPASAR RO.NO 1"
+  },
+  {
+    "partNumber": 138,
+    "partName": "P.S DEDHPASAR RO.NO 2"
+  },
+  {
+    "partNumber": 139,
+    "partName": "P.S JARAUTA"
+  },
+  {
+    "partNumber": 140,
+    "partName": "P.S UTTARGAON RO.NO 1"
+  },
+  {
+    "partNumber": 141,
+    "partName": "P.S UTTARGAON RO.NO 2"
+  },
+  {
+    "partNumber": 142,
+    "partName": "P.S RAJAPUR AMERUA RO.NO-1"
+  },
+  {
+    "partNumber": 143,
+    "partName": "P.S BHUSAHARI"
+  },
+  {
+    "partNumber": 144,
+    "partName": "P.S RAMGARH RO.NO 1"
+  },
+  {
+    "partNumber": 145,
+    "partName": "P.S RAMGARH RO.NO 2"
+  },
+  {
+    "partNumber": 146,
+    "partName": "P.S RAMGARH RO.NO 3"
+  },
+  {
+    "partNumber": 147,
+    "partName": "P.S RAJAPUR KOHRA"
+  },
+  {
+    "partNumber": 148,
+    "partName": "P.S.  KUDWA MAHMADPUR"
+  },
+  {
+    "partNumber": 149,
+    "partName": "P.S DEHRA RO.NO 1"
+  },
+  {
+    "partNumber": 150,
+    "partName": "P.S DEHRA RO.NO 2"
+  },
+  {
+    "partNumber": 151,
+    "partName": "P.S MISHRAULI BADGWAN"
+  },
+  {
+    "partNumber": 152,
+    "partName": "P.S PURE ICHCHHA"
+  },
+  {
+    "partNumber": 153,
+    "partName": "P.S MADHUPUR"
+  },
+  {
+    "partNumber": 154,
+    "partName": "P.S GANGAPUR"
+  },
+  {
+    "partNumber": 155,
+    "partName": "COMPOSITE VIDHYALAY PURE MUHIBSHAH RO.NO 1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "COMPOSITE VIDHYALAY PURE MUHIBSHAH RO.NO 2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "P.S KANSAPUR"
+  },
+  {
+    "partNumber": 158,
+    "partName": "BHIMSEN I.C BADGAON RO.NO.1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "BHIMSEN I.C BADGAON RO.NO-2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "BHIMSEN I.C BADGAON RO.NO-3"
+  },
+  {
+    "partNumber": 161,
+    "partName": "KALI J.H.S GORKHAPUR RO NO 1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "KALI J.H.S GORKHAPUR RO NO 2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "P.S HIMMATGARH RO.NO 1"
+  },
+  {
+    "partNumber": 164,
+    "partName": "P.S HIMMATGARH RO.NO 2"
+  },
+  {
+    "partNumber": 165,
+    "partName": "P.S BHAIRAVPUR RO.NO 1"
+  },
+  {
+    "partNumber": 166,
+    "partName": "P.S BHAIRAVPUR RO.NO 2"
+  },
+  {
+    "partNumber": 167,
+    "partName": "P.S ITAURI"
+  },
+  {
+    "partNumber": 168,
+    "partName": "P.M.V. PUNNPUR RO. NO.- 1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "P.M.V. PUNNPUR RO. NO. - 2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "P.M.V. PUNNPUR RO. NO. - 3"
+  },
+  {
+    "partNumber": 171,
+    "partName": "P.S NEWADA KANU"
+  },
+  {
+    "partNumber": 172,
+    "partName": "P.S SARAIYA KANU RO.NO 1"
+  },
+  {
+    "partNumber": 173,
+    "partName": "P.S SARAIYA KANU RO.NO 2"
+  },
+  {
+    "partNumber": 174,
+    "partName": "P.S KANU RO. NO 1"
+  },
+  {
+    "partNumber": 175,
+    "partName": "P.S KANU RO.NO 2"
+  },
+  {
+    "partNumber": 176,
+    "partName": "I.C KALIKAN RO.NO-1"
+  },
+  {
+    "partNumber": 177,
+    "partName": " I.C KALIKAN RO.NO 2"
+  },
+  {
+    "partNumber": 178,
+    "partName": " I.C KALIKAN RO.NO 3"
+  },
+  {
+    "partNumber": 179,
+    "partName": "P.S. MALLUPUR SECOND RO.NO 1"
+  },
+  {
+    "partNumber": 180,
+    "partName": "P.S. MALLUPUR SECOND RO.NO 2"
+  },
+  {
+    "partNumber": 181,
+    "partName": "P.S. MALLUPUR SECOND RO.NO 3"
+  },
+  {
+    "partNumber": 182,
+    "partName": "P.S KHARETHU"
+  },
+  {
+    "partNumber": 183,
+    "partName": "P.S GUJIPUR"
+  },
+  {
+    "partNumber": 184,
+    "partName": "P.S SAHJIPUR RO.NO 1"
+  },
+  {
+    "partNumber": 185,
+    "partName": "P.S SAHJIPUR RO.NO 2"
+  },
+  {
+    "partNumber": 186,
+    "partName": "COMPOSITE VIDHYALAY SHUKULPUR"
+  },
+  {
+    "partNumber": 187,
+    "partName": "P.S PATAPUR"
+  },
+  {
+    "partNumber": 188,
+    "partName": "P.S PURE GARGAN"
+  },
+  {
+    "partNumber": 189,
+    "partName": "COMPOSITE VIDHYALAY BELKHARI"
+  },
+  {
+    "partNumber": 190,
+    "partName": "P.S KASARA"
+  },
+  {
+    "partNumber": 191,
+    "partName": "P.S TARAPUR"
+  },
+  {
+    "partNumber": 192,
+    "partName": "P.S MISHRAULI MAFI"
+  },
+  {
+    "partNumber": 193,
+    "partName": "P.S KARAUNDI"
+  },
+  {
+    "partNumber": 194,
+    "partName": "P.S MANDAULI"
+  },
+  {
+    "partNumber": 195,
+    "partName": "P.S BADLAPUR"
+  },
+  {
+    "partNumber": 196,
+    "partName": "P.S THENGHA RO.NO 1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "P.S THENGHA RO.NO 2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "RANANJAY I.C THENGHA"
+  },
+  {
+    "partNumber": 199,
+    "partName": "P.S KHAUNPUR BUJURG"
+  },
+  {
+    "partNumber": 200,
+    "partName": "COMPOSITE VIDHYALAY AMBARPUR RO. NO. -1"
+  },
+  {
+    "partNumber": 201,
+    "partName": "COMPOSITE VIDHYALAY AMBARPUR RO. NO. - 2"
+  },
+  {
+    "partNumber": 202,
+    "partName": "P.S DHAURAHARA RO.NO 1"
+  },
+  {
+    "partNumber": 203,
+    "partName": "P.S. DHAURAHARA RO.NO 2"
+  },
+  {
+    "partNumber": 204,
+    "partName": "P.M.V. DHAURAHARA "
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSITE VIDHYALAY BHAWALPUR RO.NO 1"
+  },
+  {
+    "partNumber": 206,
+    "partName": "COMPOSITE VIDHYALAY BHAWALPUR RO.NO -2"
+  },
+  {
+    "partNumber": 207,
+    "partName": "P.S BANVEERPUR"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE  VIDHYALAY CHANDERIYA RO. NO 1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE VIDHYALAY CHANDERIYA RO. NO. -2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "COMPOSITE VIDHYALAY KARNAIPUR RO.NO 1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "COMPOSITE VIDHYALAY KARNAIPUR RO.NO 2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "COMPOSITE VIDHYALAY KARNAIPUR RO NO 3"
+  },
+  {
+    "partNumber": 213,
+    "partName": "COMPOSITE VIDHYALAY DHOYEN RO.NO. - 1"
+  },
+  {
+    "partNumber": 214,
+    "partName": "COMPOSITE VIDHYALAY DHOYEN RO.NO. - 2"
+  },
+  {
+    "partNumber": 215,
+    "partName": "P.S SAKAR MANAPATTI"
+  },
+  {
+    "partNumber": 216,
+    "partName": "P.S KAMASIN"
+  },
+  {
+    "partNumber": 217,
+    "partName": "P.S. GUNGWACHH RO.NO. - 1"
+  },
+  {
+    "partNumber": 218,
+    "partName": "P.S. GUNGWACHH RO.NO 2"
+  },
+  {
+    "partNumber": 219,
+    "partName": "P.S MATHKANAIGIRI"
+  },
+  {
+    "partNumber": 220,
+    "partName": "P.S BAISADA"
+  },
+  {
+    "partNumber": 221,
+    "partName": "P.S PATKHAULI"
+  },
+  {
+    "partNumber": 222,
+    "partName": "P.S BHETUA RO.NO 1"
+  },
+  {
+    "partNumber": 223,
+    "partName": "P.S BHETUA RO.NO 2"
+  },
+  {
+    "partNumber": 224,
+    "partName": "P.S BHETUA RO.NO 3"
+  },
+  {
+    "partNumber": 225,
+    "partName": "P.S ARSAHANI"
+  },
+  {
+    "partNumber": 226,
+    "partName": "P.S BHARETHA RO.NO 1"
+  },
+  {
+    "partNumber": 227,
+    "partName": "P.S BHARETHA RO.NO 2"
+  },
+  {
+    "partNumber": 228,
+    "partName": "P.S BHARETHA RO.NO 3"
+  },
+  {
+    "partNumber": 229,
+    "partName": "P.S KADERGAON"
+  },
+  {
+    "partNumber": 230,
+    "partName": "P.S PINDORIYA RO.NO.1"
+  },
+  {
+    "partNumber": 231,
+    "partName": "P.S PINDORIYA RO.NO.2"
+  },
+  {
+    "partNumber": 232,
+    "partName": "P.S PINDORIYA RO.NO.3"
+  },
+  {
+    "partNumber": 233,
+    "partName": "P.S SUMERPUR"
+  },
+  {
+    "partNumber": 234,
+    "partName": "P.S MANIRAMPUR"
+  },
+  {
+    "partNumber": 235,
+    "partName": "COMPOSITE VIDHYALAY KATRARANI"
+  },
+  {
+    "partNumber": 236,
+    "partName": "P.S BANDOIYA"
+  },
+  {
+    "partNumber": 237,
+    "partName": "P.S DARAIMAFI"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSITE VIDHYALAY NAUGIRWA"
+  },
+  {
+    "partNumber": 239,
+    "partName": "P.S PEEPARPUR"
+  },
+  {
+    "partNumber": 240,
+    "partName": "P.S TIKARI RO.NO 1"
+  },
+  {
+    "partNumber": 241,
+    "partName": "P.S TIKARI RO.NO 2"
+  },
+  {
+    "partNumber": 242,
+    "partName": "P.S TIKARI RO.NO 3"
+  },
+  {
+    "partNumber": 243,
+    "partName": "P.S TIKARI RO.NO 4"
+  },
+  {
+    "partNumber": 244,
+    "partName": "P.S TIKARI RO.NO 5"
+  },
+  {
+    "partNumber": 245,
+    "partName": "P.S PURE PADMIN TIKARI"
+  },
+  {
+    "partNumber": 246,
+    "partName": "P.S GHURHA"
+  },
+  {
+    "partNumber": 247,
+    "partName": "P.S MAI RO.NO 1"
+  },
+  {
+    "partNumber": 248,
+    "partName": "P.S MAI RO.NO 2"
+  },
+  {
+    "partNumber": 249,
+    "partName": "P.S SANHA"
+  },
+  {
+    "partNumber": 250,
+    "partName": "P.S PARTOSH"
+  },
+  {
+    "partNumber": 251,
+    "partName": "P.S TIKAWAR "
+  },
+  {
+    "partNumber": 252,
+    "partName": "COMPOSITE VIDHYALAY GHATKAUR"
+  },
+  {
+    "partNumber": 253,
+    "partName": "P.S BASUPUR"
+  },
+  {
+    "partNumber": 254,
+    "partName": "U.P.S KHANDHAR"
+  },
+  {
+    "partNumber": 255,
+    "partName": "P.S HEERAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 256,
+    "partName": "P.S HEERAPUR RO.NO 2"
+  },
+  {
+    "partNumber": 257,
+    "partName": "P.S GAIRIKPUR RO.NO 1"
+  },
+  {
+    "partNumber": 258,
+    "partName": "P.S GAIRIKPUR RO.NO 2"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE VIDHYALAY HARIPUR"
+  },
+  {
+    "partNumber": 260,
+    "partName": "P.S SHAHARI"
+  },
+  {
+    "partNumber": 261,
+    "partName": "P.S SARAIYA MOHAN"
+  },
+  {
+    "partNumber": 262,
+    "partName": "U.P.S AMAYEMAFI RO.NO 1"
+  },
+  {
+    "partNumber": 263,
+    "partName": "U.P.S AMAYEMAFI ROOM NO 2"
+  },
+  {
+    "partNumber": 264,
+    "partName": "U.P.S AMAYEMAFI ROOM NO 3"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSITE VIDHYALAY SHIVGARH JALALPUR ROOM NO 1"
+  },
+  {
+    "partNumber": 266,
+    "partName": "COMPOSITE VIDHYALAY SHIVGARH JALALPUR ROOM NO 2"
+  },
+  {
+    "partNumber": 267,
+    "partName": "P.S GANGAHUWA"
+  },
+  {
+    "partNumber": 268,
+    "partName": "U.P.S BHIMI ROOM NO 1"
+  },
+  {
+    "partNumber": 269,
+    "partName": "U.P.S BHIMI ROOM NO 2"
+  },
+  {
+    "partNumber": 270,
+    "partName": "U.P.S BHIMI ROOM NO 3"
+  },
+  {
+    "partNumber": 271,
+    "partName": "U.P.S BHIMI ROOM NO 4"
+  },
+  {
+    "partNumber": 272,
+    "partName": "P.S BALIPUR"
+  },
+  {
+    "partNumber": 273,
+    "partName": "G.I.C TIKARMAFI RO.NO 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "G.I.C TIKARMAFI RO.NO 2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "G.I.C TIKARMAFI RO.NO 3"
+  },
+  {
+    "partNumber": 276,
+    "partName": "G.I.C TIKARMAFI RO.NO 4"
+  },
+  {
+    "partNumber": 277,
+    "partName": "GGIC SONARIKALA RO.NO 1"
+  },
+  {
+    "partNumber": 278,
+    "partName": "GGIC SONARIKALA RO.NO 2"
+  },
+  {
+    "partNumber": 279,
+    "partName": "GGIC SONARIKALA RO.NO 3"
+  },
+  {
+    "partNumber": 280,
+    "partName": "P.S AMTAHI RO.NO 1"
+  },
+  {
+    "partNumber": 281,
+    "partName": "P.S AMTAHI RO.NO 2"
+  },
+  {
+    "partNumber": 282,
+    "partName": "COMPOSITE VIDHYALAY BHADAR-1 RO. NO. - 1"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSITE VIDHYALAY BHADAR-1 RO. NO. - 2"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE VIDHYALAY BHADAR-1 RO. NO. - 3"
+  },
+  {
+    "partNumber": 285,
+    "partName": "P.S GAJIPUR KESHAVPUR"
+  },
+  {
+    "partNumber": 286,
+    "partName": "U.P.S. BHADAR-2 RO. NO. - 1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "U.P.S. BHADAR-2 RO. NO. - 2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "DULHARAI SCHOOL BHADAR RO.NO 1"
+  },
+  {
+    "partNumber": 289,
+    "partName": "DULHARAI SCHOOL BHADAR RO.NO 2"
+  },
+  {
+    "partNumber": 290,
+    "partName": "P.S RATAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 291,
+    "partName": "P.S RATAPUR RO.NO 2"
+  },
+  {
+    "partNumber": 292,
+    "partName": "P.S RATAPUR RO.NO 3"
+  },
+  {
+    "partNumber": 293,
+    "partName": "P.S NARHARPUR RO.NO 1"
+  },
+  {
+    "partNumber": 294,
+    "partName": "P.S NARHARPUR RO.NO 2"
+  },
+  {
+    "partNumber": 295,
+    "partName": "COMPOSITE SCHOOL PURE OJHA BHAWAPUR GARAPUR RO. NO. - 1"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOSITE SCHOOL PURE OJHA BHAWAPUR GARAPUR RO. NO. - 2"
+  },
+  {
+    "partNumber": 297,
+    "partName": "P.S PURE BHAURAHAN"
+  },
+  {
+    "partNumber": 298,
+    "partName": "P.S. CHHACHHA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "CHAUDHARI CHARAN SINGH I.C PARASRAMPUR RO.NO 1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "CHAUDHARI CHARAN SINGH I.C PARASRAMPUR RO.NO 2"
+  },
+  {
+    "partNumber": 301,
+    "partName": "P.S MANGRA RO.NO 1"
+  },
+  {
+    "partNumber": 302,
+    "partName": "P.S MANGRA RO.NO 2"
+  },
+  {
+    "partNumber": 303,
+    "partName": "COMPOISITE VIDHYALAY MAWAIYA RO.NO 1"
+  },
+  {
+    "partNumber": 304,
+    "partName": "COMPOSITE VIDHYALAY MAWAIYA RO.NO 2"
+  },
+  {
+    "partNumber": 305,
+    "partName": "P.S BHAINSAHA"
+  },
+  {
+    "partNumber": 306,
+    "partName": "P.S DHEMA RO.NO 1"
+  },
+  {
+    "partNumber": 307,
+    "partName": "P.S DHEMA RO.NO 2"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PANCHAYAT GHAR TRILOKPUR"
+  },
+  {
+    "partNumber": 309,
+    "partName": "COMPOSITE VIDHYALAY VASUDEVPUR"
+  },
+  {
+    "partNumber": 310,
+    "partName": "P.S AGRESAR RO.NO 1"
+  },
+  {
+    "partNumber": 311,
+    "partName": "P.S AGRESAR RO.NO 2"
+  },
+  {
+    "partNumber": 312,
+    "partName": "P.S SONARI RO.NO 1"
+  },
+  {
+    "partNumber": 313,
+    "partName": "P.S SONARI RO.NO 2"
+  },
+  {
+    "partNumber": 314,
+    "partName": "U.P.S SONARI RO.NO 2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "U.P.S SONARI RO.NO 2"
+  },
+  {
+    "partNumber": 316,
+    "partName": "SANSKRIT P.S SINGTHI"
+  },
+  {
+    "partNumber": 317,
+    "partName": "P.S NAGARDEEH RO.NO 1"
+  },
+  {
+    "partNumber": 318,
+    "partName": "P.S NAGARDEEH RO.NO 2"
+  },
+  {
+    "partNumber": 319,
+    "partName": "P.S MANDAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "P.S MANDAPUR RO.NO 2"
+  },
+  {
+    "partNumber": 321,
+    "partName": "COMPOSITE VIDHYALAY BHENWAI RO.NO 1"
+  },
+  {
+    "partNumber": 322,
+    "partName": "COMPOSITE VIDHYALAY BHENWAI RO.NO 2"
+  },
+  {
+    "partNumber": 323,
+    "partName": "P.S KHARAGPUR RO.NO 1"
+  },
+  {
+    "partNumber": 324,
+    "partName": "P.S KHARAGPUR RO NO 2"
+  },
+  {
+    "partNumber": 325,
+    "partName": "COMPOSITE VIDHYALAY NEWADHIYA RO.NO 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "COMPOSITE VIDHYALAY NEWADHIYA RO.NO 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "COMPOSITE VIDHYALAY SAWANGI RO.NO 1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "COMPOSITE VIDHYALAY SAWANGI RO.NO 2"
+  },
+  {
+    "partNumber": 329,
+    "partName": "P.S KASTURIPUR"
+  },
+  {
+    "partNumber": 330,
+    "partName": "P.S ISMAILPUR RO.NO 1"
+  },
+  {
+    "partNumber": 331,
+    "partName": "P.S ISMAILPUR RO.NO 2"
+  },
+  {
+    "partNumber": 332,
+    "partName": "P.S PURE BHOJAI MISHRA"
+  },
+  {
+    "partNumber": 333,
+    "partName": "P.S BAIDHIKPUR"
+  },
+  {
+    "partNumber": 334,
+    "partName": "P.S USKA"
+  },
+  {
+    "partNumber": 335,
+    "partName": "P.S KALYANPUR RO.NO 1"
+  },
+  {
+    "partNumber": 336,
+    "partName": "P.S KALYANPUR RO NO 2"
+  },
+  {
+    "partNumber": 337,
+    "partName": "COMPOSITE VIDHYALAY BHADANV RO.NO 1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "COMPOSITE VIDHYALAY BHADANV RO NO 2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "P.S HANUMAT NAGAR"
+  },
+  {
+    "partNumber": 340,
+    "partName": "P.S DASAIPUR"
+  },
+  {
+    "partNumber": 341,
+    "partName": "P.S MOCHAWA RO.NO 1"
+  },
+  {
+    "partNumber": 342,
+    "partName": "P.S MOCHAWA RO.NO 2"
+  },
+  {
+    "partNumber": 343,
+    "partName": "P.S MOCHWA RO.NO 3"
+  },
+  {
+    "partNumber": 344,
+    "partName": "COMPOSITE VIDHYALAY LAHNA RO.NO 1"
+  },
+  {
+    "partNumber": 345,
+    "partName": "COMPOSITE VIDHYALAY LAHNA RO.NO 2"
+  },
+  {
+    "partNumber": 346,
+    "partName": "P.S BHOJPUR RO NO 1"
+  },
+  {
+    "partNumber": 347,
+    "partName": "COMPOSITE VIDHYALAY VIJRA RO.NO 1"
+  },
+  {
+    "partNumber": 348,
+    "partName": "COMPOSITE VIDHYALAY VIJRA RO NO 2"
+  },
+  {
+    "partNumber": 349,
+    "partName": "P.S PEEPARPUR RO.NO 1"
+  },
+  {
+    "partNumber": 350,
+    "partName": "P.S PEEPARPUR RO.NO 2"
+  },
+  {
+    "partNumber": 351,
+    "partName": "P.S PEEPARPUR RO.NO 3"
+  },
+  {
+    "partNumber": 352,
+    "partName": "COMPOSITE VIDHYALAY DAHIYAWAN RO.NO 1"
+  },
+  {
+    "partNumber": 353,
+    "partName": "COMPOSITE VIDHYALAY DAHIYAWAN RO.NO 2"
+  },
+  {
+    "partNumber": 354,
+    "partName": "P.S MARUI"
+  },
+  {
+    "partNumber": 355,
+    "partName": "COMPOSITE VIDHYALAY SANGAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 356,
+    "partName": "COMPOSITE VIDHYALAY SANGAPUR RO. NO 2"
+  },
+  {
+    "partNumber": 357,
+    "partName": "P.S PATHAKPUR"
+  },
+  {
+    "partNumber": 358,
+    "partName": "P.S RAGHAVPUR"
+  },
+  {
+    "partNumber": 359,
+    "partName": "P.S KHANAPUR"
+  },
+  {
+    "partNumber": 360,
+    "partName": "P.S DURGAPUR RO.NO 1"
+  },
+  {
+    "partNumber": 361,
+    "partName": "P.S DURGAPUR RO.NO 2"
+  },
+  {
+    "partNumber": 362,
+    "partName": "P.S DURGAPUR RO.NO 3"
+  },
+  {
+    "partNumber": 363,
+    "partName": "P.S KURANG"
+  },
+  {
+    "partNumber": 364,
+    "partName": "P.S  RAYPUR RAMGANJ-2"
+  },
+  {
+    "partNumber": 365,
+    "partName": "P.S. RAYPUR RAMGANJ RO.NO 1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "P.S. RAYPUR RAMGANJ RO.NO 2"
+  },
+  {
+    "partNumber": 367,
+    "partName": "P.S. RAYPUR RAMGANJ RO NO 3"
+  },
+  {
+    "partNumber": 368,
+    "partName": "P.S. RAYPUR RAMGANJ RO.NO 4"
+  },
+  {
+    "partNumber": 369,
+    "partName": "P.S SANSARIPUR"
+  },
+  {
+    "partNumber": 370,
+    "partName": "P.S DULHINPUR"
+  },
+  {
+    "partNumber": 371,
+    "partName": "COMPOSITE VIDHYALAY BHAGIPUR"
+  },
+  {
+    "partNumber": 372,
+    "partName": "COMPOSITE VIDHYALAY TRISHUNDI RO. NO. - 1"
+  },
+  {
+    "partNumber": 373,
+    "partName": "COMPOSITE VIDHYALAY TRISHUNDI RO. NO. - 2"
+  },
+  {
+    "partNumber": 374,
+    "partName": "COMPOSITE VIDHYALAY TRISHUNDI RO. NO. - 3"
+  },
+  {
+    "partNumber": 375,
+    "partName": "COMPOSITE SCHOOL CHHEEDA"
+  }
+]

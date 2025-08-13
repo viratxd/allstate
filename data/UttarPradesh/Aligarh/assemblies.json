@@ -1,0 +1,37 @@
+[
+  {
+    "acNumber": 76,
+    "asmblyName": "Aligarh",
+    "asmblyNameL1": "अलीगढ़"
+  },
+  {
+    "acNumber": 73,
+    "asmblyName": "Atrauli",
+    "asmblyNameL1": "अतरौली"
+  },
+  {
+    "acNumber": 72,
+    "asmblyName": "Barauli",
+    "asmblyNameL1": "बरौली"
+  },
+  {
+    "acNumber": 74,
+    "asmblyName": "Chharra",
+    "asmblyNameL1": "छर्रा"
+  },
+  {
+    "acNumber": 77,
+    "asmblyName": "Iglas ",
+    "asmblyNameL1": "इगलास"
+  },
+  {
+    "acNumber": 71,
+    "asmblyName": "Khair ",
+    "asmblyNameL1": "खैर"
+  },
+  {
+    "acNumber": 75,
+    "asmblyName": "Koil",
+    "asmblyNameL1": "कोल"
+  }
+]

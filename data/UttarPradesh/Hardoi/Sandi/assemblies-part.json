@@ -1,0 +1,1526 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "COMPOSITE SCHOOL TEBHANAPUR"
+  },
+  {
+    "partNumber": 2,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL AKHWELPUR MALWA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL TIMLAIKHEDA MAJRA AKHWELPUR MALWA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL SADULLAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRIMARY SCHOOL SADULLAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 6,
+    "partName": "PRIMARY SCHOOL KHERWA AMJADPUR"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRIMARY SCHOOL GASAPUR MAJRA SAITIYAPUR"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRIMARY SCHOOL SAITIYAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRIMARY SCHOOL SAITIYAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 10,
+    "partName": "JUNIOR HIGH SCHOOL SANGAICHAMAU ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 11,
+    "partName": "JUNIOR HIGH SCHOOL SANGAICHAMAU ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRIMARY SCHOOL SEMRA MAJRA SANYAKHAMAU"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRIMARY SCHOOL PIDHATHIYA MAJRA JAJWASI"
+  },
+  {
+    "partNumber": 14,
+    "partName": "COMPOSITE SCHOOL JAJWASI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 15,
+    "partName": "COMPOSITE SCHOOL JAJWASI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL AMLAUKHA"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL BAGHRAI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMARY SCHOOL BAGHRAI ROOM NUMBER2"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PRIMARY SCHOOL MURAULI GWAL"
+  },
+  {
+    "partNumber": 20,
+    "partName": "JUNIOR HIGH SCHOOL LAHAURIPURWA MAJRA SAIDAPUR"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRIMARY SCHOOL SAIDAPUR"
+  },
+  {
+    "partNumber": 22,
+    "partName": "COMPOSITE SCHOOL ADAMPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 23,
+    "partName": "COMPOSITE SCHOOL ADAMPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 24,
+    "partName": "COMPOSITE SCHOOL ADAMPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 25,
+    "partName": "GIRLS PRIMARY SCHOOL CHHITEPUR MAJRA ADAMPUR"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMARY SCHOOL SANTOSHANPURWA MAJRA KOILAI"
+  },
+  {
+    "partNumber": 27,
+    "partName": "PRIMARY SCHOOL KOILAI"
+  },
+  {
+    "partNumber": 28,
+    "partName": "PRIMARY SCHOOL ODRA"
+  },
+  {
+    "partNumber": 29,
+    "partName": "PRIMARY SCHOOL RASOOLPUR AIMA"
+  },
+  {
+    "partNumber": 30,
+    "partName": "PRIMARY SCHOOL MIRZAPUR"
+  },
+  {
+    "partNumber": 31,
+    "partName": "PRIMARY SCHOOL BHAURAJPUR"
+  },
+  {
+    "partNumber": 32,
+    "partName": "JUNIOR HIGH SCHOOL KILA SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 33,
+    "partName": "JUNIOR HIGH SCHOOL KILA SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 34,
+    "partName": "PRIMARY SCHOOL KHALSA SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 35,
+    "partName": "PRIMARY SCHOOL KHALSA SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 36,
+    "partName": "JUNIOR HIGH SCHOOL KHIDKIYA SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 37,
+    "partName": "JUNIOR HIGH SCHOOL KHIDKIYA SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PRIMARY SCHOOL KHIDKIYA SANDI"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRIMARY SCHOOL NAWABGANJ SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRIMARY SCHOOL NAWABGANJ SANDI EXTRA ROOM"
+  },
+  {
+    "partNumber": 41,
+    "partName": "PRIMARY SCHOOL NAWABGANJ SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 42,
+    "partName": "DEVELOPMENT BLOCK OFFICE SANDI ROOM NO. 1"
+  },
+  {
+    "partNumber": 43,
+    "partName": "DEVELOPMENT BLOCK OFFICE SANDI ROOM NO. 2"
+  },
+  {
+    "partNumber": 44,
+    "partName": "PRIMARY SCHOOL NAUSHRA SANDI"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRIMARY SCHOOL MUNSHIGANJ SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRIMARY SCHOOL MUNSHIGANJ SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL SANDI NAUSHRA"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRIMARY SCHOOL SALAMULLAGANJ SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL SALAMULLAGANJ SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 50,
+    "partName": "VISHWA BANDHU INTER COLLEGE SANDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "VISHWA BANDHU INTER COLLEGE SANDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "VISHWA BANDHU INTER COLLEGE SANDI ROOM NUMBER 3"
+  },
+  {
+    "partNumber": 53,
+    "partName": "OFFICE OF MUNICIPAL COUNCIL SANDI ROOM NO. 1"
+  },
+  {
+    "partNumber": 54,
+    "partName": "OFFICE MUNICIPAL COUNCIL SANDI ROOM NO. 2"
+  },
+  {
+    "partNumber": 55,
+    "partName": "PRIMARY SCHOOL BEHTI CHIRAGPUR"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL BHIKHPUR"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL PARSAPUR"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRIMARY SCHOOL MURAULI KATHARIYAN ROOM NUMBER1"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY SCHOOL MURAULI KATHARIYAN ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 60,
+    "partName": "PRIMARY SCHOOL NEKPUR HATIMPUR"
+  },
+  {
+    "partNumber": 61,
+    "partName": "PRIMARY SCHOOL BHAIRAMPUR"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL CHAUDHARIYAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 63,
+    "partName": "PRIMARY SCHOOL CHAUDHARIYAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 64,
+    "partName": "PRIMARY SCHOOL MASOODPURWA"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRIMARY SCHOOL BHAUPURWA"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PRIMARY SCHOOL MITMITPUR"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRIMARY SCHOOL GANJRI"
+  },
+  {
+    "partNumber": 68,
+    "partName": "JUNIOR HIGH SCHOOL KUWARIYAPUR"
+  },
+  {
+    "partNumber": 69,
+    "partName": "PRIMARY SCHOOL KAIMAU"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRIMARY SCHOOL SAKHEDA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMARY SCHOOL SAKHEDA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 72,
+    "partName": "JUNIOR HIGH SCHOOL DHODHI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "JUNIOR HIGH SCHOOL DHODHI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "PRIMARY SCHOOL NAUPURWA"
+  },
+  {
+    "partNumber": 75,
+    "partName": "PRIMARY SCHOOL ALIYAPUR"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PRIMARY SCHOOL HASNAPUR ROOM NUMBER1"
+  },
+  {
+    "partNumber": 77,
+    "partName": "PRIMARY SCHOOL HASNAPUR ROOM NUMBER2"
+  },
+  {
+    "partNumber": 78,
+    "partName": "PRIMARY SCHOOL SAMJALPUR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL JARAULI KALA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 80,
+    "partName": "PRIMARY SCHOOL JARAULI KALA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 81,
+    "partName": "PRIMARY SCHOOL DHADHAMAU"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRIMARY SCHOOL AJMATNAGAR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL AJMATNAGAR ROOMNUMBER. 2"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRIMARY SCHOOL RAMPUR MAJHIYARA"
+  },
+  {
+    "partNumber": 85,
+    "partName": "JUNIOR HIGH SCHOOL DHARAMPUR"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PRIMARY SCHOOL TERWA CHANDPUR"
+  },
+  {
+    "partNumber": 87,
+    "partName": "PRIMARY SCHOOL NEKPUR NEVADA"
+  },
+  {
+    "partNumber": 88,
+    "partName": "PRIMARY SCHOOL PANYODA"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRIMARY SCHOOL DHANSARI"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY SCHOOL SIRAICHMAU"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRIMARY SCHOOL ALAPUR"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRIMARY SCHOOL BEHTA BUJURG ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRIMARY SCHOOL BEHTA BUJURG ROOM NUMBER2"
+  },
+  {
+    "partNumber": 94,
+    "partName": "JUNIOR HIGH SCHOOL DURGAGANJ ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "JUNIOR HIGH SCHOOL DURGAGANJ ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRIMARY SCHOOL DURGAGANJ ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRIMARY SCHOOL DURGAGANJ ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRIMARY SCHOOL SARAUNA"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL DHODPUR"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PANCHAYAT GHAR HASOLIYA"
+  },
+  {
+    "partNumber": 101,
+    "partName": "PRIMARY SCHOOL SAHORA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRIMARY SCHOOL SAHORA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRIMARY SCHOOL MADARA"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL NAWABGANJ PINDARI"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL DAGHELAPURWA PINDARI"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRIMARY SCHOOL JATPURA"
+  },
+  {
+    "partNumber": 107,
+    "partName": "JUNIOR HIGH SCHOOL PINDARI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 108,
+    "partName": "JUNIOR HIGH SCHOOL PINDARI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY SCHOOL TERIYA"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRIMARY SCHOOL PAROUCHI"
+  },
+  {
+    "partNumber": 111,
+    "partName": "COMPOSITE SCHOOL CHACHRAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 112,
+    "partName": "COMPOSITE SCHOOL CHACHRAPUR ROOM NUMBER2"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PRIMARY SCHOOL MAJHIYA"
+  },
+  {
+    "partNumber": 114,
+    "partName": "JUNIOR HIGH SCHOOL RASULPUR GOA"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL KHUTEHANA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "PRIMARY SCHOOL GANDHI MAJRA KHUTEHANA"
+  },
+  {
+    "partNumber": 117,
+    "partName": "PRIMARY SCHOOL ULLAMAU"
+  },
+  {
+    "partNumber": 118,
+    "partName": "PRIMARY SCHOOL DATELI"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL KAKEDI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL KAKEDI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY SCHOOL AKHNAPUR"
+  },
+  {
+    "partNumber": 122,
+    "partName": "PRIMARY SCHOOL MADHAUPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "PRIMARY SCHOOL MADHAUPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "PRIMARY SCHOOL SATHRA ROOM NUMBER1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "PRIMARY SCHOOL SATHRA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 126,
+    "partName": "PRIMARY SCHOOL PENG ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 127,
+    "partName": "PRIMARY SCHOOL PENG ROOM NUMBER. 2"
+  },
+  {
+    "partNumber": 128,
+    "partName": "PRIMARY SCHOOL SARRA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 129,
+    "partName": "PRIMARY SCHOOL SARRA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 130,
+    "partName": "PRIMARY SCHOOL SARA EXTRA ROOM"
+  },
+  {
+    "partNumber": 131,
+    "partName": "COMPOSITE SCHOOL JOORA"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRIMARY SCHOOL RATNAPUR MAJRA JOORA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL RATNAPUR MAJRA JOORA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 134,
+    "partName": "ADARSH ​​KRISHNA VIDYA MANDIR INTER COLLEGE BHADAICHA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 135,
+    "partName": "ADARSH ​​KRISHNA VIDYA MANDIR INTER COLLEGE BHADAICHA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRIMARY SCHOOL BHADAICHA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRIMARY SCHOOL BHADAICHA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL ASYOLI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL ASYOLI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRIMARY SCHOOL DEVARIYA"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRIMARY SCHOOL KHAJURAHARA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL KHAJURAHARA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL KHAJURAHARA EXTRA ROOM"
+  },
+  {
+    "partNumber": 144,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL BARAHA MAJRA KHAJURHARA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 145,
+    "partName": "GIRLS JUNIOR HIGH SCHOOL BARAHA MAJRA KHAJURHARA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 146,
+    "partName": "JUNIOR HIGH SCHOOL KHAJURHARA ROOMNUMBER1"
+  },
+  {
+    "partNumber": 147,
+    "partName": "JUNIOR HIGH SCHOOL KHAJURHARA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 148,
+    "partName": "JUNIOR HIGH SCHOOL KHAJURHARA ROOM NUMBER3"
+  },
+  {
+    "partNumber": 149,
+    "partName": "JUNIOR HIGH SCHOOL KHAJURHARA EXTRA  ROOM"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PRIMARY SCHOOL SATHRI MAJRA KHAJURHARA ROOM NUMBER1"
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRIMARY SCHOOL SATHRI MAJRA KHAJURHARA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRIMARY SCHOOL SURSA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 153,
+    "partName": "PRIMARY SCHOOL SURSA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 154,
+    "partName": "PRIMARY SCHOOL NEVADA"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRIMARY SCHOOL ODRA NEVLIYA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL ODRA NEVALIYA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY SCHOOL ODRA NEVALIYA ROOM NUMBER 3"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PRIMARY SCHOOL DHOLIYA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY SCHOOL DHOLIYA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRIMARY SCHOOL MALIHAMAU"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRIMARY SCHOOL BAUSRA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRIMARY SCHOOL BAUSRA ROOM NUMBER2"
+  },
+  {
+    "partNumber": 163,
+    "partName": "JUNIOR HIGH SCHOOL HUSIYAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 164,
+    "partName": "JUNIOR HIGH SCHOOL HUSIYAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 165,
+    "partName": "JUNIOR HIGH SCHOOL SUGAWA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 166,
+    "partName": "JUNIOR HIGH SCHOOL SUGAWA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL RAMAPUR"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL FATIYAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY SCHOOL FATIYAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 170,
+    "partName": "PRIMARY SCHOOL FATIYAPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 171,
+    "partName": "PRIMARY SCHOOL VIRAHIMPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRIMARY SCHOOL VIRAHIMPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRIMARY SCHOOL MOHKAMPUR"
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRIMARY SCHOOL KAMRAULI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL BHEETHA"
+  },
+  {
+    "partNumber": 176,
+    "partName": "JUNIOR HIGH SCHOOL TURTIPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 177,
+    "partName": "JUNIOR HIGH SCHOOL TURTIPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 178,
+    "partName": "JUNIOR HIGH SCHOOL TURTIPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRIMARY SCHOOL DHAMIDI MAJRA UMRAPUR"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRIMARY SCHOOL RAMPUR MAJRA UMRAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRIMARY SCHOOL RAMPUR MAJRA UMRAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRIMARY SCHOOL BAHARAIYA"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRIMARY SCHOOL SARSAIYA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRIMARY SCHOOL SARSAIYA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY SCHOOL ICHHNAPUR MAJRA MAYONI"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY SCHOOL NAYA MYONI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL NAYA MYONI ROOM NUMBER2"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY SCHOOL NAYA MYONI EXTRA ROOM"
+  },
+  {
+    "partNumber": 189,
+    "partName": "JUNIOR HIGH SCHOOL KHUTEHANA MAJRA TIKRI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 190,
+    "partName": "JUNIOR HIGH SCHOOL KHUTEHANA MAJRA TIKRI ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 191,
+    "partName": "PRIMARY SCHOOL DHINNI TUSAURA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "PRIMARY SCHOOL KAIRMAIR"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRIMARY SCHOOL BHATEURA"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY SCHOOL BADAUA  ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL BADAUA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 196,
+    "partName": "COMPOSITE SCHOOL BHAINAMAU ROOM NUMBER1"
+  },
+  {
+    "partNumber": 197,
+    "partName": "COMPOSITE SCHOOL BHAINAMAU ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 198,
+    "partName": "COMPOSITE SCHOOL BHAINAMAU EXTRA ROOM"
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRIMARY SCHOOL SIDHUVAMAU ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY SCHOOL SIDHUVAMAU ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY SCHOOL ABDULPUR"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL KEHARMAU"
+  },
+  {
+    "partNumber": 203,
+    "partName": "JUNIOR HIGH SCHOOL PACHKOHRA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 204,
+    "partName": "JUNIOR HIGH SCHOOL PACHKOHRA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRIMARY SCHOOL KARAHI"
+  },
+  {
+    "partNumber": 206,
+    "partName": "COMPOSITE  SCHOOL PUNNIYA ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 207,
+    "partName": "COMPOSITE  SCHOOL PUNNIYA ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE SCHOOL FARIDAPUR ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE SCHOOL FARIDAPUR ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "COMPOSITE SCHOOL FARIDAPUR ROOM NUMBER 3"
+  },
+  {
+    "partNumber": 211,
+    "partName": "COMPOSITE SCHOOL FARIDAPUR ROOM NO. 4"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRIMARY SCHOOL BALLIPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRIMARY SCHOOL BALLIPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRIMARY SCHOOL BARRADAL SINGH MAJRA BALLIPUR"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL GAURPUR MAJRA BALLIPUR"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL AINUA"
+  },
+  {
+    "partNumber": 217,
+    "partName": "COMPOSITE SCHOOL VAISHPUR"
+  },
+  {
+    "partNumber": 218,
+    "partName": "PRIMARY SCHOOL JARERA"
+  },
+  {
+    "partNumber": 219,
+    "partName": "PRIMARY SCHOOL DANMANDI"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRIMARY SCHOOL DAUDPUR"
+  },
+  {
+    "partNumber": 221,
+    "partName": "COMPOSITE SCHOOL MASIT MAJRA KARIMNAGAR SAIDAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 222,
+    "partName": "COMPOSITE SCHOOL MASIT MAJRA KARIMNAGAR SAIDAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY SCHOOL KARIMNAGAR SAIDAPUR ROOM NO. 1 (SANTRI KHURD)"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRIMARY SCHOOL KARIMNAGAR SAIDAPUR ROOM NO. 2 (SANTRI KHURD)"
+  },
+  {
+    "partNumber": 225,
+    "partName": "UPPER PRIMARY SCHOOL KARIMNAGAR SAIDAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 226,
+    "partName": "UPPER PRIMARY SCHOOL KARIMNAGAR SAIDAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRIMARY SCHOOL KESHAVAN"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRIMARY SCHOOL KAIMAU ROOM NO. 1"
+  },
+  {
+    "partNumber": 229,
+    "partName": "PRIMARY SCHOOL KAIMAU ROOM NO. 2"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY SCHOOL SARIPUR HIRALAL"
+  },
+  {
+    "partNumber": 231,
+    "partName": "PRIMARY SCHOOL KASMANDI ROOM NO. 1"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRIMARY SCHOOL KASMANDI ROOM NO. 2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE SCHOOL SAMREHTA MAJRA KASMANDI ROOM NO. 1"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSITE SCHOOL SAMREHTA MAJRA KASMANDI ROOM NO. 2"
+  },
+  {
+    "partNumber": 235,
+    "partName": "PRIMARY SCHOOL THOKMADHOU ROOM NO. 1"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRIMARY SCHOOL THAUKMADHOU ROOM NO. 2"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSITE SCHOOL CHAUSA VICTORIYAGANJ ROOM NO. 1"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSITE SCHOOL CHAUSA VICTORIYAGANJ ROOM NO. 2"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE SCHOOL CHAUSA VICTORIYAGANJ ROOM NO. 3"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE SCHOOL CHAUSA VICTORIYAGANJ ROOM NO. 4"
+  },
+  {
+    "partNumber": 241,
+    "partName": "PRIMARY SCHOOL KODHWA ROOM NO. 1"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRIMARY SCHOOL KODHWA ROOM NO. 2"
+  },
+  {
+    "partNumber": 243,
+    "partName": "COMPOSITE  SCHOOL LOKVAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 244,
+    "partName": "COMPOSITE  SCHOOL LOKVAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY SCHOOL BHITHADAN ROOM NO. 1"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL BHITHADAN ROOM NO. 2"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY SCHOOL VYORAPUR"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRIMARY SCHOOL HASBARAULI ROOM NO. 1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY SCHOOL HASBARAULI ROOM NO. 2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL GOVARDHANPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL GOVARDHANPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PANCHAYAT GHAR GOVARDHANPUR"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRIMARY SCHOOL SHUKLAPUR MAJRA DIGHIYA"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL HUSEPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRIMARY SCHOOL HUSEPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 256,
+    "partName": "COMPOSITE SCHOOL THOK KABULPUR"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRIMARY SCHOOL KATKA"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRIMARY SCHOOL MAJHIGANWA RAMGOOLAM"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE SCHOOL AHIRI ROOM NO. 1"
+  },
+  {
+    "partNumber": 260,
+    "partName": "COMPOSITE SCHOOL AHIRI ROOM NO. 2"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRIMARY SCHOOL ATHOUA ROOM NO. 1"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRIMARY SCHOOL ATHOUA ROOM NO. 2"
+  },
+  {
+    "partNumber": 263,
+    "partName": "BLOCK EDUCATION OFFICER OFFICE AHIRORI ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 264,
+    "partName": "BLOCK EDUCATION OFFICER OFFICE AHIRORI ROOM NO. 2"
+  },
+  {
+    "partNumber": 265,
+    "partName": "JUNIOR HIGH SCHOOL AHIRORI ROOM NO. 1"
+  },
+  {
+    "partNumber": 266,
+    "partName": "JUNIOR HIGH SCHOOL AHIRORI ROOM NO. 2"
+  },
+  {
+    "partNumber": 267,
+    "partName": "JUNIOR HIGH SCHOOL AHIRORI EXTRA ROOM"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PRIMARY SCHOOL AHIRORI ROOM NO. 1"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRIMARY SCHOOL AHIRORI ROOM NO. 2"
+  },
+  {
+    "partNumber": 270,
+    "partName": "JUNIOR HIGH SCHOOL KOT"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY SCHOOL SAHULPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PRIMARY SCHOOL SAHULPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 273,
+    "partName": "PRIMARY SCHOOL MANGOLAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMARY SCHOOL MANGOLAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PRIMARY SCHOOL SHEETALGANJ MAJRA BHUDIA"
+  },
+  {
+    "partNumber": 276,
+    "partName": "JUNIOR HIGH SCHOOL ATWA KATAIYA ROOM NO. 1"
+  },
+  {
+    "partNumber": 277,
+    "partName": "JUNIOR HIGH SCHOOL ATWA KATAIYA ROOM NO. 2"
+  },
+  {
+    "partNumber": 278,
+    "partName": "JUNIOR HIGH SCHOOL ATWA KATAIYA EXTRA ROOM"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOL BADAULI ROOM NO. 1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL BADAULI ROOM NO. 2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL BAKSAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRIMARY SCHOOL BAKSAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 283,
+    "partName": "COMPOSITE SCHOOL MAHEENKUND ROOM NO. 1"
+  },
+  {
+    "partNumber": 284,
+    "partName": "COMPOSITE SCHOOL MAHEENKUND ROOM NO. 2"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRIMARY SCHOOL AKBARPUR"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRIMARY SCHOOL BARUAR"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRIMARY SCHOOL HASNAPUR"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRIMARY SCHOOL RAUTAPUR"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY SCHOOL KARIMNAGAR JALALPUR"
+  },
+  {
+    "partNumber": 290,
+    "partName": "PRIMARY SCHOOL JALALPUR MAJRA KARIMNAGAR"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL JAMUNIA"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY SCHOOL SUNAUA"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PRIMARY SCHOOL PATTIPUR"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRIMARY SCHOOL DHAPRAPUR"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRIMARY SCHOOL SADIYAPUR"
+  },
+  {
+    "partNumber": 296,
+    "partName": "JUNIOR HIGH SCHOOL NAYAGAON DEVARIYA"
+  },
+  {
+    "partNumber": 297,
+    "partName": "PRIMARY SCHOOL KHERWA KAMALPUR"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMARY SCHOOL BASEN ROOM NO. 1"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PRIMARY SCHOOL BASEN ROOM NO. 2"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PRIMARY SCHOOL UMRAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRIMARY SCHOOL UMRAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRIMARY SCHOOL PALPUR BAIRAGI KHEDA ROOM NO.1"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRIMARY SCHOOL PALPUR BAIRAGI KHEDA ROOM NO. 2"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRIMARY SCHOOL JAASU ROOM NUMBER 1"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRIMARY SCHOOL JAASU ROOM NUMBER 2"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRIMARY SCHOOL NIBHI"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PANCHAYAT GHAR GOPAR"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRIMARY SCHOOL GOPAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRIMARY SCHOOL GOPAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRIMARY SCHOOL DEVGAN"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL DHIRJAKHEDA MAJRA GODADHAR ROOM NO. 1"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL DHIRJAKHEDA MAJRA GODADHAR ROOM NO. 2"
+  },
+  {
+    "partNumber": 313,
+    "partName": "COMPOSITE SCHOOL BAGHAULI ROOM NO. 1"
+  },
+  {
+    "partNumber": 314,
+    "partName": "COMPOSITE SCHOOL BAGHAULI ROOM NO. 2"
+  },
+  {
+    "partNumber": 315,
+    "partName": "COMPOSITE SCHOOL BAGHAULI ROOM NO. 3"
+  },
+  {
+    "partNumber": 316,
+    "partName": "COMPOSITE SCHOOL BAGHAULI EXTRA ROOM"
+  },
+  {
+    "partNumber": 317,
+    "partName": "COMPOSITE SCHOOL BAGHAULI ROOM NO. 4"
+  },
+  {
+    "partNumber": 318,
+    "partName": "COMPOSITE SCHOOL BAGHAULI ROOM NO. 5"
+  },
+  {
+    "partNumber": 319,
+    "partName": "PRIMARY SCHOOL GADANPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRIMARY SCHOOL GADANPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 321,
+    "partName": "PRIMARY SCHOOL KAMOLIYA"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRIMARY SCHOOL PIPONA ROOM NO. 1"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRIMARY SCHOOL PIPONA ROOM NO. 2"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRIMARY SCHOOL BAMHANAKHEDA"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL KHAJURMAI ROOM NO. 1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL KHAJURMAI ROOM NO. 2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL DHATANKHEDA MAJRA KHAJURMAI ROOM NO. 1"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL HATHIYAI"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL HADAHA ROOM NO. 1"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL HADAHA ROOM NO. 2"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL GOSWA MAJRA ADANGAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMARY SCHOOL GOSWA MAJRA ADANGAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "PRIMARY SCHOOL GANGAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 334,
+    "partName": "PRIMARY SCHOOL GANGAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRIMARY SCHOOL RAOBAHADUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PRIMARY SCHOOL RAOBAHADUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRIMARY SCHOOL LODHI ROOM NO. 1"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRIMARY SCHOOL LODHI ROOM NO. 2"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRIMARY SCHOOL LODHI EXTRA ROOM"
+  },
+  {
+    "partNumber": 340,
+    "partName": "UPPER PRIMARY SCHOOL BHELAWA ROOM NO. 1"
+  },
+  {
+    "partNumber": 341,
+    "partName": "UPPER PRIMARY SCHOOL BHELAWA ROOM NO. 2"
+  },
+  {
+    "partNumber": 342,
+    "partName": "PRIMARY SCHOOL MATUA"
+  },
+  {
+    "partNumber": 343,
+    "partName": "PRIMARY SCHOOL BANNAPUR"
+  },
+  {
+    "partNumber": 344,
+    "partName": "PRIMARY SCHOOL RAGHUNATHPUR MAJRA BANNAPUR"
+  },
+  {
+    "partNumber": 345,
+    "partName": "PRIMARY SCHOOL SAHORIYA BUJURG ROOM NO. 1"
+  },
+  {
+    "partNumber": 346,
+    "partName": "PRIMARY SCHOOL SAHORIYA BUJURG ROOM NO. 2"
+  },
+  {
+    "partNumber": 347,
+    "partName": "PRIMARY SCHOOL SAHORIYA BUJURG EXTRA ROOM"
+  },
+  {
+    "partNumber": 348,
+    "partName": "JUNIOR HIGH SCHOOL PAHUNTERA ROOM NO. 1"
+  },
+  {
+    "partNumber": 349,
+    "partName": "JUNIOR HIGH SCHOOL PAHUNTERA ROOM NO. 2"
+  },
+  {
+    "partNumber": 350,
+    "partName": "PRIMARY SCHOOL PAHUNTERA ROOM NO. 1"
+  },
+  {
+    "partNumber": 351,
+    "partName": "PRIMARY SCHOOL PAHUNTERA ROOM NO. 2"
+  },
+  {
+    "partNumber": 352,
+    "partName": "PRIMARY SCHOOL ACHHRAMAU"
+  },
+  {
+    "partNumber": 353,
+    "partName": "JUNIOR HIGH SCHOOL BIKAPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 354,
+    "partName": "JUNIOR HIGH SCHOOL BIKAPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 355,
+    "partName": "JUNIOR HIGH SCHOOL BIKAPUR EXTRA ROOM"
+  },
+  {
+    "partNumber": 356,
+    "partName": "PRIMARY SCHOOL MARSA ROOM NO. 1"
+  },
+  {
+    "partNumber": 357,
+    "partName": "PRIMARY SCHOOL MARSA ROOM NO. 2"
+  },
+  {
+    "partNumber": 358,
+    "partName": "PRIMARY SCHOOL MARSA EXTRA  ROOM"
+  },
+  {
+    "partNumber": 359,
+    "partName": "PRIMARY SCHOOL PAUTHEPURWA MAJRA MAHURAKALA ROOM NO. 1"
+  },
+  {
+    "partNumber": 360,
+    "partName": "PRIMARY SCHOOL PAUTHEPURWA MAJRA MAHURAKALA ROOM NO. 2"
+  },
+  {
+    "partNumber": 361,
+    "partName": "COMPOSITE SCHOOL SAUNTERA ROOM NO. 1"
+  },
+  {
+    "partNumber": 362,
+    "partName": "COMPOSITE SCHOOL SAUNTERA ROOM NO. 2"
+  },
+  {
+    "partNumber": 363,
+    "partName": "COMPOSITE SCHOOL SAUNTERA ROOM NO. 3"
+  },
+  {
+    "partNumber": 364,
+    "partName": "COMPOSITE SCHOOL SAUNTERA ROOM NO. 4"
+  },
+  {
+    "partNumber": 365,
+    "partName": "JUNIOR HIGH SCHOOL ODRA PACHALAI ROOM NO. 1"
+  },
+  {
+    "partNumber": 366,
+    "partName": "JUNIOR HIGH SCHOOL ODRA PACHALAI ROOM NO. 2"
+  },
+  {
+    "partNumber": 367,
+    "partName": "JUNIOR HIGH SCHOOL CHETTAPURWA MAJRA ODRA PACHALAI ROOM NO. 1"
+  },
+  {
+    "partNumber": 368,
+    "partName": "JUNIOR HIGH SCHOOL CHETTAPURWA MAJRA ODRA PACHALAI ROOM NO. 2"
+  },
+  {
+    "partNumber": 369,
+    "partName": "PRIMARY SCHOOL ITKHORIYA MAJRA ECHAMAU"
+  },
+  {
+    "partNumber": 370,
+    "partName": "PRIMARY SCHOOL DAHITI SALKUPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 371,
+    "partName": "PRIMARY SCHOOL DAHITI SALKUPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 372,
+    "partName": "PRIMARY SCHOOL DAHIGANWA"
+  },
+  {
+    "partNumber": 373,
+    "partName": "PRIMARY SCHOOL DALELPUR ROOM NO. 1"
+  },
+  {
+    "partNumber": 374,
+    "partName": "PRIMARY SCHOOL DALELPUR ROOM NO. 2"
+  },
+  {
+    "partNumber": 375,
+    "partName": "PRIMARY SCHOOL TUNDWAL ROOM NO. 1"
+  },
+  {
+    "partNumber": 376,
+    "partName": "PRIMARY SCHOOL TUNDWAL ROOM NO. 2"
+  },
+  {
+    "partNumber": 377,
+    "partName": "PRIMARY SCHOOL ANDHRRA ROOM NO. 1"
+  },
+  {
+    "partNumber": 378,
+    "partName": "PRIMARY SCHOOL ANDARRA ROOM NO. 2"
+  },
+  {
+    "partNumber": 379,
+    "partName": "JUNIOR HIGH SCHOOL MONA ROOM NO. 1"
+  },
+  {
+    "partNumber": 380,
+    "partName": "JUNIOR HIGH SCHOOL MONA ROOM NO. 2"
+  },
+  {
+    "partNumber": 381,
+    "partName": "PRIMARY SCHOOL LALAULI"
+  }
+]

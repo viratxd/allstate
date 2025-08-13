@@ -1,0 +1,1358 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRIMARY SCHOOL BANDHAWA "
+  },
+  {
+    "partNumber": 2,
+    "partName": "KISAN SEVA KENDR BADHAVA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRIMARY SCHOOL KATHAULI -1"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRIMARY SCHOOL KATHAULI -2"
+  },
+  {
+    "partNumber": 5,
+    "partName": "NAVIN MANDI SAMITI SIRSA STHAN MEJA ROAD PART-1"
+  },
+  {
+    "partNumber": 6,
+    "partName": "NAVIN MANDI SAMITI SIRSA STHAN MEJA ROAD PART-2"
+  },
+  {
+    "partNumber": 7,
+    "partName": "NAVIN MANDI SAMITI SIRSA STHAN MEJA ROAD PART-3"
+  },
+  {
+    "partNumber": 8,
+    "partName": "UCHCH PRIMARY SCHOOL SAMAHAN WEST PART"
+  },
+  {
+    "partNumber": 9,
+    "partName": "UCHCH PRIMARY SCHOOL SAMAHAN MIDDLE PART"
+  },
+  {
+    "partNumber": 10,
+    "partName": "PRIMARY SCHOOL TIKURI EAST PART"
+  },
+  {
+    "partNumber": 11,
+    "partName": "PRIMARY SCHOOL TIKURI WEST PART "
+  },
+  {
+    "partNumber": 12,
+    "partName": "PRIMARY SCHOOL BEDAULI"
+  },
+  {
+    "partNumber": 13,
+    "partName": "MODEL PRIMARY SCHOOL KHANUPUR NORTH PART-1"
+  },
+  {
+    "partNumber": 14,
+    "partName": " MODELPRIMARY SCHOOL KHANUPUR NORTH PART-2"
+  },
+  {
+    "partNumber": 15,
+    "partName": "MODELPRIMARY SCHOOL KHANUPUR EAST PART "
+  },
+  {
+    "partNumber": 16,
+    "partName": "PRIMARY SCHOOL BARI"
+  },
+  {
+    "partNumber": 17,
+    "partName": "PRIMARY SCHOOL GOSHAURAKALA NORTH PART "
+  },
+  {
+    "partNumber": 18,
+    "partName": "PRIMARY SCHOOL GOSHAURAKALA SOUTH PART"
+  },
+  {
+    "partNumber": 19,
+    "partName": "UCHCH PRIMARY SCHOOL LOHARI (COMPOSITE) MAJARA UPARAUDA UPARHAR NORTH PART-1"
+  },
+  {
+    "partNumber": 20,
+    "partName": "UCHCH PRIMARY SCHOOL LOHARI (COMPOSITE) MAJARA UPARAUDA UPARHAR-1"
+  },
+  {
+    "partNumber": 21,
+    "partName": "UCHCH PRIMARY SCHOOL LOHARI (COMPOSITE) MAJARA UPARAUDA UPARHAR-2"
+  },
+  {
+    "partNumber": 22,
+    "partName": "UCHCH PRIMARY SCHOOL LOHARI (COMPOSITE) MAJARA UPARAUDA UPARHAR-3"
+  },
+  {
+    "partNumber": 23,
+    "partName": "SADHAN SHKARI SAMITI UPRAUDA NORTH PART "
+  },
+  {
+    "partNumber": 24,
+    "partName": "SADHAN SAHAKARI SAMITI UPRAUDA SOUTH PART BHAG"
+  },
+  {
+    "partNumber": 25,
+    "partName": "PRIMARY SCHOOL CHAUKI UPRHAR SECOND (BAGAHA)"
+  },
+  {
+    "partNumber": 26,
+    "partName": "PRIMARY SCHOOL AMILIYA KHURD"
+  },
+  {
+    "partNumber": 27,
+    "partName": "UCHCH PRIMARY SCHOOL CHAUKI UPRAHAR (COMPOSITE) EAST PART "
+  },
+  {
+    "partNumber": 28,
+    "partName": "UCHCH PRIMARY SCHOOL CHAUKI UPRAHAR (COMPOSITE) WEST PART "
+  },
+  {
+    "partNumber": 29,
+    "partName": "LALA RAM LAL AGRAVAL INTER COLLEGE SIRSA WEST PART-1"
+  },
+  {
+    "partNumber": 30,
+    "partName": "LALA RAM LAL AGRAWAL INTER COLLEGE SIRSA WEST PART 2 "
+  },
+  {
+    "partNumber": 31,
+    "partName": "LALA RAM LAL AGRAWAL INTER COLLEGE SIRSA SOUTH PART-1"
+  },
+  {
+    "partNumber": 32,
+    "partName": "LALA RAM LAL AGRAWAL INTER COLLEGE SIRSA SOUTH PART-2"
+  },
+  {
+    "partNumber": 33,
+    "partName": "LALA RAM LAL AGRAWAL IN0COLL SIRSA MADHAY BHAG-1"
+  },
+  {
+    "partNumber": 34,
+    "partName": "LALA RAM LAL AGRAWAL INTER COLLEGE SIRSA SOUTH MIDDLE PART-2"
+  },
+  {
+    "partNumber": 35,
+    "partName": "UCHCH PRIMARY SCHOOL SIRSA EAST PART-1"
+  },
+  {
+    "partNumber": 36,
+    "partName": "UCHCH PRIMARY SCHOOL SIRSA EAST PART-2"
+  },
+  {
+    "partNumber": 37,
+    "partName": "PRIMARY SCHOOL SIRSA WEST PART"
+  },
+  {
+    "partNumber": 38,
+    "partName": "PRIMARY SCHOOL CHHATVA UPARAHAR EAST PART-1"
+  },
+  {
+    "partNumber": 39,
+    "partName": "PRIMARY SCHOOL CHHATVA UPARAHAR EAST PART-2"
+  },
+  {
+    "partNumber": 40,
+    "partName": "PRIMARY SCHOOL CHHATVA UPARAHAR WEST PART 1"
+  },
+  {
+    "partNumber": 41,
+    "partName": "K.S CHOUDHARI KANYA INTER COLLEGE CHHATWA PART-1"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRIMARY SCHOOL BIJAURA-1"
+  },
+  {
+    "partNumber": 43,
+    "partName": "PRIMARY SCHOOL BIJAURA-2"
+  },
+  {
+    "partNumber": 44,
+    "partName": "SUBHASH CHANDRA JUNIOR HIGH SCHOOL PAKRI SEVAR NORTH PART"
+  },
+  {
+    "partNumber": 45,
+    "partName": "SUBHASH CHANDRA JUNIOR HIGH SCHOOL PAKRI SEVAR SOUTH PART-1"
+  },
+  {
+    "partNumber": 46,
+    "partName": "SUBHASH CHANDRA JUNIOR HIGH SCHOOL PAKRI SEVAR DAKSHANI BHAG-2"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRIMARY SCHOOL PARANIPUR EAST PART "
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRIMARY SCHOOL PARANIPUR SOUTH PART"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRIMARY SCHOOL BARA DASHRATHPUR PARANIPUR EAST PART "
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRIMARY SCHOOL BARA DASHRATHPUR PARANIPUR WEST PART -1"
+  },
+  {
+    "partNumber": 51,
+    "partName": "PRIMARY SCHOOL BARA DASHRATHPUR PARANIPUR WEST PART -2"
+  },
+  {
+    "partNumber": 52,
+    "partName": "PRIMARY SCHOOL BHINGARI"
+  },
+  {
+    "partNumber": 53,
+    "partName": "UCHCH PRIMARY SCHOOL DOHARIYA (COMPOSITE) NORTH PART "
+  },
+  {
+    "partNumber": 54,
+    "partName": "UCHCH PRIMARY SCHOOL DOHARIYA (COMPOSITE) NORTH MIDDLE PART"
+  },
+  {
+    "partNumber": 55,
+    "partName": "UCHCH PRIMARY SCHOOL DOHARIYA (COMPOSITE) WEST PART"
+  },
+  {
+    "partNumber": 56,
+    "partName": "PRIMARY SCHOOL MISHRAPUR EAST PART-2"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRIMARY SCHOOL MISHRAPUR WEST PART"
+  },
+  {
+    "partNumber": 58,
+    "partName": "PRIMARY SCHOOL DEVAHATA"
+  },
+  {
+    "partNumber": 59,
+    "partName": "PRIMARY SCHOOL TARVAI EAST PART"
+  },
+  {
+    "partNumber": 60,
+    "partName": "PRIMARY SCHOOL TARVAI WEST PART"
+  },
+  {
+    "partNumber": 61,
+    "partName": "UCHCH PRIMARY SCHOOL BIGAHANI (COMPOSITE)"
+  },
+  {
+    "partNumber": 62,
+    "partName": "PRIMARY SCHOOL BIGAHANA"
+  },
+  {
+    "partNumber": 63,
+    "partName": "UCHCH PRIMARY SCHOOL GURUDAT KA PURA (COMPOSITE)"
+  },
+  {
+    "partNumber": 64,
+    "partName": "UCHCH PRIMARY SCHOOL SAMOGARA (COMPOSITE) KAKSHA NO-1"
+  },
+  {
+    "partNumber": 65,
+    "partName": "UCHCH PRIMARY SCHOOL SAMOGARA (COMPOSITE) CLASS NO-2"
+  },
+  {
+    "partNumber": 66,
+    "partName": "PRIMARY SCHOOL NAYA BHAVAN RAMNAGAR EAST PART-1"
+  },
+  {
+    "partNumber": 67,
+    "partName": "SHRI KRISHAN SANSKRIT PATHSHALA KHADARAHN KA PURA RAMNAGAR-1"
+  },
+  {
+    "partNumber": 68,
+    "partName": "SHRI KRISHAN SANSKRIT PATHSHALA KHADARAHN KA PURA-3"
+  },
+  {
+    "partNumber": 69,
+    "partName": "SHRI KRISHAN SANSKRIT PATHSHALA KHADARAHN KA PURA-2"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PRIMARY SCHOOL PURANA BHAVAN RAMNAGAR EAST PART-1"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRIMARY SCHOOL PURANA BHAVAN RAMNAGAR EAST PART-2"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PANCHAYAT BHAWAN RAMNAGAR EAST PART-1"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PANCHAYAT BHAWAN RAMNAGAR EAST PART-2"
+  },
+  {
+    "partNumber": 74,
+    "partName": "PANCHAYAT BHAWAN RAMNAGAR EAST PART-3"
+  },
+  {
+    "partNumber": 75,
+    "partName": "PRIMARY SCHOOL BAJAHA (GONDAURA) CLASS NO-1"
+  },
+  {
+    "partNumber": 76,
+    "partName": "PRIMARY SCHOOL BAJAHA (GONDAURA) CLASS NO 2"
+  },
+  {
+    "partNumber": 77,
+    "partName": "PRIMARY SCHOOL PATTINATH RAI NORTH PART-1"
+  },
+  {
+    "partNumber": 78,
+    "partName": "PRIMARY SCHOOL PATTINATH RAI NORTH PART-2"
+  },
+  {
+    "partNumber": 79,
+    "partName": "PRIMARY SCHOOL PATTINATH RAI SOUTH PART"
+  },
+  {
+    "partNumber": 80,
+    "partName": "UCHCH PRIMARY SCHOOL SONBARSA (COMPOSITE)"
+  },
+  {
+    "partNumber": 81,
+    "partName": "UCHCH PRIMARY SCHOOL NIBAIYA (COMPOSITE) NORTH PART-1"
+  },
+  {
+    "partNumber": 82,
+    "partName": "UCHCH PRIMARY SCHOOL NIBAIYA (COMPOSITE) SOUTH PART"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRIMARY SCHOOL MAVAIYA"
+  },
+  {
+    "partNumber": 84,
+    "partName": "UCHCH PRIMARY SCHOOL BAKCHUNDA(COMPOSITE) WEST PART"
+  },
+  {
+    "partNumber": 85,
+    "partName": "UCHCH PRIMARY SCHOOL BAKCHUNDA(COMPOSITE) EAST PART-1"
+  },
+  {
+    "partNumber": 86,
+    "partName": "BADRI NATH TIWARI INTER COLLEGE MEJA ROAD"
+  },
+  {
+    "partNumber": 87,
+    "partName": "UCHCH PRIMARY SCHOOL MEJA ROAD(COMPOSITE) WEST PART-1"
+  },
+  {
+    "partNumber": 88,
+    "partName": "UCHCH PRIMARY SCHOOL MEJA ROAD(COMPOSITE) WEST MIDDLE PART-2"
+  },
+  {
+    "partNumber": 89,
+    "partName": "UCHCH PRIMARY SCHOOL MEJA ROAD(COMPOSITE) WEST MIDDLE PART-3 "
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRIMARY SCHOOL LAKHANPUR"
+  },
+  {
+    "partNumber": 91,
+    "partName": "NAND KISHOR INTER COLLEGE SOHGAURA NAGAR EAST PART"
+  },
+  {
+    "partNumber": 92,
+    "partName": "NAND KISHOR INTER COLLEGE SOHGAURA NAGAR SOUTH PART"
+  },
+  {
+    "partNumber": 93,
+    "partName": "PRIMARY SCHOOL VISAHIJAN KHURD"
+  },
+  {
+    "partNumber": 94,
+    "partName": "MAHABAL SINGH INTER COLLEGE LEHADI WEST PART-1"
+  },
+  {
+    "partNumber": 95,
+    "partName": "MAHABAL SINGH INTER COLLEGE LEHADI WEST PART-2"
+  },
+  {
+    "partNumber": 96,
+    "partName": "MAHABAL SINGH INTER COLLEGE LEHADI EAST PART"
+  },
+  {
+    "partNumber": 97,
+    "partName": "UCHCH PRIMARY SCHOOL KOTAHA EAST PART"
+  },
+  {
+    "partNumber": 98,
+    "partName": "UCHCH PRIMARY SCHOOL KOTAHA WEST PART"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRIMARY SCHOOL URUVA WEST PART"
+  },
+  {
+    "partNumber": 100,
+    "partName": "PRIMARY SCHOOL URUVA EAST PART-1"
+  },
+  {
+    "partNumber": 101,
+    "partName": "MIDDLE PRIMARY SCHOOL AMILIYA KALA COMPOSITE SCHOOL  EAST PRAT-1"
+  },
+  {
+    "partNumber": 102,
+    "partName": "MIDDLE PRIMARY SCHOOL AMILIYA KALA COMPOSITE SCHOOL  EAST PRAT-2"
+  },
+  {
+    "partNumber": 103,
+    "partName": "MIDDLE PRIMARY SCHOOL AMILIYA KALA COMPOSITE SCHOOL  WEST PRAT-1"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRIMARY SCHOOL MANU KA PURA AMILIYA KALA NEW BUILDING WEST PRAT 2"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRIMARY SCHOOL MANU KA PURA AMILIYA KALA WEST 1"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRIMARY SCHOOL SONAI NORTH PART"
+  },
+  {
+    "partNumber": 107,
+    "partName": "PRIMARY SCHOOL SONAI SOUTH PART"
+  },
+  {
+    "partNumber": 108,
+    "partName": "JUNIOR HIGH SCHOOL SONAI SOUTH PART 2"
+  },
+  {
+    "partNumber": 109,
+    "partName": "PRIMARY SCHOOL MONAI EAST PART"
+  },
+  {
+    "partNumber": 110,
+    "partName": "PRIMARY SCHOOL MONAI WEST PART 2"
+  },
+  {
+    "partNumber": 111,
+    "partName": "PRIMARY SCHOOL MONAI  SOUTH PART"
+  },
+  {
+    "partNumber": 112,
+    "partName": "UCHCH  PRIMARY SCHOOL CHAUKATHA NARVAR UPARHAR"
+  },
+  {
+    "partNumber": 113,
+    "partName": "INTER COLLEGE AUTA"
+  },
+  {
+    "partNumber": 114,
+    "partName": "PRIMARY SCHOOL CHORBANA (AUTA) PART 1"
+  },
+  {
+    "partNumber": 115,
+    "partName": "PRIMARY SCHOOL CHORBANA AUNTA PART 2"
+  },
+  {
+    "partNumber": 116,
+    "partName": "UCHCH PRIMARY SCHOOL AUNTA-1"
+  },
+  {
+    "partNumber": 117,
+    "partName": "UCHCH PRIMARY SCHOOL AUNTA-2"
+  },
+  {
+    "partNumber": 118,
+    "partName": "UCHCH PRIMARY SCHOOL AUNTA-3"
+  },
+  {
+    "partNumber": 119,
+    "partName": "PRIMARY SCHOOL SINGARO NORTH PART"
+  },
+  {
+    "partNumber": 120,
+    "partName": "PRIMARY SCHOOL AKODHA EAST PART 1"
+  },
+  {
+    "partNumber": 121,
+    "partName": "PRIMARY SCHOOL AKODHA WEST PART"
+  },
+  {
+    "partNumber": 122,
+    "partName": "UCHCH PRIMARY SCHOOL UNCHDEEH (COMPOSITE) NORTH PART-1"
+  },
+  {
+    "partNumber": 123,
+    "partName": "UCHCH PRIMARY SCHOOL UNCHDEEH(COMPOSTIE) NORTH PART-2"
+  },
+  {
+    "partNumber": 124,
+    "partName": "UCHCH PRIMARY SCHOOL  UNCHDEEH(COMPOSITE) SOUTH PART-1"
+  },
+  {
+    "partNumber": 125,
+    "partName": "UCHCH PRIMARY SCHOOL UNCHDEEH(COMPOSITE) SOUTH PART-2"
+  },
+  {
+    "partNumber": 126,
+    "partName": "UCHCH PRIMARY SCHOOL UNCHDEEH(COMPOSITE) WEST PART 1"
+  },
+  {
+    "partNumber": 127,
+    "partName": "GRAM PANCHAYAT SACHIVALAYA CHAUKATHA GAURA"
+  },
+  {
+    "partNumber": 128,
+    "partName": "PRIMARY SCHOOL KEVTAHI PART 2 "
+  },
+  {
+    "partNumber": 129,
+    "partName": "UCHCH PRIMARY SCHOOL NIBI(COMPOSITE) NORTH PART"
+  },
+  {
+    "partNumber": 130,
+    "partName": "UCHCH PRIMARY SCHOOL NIBI(COMPOSITE) SOUTH PART"
+  },
+  {
+    "partNumber": 131,
+    "partName": "UCHCH PRIMARY SCHOOL BARVA NORTH PART"
+  },
+  {
+    "partNumber": 132,
+    "partName": "UCHCH PRIMARY SCHOOL BARVA SOUTH PART"
+  },
+  {
+    "partNumber": 133,
+    "partName": "PRIMARY SCHOOL BISAINPUR"
+  },
+  {
+    "partNumber": 134,
+    "partName": "PRIMARY SCHOOL ATKHARIVA"
+  },
+  {
+    "partNumber": 135,
+    "partName": "UCHCH PRIMARY SCHOOL BIRPUR PATAKHAULI (COMPOSITE)"
+  },
+  {
+    "partNumber": 136,
+    "partName": "INTER COLLEGE SHUKULPUR-1"
+  },
+  {
+    "partNumber": 137,
+    "partName": "INTER COLLEGE SHUKULPUR-2"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRIMARY SCHOOL CHILBILA-1"
+  },
+  {
+    "partNumber": 139,
+    "partName": "PRIMARY SCHOOL CHILBILA-2"
+  },
+  {
+    "partNumber": 140,
+    "partName": "PRIMARY SCHOOL URNAH"
+  },
+  {
+    "partNumber": 141,
+    "partName": "PRIMARY SCHOOL BHUIPARA-PART-1"
+  },
+  {
+    "partNumber": 142,
+    "partName": "PRIMARY SCHOOL BHUIPARA PART-2"
+  },
+  {
+    "partNumber": 143,
+    "partName": "PRIMARY SCHOOL KUVARPATTI EAST PART"
+  },
+  {
+    "partNumber": 144,
+    "partName": "PRIMARY SCHOOL KUVARPATTI WEST PART"
+  },
+  {
+    "partNumber": 145,
+    "partName": "UCHCH PRIMARY SCHOOL TANDARIYA UPARAHAR(COMPOSITE)"
+  },
+  {
+    "partNumber": 146,
+    "partName": "UCHCH PRIMARY SCHOOL KANJAULI UPARHAR(COMPOSITE)"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRIMARY SCHOOL RAIPURA UPARHAR"
+  },
+  {
+    "partNumber": 148,
+    "partName": "PRIMARY SCHOOL MADRA MUKUNDPUR PART-1"
+  },
+  {
+    "partNumber": 149,
+    "partName": "PRIMARY SCHOOL MADRA MUKUNDPUR PART-2"
+  },
+  {
+    "partNumber": 150,
+    "partName": "PRIMARY SCHOOL ARAI MADRA MUKUNDPUR "
+  },
+  {
+    "partNumber": 151,
+    "partName": "PRIMARY SCHOOL PARVA UPARTHAR PART-1"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRIMARY SCHOOL PARVA UPARHAR PART-2"
+  },
+  {
+    "partNumber": 153,
+    "partName": "UPPER PRIMARY SCHOOL BHABHAURA PART-1"
+  },
+  {
+    "partNumber": 154,
+    "partName": "UPPER PRIMARY SCHOOL BHABHAURA PART-2"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRATHMIK VIDYALAY JEVANIYA NORTH PART-1"
+  },
+  {
+    "partNumber": 156,
+    "partName": "PRIMARY SCHOOL JEVANIYA NORTH PART-2"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PRIMARY SCHOOL JEVNIYA SOUTH PART-1"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PANCHAVAT BHAWAN KANEDA UPARHAR"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRIMARY SCHOOL KANEDA UPARHAR"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRIMARY SCHOOL CHAPAUR"
+  },
+  {
+    "partNumber": 161,
+    "partName": "UPPER PRIMARY SCHOOL DHARAMPUR"
+  },
+  {
+    "partNumber": 162,
+    "partName": "UCHCH PRIMARY SCHOOL AONAUR UPRAHAR COMPOSITE EAST PART 1"
+  },
+  {
+    "partNumber": 163,
+    "partName": "UPPER PRIMARY SCHOOL ONAUR UPARHAR(CONSOLIDATION ) EAST PART-2"
+  },
+  {
+    "partNumber": 164,
+    "partName": "UPPER PRIMARY SCHOOL ONAUR UPARHAR(CONSOLIDATION )"
+  },
+  {
+    "partNumber": 165,
+    "partName": "UPPER PRIMARY SCHOOL JERA EAST PART "
+  },
+  {
+    "partNumber": 166,
+    "partName": "UPPER PRIMARY  SCHOOL JERA WEST PART "
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRIMARY SCHOOL KOTHARI"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRIMARY SCHOOL KHAMHINIYA"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRIMARY SCHOOL SARAY KHURD"
+  },
+  {
+    "partNumber": 170,
+    "partName": "UPPER PRIMARY SCHOOL ACHOLA(COMPOSITE) UPARHAR-1"
+  },
+  {
+    "partNumber": 171,
+    "partName": "UPPER PRIMARY SCHOOL ACHOLA(COMPOSITE) UPARHAR-2"
+  },
+  {
+    "partNumber": 172,
+    "partName": "UPPER PRIMARY SCHOOL UMAPUR KALA (COMPOSITE) (BAMHANI HETHAR -1) "
+  },
+  {
+    "partNumber": 173,
+    "partName": "UPPER PRIMARY SCHOOL UMAPUR KALA (COMPOSITE) (BAMHANI HETHAR -2) "
+  },
+  {
+    "partNumber": 174,
+    "partName": "PRIMARY SCHOOL TIKARI EAST PART-2"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRIMARY SCHOOL TIKARI WEST PART-2"
+  },
+  {
+    "partNumber": 176,
+    "partName": "PRIMARY SCHOOL UMAPUR KALA"
+  },
+  {
+    "partNumber": 177,
+    "partName": "PRIMARY SCHOOL DENGURPUR NORTH PART"
+  },
+  {
+    "partNumber": 178,
+    "partName": "PRIMARY SCHOOL DENGURPUR SOUTH PART"
+  },
+  {
+    "partNumber": 179,
+    "partName": "PRIMARY SCHOOL DHARAV KULANDAN"
+  },
+  {
+    "partNumber": 180,
+    "partName": "PRIMARY SCHOOL AHOPUR"
+  },
+  {
+    "partNumber": 181,
+    "partName": "PRE SECONDARY SCHOOL DIGHIYA EAST PART -1"
+  },
+  {
+    "partNumber": 182,
+    "partName": "PRE SECONDARY SCHOOL DIGHIYA EAST PART -2"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRE SECONDARY SCHOOL DIGHIYA WEST PART -1"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRE SECONDARY SCHOOL DIGHIYA WEST PART -2"
+  },
+  {
+    "partNumber": 185,
+    "partName": "PRIMARY SCHOOL BHARARI EAST PART"
+  },
+  {
+    "partNumber": 186,
+    "partName": "PRIMARY SCHOOL BHARARI NORTH PART"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRIMARY SCHOOL ANDHI"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRIMARY SCHOOL CHAUKATHA LAKSHAN"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRIMARY SCHOOL GARETHA"
+  },
+  {
+    "partNumber": 190,
+    "partName": "UPPER PRIMARY SCHOOL TUDIHAR (COMPOSITE) EAST PART"
+  },
+  {
+    "partNumber": 191,
+    "partName": "UPPER PRIMARY SCHOOL TUDIHAR (COMPOSITE) WEST PART "
+  },
+  {
+    "partNumber": 192,
+    "partName": "PRIMARY SCHOOL KODHANIYA"
+  },
+  {
+    "partNumber": 193,
+    "partName": "PRIMARY SCHOOL BHADEVARA SOUTH PART"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRIMARY SCHOOL CHAPARTALA"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRIMARY SCHOOL LOTADH EAST PART"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRIMARY SCHOOL LOTADH WEST PART"
+  },
+  {
+    "partNumber": 197,
+    "partName": "PRIMARY SCHOOL LOTADH MIDDLE PART"
+  },
+  {
+    "partNumber": 198,
+    "partName": "PRIMARY SCHOOL DELAUHA EAST PART "
+  },
+  {
+    "partNumber": 199,
+    "partName": "PRIMARY SCHOOL DELAUHA WEST PART-1"
+  },
+  {
+    "partNumber": 200,
+    "partName": "PRIMARY SCHOOL DELAUHA WEST PART-2"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRIMARY SCHOOL GAURA PAUSIYA EAST PART"
+  },
+  {
+    "partNumber": 202,
+    "partName": "PRIMARY SCHOOL GAURA PAUSIYA NORTH PART"
+  },
+  {
+    "partNumber": 203,
+    "partName": "COMPOSITE SCHOOL AMORA PART-2"
+  },
+  {
+    "partNumber": 204,
+    "partName": "COMPOSITE SCHOOL LOOTAR NORTH PART-1"
+  },
+  {
+    "partNumber": 205,
+    "partName": "PRIMARY SCHOOL TENDUAKALA EAST PART"
+  },
+  {
+    "partNumber": 206,
+    "partName": "PRIMARY SCHOOL TENDUAKALA WEST PART"
+  },
+  {
+    "partNumber": 207,
+    "partName": "COMPOSITE SCHOOL USKI EAST PART"
+  },
+  {
+    "partNumber": 208,
+    "partName": "COMPOSITE SCHOOL  USKI WEST PART-1"
+  },
+  {
+    "partNumber": 209,
+    "partName": "COMPOSITE SCHOOL USKI WEST PART-2"
+  },
+  {
+    "partNumber": 210,
+    "partName": "PRIMARY SCHOOL SUNANDA KA PURA NEW BUILDING BHATAUTI NORTH PART-1"
+  },
+  {
+    "partNumber": 211,
+    "partName": "PRIMARY SCHOOL SUNANDA KA PURA NEW BUILDING BHATAUTI NORTH PART-2"
+  },
+  {
+    "partNumber": 212,
+    "partName": "PRIMARY SCHOOL SUNANDA KA PURA NEW BUILDING BHATAUTI NORTH PART-2"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRIMARY SCHOOL KONA NORTH PART"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRIMARY SCHOOL KONA SOUTH PART"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRIMARY SCHOOL SINGHPUR KALA"
+  },
+  {
+    "partNumber": 216,
+    "partName": "PRIMARY SCHOOL BHASUNDAR KALA"
+  },
+  {
+    "partNumber": 217,
+    "partName": "PRIMARY SCHOOL BHASUNDAR KHURD"
+  },
+  {
+    "partNumber": 218,
+    "partName": "COMPOSITE SCHOOL BARSAITA-1"
+  },
+  {
+    "partNumber": 219,
+    "partName": "COMPOSITE SCHOOL BARSAITA-2"
+  },
+  {
+    "partNumber": 220,
+    "partName": "COMPOSITE SCHOOL  PURALAKSHAN"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRIMARY SCHOOL DHARAVAL NORTH PART"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRIMARY SCHOOL DHARAVAL SOUTH  PART"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRIMARY SCHOOL DARI EAST PART "
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRIMARY SCHOOL DARI NORTH PART "
+  },
+  {
+    "partNumber": 225,
+    "partName": "GIRLS PRIMARY SCHOOL TIGJA WEST PART "
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRIMARY SCHOOL KHAUR"
+  },
+  {
+    "partNumber": 227,
+    "partName": "PRIMARY SCHOOL SIDKHIDI"
+  },
+  {
+    "partNumber": 228,
+    "partName": "SCHEDULED PRIMARY SCHOOL MARHA"
+  },
+  {
+    "partNumber": 229,
+    "partName": "PRIMARY SCHOOL AKHARI SHAHPUR-1"
+  },
+  {
+    "partNumber": 230,
+    "partName": "PRIMARY SCHOOL AKHARI SHAHPUR-2"
+  },
+  {
+    "partNumber": 231,
+    "partName": "COMPOSITE SCHOOL NEVADHIYA-1"
+  },
+  {
+    "partNumber": 232,
+    "partName": "COMPOSITE SCHOOL NEVADHIYA-2"
+  },
+  {
+    "partNumber": 233,
+    "partName": "COMPOSITE SCHOOL NEVADHIYA SOUTH PART-1"
+  },
+  {
+    "partNumber": 234,
+    "partName": "COMPOSITE SCHOOL NEVADHIYA SOUTH PART-2"
+  },
+  {
+    "partNumber": 235,
+    "partName": "MAHRAJ SHRI DANDI SWAMI KESHVASHRAM INTER COLLEGE GUNAI GAHARPUR NORTH PART"
+  },
+  {
+    "partNumber": 236,
+    "partName": "ANGANWADI  CENTER GUNAI GAHARPUR"
+  },
+  {
+    "partNumber": 237,
+    "partName": "PRIMARY SCHOOL UDHRENGA"
+  },
+  {
+    "partNumber": 238,
+    "partName": "COMPOSITE SCHOOL BARHA KALA EAST PART-1"
+  },
+  {
+    "partNumber": 239,
+    "partName": "COMPOSITE SCHOOL BARHA KALA EAST PART-2"
+  },
+  {
+    "partNumber": 240,
+    "partName": "COMPOSITE SCHOOL BARHA KALA WEST PART"
+  },
+  {
+    "partNumber": 241,
+    "partName": "COMPOSITE SCHOOL BARHA KALA NORTH PART"
+  },
+  {
+    "partNumber": 242,
+    "partName": "PRIMARY SCHOOL MASAULI (DHILIYA)"
+  },
+  {
+    "partNumber": 243,
+    "partName": "PRIMARY SCHOOL DHEDHARA"
+  },
+  {
+    "partNumber": 244,
+    "partName": "PRIMARY SCHOOL MASAULI"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRIMARY SCHOOL JAFRA"
+  },
+  {
+    "partNumber": 246,
+    "partName": "PRIMARY SCHOOL  UNTI"
+  },
+  {
+    "partNumber": 247,
+    "partName": "PRIMARY SCHOOL  SAIBASA"
+  },
+  {
+    "partNumber": 248,
+    "partName": "PRIMARY SCHOOL MAHUVARIKALA PART -1"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRIMARY SCHOOL MAHUVARIKALA PART -2"
+  },
+  {
+    "partNumber": 250,
+    "partName": "PRIMARY SCHOOL CHILVILA-1"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRIMARY SCHOOL CHILVILA-2"
+  },
+  {
+    "partNumber": 252,
+    "partName": "PRIMARY SCHOOL  PAYAGPUR NORTH PART"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRIMARY SCHOOL  PAYAGPUR SOUTH PART-1 "
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRIMARY SCHOOL MAHEVAKALA EAST PART-1"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRIMARY SCHOOL MAHEVAKALA WEST PART"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRIMARY SCHOOL BAMPUR EAST PART"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRIMARY SCHOOL BAMPUR WEST PART"
+  },
+  {
+    "partNumber": 258,
+    "partName": "COMPOSITE SCHOOL BADPUR-1"
+  },
+  {
+    "partNumber": 259,
+    "partName": "COMPOSITE SCHOOL BADPUR-2"
+  },
+  {
+    "partNumber": 260,
+    "partName": "PRIMARY SCHOOL KUKHUDI NORTH"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PANCHAYAT BHAVAN KUKHUDI SOUTH"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRIMARY SCHOOL MANPUR"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRIMARY SCHOOL NAHVAI NORTH PART"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRIMARY SCHOOL NAHVAI SOUTH PART"
+  },
+  {
+    "partNumber": 265,
+    "partName": "PRIMARY SCHOOL CHAKDIHA-1"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRIMARY SCHOOL CHAKDIHA-2"
+  },
+  {
+    "partNumber": 267,
+    "partName": "UPPER PRIMARY SCHOOL KANEVARA (COMPOSITE) NORTH PART-1"
+  },
+  {
+    "partNumber": 268,
+    "partName": "UPPER PRIMARY SCHOOL KANEVARA (COMPOSITE) NORTH PART-2"
+  },
+  {
+    "partNumber": 269,
+    "partName": "UPPER PRIMARY SCHOOL ULDA"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRIMARY SCHOOL MADAR"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRIMARY SCHOOL RAMPUR SIRIYA"
+  },
+  {
+    "partNumber": 272,
+    "partName": "GOVERNMENT INTER COLLEGE SURVADALAPUR NORTH PART"
+  },
+  {
+    "partNumber": 273,
+    "partName": "GOVERNMENT INTER COLLEGE SURVADALAPUR SOUTH PART"
+  },
+  {
+    "partNumber": 274,
+    "partName": "PRIMARY SCHOOL UMAN"
+  },
+  {
+    "partNumber": 275,
+    "partName": "PANCHAYAT BHAWAN SANDI"
+  },
+  {
+    "partNumber": 276,
+    "partName": "PRIMARY SCHOOL GORAIYA KALA"
+  },
+  {
+    "partNumber": 277,
+    "partName": "PRE-SECONDARY SCHOOL KHURMA NORTH PART"
+  },
+  {
+    "partNumber": 278,
+    "partName": "PRE-SECONDARY SCHOOL KHURMA SOUTH PART"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRIMARY SCHOOL KOSADAKALA PART-1"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRIMARY SCHOOL KOSADAKALA PART-2"
+  },
+  {
+    "partNumber": 281,
+    "partName": "PRIMARY SCHOOL KOSADA KALA PART-3"
+  },
+  {
+    "partNumber": 282,
+    "partName": "PRATHAMAIK VIDYALAY KOSADA KALA BHAG-4"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRATHAMAIK VIDYALAY BAGHAURA KHWASAN  NORTH PART"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRATHAMAIK VIDYALAY BAGHAURA KHWASAN   SOUTH PART"
+  },
+  {
+    "partNumber": 285,
+    "partName": "CONSOLIDATION SCHOOL TISEN TULAPUR NORTH PART"
+  },
+  {
+    "partNumber": 286,
+    "partName": "COMPOSITE SCHOOL TISEN TULAPUR SOUTH PART-1"
+  },
+  {
+    "partNumber": 287,
+    "partName": "CONSOLIDATION SCHOOL TISEN TULAPUR NORTH PART-2-2"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRIMARY SCHOOL BHAVANIPUR WEST PART"
+  },
+  {
+    "partNumber": 289,
+    "partName": "PRIMARY SCHOOL BHAVANIPUR SOUTH PART"
+  },
+  {
+    "partNumber": 290,
+    "partName": "CONSOLIDATION SCHOOL DEVARI"
+  },
+  {
+    "partNumber": 291,
+    "partName": "PRIMARY SCHOOL SIKARA NORTH PART"
+  },
+  {
+    "partNumber": 292,
+    "partName": "PRIMARY SCHOOL SIKARA SOUTH PART"
+  },
+  {
+    "partNumber": 293,
+    "partName": "CONSOLIDATION SCHOOL BAKULIYA"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRIMARY SCHOOL BEDAULI-1"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRIMARY SCHOOL BEDAULI-2"
+  },
+  {
+    "partNumber": 296,
+    "partName": "UPPER MIDDLE SCHOOL (UDLA) BHINS -1"
+  },
+  {
+    "partNumber": 297,
+    "partName": "UPPER MIDDLE SCHOOL (ULDA) BHINS -2"
+  },
+  {
+    "partNumber": 298,
+    "partName": "PRIMARY SCHOOL DANDPANOUR"
+  },
+  {
+    "partNumber": 299,
+    "partName": "MIDDLE SCHOOL RAJAPUR WEST PART-1"
+  },
+  {
+    "partNumber": 300,
+    "partName": "MIDDLE SCHOOL RAJAPUR WEST PART -२"
+  },
+  {
+    "partNumber": 301,
+    "partName": "MIDDLE SCHOOL RAJAPUR MIDDLE PART "
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRE SECONDARY SCHOOL RAJAPUR "
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRE  SECONDARY SCHOOL BELA AHIRAN NORTH PART "
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRE SECONDARY SCHOOL BELA AHIRAN SOUTH PART"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRE SECONDARY SCHOOL PHACHKARA WEST PART-1"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRE SECONDARY SCHOOL PHACHKARA NORTH PART-2"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PANCHAYAT BHAWAN BAKSANDI"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRE SECONDARY SCHOOLPURA BHANJAN EAST PART-1"
+  },
+  {
+    "partNumber": 309,
+    "partName": "PRE SECONDARY SCHOOL PURA BHANJAN EAST PART  -2"
+  },
+  {
+    "partNumber": 310,
+    "partName": "PRIMARY SCHOOL SAKRI"
+  },
+  {
+    "partNumber": 311,
+    "partName": "PRIMARY SCHOOL PURA RAMDHAN PURA DIWAN"
+  },
+  {
+    "partNumber": 312,
+    "partName": "PRIMARY SCHOOL BHARTAGANJ FRIST SHIROMAN PUR NORTH PART "
+  },
+  {
+    "partNumber": 313,
+    "partName": "PRIMARY SCHOOL BHARTAGANJ PRATHAM SHIROMANPUR SOUTH PARTNPUR"
+  },
+  {
+    "partNumber": 314,
+    "partName": "NAGAR PANCHAYAT OFFICE BHARTAGANJ SHIROMANPUR EAST PART"
+  },
+  {
+    "partNumber": 315,
+    "partName": "NAGAR PANCHAYAT OFFICE BHARTAGANJ SHIROMANPUR WEST PART"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRIMARY SCHOOL BHARATGANJ  SECOND SHIROMANPUR  MIDDLE PART-1"
+  },
+  {
+    "partNumber": 317,
+    "partName": "PRIMARY SCHOOL BHARATGANJ SECOND SHIROMANPUR MIDDLE  PART-2"
+  },
+  {
+    "partNumber": 318,
+    "partName": " UPPER PRIMARY SCHOOL BHARATGANJ SHIROMANPUR"
+  },
+  {
+    "partNumber": 319,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR NORTH PART"
+  },
+  {
+    "partNumber": 320,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR  MIDDLE PART-1"
+  },
+  {
+    "partNumber": 321,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR MIDDLE PART-2"
+  },
+  {
+    "partNumber": 322,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR  MIDDLE PART-3"
+  },
+  {
+    "partNumber": 323,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR  MIDDLE PART -4"
+  },
+  {
+    "partNumber": 324,
+    "partName": "JANTA SIKSHA SADAN INTER COLLEGE BHARATGANJ SHIROMANPUR  WEST PART"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRIMARY SCHOOL MAHUVARI KHURD-1"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRIMARY SCHOOL MAHUVARI KHURD-2"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRIMARY SCHOOL BHRARI"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRIMARY SCHOOL MANDA KHAS  WEST PART"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRIMARY SCHOOL MANDA KHAS EAST PART"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRIMARY SCHOOL MANDA KHAS NEW BHAWAN  NORTH PART "
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRIMARY SCHOOL MANDA KHAS SOUTH PART -1"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRIMARY SCHOOL MANDA KHAS  NEW BHAWAN SOUTH PART-2"
+  },
+  {
+    "partNumber": 333,
+    "partName": "UCHCH PRIMARY SCHOOL MANDA KHAS NORTH PART -1"
+  },
+  {
+    "partNumber": 334,
+    "partName": "UCHCH PRIMARY SCHOOL MANDA KHAS NORTH PART-1"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRIMARY SCHOOL HANDIA NORTH PART"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PRIMARY SCHOOL HANDIA SOUTH PART-1"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRIMARY SCHOOL HANDIA SOUTH PART-2"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRIMARY SCHOOL GIRDHARPUR SOUTH PART"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRIMARY SCHOOL GIRDHARPUR NORTH PART"
+  }
+]

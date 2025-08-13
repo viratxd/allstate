@@ -1,0 +1,377 @@
+[
+  {
+    "districtCd": "S2408",
+    "districtValue": "Agra",
+    "districtValueHindi": "आगरा"
+  },
+  {
+    "districtCd": "S2409",
+    "districtValue": "Aligarh",
+    "districtValueHindi": "अलीगढ़"
+  },
+  {
+    "districtCd": "S2470",
+    "districtValue": "Ambedkar Nagar",
+    "districtValueHindi": "अम्बेडकर नगर"
+  },
+  {
+    "districtCd": "S2472",
+    "districtValue": "Amethi",
+    "districtValueHindi": "अमेठी"
+  },
+  {
+    "districtCd": "S2422",
+    "districtValue": "Amroha",
+    "districtValueHindi": "अमरोहा"
+  },
+  {
+    "districtCd": "S2428",
+    "districtValue": "Auraiya",
+    "districtValueHindi": "औरैया"
+  },
+  {
+    "districtCd": "S2467",
+    "districtValue": "Ayodhya",
+    "districtValueHindi": "अयोध्या"
+  },
+  {
+    "districtCd": "S2447",
+    "districtValue": "Azamgarh",
+    "districtValueHindi": "आज़मगढ़"
+  },
+  {
+    "districtCd": "S2407",
+    "districtValue": "Baghpat",
+    "districtValueHindi": "बागपत"
+  },
+  {
+    "districtCd": "S2464",
+    "districtValue": "Bahraich",
+    "districtValueHindi": "बहराइच"
+  },
+  {
+    "districtCd": "S2449",
+    "districtValue": "Ballia",
+    "districtValueHindi": "बलिया"
+  },
+  {
+    "districtCd": "S2465",
+    "districtValue": "Balrampur",
+    "districtValueHindi": "बलरामपुर"
+  },
+  {
+    "districtCd": "S2438",
+    "districtValue": "Banda",
+    "districtValueHindi": "बांदा"
+  },
+  {
+    "districtCd": "S2469",
+    "districtValue": "Barabanki",
+    "districtValueHindi": "बाराबंकी"
+  },
+  {
+    "districtCd": "S2415",
+    "districtValue": "Bareilly",
+    "districtValueHindi": "बरेली"
+  },
+  {
+    "districtCd": "S2454",
+    "districtValue": "Basti",
+    "districtValueHindi": "बस्ती"
+  },
+  {
+    "districtCd": "S2446",
+    "districtValue": "Bhadohi",
+    "districtValueHindi": "भदोही"
+  },
+  {
+    "districtCd": "S2421",
+    "districtValue": "Bijnor",
+    "districtValueHindi": "बिजनौर"
+  },
+  {
+    "districtCd": "S2416",
+    "districtValue": "Budaun",
+    "districtValueHindi": "बदायूं"
+  },
+  {
+    "districtCd": "S2405",
+    "districtValue": "Bulandshahr",
+    "districtValueHindi": "बुलन्दशहर"
+  },
+  {
+    "districtCd": "S2443",
+    "districtValue": "Chandauli",
+    "districtValueHindi": "चन्दौली"
+  },
+  {
+    "districtCd": "S2439",
+    "districtValue": "Chitrakoot",
+    "districtValueHindi": "चित्रकूट"
+  },
+  {
+    "districtCd": "S2452",
+    "districtValue": "Deoria",
+    "districtValueHindi": "देवरिया"
+  },
+  {
+    "districtCd": "S2413",
+    "districtValue": "Etah",
+    "districtValueHindi": "एटा"
+  },
+  {
+    "districtCd": "S2425",
+    "districtValue": "Etawah",
+    "districtValueHindi": "इटावा"
+  },
+  {
+    "districtCd": "S2426",
+    "districtValue": "Farrukhabad",
+    "districtValueHindi": "फर्रूखाबाद"
+  },
+  {
+    "districtCd": "S2430",
+    "districtValue": "Fatehpur",
+    "districtValueHindi": "फतेहपुर"
+  },
+  {
+    "districtCd": "S2411",
+    "districtValue": "Firozabad",
+    "districtValueHindi": "फिरोज़ाबाद"
+  },
+  {
+    "districtCd": "S2406",
+    "districtValue": "Gautam Buddha Nagar",
+    "districtValueHindi": "गौतम बुद्ध नगर"
+  },
+  {
+    "districtCd": "S2404",
+    "districtValue": "Ghaziabad",
+    "districtValueHindi": "गाजियाबाद"
+  },
+  {
+    "districtCd": "S2442",
+    "districtValue": "Ghazipur",
+    "districtValueHindi": "गाजीपुर"
+  },
+  {
+    "districtCd": "S2463",
+    "districtValue": "Gonda",
+    "districtValueHindi": "गोण्डा"
+  },
+  {
+    "districtCd": "S2450",
+    "districtValue": "Gorakhpur",
+    "districtValueHindi": "गोरखपुर"
+  },
+  {
+    "districtCd": "S2436",
+    "districtValue": "Hamirpur",
+    "districtValueHindi": "हमीरपुर"
+  },
+  {
+    "districtCd": "S2473",
+    "districtValue": "Hapur",
+    "districtValueHindi": "हापुड़"
+  },
+  {
+    "districtCd": "S2461",
+    "districtValue": "Hardoi",
+    "districtValueHindi": "हरदोई"
+  },
+  {
+    "districtCd": "S2414",
+    "districtValue": "Hathras",
+    "districtValueHindi": "हाथरस"
+  },
+  {
+    "districtCd": "S2435",
+    "districtValue": "Jalaun",
+    "districtValueHindi": "जालौन"
+  },
+  {
+    "districtCd": "S2441",
+    "districtValue": "Jaunpur",
+    "districtValueHindi": "जौनपुर"
+  },
+  {
+    "districtCd": "S2433",
+    "districtValue": "Jhansi",
+    "districtValueHindi": "झांसी"
+  },
+  {
+    "districtCd": "S2427",
+    "districtValue": "Kannauj",
+    "districtValueHindi": "कन्नौज"
+  },
+  {
+    "districtCd": "S2424",
+    "districtValue": "Kanpur Dehat",
+    "districtValueHindi": "कानपुर देहात"
+  },
+  {
+    "districtCd": "S2423",
+    "districtValue": "Kanpur Nagar",
+    "districtValueHindi": "कानपुर नगर"
+  },
+  {
+    "districtCd": "S2471",
+    "districtValue": "Kasganj",
+    "districtValueHindi": "कासगंज"
+  },
+  {
+    "districtCd": "S2432",
+    "districtValue": "Kaushambi",
+    "districtValueHindi": "कौशाम्बी"
+  },
+  {
+    "districtCd": "S2462",
+    "districtValue": "Kheri",
+    "districtValueHindi": "खीरी"
+  },
+  {
+    "districtCd": "S2453",
+    "districtValue": "Kushinagar",
+    "districtValueHindi": "कुशीनगर"
+  },
+  {
+    "districtCd": "S2434",
+    "districtValue": "Lalitpur",
+    "districtValueHindi": "ललितपुर"
+  },
+  {
+    "districtCd": "S2457",
+    "districtValue": "Lucknow",
+    "districtValueHindi": "लखनऊ"
+  },
+  {
+    "districtCd": "S2451",
+    "districtValue": "Maharajganj",
+    "districtValueHindi": "महाराजगंज"
+  },
+  {
+    "districtCd": "S2437",
+    "districtValue": "Mahoba",
+    "districtValueHindi": "महोबा"
+  },
+  {
+    "districtCd": "S2412",
+    "districtValue": "Mainpuri",
+    "districtValueHindi": "मैनपुरी"
+  },
+  {
+    "districtCd": "S2410",
+    "districtValue": "Mathura",
+    "districtValueHindi": "मथुरा"
+  },
+  {
+    "districtCd": "S2448",
+    "districtValue": "Mau",
+    "districtValueHindi": "मऊ"
+  },
+  {
+    "districtCd": "S2403",
+    "districtValue": "Meerut",
+    "districtValueHindi": "मेरठ"
+  },
+  {
+    "districtCd": "S2444",
+    "districtValue": "Mirzapur",
+    "districtValueHindi": "मिर्जापुर"
+  },
+  {
+    "districtCd": "S2419",
+    "districtValue": "Moradabad",
+    "districtValueHindi": "मुरादाबाद"
+  },
+  {
+    "districtCd": "S2402",
+    "districtValue": "Muzaffarnagar",
+    "districtValueHindi": "मुजफ्फरनगर"
+  },
+  {
+    "districtCd": "S2418",
+    "districtValue": "Pilibhit",
+    "districtValueHindi": "पीलीभीत"
+  },
+  {
+    "districtCd": "S2431",
+    "districtValue": "Pratapgarh",
+    "districtValueHindi": "प्रतापगढ़"
+  },
+  {
+    "districtCd": "S2429",
+    "districtValue": "Prayagraj",
+    "districtValueHindi": "प्रयागराज"
+  },
+  {
+    "districtCd": "S2459",
+    "districtValue": "Raebareli",
+    "districtValueHindi": "राय बरेली"
+  },
+  {
+    "districtCd": "S2420",
+    "districtValue": "Rampur",
+    "districtValueHindi": "रामपुर"
+  },
+  {
+    "districtCd": "S2401",
+    "districtValue": "Saharanpur",
+    "districtValueHindi": "सहारनपुर"
+  },
+  {
+    "districtCd": "S2475",
+    "districtValue": "Sambhal",
+    "districtValueHindi": "सम्भल"
+  },
+  {
+    "districtCd": "S2456",
+    "districtValue": "Sant Kabir Nagar",
+    "districtValueHindi": "सन्त कबीर नगर"
+  },
+  {
+    "districtCd": "S2417",
+    "districtValue": "Shahjahanpur",
+    "districtValueHindi": "शाहजहाँपुर"
+  },
+  {
+    "districtCd": "S2474",
+    "districtValue": "Shamli",
+    "districtValueHindi": "शामली"
+  },
+  {
+    "districtCd": "S2466",
+    "districtValue": "Shrawasti",
+    "districtValueHindi": "श्रावस्ती"
+  },
+  {
+    "districtCd": "S2455",
+    "districtValue": "Siddharthnagar",
+    "districtValueHindi": "सिद्धार्थनगर"
+  },
+  {
+    "districtCd": "S2460",
+    "districtValue": "Sitapur",
+    "districtValueHindi": "सीतापुर"
+  },
+  {
+    "districtCd": "S2445",
+    "districtValue": "Sonbhadra",
+    "districtValueHindi": "सोनभद्र"
+  },
+  {
+    "districtCd": "S2468",
+    "districtValue": "Sultanpur",
+    "districtValueHindi": "सुल्तानपुर"
+  },
+  {
+    "districtCd": "S2458",
+    "districtValue": "Unnao",
+    "districtValueHindi": "उन्नाव"
+  },
+  {
+    "districtCd": "S2440",
+    "districtValue": "Varanasi",
+    "districtValueHindi": "वाराणसी"
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "partNumber": 1,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.1 TANDA"
+  },
+  {
+    "partNumber": 2,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.2 TANDA"
+  },
+  {
+    "partNumber": 3,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.3 TANDA"
+  },
+  {
+    "partNumber": 4,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 1 BAUDHA"
+  },
+  {
+    "partNumber": 5,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 2 BAUDHA"
+  },
+  {
+    "partNumber": 6,
+    "partName": "HARIJAN CHAUPAL BAUDHA"
+  },
+  {
+    "partNumber": 7,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 NANGAL"
+  },
+  {
+    "partNumber": 8,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 NANGAL"
+  },
+  {
+    "partNumber": 9,
+    "partName": "PRATHMIK VIDYALAY NO. 2 NANGAL"
+  },
+  {
+    "partNumber": 10,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) TUGANA"
+  },
+  {
+    "partNumber": 11,
+    "partName": "SHIV MANDIR JUNIOR HIGH SCHOOL ROOM NO. 1 TUGANA"
+  },
+  {
+    "partNumber": 12,
+    "partName": "SHIV MANDIR JUNIOR HIGH SCHOOL ROOM NO. 2 TUGANA"
+  },
+  {
+    "partNumber": 13,
+    "partName": "PRATHMIK VIDYALAY NO.1 TUGANA"
+  },
+  {
+    "partNumber": 14,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO. 1 TUGANA"
+  },
+  {
+    "partNumber": 15,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO. 2 TUGANA"
+  },
+  {
+    "partNumber": 16,
+    "partName": "HARIJAN CHAUPAL HEWA"
+  },
+  {
+    "partNumber": 17,
+    "partName": "UCHCH PRATHMIK VIDYALAY  ROOM NO. 1 (COMPOSIT) HEWA"
+  },
+  {
+    "partNumber": 18,
+    "partName": "UCHCH PRATHMIK VIDYALAY  ROOM NO. 2 (COMPOSIT) HEWA"
+  },
+  {
+    "partNumber": 19,
+    "partName": "PURVA MADHYAMIK VIDYALAY TILWADA SAKIN"
+  },
+  {
+    "partNumber": 20,
+    "partName": "PRATHMIK VIDYALAY TILWADA SAKIN"
+  },
+  {
+    "partNumber": 21,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 KUDI"
+  },
+  {
+    "partNumber": 22,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 KUDI"
+  },
+  {
+    "partNumber": 23,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 3 KUDI"
+  },
+  {
+    "partNumber": 24,
+    "partName": "PRATHMIK VIDYALAY NO. 2 KUDI"
+  },
+  {
+    "partNumber": 25,
+    "partName": "SAMUDAYIK VIKAS KENDRA KUDI"
+  },
+  {
+    "partNumber": 26,
+    "partName": "HARIJAN CHAUPAL ADD. KUDI"
+  },
+  {
+    "partNumber": 27,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.1 CHHAPRAULI"
+  },
+  {
+    "partNumber": 28,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.2 CHHAPRAULI"
+  },
+  {
+    "partNumber": 29,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.3 CHHAPRAULI"
+  },
+  {
+    "partNumber": 30,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.4 CHHAPRAULI"
+  },
+  {
+    "partNumber": 31,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.5 CHHAPRAULI"
+  },
+  {
+    "partNumber": 32,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.6 CHHAPRAULI"
+  },
+  {
+    "partNumber": 33,
+    "partName": "SAMUDAYIK VIKAS KENDRA ROOM NO. 1 CHHAPRAULI"
+  },
+  {
+    "partNumber": 34,
+    "partName": "SAMUDAYIK VIKAS KENDRA ROOM NO. 2 CHHAPRAULI"
+  },
+  {
+    "partNumber": 35,
+    "partName": "VRIHAT SAMAJ SUDHAR INTER COLLEGE ROOM N.1 CHHAPRAULI"
+  },
+  {
+    "partNumber": 36,
+    "partName": "VRIHAT SAMAJ SUDHAR INTER COLLEGE ROOM N.2 CHHAPRAULI"
+  },
+  {
+    "partNumber": 37,
+    "partName": "VRIHAT SAMAJ SUDHAR INTER COLLEGE ROOM N.3 CHHAPRAULI"
+  },
+  {
+    "partNumber": 38,
+    "partName": "VRIHAT SAMAJ SUDHAR INTER COLLEGE ROOM N.4 CHHAPRAULI"
+  },
+  {
+    "partNumber": 39,
+    "partName": "S.V.M. INTER COLLEGE CHHAPRAULI"
+  },
+  {
+    "partNumber": 40,
+    "partName": "RAVIDAS CHAUPAL BADARKHA"
+  },
+  {
+    "partNumber": 41,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 BADARKHA"
+  },
+  {
+    "partNumber": 42,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 BADARKHA"
+  },
+  {
+    "partNumber": 43,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 1 HALALPUR"
+  },
+  {
+    "partNumber": 44,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 2 HALALPUR"
+  },
+  {
+    "partNumber": 45,
+    "partName": "PRATHMIK VIDYALAY NO.1 HALALPUR"
+  },
+  {
+    "partNumber": 46,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.1 KAKAUR"
+  },
+  {
+    "partNumber": 47,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.2 KAKAUR"
+  },
+  {
+    "partNumber": 48,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO.3 KAKAUR"
+  },
+  {
+    "partNumber": 49,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.1 SHABAGA"
+  },
+  {
+    "partNumber": 50,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.2 SHABAGA"
+  },
+  {
+    "partNumber": 51,
+    "partName": "RASHTRIYA INTER COLLEGE ROOM NO. 1 SHABAGA"
+  },
+  {
+    "partNumber": 52,
+    "partName": "RASHTRIYA INTER COLLEGE ROOM NO. 2 SHABAGA"
+  },
+  {
+    "partNumber": 53,
+    "partName": "RASHTRIYA INTER COLLEGE ROOM NO. 3 SHABAGA"
+  },
+  {
+    "partNumber": 54,
+    "partName": "PRATHMIK VIDYALAY NO.1 SHABAGA"
+  },
+  {
+    "partNumber": 55,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 1 SHABAGA"
+  },
+  {
+    "partNumber": 56,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 2 SHABAGA"
+  },
+  {
+    "partNumber": 57,
+    "partName": "PRATHMIK VIDYALAY NO.1 BACHHAUD"
+  },
+  {
+    "partNumber": 58,
+    "partName": "HARIJAN CHAUPAL BACHHAUD"
+  },
+  {
+    "partNumber": 59,
+    "partName": "HARIJAN CHAUPAL KHWAJGIRPUR URF CHANDANHERI"
+  },
+  {
+    "partNumber": 60,
+    "partName": "UCHCH PRATHMIK VIDYALAY KHWAJGIRPUR URF CHANDANHERI (COMPOSIT)"
+  },
+  {
+    "partNumber": 61,
+    "partName": "HARIJAN CHAUPAL ADD. KHWAJA NANGLA"
+  },
+  {
+    "partNumber": 62,
+    "partName": "ADARSH JUNIOR HIGH SCHOOL ROOM NO. 1 KHWAJA NANGLA"
+  },
+  {
+    "partNumber": 63,
+    "partName": "ADARSH JUNIOR HIGH SCHOOL ROOM NO. 2 KHWAJA NANGLA"
+  },
+  {
+    "partNumber": 64,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 LUHARA"
+  },
+  {
+    "partNumber": 65,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 LUHARA"
+  },
+  {
+    "partNumber": 66,
+    "partName": "SHRI AJITNATH JAIN INTER COLLEGE SHERPUR LUHARA"
+  },
+  {
+    "partNumber": 67,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 SHERPUR"
+  },
+  {
+    "partNumber": 68,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 SHERPUR"
+  },
+  {
+    "partNumber": 69,
+    "partName": "HARIJAN CHAUPAL SILANA"
+  },
+  {
+    "partNumber": 70,
+    "partName": "PANCHAYAT GHAR SILANA"
+  },
+  {
+    "partNumber": 71,
+    "partName": "PRATHMIK VIDYALAY NO.1 SILANA"
+  },
+  {
+    "partNumber": 72,
+    "partName": "PRATHMIK VIDYALAY HARIJAN NO.2 RATHAURA"
+  },
+  {
+    "partNumber": 73,
+    "partName": "PRATHMIK VIDYALAY NO.4 RATHAURA"
+  },
+  {
+    "partNumber": 74,
+    "partName": "ZAMIYA ISATUL ISLAMIYA SCHOOL ROOM NO.1 RATHAURA"
+  },
+  {
+    "partNumber": 75,
+    "partName": "ZAMIYA ISATUL ISLAMIYA SCHOOL ROOM NO.2 RATHAURA"
+  },
+  {
+    "partNumber": 76,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.1 (COMPOSIT) RATHAURA"
+  },
+  {
+    "partNumber": 77,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.2 (COMPOSIT) RATHAURA"
+  },
+  {
+    "partNumber": 78,
+    "partName": "HARIJAN CHAUPAL ADD. ROOM NO.1 MUKANDPUR"
+  },
+  {
+    "partNumber": 79,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) MUKANDPUR"
+  },
+  {
+    "partNumber": 80,
+    "partName": "RAVIDAS SCHOOL ROOM.NO. 1 SOOP"
+  },
+  {
+    "partNumber": 81,
+    "partName": "RAVIDAS SCHOOL ROOM.NO. 2 SOOP"
+  },
+  {
+    "partNumber": 82,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO.1 SOOP"
+  },
+  {
+    "partNumber": 83,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO.2 SOOP"
+  },
+  {
+    "partNumber": 84,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.1 SOOP"
+  },
+  {
+    "partNumber": 85,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.2 SOOP"
+  },
+  {
+    "partNumber": 86,
+    "partName": "PRATHMIK VIDYALAY SAUNTI"
+  },
+  {
+    "partNumber": 87,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO. 1 KIRTHAL"
+  },
+  {
+    "partNumber": 88,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO. 2 KIRTHAL"
+  },
+  {
+    "partNumber": 89,
+    "partName": "PRATHMIK VIDYALAY PATTI MEGHAN  KIRTHAL"
+  },
+  {
+    "partNumber": 90,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO.1 KIRTHAL"
+  },
+  {
+    "partNumber": 91,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO.2 KIRTHAL"
+  },
+  {
+    "partNumber": 92,
+    "partName": "PRATHMIK VIDYALAY PATTI BIJNAN KIRTHAL"
+  },
+  {
+    "partNumber": 93,
+    "partName": "ADARSH SHIKSHA SADAN INTER COLLEGE ROOM NO. 1 KIRTHAL"
+  },
+  {
+    "partNumber": 94,
+    "partName": "ADARSH SHIKSHA SADAN INTER COLLEGE ROOM NO. 2 KIRTHAL"
+  },
+  {
+    "partNumber": 95,
+    "partName": "DULLI WALI CHAUPAL KIRTHAL"
+  },
+  {
+    "partNumber": 96,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 LOOMB"
+  },
+  {
+    "partNumber": 97,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 LOOMB"
+  },
+  {
+    "partNumber": 98,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 LOOMB"
+  },
+  {
+    "partNumber": 99,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 LOOMB"
+  },
+  {
+    "partNumber": 100,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO.1 LOOMB"
+  },
+  {
+    "partNumber": 101,
+    "partName": "ADD. HARIJAN CHAUPAL ROOM NO.2 LOOMB"
+  },
+  {
+    "partNumber": 102,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 1 LOOMB"
+  },
+  {
+    "partNumber": 103,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 2 LOOMB"
+  },
+  {
+    "partNumber": 104,
+    "partName": "PRATHMIK VIDYALAY NO.2 KAKADIPUR"
+  },
+  {
+    "partNumber": 105,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM N.1 KAKADIPUR"
+  },
+  {
+    "partNumber": 106,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM N.2 KAKADIPUR"
+  },
+  {
+    "partNumber": 107,
+    "partName": "HARIJAN CHAUPAL ADD. ROOM N.1  KAKADIPUR"
+  },
+  {
+    "partNumber": 108,
+    "partName": "HARIJAN CHAUPAL ADD. ROOM N.2  KAKADIPUR"
+  },
+  {
+    "partNumber": 109,
+    "partName": "HARIJAN CHAUPAL RAMALA"
+  },
+  {
+    "partNumber": 110,
+    "partName": "UCHCH PRATHMIK KANYA VIDYALAY ROOM NO. 1 RAMALA"
+  },
+  {
+    "partNumber": 111,
+    "partName": "UCHCH PRATHMIK KANYA VIDYALAY ROOM NO. 2 RAMALA"
+  },
+  {
+    "partNumber": 112,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 1 RAMALA"
+  },
+  {
+    "partNumber": 113,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 2 RAMALA"
+  },
+  {
+    "partNumber": 114,
+    "partName": "SHAHEED PREETAM SINGH PURVA MADHIYAMIK VIDYALAY ROOM NO.1 RAMALA"
+  },
+  {
+    "partNumber": 115,
+    "partName": "SHAHEED PREETAM SINGH PURVA MADHIYAMIK VIDYALAY ROOM NO.2 RAMALA"
+  },
+  {
+    "partNumber": 116,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO. 1 ASARA (COMPOSIT)"
+  },
+  {
+    "partNumber": 117,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO. 2 ASARA (COMPOSIT)"
+  },
+  {
+    "partNumber": 118,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO. 3 ASARA (COMPOSIT)"
+  },
+  {
+    "partNumber": 119,
+    "partName": "MUSLIM INTER COLLEGE ROOM NO. 1 ASARA"
+  },
+  {
+    "partNumber": 120,
+    "partName": "MUSLIM INTER COLLEGE ROOM NO. 2 ASARA"
+  },
+  {
+    "partNumber": 121,
+    "partName": "MUSLIM INTER COLLEGE ROOM NO. 3 ASARA"
+  },
+  {
+    "partNumber": 122,
+    "partName": "MAKTAB HIFAJATUL ISLAM ROOM NO. 1 ASARA"
+  },
+  {
+    "partNumber": 123,
+    "partName": "MAKTAB HIFAJATUL ISLAM ROOM NO. 2 ASARA"
+  },
+  {
+    "partNumber": 124,
+    "partName": "JAMIYAT JAMIYA ARABIYA MAINUL ISLAM  ROOM NO. 1 ASARA"
+  },
+  {
+    "partNumber": 125,
+    "partName": "JAMIYAT JAMIYA ARABIYA MAINUL ISLAM  ROOM NO. 2 ASARA"
+  },
+  {
+    "partNumber": 126,
+    "partName": "JAMIYAT JAMIYA ARABIYA MAINUL ISLAM  ROOM NO. 3 ASARA"
+  },
+  {
+    "partNumber": 127,
+    "partName": "HARIJAN CHAUPAL ROOM NO.1 BHUDPUR"
+  },
+  {
+    "partNumber": 128,
+    "partName": "HARIJAN CHAUPAL ROOM NO.2 BHUDPUR"
+  },
+  {
+    "partNumber": 129,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.1 BHUDPUR"
+  },
+  {
+    "partNumber": 130,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.2 BHUDPUR"
+  },
+  {
+    "partNumber": 131,
+    "partName": "UCHCH PRATHMIK VIDYALAY GOPALPUR KHADANA"
+  },
+  {
+    "partNumber": 132,
+    "partName": "PRATHMIK VIDYALAY IBRAHIMPUR MAJRA"
+  },
+  {
+    "partNumber": 133,
+    "partName": "HARIJAN CHAUPAL IBRAHIMPUR MAJRA"
+  },
+  {
+    "partNumber": 134,
+    "partName": "UCHCH PRATHMIK VIDYALAY FATEHPUR CHAK"
+  },
+  {
+    "partNumber": 135,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM N.1 KISHANPUR"
+  },
+  {
+    "partNumber": 136,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM N.2 KISHANPUR"
+  },
+  {
+    "partNumber": 137,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.1 KISHANPUR"
+  },
+  {
+    "partNumber": 138,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.2 KISHANPUR"
+  },
+  {
+    "partNumber": 139,
+    "partName": "D.A.V.INTER COLLEGE ROOM NO.1 KISHANPUR BIRAL"
+  },
+  {
+    "partNumber": 140,
+    "partName": "D.A.V.INTER COLLEGE ROOM NO.2 KISHANPUR BIRAL"
+  },
+  {
+    "partNumber": 141,
+    "partName": "D.A.V.INTER COLLEGE ROOM NO.3 KISHANPUR BIRAL"
+  },
+  {
+    "partNumber": 142,
+    "partName": "AMBEDKAR BHAVAN ROOM NO.1 BIRAL"
+  },
+  {
+    "partNumber": 143,
+    "partName": "AMBEDKAR BHAVAN ROOM NO.2 BIRAL"
+  },
+  {
+    "partNumber": 144,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 1 BASAULI"
+  },
+  {
+    "partNumber": 145,
+    "partName": "HARIJAN CHOPAL ROOM NO. 2 BASAULI"
+  },
+  {
+    "partNumber": 146,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 BASAULI"
+  },
+  {
+    "partNumber": 147,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 BASAULI"
+  },
+  {
+    "partNumber": 148,
+    "partName": "HARIJAN CHAUPAL BARWALA"
+  },
+  {
+    "partNumber": 149,
+    "partName": "UCHCH PRATHMIK VIDYALAY BARWALA"
+  },
+  {
+    "partNumber": 150,
+    "partName": "UCHCHTAR MADHYAMIK VIDYALAY  ROOM NO. 1 BARWALA"
+  },
+  {
+    "partNumber": 151,
+    "partName": "UCHCHTAR MADHYAMIK VIDYALAY  ROOM NO. 2 BARWALA"
+  },
+  {
+    "partNumber": 152,
+    "partName": "PRATHMIK VIDYALAY KARIMPUR"
+  },
+  {
+    "partNumber": 153,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO. 1 HASANPUR JIWANI"
+  },
+  {
+    "partNumber": 154,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO. 2 HASANPUR JIWANI"
+  },
+  {
+    "partNumber": 155,
+    "partName": "PRATHMIK VIDYALAY NO. 2 KASIMPUR KHERI"
+  },
+  {
+    "partNumber": 156,
+    "partName": "HARIJAN CHAUPAL KASIMPUR KHERI"
+  },
+  {
+    "partNumber": 157,
+    "partName": "PURVA MADHYAMIK VIDYALAY ROOM NO. 1 KASIMPUR KHERI"
+  },
+  {
+    "partNumber": 158,
+    "partName": "PURVA MADHYAMIK VIDYALAY ROOM NO. 2 KASIMPUR KHERI"
+  },
+  {
+    "partNumber": 159,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 ASHARFABAD THAL"
+  },
+  {
+    "partNumber": 160,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 ASHARFABAD THAL"
+  },
+  {
+    "partNumber": 161,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 3 ASHARFABAD THAL"
+  },
+  {
+    "partNumber": 162,
+    "partName": "PRATHMIK VIDYALAY NO.3 MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 163,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 164,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 165,
+    "partName": "SHRI SUBHASH HIGHER SECONDARY SCHOOL MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 166,
+    "partName": "HARIJAN CHAUPAL ADD.MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 167,
+    "partName": "PRATHMIK VIDYALAY NO.1 MUKARRABPUR KANDERA"
+  },
+  {
+    "partNumber": 168,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 SUJTI"
+  },
+  {
+    "partNumber": 169,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 SUJTI"
+  },
+  {
+    "partNumber": 170,
+    "partName": "DHIVRON KI CHAUPAL SUJTI"
+  },
+  {
+    "partNumber": 171,
+    "partName": "KANYA PATHSHALA GANGNAULI"
+  },
+  {
+    "partNumber": 172,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 GANGNAULI"
+  },
+  {
+    "partNumber": 173,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 GANGNAULI"
+  },
+  {
+    "partNumber": 174,
+    "partName": "JUNIOR HIGH SCHOOL GANGNAULI"
+  },
+  {
+    "partNumber": 175,
+    "partName": "PRATHMIK VIDYALAY NO.2 TIKRI"
+  },
+  {
+    "partNumber": 176,
+    "partName": "H.M. INTER COLLEGE ROOM NO. 1 TIKRI"
+  },
+  {
+    "partNumber": 177,
+    "partName": "H.M. INTER COLLEGE ROOM NO. 2 TIKRI"
+  },
+  {
+    "partNumber": 178,
+    "partName": "H.M. INTER COLLEGE ROOM NO. 3 TIKRI"
+  },
+  {
+    "partNumber": 179,
+    "partName": "H.M. INTER COLLEGE ROOM NO. 4 TIKRI"
+  },
+  {
+    "partNumber": 180,
+    "partName": "JAIN DHARMSHALA MOHALLA RATRANA ROOM NO. 1 TIKRI"
+  },
+  {
+    "partNumber": 181,
+    "partName": "JAIN DHARMSHALA MOHALLA RATRANA ROOM NO. 2 TIKRI"
+  },
+  {
+    "partNumber": 182,
+    "partName": "HARIJAN CHAUPAL TIKRI"
+  },
+  {
+    "partNumber": 183,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 TIKRI"
+  },
+  {
+    "partNumber": 184,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 TIKRI"
+  },
+  {
+    "partNumber": 185,
+    "partName": "JAWAHAR SMARAK INTER COLLEGE ROOM NO.1 NIRPUDA"
+  },
+  {
+    "partNumber": 186,
+    "partName": "JAWAHAR SMARAK INTER COLLEGE ROOM NO.2 NIRPUDA"
+  },
+  {
+    "partNumber": 187,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 1 NIRPUDA"
+  },
+  {
+    "partNumber": 188,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 2 NIRPUDA"
+  },
+  {
+    "partNumber": 189,
+    "partName": "PRATHMIK VIDYALAY NO.3 ROOM NO. 3 NIRPUDA"
+  },
+  {
+    "partNumber": 190,
+    "partName": "HARIJAN PANCHAYAT GHAR ROOM N.1 ADD. NIRPUDA"
+  },
+  {
+    "partNumber": 191,
+    "partName": "HARIJAN PANCHAYAT GHAR ROOM N.2 ADD. NIRPUDA"
+  },
+  {
+    "partNumber": 192,
+    "partName": "SHRI SHWETAMBAR STHANAKVASI JAIN DHARMSHALA  ROOM NO.1 DOGHAT"
+  },
+  {
+    "partNumber": 193,
+    "partName": "SHRI SHWETAMBAR STHANAKVASI JAIN DHARMSHALA  ROOM NO.2 DOGHAT"
+  },
+  {
+    "partNumber": 194,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 DOGHAT"
+  },
+  {
+    "partNumber": 195,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 DOGHAT"
+  },
+  {
+    "partNumber": 196,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 3 DOGHAT"
+  },
+  {
+    "partNumber": 197,
+    "partName": "RAVIDAS HARIJAN CHAUPAL DOGHAT"
+  },
+  {
+    "partNumber": 198,
+    "partName": "GANDHI SMARAK INTER COLLEGE ROOM NO. 1 DOGHAT"
+  },
+  {
+    "partNumber": 199,
+    "partName": "GANDHI SMARAK INTER COLLEGE ROOM NO. 2 DOGHAT"
+  },
+  {
+    "partNumber": 200,
+    "partName": "GANDHI SMARAK INTER COLLEGE ROOM NO. 3 DOGHAT"
+  },
+  {
+    "partNumber": 201,
+    "partName": "PRATHMIK VIDYALAY MAUJIJABAD NANGAL"
+  },
+  {
+    "partNumber": 202,
+    "partName": "HARIJAN PANCHAYAT GHAR BHAGWANPUR MAJARA MAUJIJABAD NANGAL"
+  },
+  {
+    "partNumber": 203,
+    "partName": "PRATHMIK VIDYALAY  ROOM NO. 1 BHAGWANPUR MAJARA MAUJIJABAD NANGAL"
+  },
+  {
+    "partNumber": 204,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 BHAGWANPUR MAJARA MAUJIJABAD NANGAL"
+  },
+  {
+    "partNumber": 205,
+    "partName": "COMPOSIT VIDYALAY IDRISHPUR"
+  },
+  {
+    "partNumber": 206,
+    "partName": "HARIJAN CHAUPAL IDRISHPUR"
+  },
+  {
+    "partNumber": 207,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 BAMNAULI"
+  },
+  {
+    "partNumber": 208,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 BAMNAULI"
+  },
+  {
+    "partNumber": 209,
+    "partName": "NAI HARIJAN CHAUPAL ROOM NO. 1 BAMNAULI"
+  },
+  {
+    "partNumber": 210,
+    "partName": "NAI HARIJAN CHAUPAL ROOM NO. 2 BAMNAULI"
+  },
+  {
+    "partNumber": 211,
+    "partName": "JAWAHAR INTER COLLEGE ROOM NO. 1 BAMNAULI"
+  },
+  {
+    "partNumber": 212,
+    "partName": "JAWAHAR INTER COLLEGE ROOM NO. 2 BAMNAULI"
+  },
+  {
+    "partNumber": 213,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 BAMNAULI"
+  },
+  {
+    "partNumber": 214,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 BAMNAULI"
+  },
+  {
+    "partNumber": 215,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 3 BAMNAULI"
+  },
+  {
+    "partNumber": 216,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO. 1 AADAMPUR"
+  },
+  {
+    "partNumber": 217,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO. 2 AADAMPUR"
+  },
+  {
+    "partNumber": 218,
+    "partName": "NAI HARIJAN CHAUPAL ROOM NO. 1 PUSAR"
+  },
+  {
+    "partNumber": 219,
+    "partName": "NAI HARIJAN CHAUPAL ROOM NO. 2 PUSAR"
+  },
+  {
+    "partNumber": 220,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.1 PUSAR"
+  },
+  {
+    "partNumber": 221,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.2 PUSAR"
+  },
+  {
+    "partNumber": 222,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 PALDA"
+  },
+  {
+    "partNumber": 223,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 PALDA"
+  },
+  {
+    "partNumber": 224,
+    "partName": "PRATHMIK VIDYALAY HARIJAN BASTI PALDI"
+  },
+  {
+    "partNumber": 225,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 PALDI"
+  },
+  {
+    "partNumber": 226,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 PALDI"
+  },
+  {
+    "partNumber": 227,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) KANHAD TALABPUR"
+  },
+  {
+    "partNumber": 228,
+    "partName": "PRATHMIK VIDYALAY KHEDI CHITTAM"
+  },
+  {
+    "partNumber": 229,
+    "partName": "ADARSH PRATHMIK VIDYALAY NO.1 ROOM NO. 1 DAHA"
+  },
+  {
+    "partNumber": 230,
+    "partName": "ADARSH PRATHMIK VIDYALAY NO.1 ROOM NO. 2 DAHA"
+  },
+  {
+    "partNumber": 231,
+    "partName": "HARIJAN CHAUPAL DAHA"
+  },
+  {
+    "partNumber": 232,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 DAHA"
+  },
+  {
+    "partNumber": 233,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 DAHA"
+  },
+  {
+    "partNumber": 234,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.1 DAHA"
+  },
+  {
+    "partNumber": 235,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.2 DAHA"
+  },
+  {
+    "partNumber": 236,
+    "partName": "PRATHMIK VIDYALAY GARHI KANGARAN"
+  },
+  {
+    "partNumber": 237,
+    "partName": "COMPOSIT VIDYALAY BHADAL"
+  },
+  {
+    "partNumber": 238,
+    "partName": "AMBEDKAR CHAUPAL BHADAL"
+  },
+  {
+    "partNumber": 239,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 1 BHADAL"
+  },
+  {
+    "partNumber": 240,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO. 2 BHADAL"
+  },
+  {
+    "partNumber": 241,
+    "partName": "JAWAHAR KRISHAK INTER COLLEGE ROOM N.1 DHANAURA TIKRI"
+  },
+  {
+    "partNumber": 242,
+    "partName": "JAWAHAR KRISHAK INTER COLLEGE ROOM N.2 DHANAURA TIKRI"
+  },
+  {
+    "partNumber": 243,
+    "partName": "COMPOSIT VIDYALAY  DHANAURA TIKRI"
+  },
+  {
+    "partNumber": 244,
+    "partName": "HARIJAN CHAUPAL GAIDABARA"
+  },
+  {
+    "partNumber": 245,
+    "partName": "PRATHMIK VIDYALAY GAIDABARA"
+  },
+  {
+    "partNumber": 246,
+    "partName": "UCHCH PRATHMIK VIDYALAY BOPURA (COMPOSIT)"
+  },
+  {
+    "partNumber": 247,
+    "partName": "NETA JI SUBHASH CHANDRA BOS MEMORIAL MADHYAMIK VIDYALAY ROOM NO. 1 TABELA GARHI"
+  },
+  {
+    "partNumber": 248,
+    "partName": "NETA JI SUBHASH CHANDRA BOS MEMORIAL MADHYAMIK VIDYALAY ROOM NO. 2 TABELA GARHI"
+  },
+  {
+    "partNumber": 249,
+    "partName": "PRATHMIK VIDYALAY BANJARAN PATTI TABELA GARHI"
+  },
+  {
+    "partNumber": 250,
+    "partName": "UCHCH PRATHMIK VIDYALAY SARORA  (COMPOSIT)"
+  },
+  {
+    "partNumber": 251,
+    "partName": "PRATHMIK VIDYALAY JHUNDPUR"
+  },
+  {
+    "partNumber": 252,
+    "partName": "HARIJAN CHAUPAL JHUNDPUR"
+  },
+  {
+    "partNumber": 253,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 MILANA"
+  },
+  {
+    "partNumber": 254,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 MILANA"
+  },
+  {
+    "partNumber": 255,
+    "partName": "PRATHMIK VIDYALAY  FAULADNAGAR"
+  },
+  {
+    "partNumber": 256,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 MUZAFFARPUR KANWADA"
+  },
+  {
+    "partNumber": 257,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 MUZAFFARPUR KANWADA"
+  },
+  {
+    "partNumber": 258,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO.1 AZAMPUR MULSAM"
+  },
+  {
+    "partNumber": 259,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM NO.2 AZAMPUR MULSAM"
+  },
+  {
+    "partNumber": 260,
+    "partName": "HARIJAN CHAUPAL ADD.AZAMPUR MULSAM"
+  },
+  {
+    "partNumber": 261,
+    "partName": "PRATHMIK VIDYALAY MOHAMMADPUR KHUNTI"
+  },
+  {
+    "partNumber": 262,
+    "partName": "PRATHMIK VIDYALAY KHAPARANA"
+  },
+  {
+    "partNumber": 263,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 SHAHPUR BANGANGA"
+  },
+  {
+    "partNumber": 264,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 SHAHPUR BANGANGA"
+  },
+  {
+    "partNumber": 265,
+    "partName": "COMPOSIT VIDYALAY CHANDAYAN"
+  },
+  {
+    "partNumber": 266,
+    "partName": "PRATHMIK VIDYALAY SHAHAJAHANPUR"
+  },
+  {
+    "partNumber": 267,
+    "partName": "COMPOSIT VIDYALAY BEGAMABAD GARHI"
+  },
+  {
+    "partNumber": 268,
+    "partName": "PRATHMIK VIDYALAY MANGRAULI"
+  },
+  {
+    "partNumber": 269,
+    "partName": "PRATHMIK VIDYALAY RAHATANA"
+  },
+  {
+    "partNumber": 270,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 SIRSALI"
+  },
+  {
+    "partNumber": 271,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 SIRSALI"
+  },
+  {
+    "partNumber": 272,
+    "partName": "PASHU CHIKITSALAY SIRSALI"
+  },
+  {
+    "partNumber": 273,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 1 SIRSALI"
+  },
+  {
+    "partNumber": 274,
+    "partName": "HARIJAN CHAUPAL ROOM NO. 2 SIRSALI"
+  },
+  {
+    "partNumber": 275,
+    "partName": "SHRI LALBAHADUR INTER COLLEGE ROOM N.1 RANCHHAR"
+  },
+  {
+    "partNumber": 276,
+    "partName": "SHRI LALBAHADUR INTER COLLEGE ROOM N.2 RANCHHAR"
+  },
+  {
+    "partNumber": 277,
+    "partName": "HARIJAN CHAUPAL ROOM N.1 RANCHHAR"
+  },
+  {
+    "partNumber": 278,
+    "partName": "HARIJAN CHAUPAL ROOM N.2 RANCHHAR"
+  },
+  {
+    "partNumber": 279,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 RANCHHAR"
+  },
+  {
+    "partNumber": 280,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 RANCHHAR"
+  },
+  {
+    "partNumber": 281,
+    "partName": "ARYA KANYA INTER COLLEGE ROOM N.1 JIWANA"
+  },
+  {
+    "partNumber": 282,
+    "partName": "ARYA KANYA INTER COLLEGE ROOM N.2 JIWANA"
+  },
+  {
+    "partNumber": 283,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.1 JIWANA"
+  },
+  {
+    "partNumber": 284,
+    "partName": "PRATHMIK VIDYALAY NO.2 ROOM N.2 JIWANA"
+  },
+  {
+    "partNumber": 285,
+    "partName": "PRATHMIK VIDYALAY MAKHAR"
+  },
+  {
+    "partNumber": 286,
+    "partName": "PRATHMIK VIDYALAY MALMAJRA"
+  },
+  {
+    "partNumber": 287,
+    "partName": "PRATHMIK VIDYALAY ROOM N.1 PICHAUKARA"
+  },
+  {
+    "partNumber": 288,
+    "partName": "PRATHMIK VIDYALAY ROOM N.2 PICHAUKARA"
+  },
+  {
+    "partNumber": 289,
+    "partName": "COMPOSIT  VIDYALAY DADRI"
+  },
+  {
+    "partNumber": 290,
+    "partName": "SARVHITKARI INTER COLLEGE ROOM N.1 BINAULI"
+  },
+  {
+    "partNumber": 291,
+    "partName": "SARVHITKARI INTER COLLEGE ROOM N.2 BINAULI"
+  },
+  {
+    "partNumber": 292,
+    "partName": "SARVHITKARI INTER COLLEGE ROOM N.3 BINAULI"
+  },
+  {
+    "partNumber": 293,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 1 BINAULI"
+  },
+  {
+    "partNumber": 294,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 2 BINAULI"
+  },
+  {
+    "partNumber": 295,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO. 3 BINAULI"
+  },
+  {
+    "partNumber": 296,
+    "partName": "COMPOSIT VIDYALAY ROOM NO.1 BARNAWA"
+  },
+  {
+    "partNumber": 297,
+    "partName": "COMPOSIT VIDYALAY ROOM NO.2 BARNAWA"
+  },
+  {
+    "partNumber": 298,
+    "partName": "COMPOSIT VIDYALAY ROOM NO.3 BARNAWA"
+  },
+  {
+    "partNumber": 299,
+    "partName": "PANCHAYAT GHAR ROOM NO. 1 BARNAWA"
+  },
+  {
+    "partNumber": 300,
+    "partName": "PANCHAYAT GHAR ROOM NO. 2 BARNAWA"
+  },
+  {
+    "partNumber": 301,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 FAKHARPUR SHEKHPURA"
+  },
+  {
+    "partNumber": 302,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 FAKHARPUR SHEKHPURA"
+  },
+  {
+    "partNumber": 303,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 GALHAITA"
+  },
+  {
+    "partNumber": 304,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 GALHAITA"
+  },
+  {
+    "partNumber": 305,
+    "partName": "PRATHMIK VIDYALAY MUKIMPURA"
+  },
+  {
+    "partNumber": 306,
+    "partName": "PRATHMIK VIDYALAY GARHI DULLA"
+  },
+  {
+    "partNumber": 307,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.1 DARKAWADA"
+  },
+  {
+    "partNumber": 308,
+    "partName": "PRATHMIK VIDYALAY ROOM NO.2 DARKAWADA"
+  },
+  {
+    "partNumber": 309,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.1 SIRSALGARH (COMPOSIT)"
+  },
+  {
+    "partNumber": 310,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.2 SIRSALGARH (COMPOSIT)"
+  },
+  {
+    "partNumber": 311,
+    "partName": "B.P. INTER COLLEGE ROOM NO.1 BIJWARA"
+  },
+  {
+    "partNumber": 312,
+    "partName": "B.P. INTER COLLEGE ROOM NO.2 BIJWARA"
+  },
+  {
+    "partNumber": 313,
+    "partName": "B.P. INTER COLLEGE ROOM NO.3 BIJWARA"
+  },
+  {
+    "partNumber": 314,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.1 BIJWARA"
+  },
+  {
+    "partNumber": 315,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.2 BIJWARA"
+  },
+  {
+    "partNumber": 316,
+    "partName": "PRATHMIK VIDYALAY NO.2 BIJWARA"
+  },
+  {
+    "partNumber": 317,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.1 FAZALPUR (COMPOSIT)"
+  },
+  {
+    "partNumber": 318,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.2 FAZALPUR (COMPOSIT)"
+  },
+  {
+    "partNumber": 319,
+    "partName": "UCHCH PRATHMIK VIDYALAY ROOM NO.3 FAZALPUR (COMPOSIT)"
+  },
+  {
+    "partNumber": 320,
+    "partName": "PRATHMIK VIDYALAY MUZAFFARPUR POIES"
+  },
+  {
+    "partNumber": 321,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) NANGLARAWA"
+  },
+  {
+    "partNumber": 322,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 1 TEDA"
+  },
+  {
+    "partNumber": 323,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 2 TEDA"
+  },
+  {
+    "partNumber": 324,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 1 TITRAUDA"
+  },
+  {
+    "partNumber": 325,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 2 TITRAUDA"
+  },
+  {
+    "partNumber": 326,
+    "partName": "PRATHMIK VIDYALAY NO. 1 ROOM NO. 3 TITRAUDA"
+  },
+  {
+    "partNumber": 327,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 MUZAFFARPUR KAMBALA"
+  },
+  {
+    "partNumber": 328,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 MUZAFFARPUR KAMBALA"
+  },
+  {
+    "partNumber": 329,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 3 MUZAFFARPUR KAMBALA"
+  },
+  {
+    "partNumber": 330,
+    "partName": "PRATHMIK VIDYALAY IBRAHIMABAD GAWRI"
+  },
+  {
+    "partNumber": 331,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 JAINUDDINPUR URF CHIRCHITA"
+  },
+  {
+    "partNumber": 332,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 JAINUDDINPUR URF CHIRCHITA"
+  },
+  {
+    "partNumber": 333,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.1 HAJURABAD GARHI"
+  },
+  {
+    "partNumber": 334,
+    "partName": "UCHCH PRATHMIK VIDYALAY (COMPOSIT) ROOM NO.2 HAJURABAD GARHI"
+  },
+  {
+    "partNumber": 335,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 1 SANJARPUR KAIDWA"
+  },
+  {
+    "partNumber": 336,
+    "partName": "PRATHMIK VIDYALAY ROOM NO. 2 SANJARPUR KAIDWA"
+  },
+  {
+    "partNumber": 337,
+    "partName": "PRATHMIK VIDYALAY NO.2 MAVIKALA"
+  },
+  {
+    "partNumber": 338,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.1 MAVIKALA"
+  },
+  {
+    "partNumber": 339,
+    "partName": "PRATHMIK VIDYALAY NO.1 ROOM NO.2 MAVIKALA"
+  },
+  {
+    "partNumber": 340,
+    "partName": "RAJKEEYA HIGH SCHOOL MAVIKALA"
+  }
+]
